@@ -3,7 +3,7 @@
     <head>
         <meta charset="utf-8">
         <meta name="viewport" content="initial-scale=1,width=device-width">
-        <title>Wo ist Markt?</title>
+        <title>Wo ist Corona-Testzentrum?</title>
         <link rel="stylesheet" href="lib/normalize/normalize.css">
         <link rel="stylesheet" href="lib/leaflet/leaflet.css">
         <link rel="stylesheet" href="lib/leaflet.awesome-markers/leaflet.awesome-markers.css">
@@ -33,30 +33,30 @@
     <body>
         <header id="header">
             <button id="btnToggleHeader"><i class="fa fa-bars"></i></button>
-            <h1>Wo ist Markt in <span class="nowrap"><select id="dropDownCitySelection"></select>?</span></h1>
+            <h1>Wo ist Corona-Testzentrum in <span class="nowrap"><select id="dropDownCitySelection"></select>?</span></h1>
             <form>
                 <label>
 		  <!-- For colors see js/main.js -->
 		  <div class="awesome-marker-icon-green awesome-marker">
-		    <i class="icon icon-basket icon-white"></i>
+		    <i class="fas fa-vial"></i>
 		  </div>
 		  <input type="radio" name="display" id="now" value="now"><span>jetzt</span>
 		</label>
                 <label>
 		  <div class="awesome-marker-icon-darkgreen awesome-marker">
-		    <i class="icon icon-basket icon-white"></i>
+		    <i class="fas fa-vial"></i>
 		  </div>
 		  <input type="radio" name="display" id="today" value="today"><span>heute</span>
 		</label>
 		<label>
 		  <div class="awesome-marker-icon-cadetblue awesome-marker">
-		    <i class="icon icon-basket icon-white"></i>
+		    <i class="fas fa-vial"></i>
 		  </div>
                   <input type="radio" name="display" id="other" value="other"><span>alle</span>
 		</label>
 		<label class="disabled" title="Die Öffnungszeiten dieser Märkte konnten nicht zugeordnet werden.">
 		  <div class="awesome-marker-icon-darkpurple awesome-marker">
-		    <i class="icon icon-basket icon-white"></i>
+		    <i class="fas fa-vial"></i>
 		  </div>
                   <input type="radio" name="display" id="unclassified" value="unclassified" disabled="disabled"><span>sonstige</span>
 		</label>

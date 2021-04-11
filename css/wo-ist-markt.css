@@ -28,4 +28,4 @@
   -moz-osx-font-smoothing: grayscale;
  }
  
-.icon-basket:before { content: '\e803'; }
+.fas:before { content: '\e803'; }

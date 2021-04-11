@@ -4,7 +4,7 @@
  */
 
 var TILES_URL = '//cartodb-basemaps-a.global.ssl.fastly.net/light_all/{z}/{x}/{y}.png';
-var ATTRIBUTION = '<a id="daten" href="info.html">Über Wo ist Markt?</a> | ' +
+var ATTRIBUTION = '<a id="daten" href="info.html">Über Wo ist Corona-Testzentrum?</a> | ' +
                   '<a id="impressum" href="impressum-datenschutz.html">Impressum &amp; Datenschutz</a> | ' +
                   '<a href="http://leafletjs.com" title="A JS library for interactive maps">Leaflet</a> | ' +
                   'Map data &copy; <a href="http://openstreetmap.org">OpenStreetMap</a> | ' +
@@ -12,7 +12,7 @@ var ATTRIBUTION = '<a id="daten" href="info.html">Über Wo ist Markt?</a> | ' +
                   'CC-BY-SA</a> | Tiles &copy; <a href="http://cartodb.com/attributions">' +
                   'CartoDB</a>';
 
-var DEFAULT_CITY_ID = "karlsruhe";
+var DEFAULT_CITY_ID = "leipzig";
 var CITY_LIST_API_URL = 'cities/cities.json';
 var cityDirectory = {}; // the city directory (i.e. a list of all cities indexed by id)
 
@@ -26,13 +26,13 @@ var now = new Date();
 var TIME_NOW = [now.getHours(), now.getMinutes()];
 var DAY_INDEX = (now.getDay() + 6) % 7;  // In our data, first day is Monday
 var DAY_NAMES = ['Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag'];
-var DEFAULT_MARKET_TITLE = 'Markt';
+var DEFAULT_MARKET_TITLE = 'Corona-Testzentrum';
 
-L.AwesomeMarkers.Icon.prototype.options.prefix = 'icon';
-var nowIcon = L.AwesomeMarkers.icon({markerColor: 'green', icon: 'basket'});
-var todayIcon = L.AwesomeMarkers.icon({markerColor: 'darkgreen', icon: 'basket'});
-var otherIcon = L.AwesomeMarkers.icon({markerColor: 'cadetblue', icon: 'basket'});
-var unclassifiedIcon = L.AwesomeMarkers.icon({markerColor: 'darkpurple', icon: 'basket'});
+L.AwesomeMarkers.Icon.prototype.options.prefix = 'fas';  
+var nowIcon = L.AwesomeMarkers.icon({markerColor: 'green', icon: 'vial'});
+var todayIcon = L.AwesomeMarkers.icon({markerColor: 'darkgreen', icon: 'vial'});
+var otherIcon = L.AwesomeMarkers.icon({markerColor: 'cadetblue', icon: 'vial'});
+var unclassifiedIcon = L.AwesomeMarkers.icon({markerColor: 'darkpurple', icon: 'vial'});
 
 dayjs.extend(dayjs_plugin_isBetween);
 dayjs.extend(dayjs_plugin_isoWeek);
@@ -183,22 +183,27 @@ function getOpeningTimes(openingHoursStrings) {
             "country_code" : "de"
         }
     };
-    var oh = new opening_hours(openingHoursStrings, options);
-    var intervals = oh.getOpenIntervals(monday, sunday);
-    var nextChange = oh.getNextChange();
+    try {
+        var oh = new opening_hours(openingHoursStrings, options);
+        var intervals = oh.getOpenIntervals(monday, sunday);
+        var nextChange = oh.getNextChange();
 
-    if (intervals.length > 0) {
-        /* Return opening ranges */
-        return {
-            intervals: intervals
-        };
-    } else if (typeof nextChange !== 'undefined') {
-        /* Return next opening date */
-        return {
-            nextChange: nextChange
-        };
-    } else {
-        return null;
+        if (intervals.length > 0) {
+            /* Return opening ranges */
+            return {
+                intervals: intervals
+            };
+        } else if (typeof nextChange !== 'undefined') {
+            /* Return next opening date */
+            return {
+                nextChange: nextChange
+            };
+        } else {
+            return null;
+        }
+    } catch (e) {
+        console.log(`Could not parse ${openingHoursStrings}`)
+        return null;            
     }
 }
 
@@ -266,6 +271,29 @@ function initMarker(feature) {
     } else {
         where = '';
     }
+    var telephone = properties.telephone;
+    if (telephone !== null) {
+        telephone = '<p><b>Telefon:</b> ' + (telephone !== "" ? telephone : "-") + '</p>';
+    } else {
+        telephone = '';
+    }
+    var hints = properties.hints;
+    var hintStr;
+    if (hints !== null && Array.isArray(hints)) {
+        if (hints.length == 0) {
+            hintStr = '';
+        } else if (hints.length == 1) {
+            hintStr = '<p><b>Hinweis:</b> ' + hints[0] + "</p>"
+        } else {
+            hintStr = '<p><b>Hinweise</b>:<ul>'
+            for (var index in hints) {
+                hintStr += '<li>' + hints[index] + '</li>';
+            }
+            hints = '</ul></p>'    
+        }
+    } else {
+        hintStr = '';
+    }
 
     var additionalInformationLink = properties.details_url ?
         '<span><a href='+properties.details_url+'> weitere Informationen </a></span>' : '';
@@ -277,12 +305,13 @@ function initMarker(feature) {
     if (title === null || title.length === 0) {
         title = DEFAULT_MARKET_TITLE;
     }
-    var popupHtml = '<h1>' + title + '</h1>' + where + additionalInformationLink;
+    var popupHtml = '<h1>' + title + '</h1>' + where + telephone + additionalInformationLink;
     if (openingHoursUnclassified !== undefined) {
         popupHtml += '<p class="unclassified">' + openingHoursUnclassified + '</p>';
     } else {
         popupHtml += timeTableHtml;
     }
+    popupHtml += hintStr;
     marker.bindPopup(popupHtml);
     if (todayOpeningRange !== undefined) {
         marker.setIcon(todayIcon);
@@ -417,7 +446,7 @@ function setCity(cityID, createNewHistoryEntry) {
         updateControls();
         updateLayers();
         updateUrlHash(cityID, createNewHistoryEntry);
-        document.title = 'Wo ist Markt in ' + cityName + '?';
+        document.title = 'Wo ist Corona-Testzentrum in ' + cityName + '?';
 
         // Update drop down but avoid recursion
         $('#dropDownCitySelection').val(cityID).trigger('change', true);

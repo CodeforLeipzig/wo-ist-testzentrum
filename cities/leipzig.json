@@ -3,263 +3,930 @@
         {
             "geometry": {
                 "coordinates": [
-                    12.42319,
-                    51.35514
+                    12.3964674,51.330915
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Bästleinstraße (bei der Kita)",
-                "opening_hours": "Fr 09:00-13:00",
-                "title": "Wochenmarkt in der Bästleinstraße"
+                "location": "Prager Straße 36, 04317 Leipzig",
+                "telephone": "0341 2307981",
+                "opening_hours": "Mo 10:00-13:00, Thu 11:00-14:00, Fr 09:30-12:30",
+                "hints": [
+                    "Terminvereinbarung über www.apotheke-leipzig.de",
+                    "Achtung: geänderte Öffnungszeiten vom 29.03.-09.04.2021, bitte informieren Sie sich in der Apotehke"
+                ],
+                "title": "Apotheke am Ostplatz"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    12.3800753,
-                    51.330633
+                    12.3811813,51.3446169
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Bayrischer Platz",
-                "opening_hours": "We, Fr 09:00-17:00",
-                "title": "Wochenmarkt am Bayrischer Platz"
+                "location": "Willy-Brandt-Platz 5, 04109 Leipzig",
+                "telephone": "0341 1406080",
+                "opening_hours": "Mo, Tu, We, Th, Fr 14:00-20:00, Sa 10:00-16:00",
+                "hints:": [ "Termine nur nach Onlineanmeldung über www.apotheke-leipzig.de" ],
+                "title": "Apotheke im Hauptbahnhof"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    12.37084,
-                    51.36221
+                    12.3196645,51.2997217
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Lützowstraße/Georg-Schumann-Straße",
-                "opening_hours": "We 09:00-16:00",
-                "title": "Wochenmarkt Gohlis-Arkaden"
+                "location": "Gerhard-Ellrodt-Straße 19, 04249 Leipzig",
+                "telephone": "0341 4241795",
+                "opening_hours": "Mo-Su 00:00-23:59",
+                "hints": [ "nur nach telefonischer Terminvergabe" ],
+                "title": "Freudemann-Apotheke"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    12.36016,
-                    51.37624
+                    12.2907928,51.3595433
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Landsberger Straße/Max-Liebermann-Straße",
-                "opening_hours": "Tu, Th 09:00-16:00",
-                "title": "Wochenmarkt Gohlis-Park"
+                "location": "Leipziger Straße 81, 04178 Leipzig",
+                "telephone": "0341 4410748",
+                "opening_hours": "Mo, We, Th, Fr 14:00-15:00",
+                "title": "Goethe-Apotheke"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    12.30418,
-                    51.322
+                    12.2655053,51.3079056
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Grünauer Allee/Alte Salzstraße",
-                "opening_hours": "Fr 09:00-12:00",
-                "title": "Wochenmarkt Grünau (Wohnkomplex 2)"
+                "location": "Zschampertaue 2, 04207 Leipzig",
+                "telephone": "0341 9422222",
+                "opening_hours": "Mo-Su 00:00-23:59",
+                "hints": [
+                    "Termine nach telefonischer Vereinbarung"
+                ],
+                "title": "Hirsch Apotheke"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    12.2929,
-                    51.31414
+                    12.427464,51.3437553
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Stuttgarter Allee an der ehem. Post",
-                "opening_hours": "Tu, Th 09:00-15:00",
-                "title": "Wochenmarkt Grünau (Wohnkomplex 4)"
+                "location": "Wurzner Straße 151, 04318 Leipzig",
+                "telephone": "0341 2444888",
+                "opening_hours": "Mo, Tu, Th, Fr 08:00-12:00, Mo, Tu, Th, Fr 13:00-17:00, We 08:00-12:00",
+                "title": "Händel Apotheke"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    12.26863,
-                    51.31611
+                    12.369739839503819,51.3563529
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Miltitzer Allee/Jupiterstraße",
-                "opening_hours": "We 09:00-12:00",
-                "title": "Wochenmarkt Grünau (Wohnkomplex 7)"
+                "location": "Gohliser Straße 24, 04155 Leipzig",
+                "telephone": "0341 9605030",
+                "opening_hours": "Mo-Su 00:00-23:59",
+                "hints": [
+                    "Terminvergabe über die Webseite der Apotheke"
+                ],
+                "title": "Lux-Apotheke"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    12.37474,
-                    51.34055
+                    12.3335104,51.31935
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Marktplatz oder Agustusplatz",
-                "opening_hours": "Tu, Fr 09:00-17:00",
-                "title": "Wochenmarkt in der Innenstadt"
+                "location": "Antonienstraße 1, 04229 Leipzig",
+                "telephone": "", 
+                "hints": [ "Termine nur nach telefonischer Vereinbarung" ],
+                "opening_hours": "Mo, We, Fr 11:00-13:00, Tu 13:00-17:30, Th 08:00-13:00",
+                "title": "Park-Apotheke"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    12.38119,
-                    51.33969
+                    12.3740063,51.3376255
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Marktplatz oder Agustusplatz",
-                "opening_hours": "Tu, Fr 09:00-17:00",
-                "title": "Wochenmarkt in der Innenstadt"
+                "location": "Petersstraße 36-44, 04109 Leipzig",
+                "telephone": "0341 35520333",
+                "opening_hours": "Mo-Sa 08:00-18:00",
+                "hints": [ "Terminvergabe über die Webseite der Apotheke" ],
+                "title": "Petersbogen-Apotheke"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    12.4639511,
-                    51.2826373
+                    12.424831099999999,51.3660365
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Marktplatz",
-                "opening_hours": "Fr 08:00-13:00",
-                "title": "Wochenmarkt Liebertwolkwitz"
+                "location": "Stöhrerstraße 1, 04347 Leipzig",
+                "telephone": "0341 22903810",
+                "opening_hours": "Mo-Fr 08:00-20:00",
+                "hints": [ "Terminvergabe unter www.terminland.de/schlehenapotheke" ],
+                "title": "Schlehen-Apotheke OHG"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    12.33403,
-                    51.33722
+                    12.3098482,51.2764698
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Lindenauer Markt",
-                "opening_hours": "We, Fr 09:00-16:00",
-                "title": "Wochenmarkt am Lindenauer Markt"
+                "location": "Dieskaustraße 455, 04249 Leipzig",
+                "telephone": "0341 426600",
+                "opening_hours": "Mo-Fr 08:00-9:30, Mo-Fr 17:00-18:30", 
+                "hints": [ "Termine nach telefonischer Vereinbarung" ],
+                "title": "Seume-Apotheke"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    12.3990085,
-                    51.3011382
+                    12.3739058,51.3251705
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Johannes-R.-Becher-Straße",
-                "opening_hours": "Th 09:00-14:00; Sa 08:30-12:00",
-                "title": "Wochenmarkt Lößnig"
+                "location": "Karl-Liebknecht-Straße 59, 04275 Leipzig",
+                "telephone": "0341 3016474",
+                "opening_hours": "Mo-Fr 10:00-18:00",
+                "hints": [ "nur nach Terminvereinbarung über https://www.sonnen-apotheke-leipzig.de/coronaschnelltest-onlinetermin.html" ],
+                "title": "Sonnen-Apotheke"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    12.37265,
-                    51.34362
+                    12.3618269,51.362992
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Richard-Wagner-Platz",
-                "opening_hours": "Sa 10:00-16:00",
-                "title": "Wochenmarkt am Richard-Wagner-Platz"
+                "location": "Georg-Schumann-Straße 103-111, 04155 Leipzig",
+                "telephone": "0341 5861250",
+                "opening_hours": "Mo-Fr 09:00-12:00, Mo-Fr 14:00-18:00", 
+                "hints": [ "Termine nach telefonischer Vereinbarung" ],
+                "title": "Wilhelm-Tell-Apotheke"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    12.45988,
-                    51.35224
+                    12.2768449,51.3233034
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Waldzieststraße",
-                "opening_hours": "Th 09:00-14:00",
-                "title": "Wochenmarkt Paunsdorf"
+                "location": "Kiewer Straße 30 04205 Leipzig",
+                "telephone": "0341 415151",
+                "opening_hours": "Mo-Su 00:00-23:59",
+                "hints": [ "Termine nach telefonischer Vereinbarung" ],
+                "title": "Zebra-Apotheke"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    12.41489,
-                    51.34599
+                    12.2907239,51.3598765
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Torgauer Platz",
-                "opening_hours": "Th 09:00-14:00",
-                "title": "Wochenmarkt am Torgauer Platz"
+                "location": "Leipziger Straße 88, 04178 Leipzig",
+                "telephone": "0341 4622 5020",
+                "opening_hours": "Mo-Su 00:00-23:59",
+                "hints": [ "nach vorheriger Terminvereinbarung unter www.schnelltestboehlitz.de oder telefonisch" ],
+                "title": "GesundheitsWerkstatt"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    12.37342,
-                    51.39332
+                    12.398378420110124,51.36712785
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Hugo-Krone-Platz",
-                "opening_hours": "Th 09:00-12:00",
-                "title": "Wochenmarkt Wiederitzsch"
+                "location": "Maximilian-Allee 16, 04129 Leipzig",
+                "telephone": "01521 2129741",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa-Su 10:00-16:00",
+                "hints": [ "Online-Terminvereinbarung unter www.testcenter-corona.de" ],
+                "title": "Testcenter Corona Leipzig GbR"
             },
             "type": "Feature"
         },
         {
             "geometry": {
                 "coordinates": [
-                    12.35421,
-                    51.343695
+                    12.419199253539734,51.3043409
                 ],
                 "type": "Point"
             },
             "properties": {
-                "location": "Am Sportforum 2",
-                "opening_hours": "Sa 07:00-15:30",
-                "title": "Markt am Sportforum"
+                "location": "Connewitzer Straße 21, 04289 Leipzig",
+                "telephone": "03494 3762994 (auch PCR-Tests)",
+                "opening_hours": "Mo We Fr 18:00-21:00, Su 10:00-12:00",
+                "hints": [ "keine Terminvereinbarung nötig" ],
+                "title": "Teststation im Bruno-Plache-Stadion"
             },
             "type": "Feature"
-        }       
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.4608935,51.2826443
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Muldentalstraße 43, 04288 Leipzig",
+                "telephone": "034297 986391",
+                "opening_hours": "Mo-Su 00:00-23:59",
+                "hints": [ "Online-Terminvereinbarung über www.corona.ia.de - telefonische Terminvereinbarung nur in Ausnahmefällen möglich!" ],
+                "title": "Apotheke Liebertwolkwitz"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.4122861,51.3749796
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Mockauer Straße 121, 04357 Leipzig",
+                "telephone": "0341 6022904",
+                "opening_hours": "Mo-Fr 11:00-12:00",
+                "hints": [ "Termine nach telefonischer Vereinbarung" ],
+                "title": "Apotheke Mockauer Post"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.2896433,51.3215832
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Ludwigsburger Straße 18, 04209 Leipzig",
+                "telephone": "0341 42056400",
+                "opening_hours": "Mo-Fr 08:00-09:00, Mo-Fr 18:00-19:00, Sa 12:00-13:00", 
+                "hints": [ "Termine nach telefonischer Vereinbarung" ],
+                "title": "Domos Apotheke"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3736393,51.3417537
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Hainstraße 9, 04109 Leipzig",
+                "telephone": "0341 7107966",
+                "opening_hours": "Mo-Su 00:00-23:59",
+                "hints": [ "Termine nur nach Onlineanmeldung unter www.adler-leipzig.de" ],
+                "title": "Adler Apotheke"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.2650379,51.3132996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Selliner Straße 15, 04207 Leipzig",
+                "telephone": "0341 710790",
+                "opening_hours": "Mo-Fr 08:00-18:00", 
+                "hints": [ "Termine unter www.baeren24.de" ],
+                "title": "Bären Apotheke"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.460952,51.3066737
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Stötteritzer Landstraße 28, 04288 Leipzig",
+                "telephone": "034297 42496",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:30-11:00", 
+                "hints": [ "Termine nach telefonischer Vereinbarung" ],
+                "title": "Apotheke Holzhausen"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3589143,51.3624969
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Eisenacher Straße 72, 04155 Leipzig",
+                "telephone": "0341 55008344",
+                "opening_hours": "Mo-Fr 08:00-14:00, Mo-Fr 14:30-19:00",
+                "title": "Kulturhof Gohlis, durchführende Praxis: InterMed Praxiszentrum MVZ"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.4009895,51.3395049
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Dresdner Straße 53, 04317 Leipzig",
+                "telephone": "0341 2462700",
+                "opening_hours": "Mo-Fr 09:00-12:00, Mo-Fr 14:00-17:00", 
+                "hints": [ "Termine nach telefonischer Vereinbarung" ],
+                "title": "Apotheke Reudnitz"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.4466436,51.3618653
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Torgauer Straße 231, Haus A EG, 04347 Leipzig",
+                "telephone": "0341 6962615",
+                "opening_hours": "Mo-Fr 08:30-12:00, Mo-Fr 13:00-17:30", 
+                "hints": [ "Anmeldung unter www.johanniter.de/coronatest-leipzig erforderlich" ],
+                "title": "Johanniter-Unfall-Hilfe e. V."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.4210713,51.3195007
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Holzhäuser Straße 81, 04299 Leipzig",
+                "telephone": "0341 8617623",
+                "opening_hours": "Mo 16:00-19:00, Tu 13:00-17:00, We Th 15:00-18:00",
+                "title": "Arnika-Apotheke"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3462779,51.3514888
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Am Sportforum 10, 04105 Leipzig",
+                "telephone": "",
+                "opening_hours": "Mo We 09:00-20:00, Tu Th Fr 09:00-16:00",
+                "title": "SC DHfK Leipzig e. V."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3809406,51.3316064
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Windmühlenstraße 41, 04107 Leipzig",
+                "telephone": "0341 9604626",
+                "opening_hours": "Mo-Fr 10:00-12:00", 
+                "hints": [ "Terminvergabe unter www.terminland.eu/liebig-apo/" ],
+                "title": "Liebig-Apotheke"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.417007204007096,51.375333499999996
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Kieler Straße 53, 04357 Leipzig",
+                "telephone": "0341 6014373",
+                "opening_hours": "Mo-Fr 10:00-12:00, Mo-Fr 13:00-15:00", 
+                "hints": [ "Termine nach telefonischer Vereinbarung" ],
+                "title": "Schultheiß Augenoptik &amp; Hörgeräte e. Kfr."
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3856973,51.3645822
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Wittenberger Straße 81, 04129 Leipzig",
+                "telephone": "0341 9118180",
+                "opening_hours": "Mo-Fr 10:00-14:00", 
+                "hints": [ "Termine nach telefonischer Vereinbarung" ],
+                "title": "Herz-Apotheke"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.384923420165894,51.3556659
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Dessauer Straße 2, 04129 Leipzig",
+                "telephone": "Mo-Fr 08:00-13:00", 
+                "hints": [ "Terminvereinbarungen über www.mc-medi-apotheke-testzentrum.de" ],
+                "opening_hours": "Mo-Su 00:00-23:59",
+                "title": "McMedi Apotheke Testzentrum"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3432339,51.3232459
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Stieglitzstraße 87, 04229 Leipzig",
+                "telephone": "0341 9260262",
+                "opening_hours": "Mo Th Fr 12:30-15:00",
+                "title": "InterMed Praxiszentrum MVZ GmbH"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.355046167295598,51.3353527
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Käthe-Kollwitz-Straße 64, 04109 Leipzig",
+                "telephone": "0341 33733100",
+                "opening_hours": "Mo-Fr 08:00-20:00, Sa 09:00-15:00, Su 09:00-12:00", 
+                "hints": [ "Termine nach telefonischer Vereinbarung oder über www.kopfzentrum-gruppe.de" ],
+                "title": "Kopfzentrum Leipzig"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.370491651823018,51.3169468
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Fichtestraße 9, 04275 Leipzig",
+                "telephone": "0341 33733100",
+                "opening_hours": "Mo-Th 08:00-18:00, Fr 08:00-13:00", 
+                "hints": [ "Termine nach telefonischer Vereinbarung oder über www.kopfzentrum-gruppe.de" ],
+                "title": "Kopfzentrum Leipzig"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3667828,51.3678419
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Landsberger Straße 4, 04157 Leipzig",
+                "telephone": "0341 33733100",
+                "opening_hours": "Mo We Fr 08:00-13:00, Tu Th 08:00-18:00", 
+                "hints": [ "Termine nach telefonischer Vereinbarung oder über www.kopfzentrum-gruppe.de" ],
+                "title": "Kopfzentrum Leipzig"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3048127,51.3163082
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Straße am Park 2, 04209 Leipzig",
+                "telephone": "0341 33733100",
+                "opening_hours": "Mo Th 08:00-18:00, Tu We Fr 08:00-13:00", 
+                "hints": [ "Termine nach telefonischer Vereinbarung oder über www.kopfzentrum-gruppe.de" ],
+                "title": "Kopfzentrum Leipzig"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.356866457639462,51.3467893
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Waldstraße 62, 04109 Leipzig",
+                "telephone": "0341 33733100",
+                "opening_hours": "Mo Tu Th 08:00-18:00, We Fr 08:00-13:00", 
+                "hints": [ "Termine nach telefonischer Vereinbarung oder über www.kopfzentrum-gruppe.de" ],
+                "title": "Kopfzentrum Leipzig"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.395982449111774,51.331936299999995
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Oststraße 2, 04317 Leipzig",
+                "telephone": "0341 33733100",
+                "opening_hours": "Mo Fr 08:00-13:00, Tu We Th 08:00-18:00", 
+                "hints": [ "Termine nach telefonischer Vereinbarung oder über www.kopfzentrum-gruppe.de" ],
+                "title": "Kopfzentrum Wahren"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.42099364077989,51.31975235
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Rudolph-Herrmann-Straße 33, 04299 Leipzig",
+                "telephone": "0341 33733100",
+                "opening_hours": "Mo 14:00-18:00, We 08:00-18:00, Fr 08:00-13:00", 
+                "hints": [ "Termine nach telefonischer Vereinbarung oder über www.kopfzentrum-gruppe.de" ],
+                "title": "Kopfzentrum Wahren"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3235815,51.3744216
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Georg-Schumann-Straße 355, 04157 Leipzig",
+                "telephone": "0341 33733100",
+                "opening_hours": "Mo We 08:00-18:00, Tu Th Fr 08:00-13:00", 
+                "hints": [ "Termine nach telefonischer Vereinbarung oder über www.kopfzentrum-gruppe.de" ],
+                "title": "Kopfzentrum Wahren"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.382292755387041,51.33796785
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Augustusplatz 5, 04109 Leipzig",
+                "telephone": "0341 33733100",
+                "opening_hours": "Mo Th 08:00-18:00, Tu We Fr 08:00-13:00", 
+                "hints": [ "Termine nach telefonischer Vereinbarung oder über www.kopfzentrum-gruppe.de" ],
+                "title": "Kopfzenrum Thomaskirchhof"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.317144403980116,51.350177849999994
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Hans-Driesch-Straße 20, 04179 Leipzig",
+                "telephone": "0341 49690799",
+                "opening_hours": "Mo-Su 00:00-23:59",
+                "hints": [ "Termine nach telefonischer Vereinbarung" ],
+                "title": "Gesundheitspraxis Cornelia Lindner"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.38951628079409,51.32963795
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Haus am Park, Haus 7.2, Liebigstraße 22a, 04103 Leipzig",
+                "telephone": "Mo-Su 13:00-17:00",
+                "opening_hours": "Mo-Su 00:00-23:59",
+                "hints": [
+                    "ohne Voranmeldung",
+                    "(Schnelltests, aber auch für Bestätigungs-PCR-Tests nach positivem Schnelltestergebnis)"
+                ],
+                "title": "Corona-Testambulanz des Universitätsklinikums Leipzig"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3636304,51.3717543
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Breitenfelder Straße 101, 04157 Leipzig",
+                "telephone": "0341 91859807",
+                "opening_hours": "Mo-Su 00:00-23:59", 
+                "hints": [ "nach vorheriger Terminvereinbarung unter www.schnelltestgohlis.de oder telefonisch" ],
+                "title": "Beauty &amp; Body Lounge"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.373407124707217,51.325750600000006
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Karl-Liebknecht-Straße 40, 04107 Leipzig",
+                "telephone": "0152 03987557",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa-Su 10:00-16:00", 
+                "hints": [ "Online-Terminvereinbarung unter www.testcenter-corona.de" ],
+                "title": "Testcenter Corona Leipzig GbR"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3908009,51.3380791
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Rabensteinplatz 1, 04103 Leipzig",
+                "telephone": "015678 326625",
+                "opening_hours": "Mo 10:00-15:00, Tu-Fr 00:00-23:59",
+                "hints": [ "Dienstag-Freitag nach telefonischer Vereinbarung" ],
+                "title": "Bürgertestzentrum am Rabensteinplatz 1"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.31934152480479,51.34247165
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Georg-Schwarz-Straße 49, 04177 Leipzig",
+                "telephone": "0341 444-5954", 
+                "hints": "telefonische Terminvergabe unter angegebener Nummer",
+                "opening_hours": "Mo We Fr 08:00-17:00",
+                "title": "Evangelisches Diakonissenkrankenhaus Leipzig gGmbH"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3732211,51.3302355
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Karl-Liebknecht-Straße 12, 04107 Leipzig",
+                "telephone": "0176 70102125",
+                "opening_hours": "Mo-Fr 08:00-19:00, Sa 10:00-18:00", 
+                "hints": [ "Terminvergabe auch online möglich unter https://leipzig-coronatest.com" ],
+                "title": "Corona Testzentrum Karli 12"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3295596,51.3281016
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Industriestraße 95, 04229 Leipzig",
+                "telephone": "0341 92610723",
+                "opening_hours": "Tu We Th 07:00-13:00, Fr 12:00-19:00", 
+                "hints": [ "Terminvergabe unter www.lipsiaapotheke.de" ],
+                "title": "COMMUNITY TESTCENTER"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.4338359,51.2997611
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Mattheuerbogen 6, 04289 Leipzig",
+                "telephone": "0341 8697690",
+                "opening_hours": "Mo 08:00-12:00, Tu 12:00-18:00, Fr 12:00-16:00",
+                "hints": [ "(neben REWE-Markt, Zufahrt über Franzosenallee)" ],
+                "title": "ASB-Teststation &quot;Am Sonnenpark&quot;"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.386297342481143,51.3632753
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Wittenberger Straße 36, 04129 Leipzig",
+                "telephone": "",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "title": "SIT International"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.229585904866344,51.421190100000004
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Flughafen Leipzig/Halle",
+                "telephone": "",
+                "opening_hours": "Mo-Su 16:00-20:00",
+                "hints": [ 
+                    "Schnelltests, aber auch Bestätigungs-PCR-Tests nach positivem Schnelltestergebnis",
+                    "keine Terminvereinbarung nötig"
+                ],
+                "title": "Testzentrum der KV Sachsen am Flughafen Leipzig/Halle"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3384084,51.332587
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Karl-Heine-Straße 32, 04229 Leipzig",
+                "telephone": "0341 23820530",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa 10:00-14:00", 
+                "hints": [ "Terminvergabe unter www.deintestzentrum.de" ],
+                "title": "DeinTestzentrum.de/Testzentrum Felsenkeller"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3258793,51.3345262
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Lützner Straße 100, 04177 Leipzig",
+                "telephone": "0176 74453464",
+                "opening_hours": "We 10:00-14:00, Th 08:00-12:00, Su 08:00-16:00", 
+                "hints": [ 
+                    "Öffnungszeiten 06.04.-11.04.21",
+                    "Schnelltests, aber auch Bestätigungs-PCR-Tests nach positivem Schnelltestergebnis",
+                    "Terminvereinbarung unter testzentrumlindenau@gmail.com",
+                    "Informationen unter Instagram: testzentrumlindenau"
+                ],
+                "title": "Testzentrum Lindenau"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3711262,51.3618098
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Lützowstraße 11, 2. OG, 04155 Leipzig",
+                "telephone": "0341 6962615",
+                "opening_hours": "Mo-Fr 08:30-12:00, Mo-Fr 13:00-17:30", 
+                "hints": [ "Anmeldung unter www.johanniter.de/coronatest-leipzig erforderlich" ],
+                "title": "Johanniter-Unfall-Hilfe e. V. - Testzentrum Gohlis Arkaden"
+            },
+            "type": "Feature"
+        },
+        {
+            "geometry": {
+                "coordinates": [
+                    12.3748774,51.3041396
+                ],
+                "type": "Point"
+            },
+            "properties": {
+                "location": "Meusdorfer Straße 10-12, 04277 Leipzig",
+                "telephone": "0341 22536814",
+                "opening_hours": "Mo Tu Fr 07:00-14:00, We Thu 10:00-18:00, Sa 09:00-12:00",
+                "title": "Malteser Hilfsdienst e. V."
+            },
+            "type": "Feature"
+        }
     ],
     "metadata": {
         "data_source": {
             "title": "Stadt Leipzig",
-            "url": "https://www.leipzig.de/freizeit-kultur-und-tourismus/einkaufen-und-ausgehen/maerkte/"
+            "url": "https://www.leipzig.de/jugend-familie-und-soziales/gesundheit/neuartiges-coronavirus-2019-n-cov/testzentrum/"
         }
     },
     "type": "FeatureCollection"
