@@ -1,4 +1,8 @@
 {
+    "berlin": {
+        "id": "berlin",
+        "label": "Berlin"
+    },
     "leipzig": {
         "id": "leipzig",
         "label": "Leipzig"
