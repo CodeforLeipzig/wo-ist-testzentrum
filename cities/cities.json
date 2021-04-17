@@ -6,5 +6,9 @@
     "leipzig": {
         "id": "leipzig",
         "label": "Leipzig"
+    },
+    "hessen": {
+        "id": "hessen",
+        "label": "Hessen"
     }
 }

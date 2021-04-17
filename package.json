@@ -1,5 +1,5 @@
 {
-  "name": "wo-ist-markt",
+  "name": "wo-ist-testzentrum",
   "version": "0.0.1",
   "devDependencies": {
     "colors": "^1.4.0",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/wo-ist-markt/wo-ist-markt.github.io"
+    "url": "https://github.com/codeforleipzig/wo-ist-testzentrum.github.io"
   },
   "scripts": {
     "lint": "jshint js preprocessing validation",
@@ -21,6 +21,9 @@
     "validate": "node validation/markets-validator.js"
   },
   "dependencies": {
-    "node-fetch": "^2.6.1"
+    "node-fetch": "^2.6.1",
+    "cheerio": "^1.0.0-rc.2",
+    "nunjucks": "^3.1.6",
+    "request": "^2.88.0"
   }
 }

@@ -1,0 +1,540 @@
+{
+  "locations": [
+    {
+      "coordinates": [
+        12.3964674,
+        51.330915
+      ],
+      "location": "Prager Straße 36, 04317 Leipzig",
+      "title": "Apotheke am Ostplatz"
+    },
+    {
+      "coordinates": [
+        12.3811813,
+        51.3446169
+      ],
+      "location": "Willy-Brandt-Platz 5, 04109 Leipzig",
+      "title": "Apotheke im Hauptbahnhof"
+    },
+    {
+      "coordinates": [
+        12.3196645,
+        51.2997217
+      ],
+      "location": "Gerhard-Ellrodt-Straße 19, 04249 Leipzig",
+      "title": "Freudemann-Apotheke"
+    },
+    {
+      "coordinates": [
+        12.2907928,
+        51.3595433
+      ],
+      "location": "Leipziger Straße 81, 04178 Leipzig",
+      "title": "Goethe-Apotheke"
+    },
+    {
+      "coordinates": [
+        12.2655053,
+        51.3079056
+      ],
+      "location": "Zschampertaue 2, 04207 Leipzig",
+      "title": "Hirsch Apotheke"
+    },
+    {
+      "coordinates": [
+        12.427464,
+        51.3437553
+      ],
+      "location": "Wurzner Straße 151, 04318 Leipzig",
+      "title": "Händel Apotheke"
+    },
+    {
+      "coordinates": [
+        12.369739839503819,
+        51.3563529
+      ],
+      "location": "Gohliser Straße 24, 04155 Leipzig",
+      "title": "Lux-Apotheke"
+    },
+    {
+      "coordinates": [
+        12.3335104,
+        51.31935
+      ],
+      "location": "Antonienstraße 1, 04229 Leipzig",
+      "title": "Park-Apotheke"
+    },
+    {
+      "coordinates": [
+        12.3740063,
+        51.3376255
+      ],
+      "location": "Petersstraße 36-44, 04109 Leipzig",
+      "title": "Petersbogen-Apotheke"
+    },
+    {
+      "coordinates": [
+        12.424831099999999,
+        51.3660365
+      ],
+      "location": "Stöhrerstraße 1, 04347 Leipzig",
+      "title": "Schlehen-Apotheke OHG"
+    },
+    {
+      "coordinates": [
+        12.3098482,
+        51.2764698
+      ],
+      "location": "Dieskaustraße 455, 04249 Leipzig",
+      "title": "Seume-Apotheke"
+    },
+    {
+      "coordinates": [
+        12.3739058,
+        51.3251705
+      ],
+      "location": "Karl-Liebknecht-Straße 59, 04275 Leipzig",
+      "title": "Sonnen-Apotheke"
+    },
+    {
+      "coordinates": [
+        12.3618269,
+        51.362992
+      ],
+      "location": "Georg-Schumann-Straße 103-111, 04155 Leipzig",
+      "title": "Wilhelm-Tell-Apotheke"
+    },
+    {
+      "coordinates": [
+        12.2768449,
+        51.3233034
+      ],
+      "location": "Kiewer Straße 30 04205 Leipzig",
+      "title": "Zebra-Apotheke"
+    },
+    {
+      "coordinates": [
+        12.2907239,
+        51.3598765
+      ],
+      "location": "Leipziger Straße 88, 04178 Leipzig",
+      "title": "GesundheitsWerkstatt"
+    },
+    {
+      "coordinates": [
+        12.398378420110124,
+        51.36712785
+      ],
+      "location": "Maximilian-Allee 16, 04129 Leipzig",
+      "title": "Testcenter Corona Leipzig GbR"
+    },
+    {
+      "coordinates": [
+        12.419199253539734,
+        51.3043409
+      ],
+      "location": "Connewitzer Straße 21, 04289 Leipzig",
+      "title": "Teststation im Bruno-Plache-Stadion"
+    },
+    {
+      "coordinates": [
+        12.4608935,
+        51.2826443
+      ],
+      "location": "Muldentalstraße 43, 04288 Leipzig",
+      "title": "Apotheke Liebertwolkwitz"
+    },
+    {
+      "coordinates": [
+        12.4122861,
+        51.3749796
+      ],
+      "location": "Mockauer Straße 121, 04357 Leipzig",
+      "title": "Apotheke Mockauer Post"
+    },
+    {
+      "coordinates": [
+        12.2896433,
+        51.3215832
+      ],
+      "location": "Ludwigsburger Straße 18, 04209 Leipzig",
+      "title": "Domos Apotheke"
+    },
+    {
+      "coordinates": [
+        12.3736393,
+        51.3417537
+      ],
+      "location": "Hainstraße 9, 04109 Leipzig",
+      "title": "Adler Apotheke"
+    },
+    {
+      "coordinates": [
+        12.2650379,
+        51.3132996
+      ],
+      "location": "Selliner Straße 15, 04207 Leipzig",
+      "title": "Bären Apotheke"
+    },
+    {
+      "coordinates": [
+        12.460952,
+        51.3066737
+      ],
+      "location": "Stötteritzer Landstraße 28, 04288 Leipzig",
+      "title": "Apotheke Holzhausen"
+    },
+    {
+      "coordinates": [
+        12.3589143,
+        51.3624969
+      ],
+      "location": "Eisenacher Straße 72, 04155 Leipzig",
+      "title": "Kulturhof Gohlis, durchführende Praxis: InterMed Praxiszentrum MVZ"
+    },
+    {
+      "coordinates": [
+        12.4009895,
+        51.3395049
+      ],
+      "location": "Dresdner Straße 53, 04317 Leipzig",
+      "title": "Apotheke Reudnitz"
+    },
+    {
+      "coordinates": [
+        12.4466436,
+        51.3618653
+      ],
+      "location": "Torgauer Straße 231, Haus A EG, 04347 Leipzig",
+      "title": "Johanniter-Unfall-Hilfe e. V."
+    },
+    {
+      "coordinates": [
+        12.4210713,
+        51.3195007
+      ],
+      "location": "Holzhäuser Straße 81, 04299 Leipzig",
+      "title": "Arnika-Apotheke"
+    },
+    {
+      "coordinates": [
+        12.3462779,
+        51.3514888
+      ],
+      "location": "Am Sportforum 10, 04105 Leipzig",
+      "title": "SC DHfK Leipzig e. V."
+    },
+    {
+      "coordinates": [
+        12.3809406,
+        51.3316064
+      ],
+      "location": "Windmühlenstraße 41, 04107 Leipzig",
+      "title": "Liebig-Apotheke"
+    },
+    {
+      "coordinates": [
+        12.417007204007096,
+        51.375333499999996
+      ],
+      "location": "Kieler Straße 53, 04357 Leipzig",
+      "title": "Schultheiß Augenoptik &amp; Hörgeräte e. Kfr."
+    },
+    {
+      "coordinates": [
+        12.3856973,
+        51.3645822
+      ],
+      "location": "Wittenberger Straße 81, 04129 Leipzig",
+      "title": "Herz-Apotheke"
+    },
+    {
+      "coordinates": [
+        12.384923420165894,
+        51.3556659
+      ],
+      "location": "Dessauer Straße 2, 04129 Leipzig",
+      "title": "McMedi Apotheke Testzentrum"
+    },
+    {
+      "coordinates": [
+        12.3432339,
+        51.3232459
+      ],
+      "location": "Stieglitzstraße 87, 04229 Leipzig",
+      "title": "InterMed Praxiszentrum MVZ GmbH"
+    },
+    {
+      "coordinates": [
+        12.355046167295598,
+        51.3353527
+      ],
+      "location": "Käthe-Kollwitz-Straße 64, 04109 Leipzig",
+      "title": "Kopfzentrum Leipzig"
+    },
+    {
+      "coordinates": [
+        12.370491651823018,
+        51.3169468
+      ],
+      "location": "Fichtestraße 9, 04275 Leipzig",
+      "title": "Kopfzentrum Leipzig"
+    },
+    {
+      "coordinates": [
+        12.3667828,
+        51.3678419
+      ],
+      "location": "Landsberger Straße 4, 04157 Leipzig",
+      "title": "Kopfzentrum Leipzig"
+    },
+    {
+      "coordinates": [
+        12.3048127,
+        51.3163082
+      ],
+      "location": "Straße am Park 2, 04209 Leipzig",
+      "title": "Kopfzentrum Leipzig"
+    },
+    {
+      "coordinates": [
+        12.356866457639462,
+        51.3467893
+      ],
+      "location": "Waldstraße 62, 04109 Leipzig",
+      "title": "Kopfzentrum Leipzig"
+    },
+    {
+      "coordinates": [
+        12.395982449111774,
+        51.331936299999995
+      ],
+      "location": "Oststraße 2, 04317 Leipzig",
+      "title": "Kopfzentrum Wahren"
+    },
+    {
+      "coordinates": [
+        12.42099364077989,
+        51.31975235
+      ],
+      "location": "Rudolph-Herrmann-Straße 33, 04299 Leipzig",
+      "title": "Kopfzentrum Wahren"
+    },
+    {
+      "coordinates": [
+        12.3235815,
+        51.3744216
+      ],
+      "location": "Georg-Schumann-Straße 355, 04157 Leipzig",
+      "title": "Kopfzentrum Wahren"
+    },
+    {
+      "coordinates": [
+        12.382292755387041,
+        51.33796785
+      ],
+      "location": "Augustusplatz 5, 04109 Leipzig",
+      "title": "Kopfzenrum Thomaskirchhof"
+    },
+    {
+      "coordinates": [
+        12.317144403980116,
+        51.350177849999994
+      ],
+      "location": "Hans-Driesch-Straße 20, 04179 Leipzig",
+      "title": "Gesundheitspraxis Cornelia Lindner"
+    },
+    {
+      "coordinates": [
+        12.38951628079409,
+        51.32963795
+      ],
+      "location": "Haus am Park, Haus 7.2, Liebigstraße 22a, 04103 Leipzig",
+      "title": "Corona-Testambulanz des Universitätsklinikums Leipzig"
+    },
+    {
+      "coordinates": [
+        12.3636304,
+        51.3717543
+      ],
+      "location": "Breitenfelder Straße 101, 04157 Leipzig",
+      "title": "Beauty &amp; Body Lounge"
+    },
+    {
+      "coordinates": [
+        12.373407124707217,
+        51.325750600000006
+      ],
+      "location": "Karl-Liebknecht-Straße 40, 04107 Leipzig",
+      "title": "Testcenter Corona Leipzig GbR"
+    },
+    {
+      "coordinates": [
+        12.3908009,
+        51.3380791
+      ],
+      "location": "Rabensteinplatz 1, 04103 Leipzig",
+      "title": "Bürgertestzentrum am Rabensteinplatz 1"
+    },
+    {
+      "coordinates": [
+        12.31934152480479,
+        51.34247165
+      ],
+      "location": "Georg-Schwarz-Straße 49, 04177 Leipzig",
+      "title": "Evangelisches Diakonissenkrankenhaus Leipzig gGmbH"
+    },
+    {
+      "coordinates": [
+        12.3732211,
+        51.3302355
+      ],
+      "location": "Karl-Liebknecht-Straße 12, 04107 Leipzig",
+      "title": "Corona Testzentrum Karli 12"
+    },
+    {
+      "coordinates": [
+        12.3295596,
+        51.3281016
+      ],
+      "location": "Industriestraße 95, 04229 Leipzig",
+      "title": "COMMUNITY TESTCENTER"
+    },
+    {
+      "coordinates": [
+        12.4338359,
+        51.2997611
+      ],
+      "location": "Mattheuerbogen 6, 04289 Leipzig",
+      "title": "ASB-Teststation &quot;Am Sonnenpark&quot;"
+    },
+    {
+      "coordinates": [
+        12.386297342481143,
+        51.3632753
+      ],
+      "location": "Wittenberger Straße 36, 04129 Leipzig",
+      "title": "SIT International"
+    },
+    {
+      "coordinates": [
+        12.229585904866344,
+        51.421190100000004
+      ],
+      "location": "Flughafen Leipzig/Halle",
+      "title": "Testzentrum der KV Sachsen am Flughafen Leipzig/Halle"
+    },
+    {
+      "coordinates": [
+        12.3384084,
+        51.332587
+      ],
+      "location": "Karl-Heine-Straße 32, 04229 Leipzig",
+      "title": "DeinTestzentrum.de/Testzentrum Felsenkeller"
+    },
+    {
+      "coordinates": [
+        12.3258793,
+        51.3345262
+      ],
+      "location": "Lützner Straße 100, 04177 Leipzig",
+      "title": "Testzentrum Lindenau"
+    },
+    {
+      "coordinates": [
+        12.3711262,
+        51.3618098
+      ],
+      "location": "Lützowstraße 11, 2. OG, 04155 Leipzig",
+      "title": "Johanniter-Unfall-Hilfe e. V. - Testzentrum Gohlis Arkaden"
+    },
+    {
+      "coordinates": [
+        12.3748774,
+        51.3041396
+      ],
+      "location": "Meusdorfer Straße 10-12, 04277 Leipzig",
+      "title": "Malteser Hilfsdienst e. V."
+    },
+    {
+      "coordinates": [
+        12.3756999,
+        51.3671509
+      ],
+      "location": "Coppistraße 42, 04157 Leipzig",
+      "title": "Humanitas-Apotheke Leipzig"
+    },
+    {
+      "coordinates": [
+        12.3754881,
+        51.3397819
+      ],
+      "location": "Grimmaische Straße 2-4, 04109 Leipzig",
+      "title": "COMMUNITY TESTCENTER Mädlerpassage"
+    },
+    {
+      "coordinates": [
+        12.4239401,
+        51.3546925
+      ],
+      "location": "Bästleinstraße 6, 04347 Leipzig",
+      "title": "Scheffel-Apotheke"
+    },
+    {
+      "coordinates": [
+        12.3733409,
+        51.3417248
+      ],
+      "location": "Hainstraße 9, 04109 Leipzig",
+      "title": "Privatpraxis für Kinder- und Jugendmedizin Dr. med. habil. Sabine Hussack"
+    },
+    {
+      "coordinates": [
+        12.4622241,
+        51.282299
+      ],
+      "location": "Kirchstraße 5, 04288 Leipzig",
+      "title": "Adler Apotheke Liebertwolkwitz"
+    },
+    {
+      "coordinates": [
+        12.425065989419101,
+        51.3022707
+      ],
+      "location": "Chemnitzer Straße 6, 04289 Leipzig-Probsthaida",
+      "title": "Medservio GmbH"
+    },
+    {
+      "coordinates": [
+        12.2989416,
+        51.3457012
+      ],
+      "location": "Gutenbergstraße 11, 04178 Leipzig",
+      "title": "Culture-Consulting Leipzig GmbH"
+    },
+    {
+      "coordinates": [
+        12.3705033,
+        51.3407566
+      ],
+      "location": "Elsterartig, Dittrichring 17, 04109 Leipzig",
+      "title": "Schnelltest Service Hamburg im &quot;Elsterartig&quot;"
+    },
+    {
+      "coordinates": [
+        12.3773245,
+        51.3374426
+      ],
+      "location": "Magazingasse 11, 04109 Leipzig",
+      "title": "Dr. med. Gerold Kotman"
+    },
+    {
+      "coordinates": [
+        12.3807032,
+        51.3067454
+      ],
+      "location": "Bornaische Straße 41, 04277 Leipzig",
+      "title": "Luisen-Apotheke"
+    }
+  ]
+}
