@@ -28,11 +28,11 @@ var DAY_INDEX = (now.getDay() + 6) % 7;  // In our data, first day is Monday
 var DAY_NAMES = ['Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag'];
 var DEFAULT_MARKET_TITLE = 'Corona-Testzentrum';
 
-L.AwesomeMarkers.Icon.prototype.options.prefix = 'fas';  
-var nowIcon = L.AwesomeMarkers.icon({markerColor: 'green', icon: 'vial'});
-var todayIcon = L.AwesomeMarkers.icon({markerColor: 'darkgreen', icon: 'vial'});
-var otherIcon = L.AwesomeMarkers.icon({markerColor: 'cadetblue', icon: 'vial'});
-var unclassifiedIcon = L.AwesomeMarkers.icon({markerColor: 'darkpurple', icon: 'vial'});
+L.ExtraMarkers.Icon.prototype.options.prefix = 'fa';
+var nowIcon = L.ExtraMarkers.icon({markerColor: 'green', icon: 'fa-vial'});
+var todayIcon = L.ExtraMarkers.icon({markerColor: 'green-dark', icon: 'fa-vial'});
+var otherIcon = L.ExtraMarkers.icon({markerColor: 'cyan', icon: 'fa-vial'});
+var unclassifiedIcon = L.ExtraMarkers.icon({markerColor: 'purple', icon: 'fa-vial'});
 
 dayjs.extend(dayjs_plugin_isBetween);
 dayjs.extend(dayjs_plugin_isoWeek);

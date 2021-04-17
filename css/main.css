@@ -77,13 +77,13 @@ html, body {
     margin: 0 10px 0 0;
 }
 
-#header label .awesome-marker {
+#header label .extra-marker {
   display: inline-block;
   margin-top: -0.8em; /* compensate offset */
   transform: scale(0.75);
 }
 
-#header label .awesome-marker i {
+#header label .extra-marker i {
     margin-top: 9px;
 }
 
@@ -159,7 +159,7 @@ html, body {
     font-style: italic;
 }
 
-.awesome-marker i {
+.extra-marker i {
     font-size: 16px;
     margin-top: 6px;
 	margin-left: -1px;

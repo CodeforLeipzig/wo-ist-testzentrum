@@ -6,16 +6,16 @@
         <title>Wo ist Corona-Testzentrum?</title>
         <link rel="stylesheet" href="lib/normalize/normalize.css">
         <link rel="stylesheet" href="lib/leaflet/leaflet.css">
-        <link rel="stylesheet" href="lib/leaflet.awesome-markers/leaflet.awesome-markers.css">
+        <link rel="stylesheet" href="lib/leaflet.extra-markers/css/leaflet.extra-markers.min.css">
         <link rel="stylesheet" href="lib/leaflet.locatecontrol/L.Control.Locate.min.css">
-        <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css" integrity="sha384-yNuQMX46Gcak2eQsUzmBYgJ3eBeWYNKhnjyiBqLd1vvtE9kuMtgw6bjwN8J0JauQ" crossorigin="anonymous">
+        <link rel="stylesheet" href="lib/fortawesome/css/all.min.css">
         <link rel="stylesheet" href="lib/select2/select2.min.css">
         <link rel="stylesheet" href="css/wo-ist-markt.css">
         <link rel="stylesheet" href="css/main.css">
         <script src="lib/jquery/jquery.min.js"></script>
         <script src="lib/select2/select2.min.js"></script>
         <script src="lib/leaflet/leaflet.js"></script>
-        <script src="lib/leaflet.awesome-markers/leaflet.awesome-markers.min.js"></script>
+        <script src="lib/leaflet.extra-markers/js/leaflet.extra-markers.min.js"></script>
         <script src="lib/leaflet.locatecontrol/L.Control.Locate.min.js"></script>
         <script src="lib/suncalc/suncalc.js"></script>
         <script src="lib/opening_hours/opening_hours.js"></script>
@@ -37,26 +37,26 @@
             <form>
                 <label>
 		  <!-- For colors see js/main.js -->
-		  <div class="awesome-marker-icon-green awesome-marker">
-		    <i class="fas fa-vial"></i>
+		  <div class="extra-marker-circle-green extra-marker">
+        <i class="fa fa-vial"></i>
 		  </div>
 		  <input type="radio" name="display" id="now" value="now"><span>jetzt</span>
 		</label>
                 <label>
-		  <div class="awesome-marker-icon-darkgreen awesome-marker">
-		    <i class="fas fa-vial"></i>
+		  <div class="extra-marker-circle-green-dark extra-marker">
+		    <i class="fa fa-vial"></i>
 		  </div>
 		  <input type="radio" name="display" id="today" value="today"><span>heute</span>
 		</label>
 		<label>
-		  <div class="awesome-marker-icon-cadetblue awesome-marker">
-		    <i class="fas fa-vial"></i>
+		  <div class="extra-marker-circle-cyan extra-marker">
+		    <i class="fa fa-vial"></i>
 		  </div>
                   <input type="radio" name="display" id="other" value="other"><span>alle</span>
 		</label>
 		<label class="disabled" title="Die Öffnungszeiten dieser Märkte konnten nicht zugeordnet werden.">
-		  <div class="awesome-marker-icon-darkpurple awesome-marker">
-		    <i class="fas fa-vial"></i>
+		  <div class="extra-marker-circle-purple extra-marker">
+		    <i class="fa fa-vial"></i>
 		  </div>
                   <input type="radio" name="display" id="unclassified" value="unclassified" disabled="disabled"><span>sonstige</span>
 		</label>
