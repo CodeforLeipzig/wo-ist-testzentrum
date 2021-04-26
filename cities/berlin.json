@@ -1374,28 +1374,6 @@
     {
       "geometry": {
         "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "  Berlin",
-        "telephone": "0177 8685213",
-        "details_url": "",
-        "opening_hours": "Mo 08:00 - 20:00; Tu 08:00 - 20:00; We 08:00 - 20:00; Th 08:00 - 20:00; Fr 08:00 - 20:00; Sa 08:00 - 20:00; Su 08:00 - 20:00; ",
-        "title": "Arno Haak",
-        "hints": [
-          "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.4004399,
           52.4900371
         ],
@@ -2355,28 +2333,6 @@
         "title": "Corona Teststation Allende-Center",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "  Berlin",
-        "telephone": null,
-        "details_url": "https://test-station.berlin/",
-        "opening_hours": "Mo 06:00 - 22:00; Tu 06:00 - 22:00; We 06:00 - 22:00; Th 06:00 - 22:00; Fr 06:00 - 22:00; Sa 06:00 - 22:00; Su 06:00 - 22:00; ",
-        "title": "Corona Teststation Berlin mobil",
-        "hints": [
-          "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: mit",
           "Terminbuchung: moeglich_dritt"
         ]
@@ -4608,28 +4564,6 @@
     {
       "geometry": {
         "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "  Berlin",
-        "telephone": null,
-        "details_url": "https://doodle.com/de/terminvergabe",
-        "opening_hours": "Mo 09:00 - 17:00; Tu 09:00 - 17:00; We 09:00 - 17:00; Th 09:00 - 17:00; Fr 09:00 - 17:00; Sa 09:00 - 17:00; Su 09:00 - 17:00; ",
-        "title": "help2do Mobiles Testen ist unsere Stärke.",
-        "hints": [
-          "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.3334594,
           52.5951953
         ],
@@ -4754,28 +4688,6 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "  Berlin",
-        "telephone": null,
-        "details_url": "https://infimedix.com/",
-        "opening_hours": "Mo 08:00 - 17:00; Tu 08:00 - 17:00; We 08:00 - 17:00; Th 08:00 - 17:00; Fr 08:00 - 17:00; Sa 08:00 - 17:00; Su 08:00 - 17:00; ",
-        "title": "Infimedix mobil",
-        "hints": [
-          "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: nein",
           "Terminbuchung: moeglich_dritt"
         ]
       },
@@ -5312,8 +5224,8 @@
     {
       "geometry": {
         "coordinates": [
-          13.1478701,
-          52.52350879999999
+          13.1482676,
+          52.5236412
         ],
         "type": "Point"
       },
@@ -5730,28 +5642,6 @@
     {
       "geometry": {
         "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "  Berlin",
-        "telephone": null,
-        "details_url": "https://www.timecrew.de/",
-        "opening_hours": "Mo 10:00 - 18:00; Tu 10:00 - 18:00; We 10:00 - 18:00; Th 10:00 - 18:00; Fr 10:00 - 18:00; ",
-        "title": "Mobile Corona Test Crew",
-        "hints": [
-          "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.4134269,
           52.5299287
         ],
@@ -5766,28 +5656,6 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          0,
-          0
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "  Berlin",
-        "telephone": "0176 72136658",
-        "details_url": "https://medicov.de/",
-        "opening_hours": "Mo 05:00 - 22:00; Tu 05:00 - 22:00; We 05:00 - 22:00; Th 05:00 - 22:00; Fr 05:00 - 22:00; Sa 05:00 - 22:00; Su 08:00 - 20:00; ",
-        "title": "Mobile Teststation Berlin",
-        "hints": [
-          "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: ohne",
           "Terminbuchung: moeglich_dritt"
         ]
       },
@@ -7908,13 +7776,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.1984993,
-          52.5328476
+          13.2007458,
+          52.5330235
         ],
         "type": "Point"
       },
       "properties": {
-        "location": "Ruhlebener Str. / Klosterstr. 38 13591 Berlin",
+        "location": "Klosterstr. 38 13597 Berlin",
         "telephone": null,
         "details_url": "https://www.teststation-spandau.de",
         "opening_hours": "Mo 07:00 - 20:00; Tu 07:00 - 20:00; We 07:00 - 20:00; Th 07:00 - 20:00; Fr 07:00 - 20:00; Sa 08:00 - 20:00; Su 10:00 - 18:00; ",
@@ -8868,7 +8736,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: mit",
-          "Terminbuchung: Ohne"
+          "Terminbuchung: moeglich"
         ]
       },
       "type": "Feature"
