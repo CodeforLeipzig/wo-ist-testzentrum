@@ -340,6 +340,28 @@
     {
       "geometry": {
         "coordinates": [
+          13.4167898,
+          52.5111848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Brückenstrasse 1 10179 Berlin",
+        "telephone": null,
+        "details_url": "http://www.123test-kitkat.club",
+        "opening_hours": "Mo 09:00 - 16:00; Tu 09:00 - 16:00; We 09:00 - 16:00; Th 09:00 - 16:00; Fr 09:00 - 16:00; Sa 09:00 - 16:00; ",
+        "title": "123test KitKatClub",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: nein",
+          "Terminbuchung: moeglich_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.5136326,
           52.4623234
         ],
@@ -1418,6 +1440,28 @@
     {
       "geometry": {
         "coordinates": [
+          13.4092793,
+          52.5207132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Panoramastraße 1A 10178 Berlin",
+        "telephone": null,
+        "details_url": "http://www.asb-test.de",
+        "opening_hours": "Mo 12:00 - 18:00; Tu 12:00 - 18:00; We 12:00 - 18:00; Th 12:00 - 18:00; Fr 12:00 - 18:00; Sa 12:00 - 18:00; Su 12:00 - 18:00; ",
+        "title": "ASB-Teststation Mitte am Alexanderplatz",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: ohne",
+          "Terminbuchung: moeglich_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.3334129,
           52.59505129999999
         ],
@@ -1822,7 +1866,7 @@
       "properties": {
         "location": "Neuenburger Straße 19 10969 Berlin",
         "telephone": null,
-        "details_url": "",
+        "details_url": "https://www.checkpoint-schnelltest.de/",
         "opening_hours": "Mo 08:00 - 20:00; Tu 08:00 - 20:00; We 08:00 - 20:00; Th 08:00 - 20:00; Fr 08:00 - 20:00; Sa 08:00 - 20:00; Su 08:00 - 20:00; ",
         "title": "Checkpoint Schnelltest",
         "hints": [
@@ -1847,6 +1891,28 @@
         "details_url": "https://clickandtest/COBUSTERSAltTreptow",
         "opening_hours": "Mo 09:00 - 19:00; Tu 09:00 - 19:00; We 09:00 - 19:00; Th 09:00 - 19:00; Fr 09:00 - 19:00; Sa 09:00 - 19:00; ",
         "title": "COBUSTERS @EDEKA Lawrenz Alt-Treptow",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: mit",
+          "Terminbuchung: moeglich_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4295003,
+          52.57157060000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Rothenbachstr. 1 13089  Berlin",
+        "telephone": null,
+        "details_url": "https://clickandtest.de/COBUSTERSPankow",
+        "opening_hours": "Mo 09:00 - 19:00; Tu 09:00 - 19:00; We 09:00 - 19:00; Th 09:00 - 19:00; Fr 09:00 - 19:00; ",
+        "title": "COBUSTERS @ShellTankstelle Pankow",
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: mit",
@@ -1959,6 +2025,28 @@
         "title": "Corona Express Test Berlin Ringstr.",
         "hints": [
           "PCR-Nachtestung: nein",
+          "Barrierefreiheit: mit",
+          "Terminbuchung: moeglich_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3430891,
+          52.5023382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Wittenbergplatz 5 10789  Berlin",
+        "telephone": "0162 4042617",
+        "details_url": "https://professionaleventsallinone.com/",
+        "opening_hours": "Mo 10:00 - 19:00; Tu 10:00 - 19:00; We 10:00 - 19:00; Th 10:00 - 19:00; Fr 10:00 - 19:00; Sa 10:00 - 19:00; ",
+        "title": "Corona Quicktest am Wittenbergplatz",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: mit",
           "Terminbuchung: moeglich_dritt"
         ]
@@ -2199,6 +2287,28 @@
         "details_url": "https://test-station.berlin/termine",
         "opening_hours": "Mo 08:00 - 20:00; Tu 08:00 - 20:00; We 08:00 - 20:00; Th 08:00 - 20:00; Fr 08:00 - 20:00; Sa 08:00 - 20:00; Su 08:00 - 20:00; ",
         "title": "Corona Test Station Berlin",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: mit",
+          "Terminbuchung: moeglich_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4737248,
+          52.45433629999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Späthstraße 80-81 12437 Berlin",
+        "telephone": null,
+        "details_url": "https://test-station.berlin/",
+        "opening_hours": "Mo 08:30 - 18:00; Tu 08:30 - 18:00; We 08:30 - 18:00; Th 08:30 - 18:00; Fr 08:30 - 18:00; Sa 08:30 - 18:00; Su 08:30 - 18:00; ",
+        "title": "Corona Test Station Berlin Späthstraße",
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: mit",
@@ -2848,6 +2958,28 @@
     {
       "geometry": {
         "coordinates": [
+          13.3294329,
+          52.5023814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Meinekestr. 25 10719  Berlin",
+        "telephone": null,
+        "details_url": "",
+        "opening_hours": "Mo 08:00 - 20:00; Tu 08:00 - 20:00; We 08:00 - 20:00; Th 08:00 - 20:00; Fr 08:00 - 20:00; Sa 08:00 - 20:00; ",
+        "title": "Corona-City",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: mit",
+          "Terminbuchung: ohne_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.38233,
           52.4829353
         ],
@@ -3024,28 +3156,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.3586055,
-          52.50056379999999
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "An der Apostelkirche 1 10783  Berlin",
-        "telephone": null,
-        "details_url": "",
-        "opening_hours": "Mo 10:30 - 15:00; Tu 10:00 - 15:00; We 10:00 - 15:00; Th 10:00 - 15:00; Fr 10:00 - 15:00; Sa 10:00 - 15:00; Su 10:00 - 15:00; ",
-        "title": "Coronatest 12 Apostel Kirche",
-        "hints": [
-          "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.538726,
           52.4318393
         ],
@@ -3200,6 +3310,28 @@
     {
       "geometry": {
         "coordinates": [
+          13.3484987,
+          52.5411787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Fehmarner Str. 25  13353 Berlin",
+        "telephone": null,
+        "details_url": "https://coronatestung-berlin.de/",
+        "opening_hours": "Mo 08:00 - 20:00; Tu 08:00 - 20:00; We 08:00 - 20:00; Th 08:00 - 20:00; Fr 08:00 - 20:00; Sa 08:00 - 20:00; Su 08:00 - 20:00; ",
+        "title": "Coronatestung Berlin",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: mit",
+          "Terminbuchung: ohne_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.3260685,
           52.46280950000001
         ],
@@ -3215,6 +3347,28 @@
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: mit",
           "Terminbuchung: moeglich_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.57783,
+          52.44589999999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Jägerstr.4 12555 Berlin",
+        "telephone": null,
+        "details_url": "https://testtermin.de/schuesslerplatz-berlin",
+        "opening_hours": "Mo 08:00 - 19:00; Tu 08:00 - 19:00; We 08:00 - 19:00; Th 08:00 - 19:00; Fr 08:00 - 19:00; ",
+        "title": "Coronazentrum am Schüßlerplatz",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: mit",
+          "Terminbuchung: mit_dritt"
         ]
       },
       "type": "Feature"
@@ -4022,11 +4176,11 @@
       "properties": {
         "location": "Coldizstr. 27/29 12099 Berlin",
         "telephone": null,
-        "details_url": "",
+        "details_url": "https://wirtesten.online/corona-teststation",
         "opening_hours": "Mo 08:00 - 18:00; Tu 08:00 - 18:00; We 08:00 - 18:00; Th 08:00 - 18:00; Fr 08:00 - 18:00; Sa 08:00 - 18:00; ",
         "title": "Easy Dienstleitungen Testzentrum",
         "hints": [
-          "PCR-Nachtestung: moeglich",
+          "PCR-Nachtestung: nein",
           "Barrierefreiheit: mit",
           "Terminbuchung: ohne_dritt"
         ]
@@ -4073,6 +4227,28 @@
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: ohne",
           "Terminbuchung: mit_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3620592,
+          52.56730590000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Residenzstrasse 33 13409 Berlin",
+        "telephone": null,
+        "details_url": "http://residenzstrasse.easyapotheken.de",
+        "opening_hours": "Mo 10:00 - 18:00; Tu 10:00 - 18:00; We 10:00 - 18:00; Th 10:00 - 18:00; Fr 10:00 - 18:00; Sa 10:00 - 18:00; ",
+        "title": "easyApotheke Residenzstrasse Testzentrum",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: mit",
+          "Terminbuchung: ohne_dritt"
         ]
       },
       "type": "Feature"
@@ -4410,6 +4586,28 @@
     {
       "geometry": {
         "coordinates": [
+          13.5094076,
+          52.53316470000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Landsberger Allee 360-362 10365 Berlin",
+        "telephone": null,
+        "details_url": "https://www.hi-testzentrum.de",
+        "opening_hours": "Mo 08:00 - 20:00; Tu 08:00 - 20:00; We 08:00 - 20:00; Th 08:00 - 20:00; Fr 08:00 - 20:00; Sa 08:00 - 20:00; ",
+        "title": "Globus Lichtenberg",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: mit",
+          "Terminbuchung: ohne_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.3096699,
           52.50754999999999
         ],
@@ -4594,7 +4792,7 @@
       "properties": {
         "location": "Karl-Liebknecht-Str. 30 10178 Berlin",
         "telephone": null,
-        "details_url": "https://medicare-hof-berlin.ticket.io/r2ngeal4/?onlyTag=kostenlos ",
+        "details_url": "https://www.covid-testzentrum.de/hofbraeuhaus-ber",
         "opening_hours": "Mo 00:00 - 23:30; Tu 00:00 - 23:30; We 00:00 - 23:30; Th 00:00 - 23:30; Fr 00:00 - 23:30; Sa 00:00 - 23:30; Su 00:00 - 23:30; ",
         "title": "Hofbräu Berlin",
         "hints": [
@@ -4850,6 +5048,50 @@
     {
       "geometry": {
         "coordinates": [
+          13.3258971,
+          52.46274200000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Schloßstr. 7-10  12163  Berlin",
+        "telephone": null,
+        "details_url": "",
+        "opening_hours": "Mo 10:00 - 18:00; Tu 10:00 - 18:00; We 10:00 - 18:00; Th 10:00 - 18:00; Fr 10:00 - 18:00; Sa 10:00 - 18:00; ",
+        "title": "Karstadt | Schloßstraße | Berlin",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: mit",
+          "Terminbuchung: moeglich_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4763743,
+          52.51423759999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Frankfurter Allee 113-117 10365  Berlin",
+        "telephone": null,
+        "details_url": "",
+        "opening_hours": "Mo 10:00 - 18:00; Tu 10:00 - 18:00; We 10:00 - 18:00; Th 10:00 - 18:00; Fr 10:00 - 18:00; Sa 10:00 - 18:00; ",
+        "title": "Kaufhof Ringcenter Berlin",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: mit",
+          "Terminbuchung: moeglich_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.27062,
           52.50998999999999
         ],
@@ -4885,28 +5127,6 @@
         "title": "Kinderarztpraxis Dr. Steffen Lüder",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.4167898,
-          52.5111848
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "Brückenstrasse 1 10179 Berlin",
-        "telephone": null,
-        "details_url": "https://kitkatrapidtest.de",
-        "opening_hours": "Mo 09:00 - 16:00; Tu 09:00 - 16:00; We 09:00 - 16:00; Th 09:00 - 16:00; Fr 09:00 - 16:00; Sa 09:00 - 16:00; Su 09:00 - 16:00; ",
-        "title": "KitKat RapidTest",
-        "hints": [
-          "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
           "Terminbuchung: moeglich_dritt"
         ]
@@ -5598,28 +5818,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.4343812,
-          52.498788
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "Görlitzerstr. 71 10997  Berlin",
-        "telephone": null,
-        "details_url": "https://gqs.jimdosite.com",
-        "opening_hours": "Mo 08:00 - 18:00; Tu 08:00 - 18:00; We 08:00 - 18:00; Th 08:00 - 18:00; Fr 08:00 - 18:00; Sa 10:00 - 16:00; Su 10:00 - 16:00; ",
-        "title": "Michael Jablonski",
-        "hints": [
-          "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: ohne_dritt"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.5062595,
           52.5330595
         ],
@@ -5972,28 +6170,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.3458251,
-          52.5542858
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "Müllerstr. 58 13349 Berlin",
-        "telephone": null,
-        "details_url": "https://shop.pga.berlin/",
-        "opening_hours": "Mo 10:00 - 18:00; Tu 10:00 - 18:00; We 10:00 - 18:00; Th 10:00 - 18:00; Fr 10:00 - 18:00; Sa 10:00 - 18:00; Su 10:00 - 18:00; ",
-        "title": "Paul Gerhardt Apotheke Testzentrum",
-        "hints": [
-          "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.6256644,
           52.45593419999999
         ],
@@ -6310,7 +6486,7 @@
       "properties": {
         "location": "Leibnizstraße 58 10629 Berlin",
         "telephone": null,
-        "details_url": "https://www.reona-corona-test.com/",
+        "details_url": "https://calendly.com/reonacoronacenterleibnizstr",
         "opening_hours": "Mo 08:00 - 20:00; Tu 08:00 - 20:00; We 08:00 - 20:00; Th 08:00 - 20:00; Fr 08:00 - 20:00; Sa 08:00 - 20:00; Su 08:00 - 20:00; ",
         "title": "Reona Corona Test Center",
         "hints": [
@@ -6465,7 +6641,7 @@
         "location": "Heinrich-Grüber-Strasse 3 12621 Berlin",
         "telephone": null,
         "details_url": "https://salzlounge.de/",
-        "opening_hours": "Mo 07:00 - 19:00; Tu 07:00 - 19:00; We 07:00 - 19:00; Th 07:00 - 19:00; Fr 07:00 - 19:00; Sa 07:00 - 19:00; Su 09:00 - 13:00; ",
+        "opening_hours": "",
         "title": "Salzlounge",
         "hints": [
           "PCR-Nachtestung: nein",
@@ -7028,6 +7204,28 @@
     {
       "geometry": {
         "coordinates": [
+          13.4343812,
+          52.498788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Görlitzerstr. 71 10997  Berlin",
+        "telephone": null,
+        "details_url": "https://gqs.jimdosite.com",
+        "opening_hours": "Mo 08:00 - 18:00; Tu 08:00 - 18:00; We 08:00 - 18:00; Th 08:00 - 18:00; Fr 08:00 - 18:00; ",
+        "title": "Schnelltestzentrum Berlin Kreuzberg Görlitzerstr.",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: ohne",
+          "Terminbuchung: ohne_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.3776923,
           52.53632990000001
         ],
@@ -7050,6 +7248,28 @@
     {
       "geometry": {
         "coordinates": [
+          13.4528438,
+          52.4519937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Buschkrugallee 131 12359 Berlin",
+        "telephone": null,
+        "details_url": "www.negativer-schnelltest.de",
+        "opening_hours": "Mo 09:00 - 19:00; Tu 09:00 - 19:00; We 09:00 - 19:00; Th 09:00 - 19:00; Fr 09:00 - 19:00; ",
+        "title": "Schnelltestzentrum im Diakonie-Haus Britz",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: mit",
+          "Terminbuchung: ohne_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.3232449,
           52.4871229
         ],
@@ -7059,7 +7279,7 @@
         "location": "Fechnerstr. 5 10717 Berlin",
         "telephone": null,
         "details_url": "",
-        "opening_hours": "Mo 08:00 - 20:00; Tu 08:00 - 20:00; We 08:00 - 20:00; Th 08:00 - 20:00; Fr 08:00 - 20:00; Sa 08:00 - 20:00; ",
+        "opening_hours": "Mo 08:00 - 19:00; Tu 08:00 - 19:00; We 08:00 - 19:00; Th 08:00 - 19:00; Fr 08:00 - 19:00; Sa 08:00 - 15:00; ",
         "title": "Sealdex Test2Go Stelle",
         "hints": [
           "PCR-Nachtestung: nein",
@@ -7080,8 +7300,8 @@
       "properties": {
         "location": "Riesaer Str. 102 12627 Berlin",
         "telephone": null,
-        "details_url": "https://www.sonnenhutapotheke.de",
-        "opening_hours": "Mo 08:00 - 18:00; Tu 08:00 - 18:00; We 08:00 - 18:00; Th 08:00 - 18:00; Fr 08:00 - 18:00; Sa 08:30 - 13:00; ",
+        "details_url": "https://schnelltest.apomondo.online/#/termine/68e9bc38-b7ca-4615-a45c-4cec2483c5d9",
+        "opening_hours": "Mo 08:00 - 18:00; Tu 08:00 - 18:00; We 08:00 - 18:00; Th 08:00 - 18:00; Fr 08:00 - 18:00; Sa 10:00 - 12:00; ",
         "title": "Sonnenhut Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
@@ -7182,8 +7402,8 @@
     {
       "geometry": {
         "coordinates": [
-          13.3873018,
-          52.5197861
+          13.390373,
+          52.520044
         ],
         "type": "Point"
       },
@@ -7248,6 +7468,28 @@
     {
       "geometry": {
         "coordinates": [
+          13.1313635,
+          52.5423638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Fachinger Str. 16 13591 Berlin",
+        "telephone": null,
+        "details_url": "https://covisa.de/covisacenter",
+        "opening_hours": "Mo 10:00 - 15:00; Tu 10:00 - 15:00; We 10:00 - 15:00; Th 10:00 - 15:00; Fr 10:00 - 15:00; ",
+        "title": "Stadt-Apotheke Staaken",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: mit",
+          "Terminbuchung: moeglich_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.4514217,
           52.5258839
         ],
@@ -7284,7 +7526,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: ohne_dritt"
         ]
       },
       "type": "Feature"
@@ -7402,6 +7644,28 @@
     {
       "geometry": {
         "coordinates": [
+          13.3276716,
+          52.4785277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Detmolder Straße 67 10715  Berlin",
+        "telephone": null,
+        "details_url": "https://www.tarons-teststationen.de/",
+        "opening_hours": "Mo 10:00 - 16:00; Tu 10:00 - 16:00; We 10:00 - 16:00; Th 10:00 - 16:00; Fr 10:00 - 16:00; Sa 10:00 - 16:00; Su 10:00 - 16:00; ",
+        "title": "Tarons Teststation Wilmersdorf",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: ohne",
+          "Terminbuchung: moeglich_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.3270894,
           52.5122205
         ],
@@ -7490,6 +7754,28 @@
     {
       "geometry": {
         "coordinates": [
+          13.3133753,
+          52.4192523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Osdorfer Str. 125 12207  Berlin",
+        "telephone": null,
+        "details_url": "",
+        "opening_hours": "Mo 08:00 - 18:00; Tu 08:00 - 18:00; We 08:00 - 18:00; Th 08:00 - 18:00; Fr 08:00 - 18:00; Sa 08:00 - 18:00; Su 08:00 - 18:00; ",
+        "title": "Test-To-Go-Station Osdorfer Straße",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: mit",
+          "Terminbuchung: ohne_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.4144896,
           52.5454278
         ],
@@ -7526,6 +7812,28 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
+          "Terminbuchung: moeglich_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4475937,
+          52.4368196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Gutschmidtstr. 27-29  12359  Berlin",
+        "telephone": null,
+        "details_url": "http://cs-medical-services.de/",
+        "opening_hours": "Mo 08:00 - 17:00; Tu 08:00 - 17:00; We 08:00 - 17:00; Th 08:00 - 17:00; Fr 08:00 - 17:00; Sa 08:00 - 17:00; ",
+        "title": "testbar Britz süd",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: mit",
           "Terminbuchung: moeglich_dritt"
         ]
       },
@@ -8006,7 +8314,7 @@
         "telephone": null,
         "details_url": "http://termin.testzentrale.online/",
         "opening_hours": "Mo 09:00 - 20:00; Tu 09:00 - 20:00; We 09:00 - 20:00; Th 09:00 - 20:00; Fr 09:00 - 20:00; Sa 09:00 - 20:00; ",
-        "title": "Testzentrale Ring Center 1",
+        "title": "Testzentrale Ring Center 1 im 2.OG",
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: mit",
@@ -8554,8 +8862,8 @@
       "properties": {
         "location": "Schnellerstr. 21 12439 Berlin",
         "telephone": null,
-        "details_url": "https://www.europa-apo-berlin.de/",
-        "opening_hours": "Mo 10:00 - 14:00,16:00 - 17:30; Tu 10:00 - 14:00,16:00 - 17:30; We 10:00 - 14:00,16:00 - 17:30; Th 10:00 - 14:00,16:00 - 17:30; Fr 10:00 - 14:00,16:00 - 17:30; ",
+        "details_url": "https://europa-apo-berlin.probatix.de/de/pick-slot ",
+        "opening_hours": "Mo 09:03 - 18:00; Tu 09:30 - 18:00; We 09:30 - 18:00; Th 09:30 - 18:00; Fr 09:30 - 18:00; ",
         "title": "Testzentrum europa apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
@@ -8796,7 +9104,7 @@
       "properties": {
         "location": "Hohenzollernplatz 6 14129  Berlin",
         "telephone": null,
-        "details_url": "",
+        "details_url": "https://www.coronatest-nikolassee.de/",
         "opening_hours": "Mo 08:00 - 19:00; Tu 08:00 - 19:00; We 08:00 - 19:00; Th 08:00 - 19:00; Fr 08:00 - 19:00; Sa 08:00 - 19:00; Su 10:00 - 17:00; ",
         "title": "Testzentrum Nikolassee",
         "hints": [
@@ -9206,13 +9514,13 @@
     {
       "geometry": {
         "coordinates": [
-          13.338308,
-          52.5055961
+          13.3352971,
+          52.50574169999999
         ],
         "type": "Point"
       },
       "properties": {
-        "location": "Budapester Str. 38-50 10787 Berlin",
+        "location": "Budapester Str. 50  (Rooftop 2. Etage) 10787 Berlin",
         "telephone": null,
         "details_url": "https://schnelltestberlin.de/Bikini/",
         "opening_hours": "Mo 07:00 - 20:00; Tu 07:00 - 20:00; We 07:00 - 20:00; Th 07:00 - 20:00; Fr 07:00 - 20:00; Sa 07:00 - 20:00; Su 07:00 - 20:00; ",
@@ -9280,7 +9588,7 @@
       "properties": {
         "location": "Edenkobener Weg 75 12247 Berlin",
         "telephone": null,
-        "details_url": "",
+        "details_url": "https://tuslihockey.de/",
         "opening_hours": "Tu 08:00 - 10:00,17:00 - 19:00; Th 08:00 - 10:00,17:00 - 19:00; ",
         "title": "TuS Li testet",
         "hints": [
@@ -9595,6 +9903,50 @@
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
           "Terminbuchung: mit_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4329845,
+          52.4414666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Buckower Damm 30 / Haus 2 EG 12349  Berlin",
+        "telephone": "030 7700070",
+        "details_url": "https://www.wowi-haustechnik.de/",
+        "opening_hours": "Mo 07:00 - 15:00; Tu 07:00 - 15:00; We 07:00 - 15:00; Th 07:00 - 15:00; Fr 07:00 - 15:00; ",
+        "title": "WOWI-Teststelle",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: ohne",
+          "Terminbuchung: mit_dritt"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3586055,
+          52.50056379999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "An der Apostelkirche 1 10783  Berlin",
+        "telephone": null,
+        "details_url": "http://quartier-apotheke.de/",
+        "opening_hours": "Mo 10:00 - 15:00; Tu 10:00 - 15:00; We 10:00 - 15:00; Th 10:00 - 15:00; Fr 10:00 - 15:00; Sa 10:00 - 15:00; Su 10:00 - 15:00; ",
+        "title": "Zwölf-Apostel-Kirche",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: mit",
+          "Terminbuchung: ohne_dritt"
         ]
       },
       "type": "Feature"
