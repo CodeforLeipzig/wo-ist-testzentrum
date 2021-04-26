@@ -55,8 +55,20 @@ const convertToGeoJson = (node) => {
     };
 };
 
+const isValidEntry = (entry) => {
+    // There are some entries in the original dataset without
+    // coordinates. Since those would be displayed in our map
+    // in the middle of the ocean, we filter them out using
+    // this function.
+    const [lat, lon] = entry.geometry.coordinates;
+    return lat !== 0 && lon !== 0;
+};
+
 getData()
-    .then(entries => entries.map(convertToGeoJson))
+    .then(entries =>
+        entries.map(convertToGeoJson)
+               .filter(isValidEntry)
+    )
     .then(features => (
         {
             "metadata": {
