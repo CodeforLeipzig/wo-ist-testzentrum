@@ -50,8 +50,7 @@
             "properties": {
                 "location": "Gerhard-Ellrodt-Straße 19, 04249 Leipzig",
                 "telephone": "0341 4241795",
-                "opening_hours": "Mo-Su 00:00-23:59",
-                "opening_hours_unclassified": null,
+                "opening_hours": null,
                 "hints": [
                     "nur nach telefonischer Terminvergabe"
                 ],
@@ -121,8 +120,7 @@
             "properties": {
                 "location": "Gohliser Straße 24, 04155 Leipzig",
                 "telephone": "0341 9605030",
-                "opening_hours": "Mo-Su 00:00-23:59",
-                "opening_hours_unclassified": null,
+                "opening_hours": null,
                 "hints": [
                     "Terminvergabe über https://www.lux-apotheke-leipzig.de/"
                 ],
@@ -255,8 +253,8 @@
             "properties": {
                 "location": "Kiewer Straße 30 04205 Leipzig",
                 "telephone": "0341 415151",
-                "opening_hours": "Mo-Su 00:00-23:59",
-                "opening_hours_unclassified": null,
+                "opening_hours": null,
+                "opening_hours_unclassified": "Mo-Su 00:00-23:59",
                 "hints": [
                     "Termine nach telefonischer Vereinbarung"
                 ],
@@ -275,8 +273,8 @@
             "properties": {
                 "location": "Leipziger Straße 88, 04178 Leipzig",
                 "telephone": "0341 4622 5020",
-                "opening_hours": "Mo-Su 00:00-23:59",
-                "opening_hours_unclassified": null,
+                "opening_hours": null,
+                "opening_hours_unclassified": "Mo-Su 00:00-23:59",
                 "hints": [
                     "nach vorheriger Terminvereinbarung unter www.schnelltestboehlitz.de oder telefonisch, geschlosssen: 18.06.-04.07.2021"
                 ],
@@ -333,8 +331,8 @@
             "properties": {
                 "location": "Muldentalstraße 43, 04288 Leipzig - Liebertwolkwitz",
                 "telephone": "034297 986391",
-                "opening_hours": "Mo-Su 00:00-23:59",
-                "opening_hours_unclassified": null,
+                "opening_hours": null,
+                "opening_hours_unclassified": "Mo-Su 00:00-23:59",
                 "hints": [
                     "Online-Terminvereinbarung über www.corona.ia.de - telefonische Terminvereinbarung nur in Ausnahmefällen möglich!"
                 ],
@@ -372,8 +370,8 @@
             "properties": {
                 "location": "Hainstraße 9, 04109 Leipzig",
                 "telephone": "0341 7107966",
-                "opening_hours": "Mo-Su 00:00-23:59",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Su 00:00-23:59",
+                "opening_hours": null,
                 "hints": [
                     "Termine nur nach Onlineanmeldung unter www.adler-leipzig.de"
                 ],
@@ -825,8 +823,8 @@
             "properties": {
                 "location": "Breitenfelder Straße 101, 04157 Leipzig",
                 "telephone": "0341 91859807",
-                "opening_hours": "Mo-Su 00:00-23:59",
-                "opening_hours_unclassified": null,
+                "opening_hours": null,
+                "opening_hours_unclassified": "Mo-Su 00:00-23:59",
                 "hints": [
                     "nach vorheriger Terminvereinbarung unter www.schnelltestgohlis.de oder telefonisch"
                 ],
@@ -1032,8 +1030,8 @@
             "properties": {
                 "location": "Lützner Straße 100, 04177 Leipzig",
                 "telephone": "0176 74453464",
-                "opening_hours": "Mo 13:00-17:00, Tu 15:00-19:00, We 09:00-14:00, We 15:00-19:00, Th Fr 08:00-12:00",
-                "opening_hours_unclassified": null,                
+                "opening_hours_unclassified": "Mo 13:00-17:00, Tu 15:00-19:00, We 09:00-14:00, We 15:00-19:00, Th Fr 08:00-12:00",
+                "opening_hours": null,                
                 "hints": [
                     "Geöffnet Mo - Su, Aktuelle Öffnungszeiten &amp; Buchung unter www.testzentrum-lindenau.de oder testzentrumlindenau@gmail.com",
                     "Schnelltests, aber auch Bestätigungs-PCR-Tests nach positivem Schnelltestergebnis"
@@ -1256,8 +1254,8 @@
             "properties": {
                 "location": "Bornaische Straße 41, 04277 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Sa 00:00-23:59",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Sa 00:00-23:59",
+                "opening_hours": null,
                 "title": "Luisen-Apotheke",
                 "hints": [
                     "Terminvergabe über www.apotheke-connewitz.de"
@@ -1276,8 +1274,8 @@
             "properties": {
                 "location": "Brandenburger Straße 5, 04103 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Sa 8:00-19:00, Termine unter 0172/7622951",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Sa 8:00-19:00, Termine unter 0172/7622951",
+                "opening_hours": null,
                 "title": "OBI-Bau- und Heimwerkermarkt Hauptbahnhof"
             },
             "type": "Feature"
@@ -1293,8 +1291,8 @@
             "properties": {
                 "location": "Holzhäuser Straße 72, 04299 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo/We 8:00-12:00 und 16:00-20:00 Uhr, Sa 9:00-12:00 Uhr, Su 15:00-18:00 Uhr, Telefon 0152/07426232 - www.kee-leipzig.de",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo/We 8:00-12:00 und 16:00-20:00 Uhr, Sa 9:00-12:00 Uhr, Su 15:00-18:00 Uhr, Telefon 0152/07426232 - www.kee-leipzig.de",
+                "opening_hours": null,
                 "title": "Testzentrum Stötteritz"
             },
             "type": "Feature"
@@ -1310,8 +1308,8 @@
             "properties": {
                 "location": "Lindenthaler Hauptstraße 71, 04158 Leipzig",
                 "telephone": "",
-                "opening_hours": "Telefon 0341/92790086",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Telefon 0341/92790086",
+                "opening_hours": null,
                 "title": "PhysioMobil-Leipzig Nadin Heinze"
             },
             "type": "Feature"
@@ -1327,8 +1325,8 @@
             "properties": {
                 "location": "Lützner Straße 92, 04177 Leipzig",
                 "telephone": "",
-                "opening_hours": "Geöffnet Mo-Su, Aktuelle Öffnungszeiten &amp; Terminbuchung unter www.testzentrum-leipzig-west.de oder per Mail an termin@testzentrum-leipzig-west.de",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Geöffnet Mo-Su, Aktuelle Öffnungszeiten &amp; Terminbuchung unter www.testzentrum-leipzig-west.de oder per Mail an termin@testzentrum-leipzig-west.de",
+                "opening_hours": null,
                 "title": "Physiotherapie Lindenau"
             },
             "type": "Feature"
@@ -1344,8 +1342,8 @@
             "properties": {
                 "location": "Miltitzer Straße 13, 04178 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Sa 7-20, Terminvereinbarung unter www.coronatest-eu.com oder telefonisch unter 02327/947979",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Sa 7-20, Terminvereinbarung unter www.coronatest-eu.com oder telefonisch unter 02327/947979",
+                "opening_hours": null,
                 "title": "Kloepfel Operations GmbH"
             },
             "type": "Feature"
@@ -1361,8 +1359,8 @@
             "properties": {
                 "location": "Zschortauer Straße 96, 04129 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Su 7-20, Terminbuchung unter www.leipzig-coronatestzentrum.de oder unter 0174/4004062",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Su 7-20, Terminbuchung unter www.leipzig-coronatestzentrum.de oder unter 0174/4004062",
+                "opening_hours": null,
                 "title": "leipzig-coronatestzentrum.de"
             },
             "type": "Feature"
@@ -1378,8 +1376,8 @@
             "properties": {
                 "location": "Tauchaer Straße 83, 04349 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo/We 8-12, Tu 12-16 Uhr, Th 12-18 Uhr, Fr 8-11 Uhr, telefonisch unter 0341/9218799",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo/We 8-12, Tu 12-16 Uhr, Th 12-18 Uhr, Fr 8-11 Uhr, telefonisch unter 0341/9218799",
+                "opening_hours": null,
                 "title": "Praxis für Physiotherapie Lindner/Perl"
             },
             "type": "Feature"
@@ -1395,8 +1393,8 @@
             "properties": {
                 "location": "Miltitzer Straße 13, 04178 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Sa 10-14",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Sa 10-14",
+                "opening_hours": null,
                 "title": "Apotheke am Löwencenter"
             },
             "type": "Feature"
@@ -1412,8 +1410,8 @@
             "properties": {
                 "location": "Parkplatz Handelsstraße/Walter-Köhn-Straße,04356 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 9-19, Sa 9-16 Uhr, Terminvergabe unter www.schnelltest-sachsenpark.de",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Fr 9-19, Sa 9-16 Uhr, Terminvergabe unter www.schnelltest-sachsenpark.de",
+                "opening_hours": null,
                 "title": "Corona Schnelltestzentrum Sachsen Park"
             },
             "type": "Feature"
@@ -1429,8 +1427,8 @@
             "properties": {
                 "location": "Am Sportforum 2, 04105 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 15-17, Terminvergabe unter 0341/231065371",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Fr 15-17, Terminvergabe unter 0341/231065371",
+                "opening_hours": null,
                 "title": "Reinker - Ambulante Rehabilitation Leipzig GmbH"
             },
             "type": "Feature"
@@ -1446,8 +1444,8 @@
             "properties": {
                 "location": "Kieler Straße 51, 04357 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 12-14, Terminvereinbarung unter 0341/6025762",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Fr 12-14, Terminvereinbarung unter 0341/6025762",
+                "opening_hours": null,
                 "title": "Friseur-Salon Jeanette Siegert-Schönfisch"
             },
             "type": "Feature"
@@ -1463,8 +1461,8 @@
             "properties": {
                 "location": "Delitzscher Straße 66, 04129 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 8-19, Sa 8-16 Uhr, Su 11-17 Uhr, Terminvereinbarung unter 0341/25696067",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Fr 8-19, Sa 8-16 Uhr, Su 11-17 Uhr, Terminvereinbarung unter 0341/25696067",
+                "opening_hours": null,
                 "title": "Cherry Nails"
             },
             "type": "Feature"
@@ -1480,8 +1478,8 @@
             "properties": {
                 "location": "Barfußgäßchen 12, 04109 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 9-21, Sa/Su 14-21 Uhr",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Fr 9-21, Sa/Su 14-21 Uhr",
+                "opening_hours": null,
                 "title": "Chocolate"
             },
             "type": "Feature"
@@ -1497,8 +1495,8 @@
             "properties": {
                 "location": "Augustusplatz 8, 04109 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo/Fr 8-20, Tu-Th 8-18 Uhr, Sa 8-18 Uhr, Telefon 0341/1270257",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo/Fr 8-20, Tu-Th 8-18 Uhr, Sa 8-18 Uhr, Telefon 0341/1270257",
+                "opening_hours": null,
                 "title": "CovidZentrum im Gewandhaus zu Leipzig"
             },
             "type": "Feature"
@@ -1514,8 +1512,8 @@
             "properties": {
                 "location": "Thomasgasse 2, 04109 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 8-15 und Sa-Su 10-14 Uhr, Für ein digitales Ergebnis ohne Wartezeit vor Ort, ist eine vorab Registrierung möglich unter www.buergertest-leipzig.de oder vor Ort.",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Fr 8-15 und Sa-Su 10-14 Uhr, Für ein digitales Ergebnis ohne Wartezeit vor Ort, ist eine vorab Registrierung möglich unter www.buergertest-leipzig.de oder vor Ort.",
+                "opening_hours": null,
                 "title": "Pascucci Leipzig"
             },
             "type": "Feature"
@@ -1531,8 +1529,8 @@
             "properties": {
                 "location": "Nikolai-Rumjanzew-Straße 100, 04207 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo/Tu/Th 7.30-15, We/Fr 10-17 Uhr, keine Anmeldung notwendig oder mit Terminvereinbarung über www.sanktgeorg.de",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo/Tu/Th 7.30-15, We/Fr 10-17 Uhr, keine Anmeldung notwendig oder mit Terminvereinbarung über www.sanktgeorg.de",
+                "opening_hours": null,
                 "title": "Testzentrum Robert-Koch-Klinikum"
             },
             "type": "Feature"
@@ -1548,8 +1546,8 @@
             "properties": {
                 "location": "Gießerstraße 37, 04229 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Sa 8-20, Telefon 0209/7027919995, toom.leipzig-plagwitz@hi-competence.com",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Sa 8-20, Telefon 0209/7027919995, toom.leipzig-plagwitz@hi-competence.com",
+                "opening_hours": null,
                 "title": "toom Plagwitz"
             },
             "type": "Feature"
@@ -1565,8 +1563,8 @@
             "properties": {
                 "location": "Torgauer Straße 271, 04347 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Sa 8-20, Telefon 0209/7027919995, toom.leipzig-heiterblick@hi-competence.com",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Sa 8-20, Telefon 0209/7027919995, toom.leipzig-heiterblick@hi-competence.com",
+                "opening_hours": null,
                 "title": "toom Heiterblick"
             },
             "type": "Feature"
@@ -1582,8 +1580,8 @@
             "properties": {
                 "location": "Riesaer Straße 102, 04319 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Sa 8-20, Telefon 0209/7027919995, toom.leipzig-engelsdorf@hi-competence.com",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Sa 8-20, Telefon 0209/7027919995, toom.leipzig-engelsdorf@hi-competence.com",
+                "opening_hours": null,
                 "title": "toom Engelsdorf"
             },
             "type": "Feature"
@@ -1599,8 +1597,8 @@
             "properties": {
                 "location": "Grimmaische Straße 19, 04109 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 8.30-10, 11-13 Uhr, 16-17 Uhr, Sa 11-13 Uhr, 16-17 Uhr, Terminvergabe unter www.stadt-apotheke-leipzig.de",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Fr 8.30-10, 11-13 Uhr, 16-17 Uhr, Sa 11-13 Uhr, 16-17 Uhr, Terminvergabe unter www.stadt-apotheke-leipzig.de",
+                "opening_hours": null,
                 "title": "Stadt-Apotheke Leipzig"
             },
             "type": "Feature"
@@ -1616,8 +1614,8 @@
             "properties": {
                 "location": "Delitzscher Straße 137, 04129 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Su 6-18.30",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Su 6-18.30",
+                "opening_hours": null,
                 "title": "Apotheke am Sanct Georg"
             },
             "type": "Feature"
@@ -1633,8 +1631,8 @@
             "properties": {
                 "location": "Tauchaer Straße 83, 04349 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 8-18, Sa 10-15 Uhr, Anmeldung unter info@corona-testen-leipzig.de oder www.corona-testen-leipzig.de",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Fr 8-18, Sa 10-15 Uhr, Anmeldung unter info@corona-testen-leipzig.de oder www.corona-testen-leipzig.de",
+                "opening_hours": null,
                 "title": "Corona Lab Testzentrum"
             },
             "type": "Feature"
@@ -1650,8 +1648,8 @@
             "properties": {
                 "location": "Spinnereistraße 7, 04179 Leipzig",
                 "telephone": "",
-                "opening_hours": "Einmaliger Testtermin am 24.04.2021, 11-17, dann immer Mo/Th 7-13 Uhr",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Einmaliger Testtermin am 24.04.2021, 11-17, dann immer Mo/Th 7-13 Uhr",
+                "opening_hours": null,
                 "title": "COMMUNITY TESTCENTER Spinnerei"
             },
             "type": "Feature"
@@ -1667,8 +1665,8 @@
             "properties": {
                 "location": "Adenauerallee 3, 04347 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 10-19, kontakt@kuechenschmiede-leipzig.de",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Fr 10-19, kontakt@kuechenschmiede-leipzig.de",
+                "opening_hours": null,
                 "title": "Küchenschmiede Leipzig GmbH"
             },
             "type": "Feature"
@@ -1684,8 +1682,8 @@
             "properties": {
                 "location": "Haydnstraße 12, 04107 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Th 8-10 und 17-20 Uhr, Fr 8-10 Uhr und 15-17 Uhr, Sa 9-12, Su 18-20 / Testzeiten für Patienten Montag-Freitag ganztägig, weitere Termine auf Anfrage / Terminvereinbarung unter 0341/4808890 oder 0173/5751513 oder kontakt@fama-aktiv.de",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Th 8-10 und 17-20 Uhr, Fr 8-10 Uhr und 15-17 Uhr, Sa 9-12, Su 18-20 / Testzeiten für Patienten Montag-Freitag ganztägig, weitere Termine auf Anfrage / Terminvereinbarung unter 0341/4808890 oder 0173/5751513 oder kontakt@fama-aktiv.de",
+                "opening_hours": null,
                 "title": "FAMA-AKTIV GmbH / Physiotherapie"
             },
             "type": "Feature"
@@ -1701,8 +1699,8 @@
             "properties": {
                 "location": "Neumarkt 26, 04109 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 8.30-16.30, Sa 9.30-16 Uhr, Terminvereinbarung unter 0341/14991203",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Fr 8.30-16.30, Sa 9.30-16 Uhr, Terminvereinbarung unter 0341/14991203",
+                "opening_hours": null,
                 "title": "Corona-Testcenter Hof-Apotheke am Neumarkt"
             },
             "type": "Feature"
@@ -1718,8 +1716,8 @@
             "properties": {
                 "location": "Eisenbahnstraße 73-75, 04315 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 9-18",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Fr 9-18",
+                "opening_hours": null,
                 "title": "Praxis für Physiowelt"
             },
             "type": "Feature"
@@ -1735,8 +1733,8 @@
             "properties": {
                 "location": "Hallesche Straße 214, 04159 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Sa 8-20",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Sa 8-20",
+                "opening_hours": null,
                 "title": "Kloepfel Operations GmbH"
             },
             "type": "Feature"
@@ -1752,8 +1750,8 @@
             "properties": {
                 "location": "Pestalozzistraße 49, 04178 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr nach Vereinbarung, telefonisch unter 0176/84170602 oder unter nwoltschleger@web.de",
-                "opening_hours_unclassified": null,
+                "opening_hours_unclassified": "Mo-Fr nach Vereinbarung, telefonisch unter 0176/84170602 oder unter nwoltschleger@web.de",
+                "opening_hours": null,
                 "title": "Nagelstudio Mayfair"
             },
             "type": "Feature"
@@ -1769,8 +1767,8 @@
             "properties": {
                 "location": "Torgauer Platz 1 (auf dem Marktplatz), 04315 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 8-18, Sa/Su 10-15 Uhr",
-                "opening_hours_unclassified": null,
+                "opening_hours": null,
+                "opening_hours_unclassified": "Mo-Fr 8-18, Sa/Su 10-15 Uhr",
                 "title": "Das CoronaSchnelltest-Zentrum Mohamad Mohamad"
             },
             "type": "Feature"
