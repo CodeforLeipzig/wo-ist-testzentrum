@@ -203,7 +203,7 @@ function getOpeningTimes(openingHoursStrings) {
         }
     } catch (e) {
         console.log(`Could not parse ${openingHoursStrings}`)
-        return null;            
+        return null;
     }
 }
 
@@ -245,9 +245,9 @@ function initMarker(feature) {
         openingHoursUnclassified = properties.opening_hours_unclassified;
     } else {
         var openingTimes = getOpeningTimes(openingHoursStrings);
-        /* If no opening hours or a next date, don't show a marker. */
+        /* If no opening hours or a next date, show warning. */
         if (openingTimes === null) {
-            return;
+            timeTableHtml = '<p><strong>Achtung!</strong> Für dieses Testzentrum sind uns keine Öffnungszeiten bekannt. Bitte informieren Sie sich vor einem Besuch auf der Webseite des Anbieters über Öffnungszeiten!</p>';
         }
         /* Are there opening hours in the current week? */
         else if (openingTimes.hasOwnProperty('intervals')) {
@@ -289,7 +289,7 @@ function initMarker(feature) {
             for (var index in hints) {
                 hintStr += '<li>' + hints[index] + '</li>';
             }
-            hints = '</ul></p>'    
+            hints = '</ul></p>'
         }
     } else {
         hintStr = '';
@@ -603,4 +603,3 @@ $(document).ready(function() {
     $('#btnToggleHeader').click(toggleHeader);
     fixMapHeight();
 });
-
