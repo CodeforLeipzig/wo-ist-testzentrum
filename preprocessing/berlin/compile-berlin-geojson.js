@@ -31,6 +31,25 @@ const convertToOpeningHours = (openingString) => {
     }, "");
 };
 
+const appointmentMap = {
+    "mit": "notwendig",
+    "mit_dritt": "notwendig",
+    "möglich": "telefonisch möglich",
+    "moeglich": "möglich",
+    "moeglich_dritt": "möglich",
+    "ohne": "nicht notwendig",
+    "ohne_dritt": "nicht notwendig",
+};
+
+const accessibilityMap = {
+    "mit": "ja",
+    "ohne": "nein",
+}
+
+const convertToHumanReadable = (valuesMap, value) => {
+    return value && valuesMap[value.toLowerCase()] || value
+};
+
 const convertToGeoJson = (node) => {
     return {
         "geometry": {
@@ -47,8 +66,8 @@ const convertToGeoJson = (node) => {
             "title": node.title,
             "hints": [
                 `PCR-Nachtestung: ${node.pcr_nachtestung || "nein"}`,
-                `Barrierefreiheit: ${node.barrierefreiheit || "nein"}`,
-                `Terminbuchung: ${node.terminbuchung}`,
+                `Barrierefreiheit: ${convertToHumanReadable(accessibilityMap, node.barrierefreiheit) || "nein"}`,
+                `Terminbuchung: ${convertToHumanReadable(appointmentMap, node.terminbuchung)}`,
             ],
         },
         "type": "Feature"

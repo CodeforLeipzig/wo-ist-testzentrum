@@ -23,8 +23,8 @@
         "title": "030 CoronaTestStation",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -45,8 +45,8 @@
         "title": "10 Minuten-Schnelltest | Testcenter Havanna Schöneberg",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -67,8 +67,8 @@
         "title": "100test.de Stresemannstraße",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -89,8 +89,8 @@
         "title": "10115 Teststelle -Novalisstraße",
         "hints": [
           "PCR-Nachtestung: ja",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -112,7 +112,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -133,8 +133,8 @@
         "title": "10117 Testzentrum Gendarmenmarkt",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -155,8 +155,8 @@
         "title": "10119 Teststelle Rosenthaler Platz",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -177,8 +177,8 @@
         "title": "10243 Coronatest.de S/U Ostbahnhof",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -200,7 +200,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -221,8 +221,8 @@
         "title": "10777 Testzentrum im Metropol",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -244,7 +244,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -265,8 +265,8 @@
         "title": "10969 Coronazentrum U-Bhf. Kochstraße",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -288,7 +288,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -309,8 +309,8 @@
         "title": "12099 Coronatest.de U Alt-Tempelhof",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -331,8 +331,30 @@
         "title": "12101 Coronatest.de S/U Südkreuz",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4167898,
+          52.5111848
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Brückenstrasse 1 10179 Berlin",
+        "telephone": null,
+        "details_url": "http://www.123test-kitkat.club",
+        "opening_hours": "Mo 09:00 - 16:00; Tu 09:00 - 16:00; We 09:00 - 16:00; Th 09:00 - 16:00; Fr 09:00 - 16:00; Sa 09:00 - 16:00; ",
+        "title": "123test KitKatClub",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -353,8 +375,30 @@
         "title": "12459 Teststelle WHITE Spreelounge",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.36786,
+          52.54396999999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Lindower Str. 18   13347 Berlin",
+        "telephone": null,
+        "details_url": "https://schnelltestberlin.de/buergertest-wedding/",
+        "opening_hours": "Mo 07:00 - 20:00; Tu 07:00 - 20:00; We 07:00 - 20:00; Th 07:00 - 20:00; Fr 07:00 - 20:00; Sa 07:00 - 20:00; Su 07:00 - 20:00; ",
+        "title": "13347 Testzentrum S-Bhf Wedding | Schnelltestberlin",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -375,8 +419,8 @@
         "title": "14057 Coronatest.de ZOB",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -397,8 +441,8 @@
         "title": "15 Minuten-Schnelltest | Corona Testzentrum Schmargendorf",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -419,8 +463,8 @@
         "title": "15-Minuten-Coronatest-Berlin-Mitte",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -442,7 +486,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -463,8 +507,8 @@
         "title": "15Minutentest.de / Wrangelkiez",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -485,8 +529,8 @@
         "title": "365+ Adlershof",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -507,8 +551,8 @@
         "title": "365+ Lichtenberg",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -529,8 +573,8 @@
         "title": "365+ Neukölln",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -551,8 +595,8 @@
         "title": "365+ Pankow",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -573,8 +617,8 @@
         "title": "365+ Prenzlauer Berg",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -595,8 +639,8 @@
         "title": "365+ Reinickendorf",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -617,8 +661,8 @@
         "title": "365+ Spandau01",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -639,8 +683,8 @@
         "title": "365+ Spandau02",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -661,8 +705,8 @@
         "title": "365+ Steglitz",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -683,8 +727,8 @@
         "title": "365+ Wedding",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -705,8 +749,30 @@
         "title": "3xHNO",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3722315,
+          52.5550149
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Heinz-Galinski-Str. 15   13347 Berlin",
+        "telephone": "0157 81391965",
+        "details_url": "",
+        "opening_hours": "Mo 08:00 - 20:00; Tu 08:00 - 20:00; We 08:00 - 20:00; Th 08:00 - 20:00; Fr 08:00 - 20:00; Sa 08:00 - 20:00; Su 10:00 - 18:00; ",
+        "title": "7 Days Test",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -727,8 +793,8 @@
         "title": "Adlon Kempinski Teststation Behrenstraße",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -749,8 +815,8 @@
         "title": "AER Oppelner",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -772,7 +838,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -793,8 +859,8 @@
         "title": "AIG Schnelltest Zentrum",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -815,8 +881,8 @@
         "title": "AIG Schnelltestzentrum Tempelhof",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -837,8 +903,8 @@
         "title": "AIK Ambulante Intensiv Krankenpflege GmbH",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -859,8 +925,8 @@
         "title": "Alexa Testzentrum",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -881,8 +947,8 @@
         "title": "Allende Center Köpenick",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -903,8 +969,8 @@
         "title": "Altonaer-Corona-Teststation",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -926,7 +992,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -947,8 +1013,8 @@
         "title": "Amsel Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -970,7 +1036,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -991,8 +1057,8 @@
         "title": "Apotheke am Adenauerplatz Teststelle",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1014,7 +1080,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1035,8 +1101,8 @@
         "title": "Apotheke am Funkturm",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -1058,7 +1124,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -1080,7 +1146,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -1102,7 +1168,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -1123,8 +1189,8 @@
         "title": "Apotheke am Moritzplatz",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -1146,7 +1212,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1167,8 +1233,8 @@
         "title": "Apotheke am Steubenplatz",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -1189,8 +1255,8 @@
         "title": "Apotheke am Strausberger Platz",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1211,8 +1277,8 @@
         "title": "Apotheke am T-Damm",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -1233,8 +1299,8 @@
         "title": "Apotheke Carmer-7",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1255,8 +1321,8 @@
         "title": "Apotheke im Bismarck-Karree",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1278,7 +1344,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1299,8 +1365,8 @@
         "title": "Apotheke im Ring-Center I",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -1322,7 +1388,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: ohne_dritt"
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -1343,8 +1409,8 @@
         "title": "Apotheke Impuls",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1366,7 +1432,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -1388,7 +1454,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1409,8 +1475,30 @@
         "title": "ASB-Teststation in der Mall of Berlin",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4092793,
+          52.5207132
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Panoramastraße 1A 10178 Berlin",
+        "telephone": null,
+        "details_url": "http://www.asb-test.de",
+        "opening_hours": "Mo 12:00 - 18:00; Tu 12:00 - 18:00; We 12:00 - 18:00; Th 12:00 - 18:00; Fr 12:00 - 18:00; Sa 12:00 - 18:00; Su 12:00 - 18:00; ",
+        "title": "ASB-Teststation Mitte am Alexanderplatz",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1432,7 +1520,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: ohne_dritt"
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -1454,7 +1542,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1475,8 +1563,8 @@
         "title": "BellaDerma - Teststation Corona",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1497,8 +1585,8 @@
         "title": "Berg-Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1520,7 +1608,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1542,7 +1630,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: ohne_dritt"
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -1564,7 +1652,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -1586,7 +1674,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -1607,8 +1695,8 @@
         "title": "BG Mobil-Testen",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1630,7 +1718,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1651,8 +1739,30 @@
         "title": "Birken Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.46362,
+          52.49793
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Stralauer Allee 17c   10245 Berlin",
+        "telephone": "030 45957175",
+        "details_url": "https://blackswangroup.de/",
+        "opening_hours": "Mo 08:00 - 20:00; Tu 08:00 - 20:00; We 08:00 - 20:00; Th 08:00 - 20:00; Fr 08:00 - 20:00; ",
+        "title": "Black Swan",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1674,7 +1784,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1695,8 +1805,8 @@
         "title": "Brandenburger Tor Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -1717,8 +1827,8 @@
         "title": "Brooks Testzentrum",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1740,7 +1850,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1761,8 +1871,8 @@
         "title": "Bürgertest Berlin Schönberg",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1783,8 +1893,8 @@
         "title": "Café Wohnzimmer",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1805,8 +1915,8 @@
         "title": "Cartal Medical",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1822,13 +1932,13 @@
       "properties": {
         "location": "Neuenburger Straße 19 10969 Berlin",
         "telephone": null,
-        "details_url": "",
+        "details_url": "https://www.checkpoint-schnelltest.de/",
         "opening_hours": "Mo 08:00 - 20:00; Tu 08:00 - 20:00; We 08:00 - 20:00; Th 08:00 - 20:00; Fr 08:00 - 20:00; Sa 08:00 - 20:00; Su 08:00 - 20:00; ",
         "title": "Checkpoint Schnelltest",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1849,8 +1959,30 @@
         "title": "COBUSTERS @EDEKA Lawrenz Alt-Treptow",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4295003,
+          52.57157060000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Rothenbachstr. 1 13089  Berlin",
+        "telephone": null,
+        "details_url": "https://clickandtest.de/COBUSTERSPankow",
+        "opening_hours": "Mo 09:00 - 19:00; Tu 09:00 - 19:00; We 09:00 - 19:00; Th 09:00 - 19:00; Fr 09:00 - 19:00; ",
+        "title": "COBUSTERS @ShellTankstelle Pankow",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1871,8 +2003,8 @@
         "title": "COBUSTERS Corona-Schnelltest-Team",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1893,8 +2025,8 @@
         "title": "COBUSTERS Schwiliko Schlesische Str. 29",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1915,8 +2047,8 @@
         "title": "Corona Express Test am Ku'damm",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -1937,8 +2069,8 @@
         "title": "Corona Express Test Berlin Moselstr.",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1959,8 +2091,30 @@
         "title": "Corona Express Test Berlin Ringstr.",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3430891,
+          52.5023382
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Wittenbergplatz 5 10789  Berlin",
+        "telephone": "0162 4042617",
+        "details_url": "https://professionaleventsallinone.com/",
+        "opening_hours": "Mo 10:00 - 19:00; Tu 10:00 - 19:00; We 10:00 - 19:00; Th 10:00 - 19:00; Fr 10:00 - 19:00; Sa 10:00 - 19:00; ",
+        "title": "Corona Quicktest am Wittenbergplatz",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -1982,7 +2136,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -2003,8 +2157,8 @@
         "title": "Corona Schnelltest Charlottenstr.",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -2026,7 +2180,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2047,8 +2201,8 @@
         "title": "Corona Schnelltest Station Spandau",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -2069,8 +2223,8 @@
         "title": "Corona Schnelltest Station To Go",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2092,7 +2246,29 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3569788,
+          52.4859066
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Kaiser-Wilhelm-Platz 1 10827 Berlin",
+        "telephone": null,
+        "details_url": "https://app.no-q.info/corona-schnelltest-schoeneberg-kwa/checkins#",
+        "opening_hours": "Mo 09:00 - 18:00; Tu 09:00 - 18:00; We 09:00 - 18:00; Th 09:00 - 18:00; Fr 09:00 - 18:00; Sa 09:00 - 14:00; ",
+        "title": "Corona Schnelltestzentrum Kaiser-Wilhelm-Apotheke",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2114,7 +2290,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -2136,7 +2312,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -2158,7 +2334,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -2180,7 +2356,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2201,8 +2377,30 @@
         "title": "Corona Test Station Berlin",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4737248,
+          52.45433629999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Späthstraße 80-81 12437 Berlin",
+        "telephone": null,
+        "details_url": "https://test-station.berlin/",
+        "opening_hours": "Mo 08:30 - 18:00; Tu 08:30 - 18:00; We 08:30 - 18:00; Th 08:30 - 18:00; Fr 08:30 - 18:00; Sa 08:30 - 18:00; Su 08:30 - 18:00; ",
+        "title": "Corona Test Station Berlin Späthstraße",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2223,8 +2421,8 @@
         "title": "Corona Test Zentrum Kreuzberg Kottbusser Str.",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2246,7 +2444,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2267,8 +2465,8 @@
         "title": "Corona Test-Zentrum Alt-Rudow",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2290,7 +2488,7 @@
         "hints": [
           "PCR-Nachtestung: mit",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -2311,8 +2509,8 @@
         "title": "Corona Testcenter Berlin",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2333,8 +2531,8 @@
         "title": "Corona Teststation Allende-Center",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2355,8 +2553,8 @@
         "title": "Corona Teststation Berlin-Wannsee",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2377,8 +2575,8 @@
         "title": "Corona Teststation Immelmann Alt-Biesdorf",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2399,8 +2597,8 @@
         "title": "Corona Teststation Immelmann An der Ostbahn",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2421,8 +2619,8 @@
         "title": "Corona Teststation Immelmann Attilastr.",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2443,8 +2641,8 @@
         "title": "Corona Teststation Immelmann Ellen-Epstein-Str.",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2465,8 +2663,8 @@
         "title": "Corona Teststation Immelmann Ferdinand-Schultze-Str.",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2487,8 +2685,8 @@
         "title": "Corona Teststation Immelmann Roelckestr.",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2509,8 +2707,8 @@
         "title": "Corona Teststation Immelmann Salvador-Allende-Str.",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2531,8 +2729,8 @@
         "title": "Corona Teststation Immelmann Yorckstr.",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2553,8 +2751,8 @@
         "title": "Corona Teststation Marienfelder Chaussee",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2575,8 +2773,8 @@
         "title": "Corona Teststation Neukölln Fuldastr.",
         "hints": [
           "PCR-Nachtestung: moeglich_dritt",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2597,8 +2795,8 @@
         "title": "Corona Teststation U-Bahnhof Franz Neumann Platz",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2619,8 +2817,8 @@
         "title": "Corona Teststation U-Bahnhof Residenzstraße",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2641,8 +2839,8 @@
         "title": "Corona Teststelle Lichterfelde Ost",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -2664,7 +2862,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2686,7 +2884,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2707,8 +2905,8 @@
         "title": "Corona Testzentrum Boxhagenerstr.67",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -2730,7 +2928,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2751,8 +2949,8 @@
         "title": "Corona Testzentrum NEUKÖLLN Erkstr. 6",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -2773,8 +2971,8 @@
         "title": "Corona Testzentrum Prenzlauer Allee",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2796,7 +2994,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: ohne_dritt"
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -2817,8 +3015,8 @@
         "title": "Corona Testzentrum purus curae",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2839,8 +3037,30 @@
         "title": "Corona Testzentrum Tempelhof",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3294329,
+          52.5023814
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Meinekestr. 25 10719  Berlin",
+        "telephone": null,
+        "details_url": "",
+        "opening_hours": "Mo 08:00 - 20:00; Tu 08:00 - 20:00; We 08:00 - 20:00; Th 08:00 - 20:00; Fr 08:00 - 20:00; Sa 08:00 - 20:00; ",
+        "title": "Corona-City",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -2861,8 +3081,30 @@
         "title": "Corona-Express-Test Manfred-von Richthofen-Str.",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2152971,
+          52.5645531
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Mertensstr. 36 13587  Berlin",
+        "telephone": "0176 43439643",
+        "details_url": "http://www.kaya-hygiene.com/defaultsite",
+        "opening_hours": "Mo 09:00 - 17:00; Tu 09:00 - 17:00; We 09:00 - 17:00; Th 09:00 - 17:00; Fr 09:00 - 17:00; Sa 09:00 - 17:00; Su 09:00 - 17:00; ",
+        "title": "Corona-Schnelltest KAYA",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2883,8 +3125,8 @@
         "title": "Corona-Schnelltestzentrum ZAUM",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2906,7 +3148,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -2928,7 +3170,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2949,8 +3191,8 @@
         "title": "Corona-Teststation Tegel-Süd",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2971,8 +3213,8 @@
         "title": "Corona-Testzentrum Köpenick im Jokerbowl",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -2993,8 +3235,8 @@
         "title": "Corona-Testzentrum-Berlin",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3015,30 +3257,8 @@
         "title": "Coronapoint Berlin",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.3586055,
-          52.50056379999999
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "An der Apostelkirche 1 10783  Berlin",
-        "telephone": null,
-        "details_url": "",
-        "opening_hours": "Mo 10:30 - 15:00; Tu 10:00 - 15:00; We 10:00 - 15:00; Th 10:00 - 15:00; Fr 10:00 - 15:00; Sa 10:00 - 15:00; Su 10:00 - 15:00; ",
-        "title": "Coronatest 12 Apostel Kirche",
-        "hints": [
-          "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3060,7 +3280,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3081,8 +3301,8 @@
         "title": "Coronatest-Berlin",
         "hints": [
           "PCR-Nachtestung: mit",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3103,8 +3323,8 @@
         "title": "Coronatest-Berlin Friedrichstraße",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3125,8 +3345,8 @@
         "title": "Coronatest-in-Berlin",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3147,8 +3367,8 @@
         "title": "Coronatest-Markus-Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -3169,8 +3389,8 @@
         "title": "Coronatest-Steglitz.com",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3191,8 +3411,30 @@
         "title": "Coronatest-Tegel.Com",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3484987,
+          52.5411787
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Fehmarner Str. 25  13353 Berlin",
+        "telephone": null,
+        "details_url": "https://coronatestung-berlin.de/",
+        "opening_hours": "Mo 08:00 - 20:00; Tu 08:00 - 20:00; We 08:00 - 20:00; Th 08:00 - 20:00; Fr 08:00 - 20:00; Sa 08:00 - 20:00; Su 08:00 - 20:00; ",
+        "title": "Coronatestung Berlin",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -3213,8 +3455,30 @@
         "title": "Coronatestzentrum im Boulevard Berlin",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.57783,
+          52.44589999999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Jägerstr.4 12555 Berlin",
+        "telephone": null,
+        "details_url": "https://testtermin.de/schuesslerplatz-berlin",
+        "opening_hours": "Mo 08:00 - 19:00; Tu 08:00 - 19:00; We 08:00 - 19:00; Th 08:00 - 19:00; Fr 08:00 - 19:00; ",
+        "title": "Coronazentrum am Schüßlerplatz",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3236,7 +3500,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3258,7 +3522,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3280,7 +3544,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3302,7 +3566,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3324,7 +3588,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3346,7 +3610,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3367,8 +3631,8 @@
         "title": "COVID-Freetest",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -3389,8 +3653,8 @@
         "title": "Covid19-Testzentrum-Berlin",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3411,8 +3675,8 @@
         "title": "Covidservicepoint Berlin-Steglitz",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3434,7 +3698,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3456,7 +3720,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3477,8 +3741,8 @@
         "title": "CovidZentrum in der Deutschen Oper Berlin",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3500,7 +3764,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3522,7 +3786,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3543,8 +3807,8 @@
         "title": "CovidZentrum.de East Side Mall",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3565,8 +3829,8 @@
         "title": "Curtius Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3587,8 +3851,8 @@
         "title": "Dafne Apotheke am Neuköllner Tor",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -3609,8 +3873,8 @@
         "title": "Dafne Apotheke Schöneberg",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -3631,8 +3895,8 @@
         "title": "Dafne Apotheke Wedding",
         "hints": [
           "PCR-Nachtestung: mit",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -3653,8 +3917,8 @@
         "title": "DC DERMACURA",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3676,7 +3940,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3698,7 +3962,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3720,7 +3984,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3742,7 +4006,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3763,8 +4027,8 @@
         "title": "Deutsches Corona Testzentrum Köpenick",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3785,8 +4049,8 @@
         "title": "Deutsches Corona Testzentrum Pankow",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3807,8 +4071,8 @@
         "title": "Diana Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3829,8 +4093,8 @@
         "title": "dieTeststation - Boxi Kiez",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3851,8 +4115,8 @@
         "title": "dieTeststation - Spree Center / U Kaulsdorf Nord",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3873,8 +4137,8 @@
         "title": "dieTeststation Hellersdorf - Riesaer Str.",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3895,8 +4159,8 @@
         "title": "dm-Markt 1162",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3917,8 +4181,8 @@
         "title": "dm-Steglitz Boulevard",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -3940,7 +4204,29 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: ohne_dritt"
+          "Terminbuchung: nicht notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3451342,
+          52.4374186
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Leonorenstr. 89 12247  Berlin",
+        "telephone": null,
+        "details_url": "https://www.drake-apotheke.de/",
+        "opening_hours": "Mo 08:00 - 17:00; Tu 08:00 - 17:00; We 08:00 - 17:00; Th 08:00 - 17:00; Fr 08:00 - 17:00; ",
+        "title": "Drake Apotheke Testzentrum im Ärztehaus",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3962,7 +4248,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -3984,7 +4270,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4005,8 +4291,8 @@
         "title": "DRK Teststelle Genthiner Straße",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4022,13 +4308,13 @@
       "properties": {
         "location": "Coldizstr. 27/29 12099 Berlin",
         "telephone": null,
-        "details_url": "",
+        "details_url": "https://wirtesten.online/corona-teststation",
         "opening_hours": "Mo 08:00 - 18:00; Tu 08:00 - 18:00; We 08:00 - 18:00; Th 08:00 - 18:00; Fr 08:00 - 18:00; Sa 08:00 - 18:00; ",
         "title": "Easy Dienstleitungen Testzentrum",
         "hints": [
-          "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -4049,8 +4335,8 @@
         "title": "Easy-Apotheke im Forum Steglitz",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4071,8 +4357,30 @@
         "title": "easyApotheke Neukölln Arcaden",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3620592,
+          52.56730590000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Residenzstrasse 33 13409 Berlin",
+        "telephone": null,
+        "details_url": "http://residenzstrasse.easyapotheken.de",
+        "opening_hours": "Mo 10:00 - 18:00; Tu 10:00 - 18:00; We 10:00 - 18:00; Th 10:00 - 18:00; Fr 10:00 - 18:00; Sa 10:00 - 18:00; ",
+        "title": "easyApotheke Residenzstrasse Testzentrum",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -4094,7 +4402,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -4116,7 +4424,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -4137,8 +4445,8 @@
         "title": "F&F Schnelltest",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4159,8 +4467,8 @@
         "title": "FaceSculptClinic",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4181,8 +4489,8 @@
         "title": "Fast & Safe Kiautschoustraße",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -4203,8 +4511,8 @@
         "title": "Fast & Save Am Zwingraben",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -4226,7 +4534,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4248,7 +4556,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4269,8 +4577,8 @@
         "title": "Fontane Apotheke Uhlandstr.",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4292,7 +4600,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -4313,8 +4621,8 @@
         "title": "Freie Universität Berlin",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4335,8 +4643,8 @@
         "title": "Friedrichstadt-Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -4358,7 +4666,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4380,7 +4688,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4402,7 +4710,29 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich"
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5094076,
+          52.53316470000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Landsberger Allee 360-362 10365 Berlin",
+        "telephone": null,
+        "details_url": "https://www.hi-testzentrum.de",
+        "opening_hours": "Mo 08:00 - 20:00; Tu 08:00 - 20:00; We 08:00 - 20:00; Th 08:00 - 20:00; Fr 08:00 - 20:00; Sa 08:00 - 20:00; ",
+        "title": "Globus Lichtenberg",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -4423,8 +4753,8 @@
         "title": "Gratis-Coronatest-Charlottenburg.de",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4445,8 +4775,8 @@
         "title": "Gratis-Coronatest-Steglitz",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4467,8 +4797,8 @@
         "title": "Grosscurths Apotheke",
         "hints": [
           "PCR-Nachtestung: mit",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4489,8 +4819,8 @@
         "title": "Hauptstadt Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4512,7 +4842,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -4534,7 +4864,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -4555,8 +4885,8 @@
         "title": "Havelland-Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -4577,8 +4907,8 @@
         "title": "HNO Praxis Annett Dämmig",
         "hints": [
           "PCR-Nachtestung: mit",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -4594,13 +4924,13 @@
       "properties": {
         "location": "Karl-Liebknecht-Str. 30 10178 Berlin",
         "telephone": null,
-        "details_url": "https://medicare-hof-berlin.ticket.io/r2ngeal4/?onlyTag=kostenlos ",
+        "details_url": "https://www.covid-testzentrum.de/hofbraeuhaus-ber",
         "opening_hours": "Mo 00:00 - 23:30; Tu 00:00 - 23:30; We 00:00 - 23:30; Th 00:00 - 23:30; Fr 00:00 - 23:30; Sa 00:00 - 23:30; Su 00:00 - 23:30; ",
         "title": "Hofbräu Berlin",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4622,7 +4952,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: ohne_dritt"
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -4643,8 +4973,8 @@
         "title": "HU Berlin",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4665,8 +4995,8 @@
         "title": "Hubertus Apotheke am Salzufer",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -4687,8 +5017,8 @@
         "title": "Ikea Schnelltest-Station Spandau",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4709,8 +5039,8 @@
         "title": "INFINI Institut Berlin",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4731,8 +5061,8 @@
         "title": "Jasmin Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -4753,8 +5083,8 @@
         "title": "Johanniter / Hornbach Berlin-Marzahn",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -4775,8 +5105,8 @@
         "title": "Jüdisches Museum",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -4797,8 +5127,30 @@
         "title": "K-Medical",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.418075,
+          52.5115872
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Ohmstr.  10179 Berlin",
+        "telephone": null,
+        "details_url": "https://www.k-medical.de/",
+        "opening_hours": "Mo 09:00 - 19:00; Tu 09:00 - 19:00; We 09:00 - 19:00; Th 09:00 - 19:00; Fr 09:00 - 19:00; Sa 09:00 - 19:00; Su 09:00 - 19:00; ",
+        "title": "K-Medical Kreuzberg Ohmstr.",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -4819,8 +5171,8 @@
         "title": "K-Medical Spandau",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -4841,8 +5193,74 @@
         "title": "KALIMAT",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3064314,
+          52.50847270000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Wilmersdorfer Straße 118 10627 Berlin",
+        "telephone": null,
+        "details_url": "",
+        "opening_hours": "Mo 10:00 - 18:00; Tu 10:00 - 18:00; We 10:00 - 18:00; Th 10:00 - 18:00; Fr 10:00 - 18:00; Sa 10:00 - 18:00; ",
+        "title": "Karstadt Berlin Charlottenburg",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3258971,
+          52.46274200000001
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Schloßstr. 7-10  12163  Berlin",
+        "telephone": null,
+        "details_url": "",
+        "opening_hours": "Mo 10:00 - 18:00; Tu 10:00 - 18:00; We 10:00 - 18:00; Th 10:00 - 18:00; Fr 10:00 - 18:00; Sa 10:00 - 18:00; ",
+        "title": "Karstadt | Schloßstraße | Berlin",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4763743,
+          52.51423759999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Frankfurter Allee 113-117 10365  Berlin",
+        "telephone": null,
+        "details_url": "",
+        "opening_hours": "Mo 10:00 - 18:00; Tu 10:00 - 18:00; We 10:00 - 18:00; Th 10:00 - 18:00; Fr 10:00 - 18:00; Sa 10:00 - 18:00; ",
+        "title": "Kaufhof Ringcenter Berlin",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4863,8 +5281,8 @@
         "title": "Kinder- und Familien-Testzentrum am Theo",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4886,29 +5304,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.4167898,
-          52.5111848
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "Brückenstrasse 1 10179 Berlin",
-        "telephone": null,
-        "details_url": "https://kitkatrapidtest.de",
-        "opening_hours": "Mo 09:00 - 16:00; Tu 09:00 - 16:00; We 09:00 - 16:00; Th 09:00 - 16:00; Fr 09:00 - 16:00; Sa 09:00 - 16:00; Su 09:00 - 16:00; ",
-        "title": "KitKat RapidTest",
-        "hints": [
-          "PCR-Nachtestung: nein",
-          "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4929,8 +5325,8 @@
         "title": "König 19",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -4952,7 +5348,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -4974,7 +5370,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: ohne_dritt"
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -4995,8 +5391,8 @@
         "title": "Kreisel-Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -5018,7 +5414,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -5040,7 +5436,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -5061,8 +5457,8 @@
         "title": "Kudammtest",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5083,8 +5479,8 @@
         "title": "Lessing-Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -5105,8 +5501,8 @@
         "title": "Leuchtturm Apotheke",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5128,7 +5524,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -5150,7 +5546,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -5172,7 +5568,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: ohne_dritt"
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -5194,7 +5590,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5216,7 +5612,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: ohne_dritt"
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -5237,8 +5633,8 @@
         "title": "Martin Breker",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -5259,8 +5655,8 @@
         "title": "Mauritius Apotheke",
         "hints": [
           "PCR-Nachtestung: mit",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5281,8 +5677,8 @@
         "title": "Mauritius Apotheke Testzentrum",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5303,8 +5699,8 @@
         "title": "Mauritius Teststation Finowstr.",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5325,8 +5721,8 @@
         "title": "Mauritius Teststation Werbellinstr.",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5340,15 +5736,15 @@
         "type": "Point"
       },
       "properties": {
-        "location": "Kantstr. 15a (Innenhof) 10789 Berlin",
+        "location": "Kantstr. 15a (Innenhof) 10623 Berlin",
         "telephone": null,
         "details_url": "http://md-coronatest.de/",
-        "opening_hours": "Mo 07:00 - 20:00; Tu 07:00 - 20:00; We 07:00 - 20:00; Th 07:00 - 20:00; Fr 07:00 - 20:00; Sa 07:00 - 20:00; Su 07:00 - 20:00; ",
+        "opening_hours": "Mo 08:00 - 19:00; Tu 08:00 - 19:00; We 08:00 - 19:00; Th 08:00 - 19:00; Fr 08:00 - 19:00; Sa 08:00 - 19:00; Su 08:00 - 19:00; ",
         "title": "MD Corona Test Kantstraße",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5370,7 +5766,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5391,8 +5787,8 @@
         "title": "Medican Testzentrum",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5414,7 +5810,29 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.266828,
+          52.534555
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Wohlrabedamm 34    13629  Berlin",
+        "telephone": null,
+        "details_url": "https://covid-testzentrum.net/berlin-siemensstadt/",
+        "opening_hours": "Mo 08:00 - 18:00; Tu 08:00 - 18:00; We 08:00 - 18:00; Th 08:00 - 18:00; Fr 08:00 - 18:00; Sa 10:00 - 18:00; Su 10:00 - 18:00; ",
+        "title": "Medicare Tetzentrum Berlin Siemensstadt",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5436,7 +5854,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -5457,8 +5875,8 @@
         "title": "Mehmet Geyik",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5480,7 +5898,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -5501,8 +5919,8 @@
         "title": "Mein Corona Schnelltest - EASTGATE Center",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -5523,8 +5941,8 @@
         "title": "Mein Corona Schnelltest - Gesundbrunnen Center",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -5545,8 +5963,8 @@
         "title": "Mein Corona Schnelltest - Hallen am Borsigturm",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -5567,8 +5985,8 @@
         "title": "Mein Corona Schnelltest - Linden-Center",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -5589,30 +6007,8 @@
         "title": "Mein Corona Schnelltest - Tempelhofer Hafen",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.4343812,
-          52.498788
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "Görlitzerstr. 71 10997  Berlin",
-        "telephone": null,
-        "details_url": "https://gqs.jimdosite.com",
-        "opening_hours": "Mo 08:00 - 18:00; Tu 08:00 - 18:00; We 08:00 - 18:00; Th 08:00 - 18:00; Fr 08:00 - 18:00; Sa 10:00 - 16:00; Su 10:00 - 16:00; ",
-        "title": "Michael Jablonski",
-        "hints": [
-          "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -5633,8 +6029,8 @@
         "title": "Möbel Höffner Berlin Lichtenberg Testcenter",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -5655,8 +6051,8 @@
         "title": "Mobile Corona Tests BikeTaxi",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5678,7 +6074,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5699,8 +6095,8 @@
         "title": "Müggelturm Berlin",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -5722,7 +6118,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5743,8 +6139,8 @@
         "title": "MVZ Hackescher Markt",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5766,7 +6162,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5787,8 +6183,8 @@
         "title": "My Berlin Test",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5810,7 +6206,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -5832,7 +6228,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -5854,7 +6250,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -5875,8 +6271,8 @@
         "title": "Normannen Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -5897,8 +6293,8 @@
         "title": "OBI Markt Berlin-Steglitz",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -5919,8 +6315,8 @@
         "title": "Octopus Apotheke",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -5942,7 +6338,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -5963,30 +6359,8 @@
         "title": "Panthermed",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          13.3458251,
-          52.5542858
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "Müllerstr. 58 13349 Berlin",
-        "telephone": null,
-        "details_url": "https://shop.pga.berlin/",
-        "opening_hours": "Mo 10:00 - 18:00; Tu 10:00 - 18:00; We 10:00 - 18:00; Th 10:00 - 18:00; Fr 10:00 - 18:00; Sa 10:00 - 18:00; Su 10:00 - 18:00; ",
-        "title": "Paul Gerhardt Apotheke Testzentrum",
-        "hints": [
-          "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6007,8 +6381,8 @@
         "title": "Peggy Meyer  - Haut & Haar",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6029,8 +6403,8 @@
         "title": "Petersburger Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6051,8 +6425,8 @@
         "title": "Pichelsdorf Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6074,7 +6448,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6096,7 +6470,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6118,7 +6492,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6140,7 +6514,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6162,7 +6536,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6184,7 +6558,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6206,7 +6580,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6228,7 +6602,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: ohne_dritt"
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -6250,7 +6624,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6272,7 +6646,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6294,7 +6668,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6310,13 +6684,13 @@
       "properties": {
         "location": "Leibnizstraße 58 10629 Berlin",
         "telephone": null,
-        "details_url": "https://www.reona-corona-test.com/",
+        "details_url": "https://calendly.com/reonacoronacenterleibnizstr",
         "opening_hours": "Mo 08:00 - 20:00; Tu 08:00 - 20:00; We 08:00 - 20:00; Th 08:00 - 20:00; Fr 08:00 - 20:00; Sa 08:00 - 20:00; Su 08:00 - 20:00; ",
         "title": "Reona Corona Test Center",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6337,8 +6711,8 @@
         "title": "Reona Corona Test Center Nürnberger",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6359,8 +6733,8 @@
         "title": "Ristorante Amano",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -6381,8 +6755,8 @@
         "title": "Roja Pharmazie",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6403,8 +6777,8 @@
         "title": "Roots Yoga Testzentrum",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -6425,8 +6799,8 @@
         "title": "Rotter Test-to-go Station",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6447,8 +6821,8 @@
         "title": "Rusche Apotheke",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6465,12 +6839,12 @@
         "location": "Heinrich-Grüber-Strasse 3 12621 Berlin",
         "telephone": null,
         "details_url": "https://salzlounge.de/",
-        "opening_hours": "Mo 07:00 - 19:00; Tu 07:00 - 19:00; We 07:00 - 19:00; Th 07:00 - 19:00; Fr 07:00 - 19:00; Sa 07:00 - 19:00; Su 09:00 - 13:00; ",
+        "opening_hours": "",
         "title": "Salzlounge",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6492,7 +6866,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6514,7 +6888,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6536,7 +6910,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6557,8 +6931,8 @@
         "title": "SCHAEFFER COVID 19 Test-to-go",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6580,7 +6954,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: ohne_dritt"
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -6601,8 +6975,8 @@
         "title": "Schlüsseldienst Hakenfelde GbR",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6624,7 +6998,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6645,8 +7019,8 @@
         "title": "Schneemann`s Apotheke Rahnsdorf",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -6667,8 +7041,8 @@
         "title": "Schnell-schneller-Coronatest Brunsbütteler Damm",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6689,8 +7063,8 @@
         "title": "Schnell-schneller-Coronatest Schillerstr.",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6711,8 +7085,8 @@
         "title": "Schnell-Test-Berlin",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6733,8 +7107,8 @@
         "title": "Schnelltest Adenauerplatz",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6756,7 +7130,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6777,8 +7151,8 @@
         "title": "Schnelltest Kreuzberg",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6799,8 +7173,8 @@
         "title": "Schnelltest Kutschi",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6821,8 +7195,8 @@
         "title": "Schnelltest Tegel",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6843,8 +7217,8 @@
         "title": "schnelltest15 Center Am Juliusturm",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6865,8 +7239,8 @@
         "title": "schnelltest15 Charlottenstraße",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6887,8 +7261,8 @@
         "title": "schnelltest15 Friedrich-Wilhelm-Platz",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6909,8 +7283,8 @@
         "title": "schnelltest15 Landhausstr.",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6931,8 +7305,8 @@
         "title": "schnelltest15 Naugarder Str.",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6954,7 +7328,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6975,8 +7349,8 @@
         "title": "SchnelltestBerlin.de | Mauerpark",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -6997,8 +7371,8 @@
         "title": "Schnellteststation Apotheke Rhinstraße",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -7019,8 +7393,30 @@
         "title": "Schnelltestzentrum Baerenquell",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4343812,
+          52.498788
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Görlitzerstr. 71 10997  Berlin",
+        "telephone": null,
+        "details_url": "https://gqs.jimdosite.com",
+        "opening_hours": "Mo 08:00 - 18:00; Tu 08:00 - 18:00; We 08:00 - 18:00; Th 08:00 - 18:00; Fr 08:00 - 18:00; ",
+        "title": "Schnelltestzentrum Berlin Kreuzberg Görlitzerstr.",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: nein",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -7042,7 +7438,29 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4528438,
+          52.4519937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Buschkrugallee 131 12359 Berlin",
+        "telephone": null,
+        "details_url": "www.negativer-schnelltest.de",
+        "opening_hours": "Mo 09:00 - 19:00; Tu 09:00 - 19:00; We 09:00 - 19:00; Th 09:00 - 19:00; Fr 09:00 - 19:00; ",
+        "title": "Schnelltestzentrum im Diakonie-Haus Britz",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -7059,12 +7477,12 @@
         "location": "Fechnerstr. 5 10717 Berlin",
         "telephone": null,
         "details_url": "",
-        "opening_hours": "Mo 08:00 - 20:00; Tu 08:00 - 20:00; We 08:00 - 20:00; Th 08:00 - 20:00; Fr 08:00 - 20:00; Sa 08:00 - 20:00; ",
+        "opening_hours": "Mo 08:00 - 19:00; Tu 08:00 - 19:00; We 08:00 - 19:00; Th 08:00 - 19:00; Fr 08:00 - 19:00; Sa 08:00 - 15:00; ",
         "title": "Sealdex Test2Go Stelle",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -7080,13 +7498,13 @@
       "properties": {
         "location": "Riesaer Str. 102 12627 Berlin",
         "telephone": null,
-        "details_url": "https://www.sonnenhutapotheke.de",
-        "opening_hours": "Mo 08:00 - 18:00; Tu 08:00 - 18:00; We 08:00 - 18:00; Th 08:00 - 18:00; Fr 08:00 - 18:00; Sa 08:30 - 13:00; ",
+        "details_url": "https://schnelltest.apomondo.online/#/termine/68e9bc38-b7ca-4615-a45c-4cec2483c5d9",
+        "opening_hours": "Mo 08:00 - 18:00; Tu 08:00 - 18:00; We 08:00 - 18:00; Th 08:00 - 18:00; Fr 08:00 - 18:00; Sa 10:00 - 12:00; ",
         "title": "Sonnenhut Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -7108,7 +7526,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -7129,8 +7547,8 @@
         "title": "Sozialmaske.de Testzentrum G26",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7152,7 +7570,29 @@
         "hints": [
           "PCR-Nachtestung: mit",
           "Barrierefreiheit: ja",
-          "Terminbuchung: ohne_dritt"
+          "Terminbuchung: nicht notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3436715,
+          52.5250822
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Alt-Moabit 89 10559  Berlin",
+        "telephone": null,
+        "details_url": "https://www.apomondo.de/",
+        "opening_hours": "Mo 09:00 - 16:00; Tu 09:00 - 16:00; We 09:00 - 16:00; Th 09:00 - 16:00; Fr 09:00 - 16:00; ",
+        "title": "Spree Apotheke",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -7173,8 +7613,8 @@
         "title": "St. Pius",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -7182,8 +7622,8 @@
     {
       "geometry": {
         "coordinates": [
-          13.3873018,
-          52.5197861
+          13.390373,
+          52.520044
         ],
         "type": "Point"
       },
@@ -7195,8 +7635,8 @@
         "title": "STA Travel AERTICKET",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -7218,7 +7658,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: ohne_dritt"
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -7240,7 +7680,29 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.1313635,
+          52.5423638
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Fachinger Str. 16 13591 Berlin",
+        "telephone": null,
+        "details_url": "https://covisa.de/covisacenter",
+        "opening_hours": "Mo 10:00 - 15:00; Tu 10:00 - 15:00; We 10:00 - 15:00; Th 10:00 - 15:00; Fr 10:00 - 15:00; ",
+        "title": "Stadt-Apotheke Staaken",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7261,8 +7723,8 @@
         "title": "STB Schnell-Test-Berlin",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7283,8 +7745,8 @@
         "title": "Steinbock Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -7305,8 +7767,8 @@
         "title": "Stephanus Stiftung",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -7327,8 +7789,8 @@
         "title": "Stern-Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -7350,7 +7812,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7371,8 +7833,8 @@
         "title": "Suarez Apotheke Teststelle",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -7394,7 +7856,29 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3276716,
+          52.4785277
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Detmolder Straße 67 10715  Berlin",
+        "telephone": null,
+        "details_url": "https://www.tarons-teststationen.de/",
+        "opening_hours": "Mo 10:00 - 16:00; Tu 10:00 - 16:00; We 10:00 - 16:00; Th 10:00 - 16:00; Fr 10:00 - 16:00; Sa 10:00 - 16:00; Su 10:00 - 16:00; ",
+        "title": "Tarons Teststation Wilmersdorf",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7415,8 +7899,8 @@
         "title": "Technische Universität Berlin",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7437,8 +7921,8 @@
         "title": "Tesetzentrum Berlin Neukölln",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7459,8 +7943,8 @@
         "title": "Test to go ( Lale Cafe Bar ) Müllestr. 121",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7481,8 +7965,30 @@
         "title": "Test-Home",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3133753,
+          52.4192523
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Osdorfer Str. 125 12207  Berlin",
+        "telephone": null,
+        "details_url": "",
+        "opening_hours": "Mo 08:00 - 18:00; Tu 08:00 - 18:00; We 08:00 - 18:00; Th 08:00 - 18:00; Fr 08:00 - 18:00; Sa 08:00 - 18:00; Su 08:00 - 18:00; ",
+        "title": "Test-To-Go-Station Osdorfer Straße",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -7503,8 +8009,8 @@
         "title": "Test-Zentrum-Prenzlauerberg",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7526,7 +8032,29 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4475937,
+          52.4368196
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Gutschmidtstr. 27-29  12359  Berlin",
+        "telephone": null,
+        "details_url": "http://cs-medical-services.de/",
+        "opening_hours": "Mo 08:00 - 17:00; Tu 08:00 - 17:00; We 08:00 - 17:00; Th 08:00 - 17:00; Fr 08:00 - 17:00; Sa 08:00 - 17:00; ",
+        "title": "testbar Britz süd",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7547,8 +8075,8 @@
         "title": "Testcenter Berlin",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7569,8 +8097,8 @@
         "title": "Testcenter Corona Hedwig-Wachenheim-Str.",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7591,8 +8119,8 @@
         "title": "Testcenter Corona Memharstr.",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7613,8 +8141,8 @@
         "title": "Testcenter Corona Potsdamer Str.",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7635,8 +8163,8 @@
         "title": "Testcenter Frohnau im Centre Bagatelle",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7657,8 +8185,30 @@
         "title": "Testcenter Nollerdorfplatz",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.34584,
+          52.58108
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Roedernallee 17 13407 Berlin",
+        "telephone": null,
+        "details_url": "https://testcenter-roedernallee.de/",
+        "opening_hours": "Mo 07:00 - 20:00; Tu 07:00 - 20:00; We 07:00 - 20:00; Th 07:00 - 20:00; Fr 07:00 - 20:00; Sa 07:00 - 20:00; Su 09:00 - 19:00; ",
+        "title": "Testcenter Roedernallee",
+        "hints": [
+          "PCR-Nachtestung: moeglich",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7679,8 +8229,8 @@
         "title": "Teste Dich Berlin",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7702,7 +8252,29 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4643224,
+          52.43825349999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Kolkrabenweg 40 12351  Berlin",
+        "telephone": "030 98389867",
+        "details_url": "https://www.testit24.de/",
+        "opening_hours": "Mo 09:00 - 19:30; Tu 09:00 - 19:30; We 09:00 - 19:30; Th 09:00 - 19:30; Fr 09:00 - 19:30; Sa 09:00 - 19:30; ",
+        "title": "Testit24",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7723,8 +8295,8 @@
         "title": "Teststation - Nord",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7745,8 +8317,8 @@
         "title": "Teststation Auguste Viktoria Allee",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7768,7 +8340,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7789,8 +8361,8 @@
         "title": "Teststation Spandau / Altes Postgelände",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7811,8 +8383,8 @@
         "title": "Teststation United Dentists",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -7833,8 +8405,8 @@
         "title": "Teststation-Lankwitz",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7855,8 +8427,8 @@
         "title": "Teststelle Alt-Buckow",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -7877,8 +8449,8 @@
         "title": "Teststelle Berlin Mitte",
         "hints": [
           "PCR-Nachtestung: mit",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7899,8 +8471,8 @@
         "title": "Teststelle Heilmann (Bus)",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -7921,8 +8493,8 @@
         "title": "Teststelle in der Märkischen Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -7943,8 +8515,8 @@
         "title": "Teststelle: Kastanienwäldchen - Norbert Raeder",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -7965,8 +8537,8 @@
         "title": "Testvan.de / Teststelle Lichtenberg",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -7983,12 +8555,12 @@
         "location": "Husemannstraße 17 10435 Berlin",
         "telephone": null,
         "details_url": "https://testzentrale.berlin",
-        "opening_hours": "Mo 10:00 - 18:00; Tu 10:00 - 18:00; We 10:00 - 18:00; Th 10:00 - 18:00; Fr 10:00 - 18:00; Sa 10:00 - 13:00; ",
+        "opening_hours": "Mo 08:00 - 18:00; Tu 08:00 - 18:00; We 08:00 - 18:00; Th 08:00 - 18:00; Fr 08:00 - 18:00; Sa 08:00 - 18:00; ",
         "title": "Testzentrale Husemannstraße",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8006,11 +8578,11 @@
         "telephone": null,
         "details_url": "http://termin.testzentrale.online/",
         "opening_hours": "Mo 09:00 - 20:00; Tu 09:00 - 20:00; We 09:00 - 20:00; Th 09:00 - 20:00; Fr 09:00 - 20:00; Sa 09:00 - 20:00; ",
-        "title": "Testzentrale Ring Center 1",
+        "title": "Testzentrale Ring Center 1 im 2.OG",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8031,8 +8603,8 @@
         "title": "Testzentrale Sonnenallee",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8053,8 +8625,8 @@
         "title": "Testzentrum Alt-Rudow",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -8075,8 +8647,8 @@
         "title": "Testzentrum Alte Försterei",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8097,8 +8669,8 @@
         "title": "Testzentrum am Forum Köpenick",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -8119,8 +8691,8 @@
         "title": "Testzentrum am Görli",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8141,8 +8713,8 @@
         "title": "Testzentrum am Leopoldplatz",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8163,8 +8735,8 @@
         "title": "Testzentrum am Reinickendorfer Park",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8185,8 +8757,8 @@
         "title": "Testzentrum Bänschstraße",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8207,8 +8779,8 @@
         "title": "Testzentrum Berlin Lichtenberg",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -8229,8 +8801,8 @@
         "title": "Testzentrum Berlin Nord",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -8251,8 +8823,8 @@
         "title": "Testzentrum Berlin Ost",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: Ohne"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -8273,8 +8845,8 @@
         "title": "Testzentrum Berlin Spandau",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8295,8 +8867,8 @@
         "title": "Testzentrum Berlin West",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: Ohne"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -8317,8 +8889,8 @@
         "title": "Testzentrum Berlin Zentral",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: Ohne"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -8339,8 +8911,8 @@
         "title": "Testzentrum Berlin-Friedrichshain (Renate)",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8361,8 +8933,8 @@
         "title": "Testzentrum Berlin-Mitte",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -8383,8 +8955,8 @@
         "title": "Testzentrum BG in den Passagen",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8405,8 +8977,8 @@
         "title": "Testzentrum Burkhard Leder",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8427,8 +8999,8 @@
         "title": "Testzentrum Charlottenburg",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: Mit"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -8449,8 +9021,8 @@
         "title": "Testzentrum Checkpoint Charlie",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8471,8 +9043,8 @@
         "title": "Testzentrum City West",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8493,8 +9065,8 @@
         "title": "Testzentrum Danziger Str. 100",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -8516,7 +9088,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -8537,8 +9109,8 @@
         "title": "Testzentrum Dr. Kunze",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -8554,13 +9126,13 @@
       "properties": {
         "location": "Schnellerstr. 21 12439 Berlin",
         "telephone": null,
-        "details_url": "https://www.europa-apo-berlin.de/",
-        "opening_hours": "Mo 10:00 - 14:00,16:00 - 17:30; Tu 10:00 - 14:00,16:00 - 17:30; We 10:00 - 14:00,16:00 - 17:30; Th 10:00 - 14:00,16:00 - 17:30; Fr 10:00 - 14:00,16:00 - 17:30; ",
+        "details_url": "https://europa-apo-berlin.probatix.de/de/pick-slot ",
+        "opening_hours": "Mo 09:03 - 18:00; Tu 09:30 - 18:00; We 09:30 - 18:00; Th 09:30 - 18:00; Fr 09:30 - 18:00; ",
         "title": "Testzentrum europa apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8581,8 +9153,8 @@
         "title": "Testzentrum Hardenbergplatz-Zoo",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -8603,8 +9175,8 @@
         "title": "Testzentrum Heiligensee",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -8625,8 +9197,8 @@
         "title": "Testzentrum im Staakencenter ",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8647,8 +9219,30 @@
         "title": "Testzentrum in der Kohlenquelle im Prenzlauer Berg",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.641364,
+          52.3902376
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Rohrwallallee 71 12527  Berlin",
+        "telephone": "0157 51100248",
+        "details_url": "",
+        "opening_hours": "Mo 16:00 - 18:00; We 16:00 - 18:00; Fr 16:00 - 18:00; ",
+        "title": "Testzentrum Karolinenhof SGK e.V.",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8669,8 +9263,8 @@
         "title": "Testzentrum Kreuzberg an der Palmen Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8691,8 +9285,8 @@
         "title": "Testzentrum Kreuzberg Schleusenufer",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8713,8 +9307,8 @@
         "title": "Testzentrum Marzahn-Biesdorf",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -8735,8 +9329,8 @@
         "title": "Testzentrum Marzahn-Hellersdorf",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8757,8 +9351,8 @@
         "title": "Testzentrum Mitte",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8779,8 +9373,8 @@
         "title": "Testzentrum Neukölln 2",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -8796,13 +9390,13 @@
       "properties": {
         "location": "Hohenzollernplatz 6 14129  Berlin",
         "telephone": null,
-        "details_url": "",
+        "details_url": "https://www.coronatest-nikolassee.de/",
         "opening_hours": "Mo 08:00 - 19:00; Tu 08:00 - 19:00; We 08:00 - 19:00; Th 08:00 - 19:00; Fr 08:00 - 19:00; Sa 08:00 - 19:00; Su 10:00 - 17:00; ",
         "title": "Testzentrum Nikolassee",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8823,8 +9417,8 @@
         "title": "Testzentrum Oberbaumeck",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8845,8 +9439,8 @@
         "title": "Testzentrum Ostkreuz",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -8867,8 +9461,8 @@
         "title": "Testzentrum Reinickendorf 2 (in der AOK)",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -8889,8 +9483,8 @@
         "title": "Testzentrum Royal",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8911,8 +9505,8 @@
         "title": "Testzentrum Schiller Theater",
         "hints": [
           "PCR-Nachtestung: mit",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -8933,8 +9527,8 @@
         "title": "Testzentrum Spandau",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: Mit"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -8955,8 +9549,8 @@
         "title": "Testzentrum Sprengelstr.",
         "hints": [
           "PCR-Nachtestung: mit",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -8978,7 +9572,7 @@
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: nein",
-          "Terminbuchung: moeglich_dritt"
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -8999,8 +9593,8 @@
         "title": "Testzentrum Steglitz-Zehlendorf",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: Mit"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -9021,8 +9615,8 @@
         "title": "Testzentrum Tegel",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -9043,8 +9637,8 @@
         "title": "Testzentrum Tempelhof-Schöneberg",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: Mit"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -9065,8 +9659,8 @@
         "title": "Testzentrum Treptow-Köpenick 2",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -9087,8 +9681,8 @@
         "title": "Testzentrum Unter den Linden",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -9109,8 +9703,8 @@
         "title": "Testzentrum Wedding 2 (in der AOK)",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: mit"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -9131,8 +9725,8 @@
         "title": "Testzentrum Weißensee",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: mit"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -9153,8 +9747,8 @@
         "title": "testzentrum Wochenmarkt Frohnau",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -9175,8 +9769,8 @@
         "title": "Testzentrum WVV Gesundheitsnetzwerk",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -9198,7 +9792,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -9206,21 +9800,21 @@
     {
       "geometry": {
         "coordinates": [
-          13.338308,
-          52.5055961
+          13.3352971,
+          52.50574169999999
         ],
         "type": "Point"
       },
       "properties": {
-        "location": "Budapester Str. 38-50 10787 Berlin",
+        "location": "Budapester Str. 50  (Rooftop 2. Etage) 10787 Berlin",
         "telephone": null,
         "details_url": "https://schnelltestberlin.de/Bikini/",
         "opening_hours": "Mo 07:00 - 20:00; Tu 07:00 - 20:00; We 07:00 - 20:00; Th 07:00 - 20:00; Fr 07:00 - 20:00; Sa 07:00 - 20:00; Su 07:00 - 20:00; ",
         "title": "Testzentrum | Bikini Berlin",
         "hints": [
           "PCR-Nachtestung: moeglich",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -9241,8 +9835,8 @@
         "title": "Testzentrum-Neukölln",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -9263,8 +9857,8 @@
         "title": "Therapiezentrum Drive IN Siemensdamm",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -9280,13 +9874,13 @@
       "properties": {
         "location": "Edenkobener Weg 75 12247 Berlin",
         "telephone": null,
-        "details_url": "",
+        "details_url": "https://tuslihockey.de/",
         "opening_hours": "Tu 08:00 - 10:00,17:00 - 19:00; Th 08:00 - 10:00,17:00 - 19:00; ",
         "title": "TuS Li testet",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -9307,8 +9901,8 @@
         "title": "TWT Corona Testzentrum  ",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -9329,8 +9923,8 @@
         "title": "U-bhf Warschauerstraße Coronatest 24 Stralauer Allee NH Hotel",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: moeglich_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: möglich"
         ]
       },
       "type": "Feature"
@@ -9352,7 +9946,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -9373,8 +9967,8 @@
         "title": "Viereck-Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -9395,8 +9989,8 @@
         "title": "Vital Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -9417,8 +10011,8 @@
         "title": "Vivantes Klinikum Spandau",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -9439,8 +10033,8 @@
         "title": "Vivantes Prenzlauer Berg",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ohne",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -9461,8 +10055,8 @@
         "title": "Vivantes Wenckebach-Klinikum",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -9484,7 +10078,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -9506,7 +10100,7 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: ohne_dritt"
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -9527,8 +10121,8 @@
         "title": "Wettarena Schnelltest Zentrum Dircksenstr.",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -9549,8 +10143,8 @@
         "title": "Wettarena Schnelltest Zentrum Hasenheide",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: ohne_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -9571,8 +10165,8 @@
         "title": "Wildenbruch Apotheke",
         "hints": [
           "PCR-Nachtestung: nein",
-          "Barrierefreiheit: mit",
-          "Terminbuchung: mit_dritt"
+          "Barrierefreiheit: ja",
+          "Terminbuchung: notwendig"
         ]
       },
       "type": "Feature"
@@ -9594,7 +10188,51 @@
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: nein",
-          "Terminbuchung: mit_dritt"
+          "Terminbuchung: notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4329845,
+          52.4414666
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Buckower Damm 30 / Haus 2 EG 12349  Berlin",
+        "telephone": "030 7700070",
+        "details_url": "https://www.wowi-haustechnik.de/",
+        "opening_hours": "Mo 07:00 - 15:00; Tu 07:00 - 15:00; We 07:00 - 15:00; Th 07:00 - 15:00; Fr 07:00 - 15:00; ",
+        "title": "WOWI-Teststelle",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: nein",
+          "Terminbuchung: notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3586055,
+          52.50056379999999
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "An der Apostelkirche 1 10783  Berlin",
+        "telephone": null,
+        "details_url": "http://quartier-apotheke.de/",
+        "opening_hours": "Mo 10:00 - 15:00; Tu 10:00 - 15:00; We 10:00 - 15:00; Th 10:00 - 15:00; Fr 10:00 - 15:00; Sa 10:00 - 15:00; Su 10:00 - 15:00; ",
+        "title": "Zwölf-Apostel-Kirche",
+        "hints": [
+          "PCR-Nachtestung: nein",
+          "Barrierefreiheit: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
