@@ -9,7 +9,7 @@
       "title": "Apotheke im Hauptbahnhof",
       "location": "Willy-Brandt-Platz 5, 04109 Leipzig",
       "telephone": "0341 1406080",
-      "opening_hours": "Mo-Fr 14-20, Sa 10-16 Uhr, Termine nur nach Onlineanmeldung über www.apotheke-leipzig.de"
+      "opening_hours": "Mo-Fr 10-19, Sa 10-16 Uhr, Feiertags geschlossen, Ausnahmen möglich. Termine nur nach Onlineanmeldung über www.apotheke-leipzig.de"
     },
     {
       "title": "Freudemann-Apotheke",
@@ -85,7 +85,7 @@
       "title": "GesundheitsWerkstatt",
       "location": "Leipziger Straße 88, 04178 Leipzig",
       "telephone": "0341 4622 5020",
-      "opening_hours": "nur nach vorheriger Terminvereinbarung unter www.schnelltestboehlitz.de oder telefonisch, geschlosssen: 18.06.-04.07.2021"
+      "opening_hours": "Nach vorheriger Terminvereinbarung unter www.schnelltestboehlitz.de oder telefonisch. PCR-Tests möglich! Sus und Herrentag geöffnet. Geschlossen vom 18.06.-04.07.2021."
     },
     {
       "title": "Testcenter Corona Leipzig GbR",
@@ -109,7 +109,7 @@
       "title": "Apotheke Mockauer Post",
       "location": "Mockauer Straße 121, 04357 Leipzig",
       "telephone": "0341 60249828",
-      "opening_hours": "Mo-Fr 10:30-13:30 und 14:30-18:00 Uhr, keine Terminvereinbarung nötig"
+      "opening_hours": "Mo-Fr 9.30-17.30, keine Terminvereinbarung nötig"
     },
     {
       "title": "Adler Apotheke",
@@ -144,8 +144,7 @@
     {
       "title": "Johanniter-Unfall-Hilfe e. V.",
       "location": "Torgauer Straße 231, Haus A EG, 04347 Leipzig",
-      "telephone": "0341 6962615",
-      "opening_hours": "Mo-Fr 8:30-12 und 13-17:30 Uhr, Anmeldung unter www.johanniter.de/coronatest-leipzig erforderlich"
+      "opening_hours": "Terminanmeldungen Mo-Fr von 9-16 unter 0341/6962615 oder unter johanniter.de/coronatest-leipzig - Testzeiten Montag-Freitag von 8.30-12 Uhr und 13-17.30 Uhr"
     },
     {
       "title": "Arnika-Apotheke",
@@ -177,9 +176,9 @@
       "opening_hours": "Mo-Fr 10-14, Termine nach telefonischer Vereinbarung"
     },
     {
-      "title": "McMedi Apotheke Testzentrum",
+      "title": "McMedi Apotheke Testzentrum in der Kletterhalle NOLIMIT",
       "location": "Dessauer Straße 2, 04129 Leipzig",
-      "opening_hours": "Mo-Fr 8-13, Terminvereinbarungen über www.mc-medi-apotheke-testzentrum.de"
+      "opening_hours": "Mo-Fr 7-13, Sa 9-13 Uhr, Su 10-15 Uhr, Terminvereinbarungen über www.mc-medi-apotheke-testzentrum.de"
     },
     {
       "title": "InterMed Praxiszentrum MVZ GmbH",
@@ -244,7 +243,7 @@
     {
       "title": "Gesundheitspraxis Cornelia Lindner",
       "location": "Hans-Driesch-Straße 20, 04179 Leipzig",
-      "telephone": "0341 49690799",
+      "telephone": "0341 49690799 oder 0341 35138230",
       "opening_hours": "Mo-Fr nach telefonischer Vereinbarung und Sa 9-13 nach telefonischer Vereinbarung"
     },
     {
@@ -268,7 +267,7 @@
       "title": "Bürgertestzentrum am Rabensteinplatz",
       "location": "Dresdner Str. 2, 04103 Leipzig",
       "telephone": "0156 78405168",
-      "opening_hours": "Mo/We/Fr 8-12 und 13-15 Uhr, Tu/Th nach Vereinbarung, telefonisch oder über https://park-apotheke24.apotermin.online"
+      "opening_hours": "Mo/We/Fr 8-11.30 und 12.30 -15.30 Uhr, vorzugsweise Online-Terminbuchung unter www.teste-dich-jetzt.com"
     },
     {
       "title": "Evangelisches Diakonissenkrankenhaus Leipzig gGmbH",
@@ -285,7 +284,7 @@
       "title": "COMMUNITY TESTCENTER Konsumzentrale",
       "location": "Industriestraße 95, 04229 Leipzig",
       "telephone": "0341 92610723",
-      "opening_hours": "Tu/We/Th 7-13, Fr 12-19 Uhr, Terminvergabe unter www.lipsiaapotheke.de"
+      "opening_hours": "Tu/We/Th 7-13, Fr 12-19 Uhr, Terminvergabe unter www.communitytestcenter.de"
     },
     {
       "title": "ASB-Teststation \"Am Sonnenpark\"",
@@ -294,9 +293,14 @@
       "opening_hours": "Mo 8-12, Tu 12-18 Uhr, Fr 12-16 Uhr"
     },
     {
-      "title": "Mondo Medical GmbH",
+      "title": "Testzentrum Wittenberger Straße 36/Mondo Medical GmbH",
       "location": "Wittenberger Straße 36, 04129 Leipzig",
-      "opening_hours": "Mo-Fr 8-18, Sa 10-14 Uhr"
+      "opening_hours": "Mo-Fr 8-18, Sa 8-14 Uhr, ohne Voranmeldung"
+    },
+    {
+      "title": "Testzentrum Springerstraße 16/Mondo Medical GmbH",
+      "location": "Springerstraße 16 (Eingang von der Gohliser Straße), 04105 Leipzig",
+      "opening_hours": "Mo-Fr 8-18, Sa 8-14 Uhr, ohne Voranmeldung"
     },
     {
       "title": "Testzentrum der KV Sachsen am Flughafen Leipzig/Halle",
@@ -310,16 +314,15 @@
       "opening_hours": "Mo-Fr 8-18, Sa 10-14 Uhr, Terminvergabe unter www.deintestzentrum.de"
     },
     {
-      "title": "Testzentrum Lindenau",
+      "title": "Testzentrum Lindenau (ärztliche Stelle)",
       "location": "Lützner Straße 100, 04177 Leipzig",
-      "telephone": "0176 74453464 (Schnelltests, aber auch Bestätigungs-PCR-Tests nach positivem Schnelltestergebnis)",
-      "opening_hours": "Öffnungszeiten 19.04.-25.04.21: Mo 13-17, Tu 15-19 Uhr, We 9-14 Uhr und 15-19 Uhr, Th/Fr 8-12 Uhr, Terminvereinbarung unter testzentrumlindenau@gmail.com, aktuelle Öffnungszeiten und Informationen unter: www.testzentrum-lindenau.de"
+      "telephone": "0176/74453464 während der Öffnungszeiten (Schnelltests und PCR-Bestätigungstests)",
+      "opening_hours": "Geöffnet Mo - Su, Aktuelle Öffnungszeiten & Buchung unter www.testzentrum-lindenau.de oder testzentrumlindenau@gmail.com"
     },
     {
       "title": "Johanniter-Unfall-Hilfe e. V. - Testzentrum Gohlis Arkaden",
       "location": "Lützowstraße 11, 2. OG, 04155 Leipzig",
-      "telephone": "0341 6962615",
-      "opening_hours": "Mo-Fr 8:30-12 und 13-17:30 Uhr,  Anmeldung unter www.johanniter.de/coronatest-leipzig erforderlich"
+      "opening_hours": "Terminanmeldungen Mo-Fr von 9-16 unter 0341/6962615 oder unter johanniter.de/coronatest-leipzig - Testzeiten Montag-Freitag von 8.30-12 Uhr und 13-17.30 Uhr"
     },
     {
       "title": "Malteser Hilfsdienst e. V.",
@@ -335,7 +338,7 @@
     {
       "title": "COMMUNITY TESTCENTER Mädlerpassage",
       "location": "Grimmaische Straße 2-4, 04109 Leipzig",
-      "opening_hours": "Mo-Fr 11-18, Sa 11-16 Uhr"
+      "opening_hours": "Mo-Fr 11-18, Sa 11-16 Uhr, Terminvergabe unter www.communitytestcenter.de"
     },
     {
       "title": "Scheffel-Apotheke",
@@ -362,22 +365,172 @@
     {
       "title": "Culture-Consulting Leipzig GmbH",
       "location": "Gutenbergstraße 11, 04178 Leipzig",
-      "opening_hours": "Mo-Fr 8-19"
+      "opening_hours": "Mo-Fr 8-15, Termine unter 0177/8915344"
     },
     {
       "title": "Schnelltest Service Hamburg im \"Elsterartig\"",
       "location": "Elsterartig, Dittrichring 17, 04109 Leipzig",
-      "opening_hours": "Mo-Fr 8-13 und 14-19 Uhr, Sa 10-15 Uhr"
+      "opening_hours": "Mo-Fr 8-13 und 14-19 Uhr, Sa 10-15 Uhr unter www.schnelltest-leipzig.com"
     },
     {
       "title": "Dr. med. Gerold Kotman",
-      "location": "Maganzingasse 11, 04109 Leipzig",
+      "location": "Magazingasse 9, 04109 Leipzig",
       "opening_hours": "Mo-Fr 15-19, Sa-Su 9-15 Uhr"
     },
     {
       "title": "Luisen-Apotheke",
       "location": "Bornaische Straße 41, 04277 Leipzig",
       "opening_hours": "Mo-Sa, Terminvergabe über www.apotheke-connewitz.de"
+    },
+    {
+      "title": "OBI-Bau- und Heimwerkermarkt Hauptbahnhof",
+      "location": "Brandenburger Straße 5, 04103 Leipzig",
+      "opening_hours": "Mo-Sa 8-19, Termine unter 0172/7622951"
+    },
+    {
+      "title": "Testzentrum Stötteritz",
+      "location": "Holzhäuser Straße 72, 04299 Leipzig",
+      "opening_hours": "Mo/We 8-12 und 16-20 Uhr, Sa 9-12 Uhr, Su 15-18 Uhr, Telefon 0152/07426232 - www.kee-leipzig.de"
+    },
+    {
+      "title": "PhysioMobil-Leipzig Nadin Heinze",
+      "location": "Lindenthaler Hauptstraße 71, 04158 Leipzig",
+      "opening_hours": "Telefon 0341/92790086"
+    },
+    {
+      "title": "Physiotherapie Lindenau",
+      "location": "Lützner Straße 92, 04177 Leipzig",
+      "opening_hours": "Geöffnet Mo-Su, Aktuelle Öffnungszeiten & Terminbuchung unter www.testzentrum-leipzig-west.de oder per Mail an termin@testzentrum-leipzig-west.de"
+    },
+    {
+      "title": "Kloepfel Operations GmbH",
+      "location": "Miltitzer Straße 13, 04178 Leipzig",
+      "opening_hours": "Mo-Sa 7-20, Terminvereinbarung unter www.coronatest-eu.com oder telefonisch unter 02327/947979"
+    },
+    {
+      "title": "leipzig-coronatestzentrum.de",
+      "location": "Zschortauer Straße 96, 04129 Leipzig",
+      "opening_hours": "Mo-Su 7-20, Terminbuchung unter www.leipzig-coronatestzentrum.de oder unter 0174/4004062"
+    },
+    {
+      "title": "Praxis für Physiotherapie Lindner/Perl",
+      "location": "Tauchaer Straße 83, 04349 Leipzig",
+      "opening_hours": "Mo/We 8-12, Tu 12-16 Uhr, Th 12-18 Uhr, Fr 8-11 Uhr, telefonisch unter 0341/9218799"
+    },
+    {
+      "title": "Apotheke am Löwencenter",
+      "location": "Miltitzer Straße 13, 04178 Leipzig",
+      "opening_hours": "Mo-Sa 10-14"
+    },
+    {
+      "title": "Corona Schnelltestzentrum Sachsen Park",
+      "location": "Parkplatz Handelsstraße/Walter-Köhn-Straße,04356 Leipzig",
+      "opening_hours": "Mo-Fr 9-19, Sa 9-16 Uhr, Terminvergabe unter www.schnelltest-sachsenpark.de"
+    },
+    {
+      "title": "Reinker - Ambulante Rehabilitation Leipzig GmbH",
+      "location": "Am Sportforum 2, 04105 Leipzig",
+      "opening_hours": "Mo-Fr 15-17, Terminvergabe unter 0341/231065371"
+    },
+    {
+      "title": "Friseur-Salon Jeanette Siegert-Schönfisch",
+      "location": "Kieler Straße 51, 04357 Leipzig",
+      "opening_hours": "Mo-Fr 12-14, Terminvereinbarung unter 0341/6025762"
+    },
+    {
+      "title": "Cherry Nails",
+      "location": "Delitzscher Straße 66, 04129 Leipzig",
+      "opening_hours": "Mo-Fr 8-19, Sa 8-16 Uhr, Su 11-17 Uhr, Terminvereinbarung unter 0341/25696067"
+    },
+    {
+      "title": "Chocolate",
+      "location": "Barfußgäßchen 12, 04109 Leipzig",
+      "opening_hours": "Mo-Fr 9-21, Sa/Su 14-21 Uhr"
+    },
+    {
+      "title": "CovidZentrum im Gewandhaus zu Leipzig",
+      "location": "Augustusplatz 8, 04109 Leipzig",
+      "opening_hours": "Mo/Fr 8-20, Tu-Th 8-18 Uhr, Sa 8-18 Uhr, Telefon 0341/1270257"
+    },
+    {
+      "title": "Pascucci Leipzig",
+      "location": "Thomasgasse 2, 04109 Leipzig",
+      "opening_hours": "Mo-Fr 8-15 und Sa-Su 10-14 Uhr, Für ein digitales Ergebnis ohne Wartezeit vor Ort, ist eine vorab Registrierung möglich unter www.buergertest-leipzig.de oder vor Ort."
+    },
+    {
+      "title": "Testzentrum Robert-Koch-Klinikum",
+      "location": "Nikolai-Rumjanzew-Straße 100, 04207 Leipzig",
+      "opening_hours": "Mo/Tu/Th 7.30-15, We/Fr 10-17 Uhr, keine Anmeldung notwendig oder mit Terminvereinbarung über www.sanktgeorg.de"
+    },
+    {
+      "title": "toom Plagwitz",
+      "location": "Gießerstraße 37, 04229 Leipzig",
+      "opening_hours": "Mo-Sa 8-20, Telefon 0209/7027919995, toom.leipzig-plagwitz@hi-competence.com"
+    },
+    {
+      "title": "toom Heiterblick",
+      "location": "Torgauer Straße 271, 04347 Leipzig",
+      "opening_hours": "Mo-Sa 8-20, Telefon 0209/7027919995, toom.leipzig-heiterblick@hi-competence.com"
+    },
+    {
+      "title": "toom Engelsdorf",
+      "location": "Riesaer Straße 102, 04319 Leipzig",
+      "opening_hours": "Mo-Sa 8-20, Telefon 0209/7027919995, toom.leipzig-engelsdorf@hi-competence.com"
+    },
+    {
+      "title": "Stadt-Apotheke Leipzig",
+      "location": "Grimmaische Straße 19, 04109 Leipzig",
+      "opening_hours": "Mo-Fr 8.30-10, 11-13 Uhr, 16-17 Uhr, Sa 11-13 Uhr, 16-17 Uhr, Terminvergabe unter www.stadt-apotheke-leipzig.de"
+    },
+    {
+      "title": "Apotheke am Sanct Georg",
+      "location": "Delitzscher Straße 137, 04129 Leipzig",
+      "opening_hours": "Mo-Su 6-18.30"
+    },
+    {
+      "title": "Corona Lab Testzentrum",
+      "location": "Tauchaer Straße 83, 04349 Leipzig",
+      "opening_hours": "Mo-Fr 8-18, Sa 10-15 Uhr, Anmeldung unter info@corona-testen-leipzig.de oder www.corona-testen-leipzig.de"
+    },
+    {
+      "title": "COMMUNITY TESTCENTER Spinnerei",
+      "location": "Spinnereistraße 7, 04179 Leipzig",
+      "opening_hours": "Einmaliger Testtermin am 24.04.2021, 11-17, dann immer Mo/Th 7-13 Uhr"
+    },
+    {
+      "title": "Küchenschmiede Leipzig GmbH",
+      "location": "Adenauerallee 3, 04347 Leipzig",
+      "opening_hours": "Mo-Fr 10-19, kontakt@kuechenschmiede-leipzig.de"
+    },
+    {
+      "title": "FAMA-AKTIV GmbH / Physiotherapie",
+      "location": "Haydnstraße 12, 04107 Leipzig",
+      "opening_hours": "Mo-Th 8-10 und 17-20 Uhr, Fr 8-10 Uhr und 15-17 Uhr, Sa 9-12, Su 18-20 / Testzeiten für Patienten Montag-Freitag ganztägig, weitere Termine auf Anfrage / Terminvereinbarung unter 0341/4808890 oder 0173/5751513 oder kontakt@fama-aktiv.de"
+    },
+    {
+      "title": "Corona-Testcenter Hof-Apotheke am Neumarkt",
+      "location": "Neumarkt 26, 04109 Leipzig",
+      "opening_hours": "Mo-Fr 8.30-16.30, Sa 9.30-16 Uhr, Terminvereinbarung unter 0341/14991203"
+    },
+    {
+      "title": "Praxis für Physiowelt",
+      "location": "Eisenbahnstraße 73-75, 04315 Leipzig",
+      "opening_hours": "Mo-Fr 9-18"
+    },
+    {
+      "title": "Kloepfel Operations GmbH",
+      "location": "Hallesche Straße 214, 04159 Leipzig",
+      "opening_hours": "Mo-Sa 8-20"
+    },
+    {
+      "title": "Nagelstudio Mayfair",
+      "location": "Pestalozzistraße 49, 04178 Leipzig",
+      "opening_hours": "Mo-Fr nach Vereinbarung, telefonisch unter 0176/84170602 oder unter nwoltschleger@web.de"
+    },
+    {
+      "title": "Das CoronaSchnelltest-Zentrum Mohamad Mohamad",
+      "location": "Torgauer Platz 1 (auf dem Marktplatz), 04315 Leipzig",
+      "opening_hours": "Mo-Fr 8-18, Sa/Su 10-15 Uhr"
     }
   ]
 }
