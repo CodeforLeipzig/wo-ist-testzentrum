@@ -9,13 +9,13 @@
     "features": [{
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11001,
                 "title": "Mitsubishi-Electric-Halle",
                 "location": "Siegburgerstraße 15, 40591 Düsseldorf",
                 "details_url": "https://www.duesseldorf.de/schnelltest",
-                "hints": ["Email: drive-in@duesseldorf.de",
-
-                    "Stadtteil: Oberbilk"]
+                "hints": ["Email: drive-in@duesseldorf.de", "Stadtteil: Oberbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -24,13 +24,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11002,
                 "title": "MedCo Testzentrum",
                 "location": "Vogelsanger Weg 66, 40470 Düsseldorf",
                 "details_url": "www.medco-testzentrum.de",
-                "hints": ["Email: info@medco-group.de",
-
-                    "Stadtteil: Mörsenbroich"]
+                "hints": ["Email: info@medco-group.de", "Stadtteil: Mörsenbroich"]
             },
             "geometry": {
                 "type": "Point",
@@ -39,13 +39,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11003,
                 "title": "Corona-Test-Point",
                 "location": "Uhlandstraße 11, 40237 Düsseldorf",
                 "details_url": "www.smartmed-test.de",
-                "hints": ["Email: test.point.duesseldorf@gmail.com",
-
-                    "Stadtteil: Düsseltal"]
+                "hints": ["Email: test.point.duesseldorf@gmail.com", "Stadtteil: Düsseltal"]
             },
             "geometry": {
                 "type": "Point",
@@ -54,13 +54,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11004,
                 "title": "Atrium Apotheke",
                 "location": "Lindemannstraße 83, 40237 Düsseldorf",
                 "details_url": "www.atrium-apotheke.com",
-                "hints": ["Email: info@atrium-apotheke.com",
-
-                    "Stadtteil: Düsseltal"]
+                "hints": ["Email: info@atrium-apotheke.com", "Stadtteil: Düsseltal"]
             },
             "geometry": {
                 "type": "Point",
@@ -69,13 +69,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11005,
                 "title": "Medicare Testzentrum",
                 "location": "Mühlenstraße 2, 40213 Düsseldorf",
                 "details_url": "www.covid-testzentrum.de",
-                "hints": ["Email: sr@covid-testzentrum.de",
-
-                    "Stadtteil: Altstadt"]
+                "hints": ["Email: sr@covid-testzentrum.de", "Stadtteil: Altstadt"]
             },
             "geometry": {
                 "type": "Point",
@@ -84,13 +84,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11006,
                 "title": "PFLEGE TÄGLICH…Daniel Schott",
                 "location": "Emil-Barth-Straße 3, 40595 Düsseldorf",
                 "details_url": "www.pflegetaeglich.de",
-                "hints": ["Email: info@pflegetaeglich.de",
-
-                    "Stadtteil: Garath"]
+                "hints": ["Email: info@pflegetaeglich.de", "Stadtteil: Garath"]
             },
             "geometry": {
                 "type": "Point",
@@ -99,13 +99,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11007,
                 "title": "Vital Apotheke am Brehmplatz",
                 "location": "Rethelstraße 174, 40237 Düsseldorf",
                 "details_url": "www.vitalapotheke-duesseltal.de",
-                "hints": ["Email: vab@vitalapotheke-duesseltal.de",
-
-                    "Stadtteil: Düsseltal"]
+                "hints": ["Email: vab@vitalapotheke-duesseltal.de", "Stadtteil: Düsseltal"]
             },
             "geometry": {
                 "type": "Point",
@@ -114,13 +114,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11008,
                 "title": "Zahnarztpraxis Drs. Hausweiler und Hartwig",
                 "location": "Kölner Landstraße 135, 40591 Düsseldorf",
                 "details_url": "www.hausweiler-hartwig.de",
-                "hints": ["Email: praxis@hausweiler-hartwig.de",
-
-                    "Stadtteil: Wersten"]
+                "hints": ["Email: praxis@hausweiler-hartwig.de", "Stadtteil: Wersten"]
             },
             "geometry": {
                 "type": "Point",
@@ -129,13 +129,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11009,
                 "title": "Corona Schnelltest Center Düsseldorf",
                 "location": "Belsenstraße 2a, 40545 Düsseldorf",
                 "details_url": "www.schnelltest-c19.de",
-                "hints": ["Email: rikx@schnelltest-c19.de",
-
-                    "Stadtteil: Oberkassel"]
+                "hints": ["Email: rikx@schnelltest-c19.de", "Stadtteil: Oberkassel"]
             },
             "geometry": {
                 "type": "Point",
@@ -144,13 +144,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11010,
                 "title": "Corona Schnelltest Center Düsseldorf",
                 "location": "Klemensplatz 7, 40489 Düsseldorf",
                 "details_url": "www.schnelltest-c19.de",
-                "hints": ["Email: tonhalle@schnelltest-c19.de",
-
-                    "Stadtteil: Kaiserswerth"]
+                "hints": ["Email: tonhalle@schnelltest-c19.de", "Stadtteil: Kaiserswerth"]
             },
             "geometry": {
                 "type": "Point",
@@ -159,13 +159,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11011,
                 "title": "Kloster-Apotheke",
                 "location": "Oststraße 51, 40211 Düsseldorf",
                 "details_url": "www.klosterapo.com",
-                "hints": ["Email: pauksch@klosterapo.com",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: pauksch@klosterapo.com", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -174,13 +174,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11012,
                 "title": "medi-Apotheke",
                 "location": "Schadowstraße 80, 40212 Düsseldorf",
                 "details_url": "www.medi-apotheke.com",
-                "hints": ["Email: belivanakis@t-online.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: belivanakis@t-online.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -189,13 +189,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11013,
                 "title": "Schwanen-Apotheke",
                 "location": "Kölner Straße 258, 40227 Düsseldorf",
                 "details_url": "www.schwanen-apotheke-oberbilk.de",
-                "hints": ["Email: info@docapo.de",
-
-                    "Stadtteil: Oberbilk"]
+                "hints": ["Email: info@docapo.de", "Stadtteil: Oberbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -204,13 +204,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11014,
                 "title": "Licht-Apotheke",
                 "location": "Lichtstraße 49, 40235 Düsseldorf",
                 "details_url": "www.licht-apotheke.de",
-                "hints": ["Email: info@licht-apotheke.de",
-
-                    "Stadtteil: Flingern Nord"]
+                "hints": ["Email: info@licht-apotheke.de", "Stadtteil: Flingern Nord"]
             },
             "geometry": {
                 "type": "Point",
@@ -219,13 +219,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11015,
                 "title": "Oberkasseler Apotheke",
                 "location": "Luegallee 39, 40545 Düsseldorf",
                 "details_url": "www.oberkasseler-apotheke.de",
-                "hints": ["Email: info@oberkasseler-apotheke.de",
-
-                    "Stadtteil: Oberkassel"]
+                "hints": ["Email: info@oberkasseler-apotheke.de", "Stadtteil: Oberkassel"]
             },
             "geometry": {
                 "type": "Point",
@@ -234,13 +234,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11016,
                 "title": "Praxis Dr. M. T. Petersohn",
                 "location": "Pfeifferstraße 68, 40625 Düsseldorf",
                 "details_url": "www.salutomed.de",
-                "hints": ["Email: info@salutomed.de",
-
-                    "Stadtteil: Gerresheim"]
+                "hints": ["Email: info@salutomed.de", "Stadtteil: Gerresheim"]
             },
             "geometry": {
                 "type": "Point",
@@ -249,13 +249,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11017,
                 "title": "Flindocs Süd",
                 "location": "Aachener Straße 164, 40223 Düsseldorf",
                 "details_url": "https://flindocs.de",
-                "hints": ["Email: sued@flindocs.de",
-
-                    "Stadtteil: Bilk"]
+                "hints": ["Email: sued@flindocs.de", "Stadtteil: Bilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -264,13 +264,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11018,
                 "title": "Flindocs Mitte",
                 "location": "Birkenstraße 38, 40223 Düsseldorf",
                 "details_url": "https://flindocs.de",
-                "hints": ["Email: mitte@flindocs.de",
-
-                    "Stadtteil: Flingern Nord"]
+                "hints": ["Email: mitte@flindocs.de", "Stadtteil: Flingern Nord"]
             },
             "geometry": {
                 "type": "Point",
@@ -279,13 +279,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11019,
                 "title": "Zahnarztpraxis Dr. Thomas Witte",
                 "location": "Kruppstraße 3, 40227 Düsseldorf",
                 "details_url": "http://dr-thomas-witte.de/pgs/zahn.htm",
-                "hints": ["Email: dr.thomas.witte@t-online.de",
-
-                    "Stadtteil: Oberbilk"]
+                "hints": ["Email: dr.thomas.witte@t-online.de", "Stadtteil: Oberbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -294,13 +294,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11020,
                 "title": "Kleeblatt Apotheke im real,- Heerdt",
                 "location": "Schiessstraße 31, 40549 Düsseldorf",
                 "details_url": "www.kleeblatt-apotheken.de",
-                "hints": ["Email: s.hampel@kleeblatt-apotheken.de",
-
-                    "Stadtteil: Heerdt"]
+                "hints": ["Email: s.hampel@kleeblatt-apotheken.de", "Stadtteil: Heerdt"]
             },
             "geometry": {
                 "type": "Point",
@@ -309,13 +309,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11022,
                 "title": "Zahnarztpraxis Dr. Nikolaus Schauerte",
                 "location": "Elisabethstraße 43, 40217 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: testzentrum11-022@gmx.de",
-
-                    "Stadtteil: Friedrichstadt"]
+                "hints": ["Email: testzentrum11-022@gmx.de", "Stadtteil: Friedrichstadt"]
             },
             "geometry": {
                 "type": "Point",
@@ -324,13 +324,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11023,
                 "title": "Swidbert-Apotheke",
                 "location": "An St. Swidbert 3 - 5, 40489 Düsseldorf",
                 "details_url": "http://1699.apotheken-website-vorschau.de/",
-                "hints": ["Email: bestellung@swidbert-apotheke.de",
-
-                    "Stadtteil: Kaiserswerth"]
+                "hints": ["Email: bestellung@swidbert-apotheke.de", "Stadtteil: Kaiserswerth"]
             },
             "geometry": {
                 "type": "Point",
@@ -339,13 +339,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11024,
                 "title": "Dein Corona Testzentrum",
                 "location": "Berliner Allee 26, 40212 Düsseldorf",
                 "details_url": "www.DeinCoronaTestzentrum.de",
-                "hints": ["Email: MD@DeinCoronaTestzentrum.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: MD@DeinCoronaTestzentrum.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -354,13 +354,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11025,
                 "title": "Barbara-Apotheke",
                 "location": "Erftstraße 7-9, 40219 Düsseldorf",
                 "details_url": "www.barbara-apotheke-duesseldorf.de",
-                "hints": ["Email: barbara-apotheke-duesseldorf@gmx.de",
-
-                    "Stadtteil: Unterbilk"]
+                "hints": ["Email: barbara-apotheke-duesseldorf@gmx.de", "Stadtteil: Unterbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -369,13 +369,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11026,
                 "title": "Rats-Apotheke",
                 "location": "Gräulinger Straße 3, 40625 Düsseldorf",
                 "details_url": "www.rats-apotheke-duesseldorf.de",
-                "hints": ["Email: b.silbermann@rats-apotheke-duesseldorf.de",
-
-                    "Stadtteil: Gerresheim"]
+                "hints": ["Email: b.silbermann@rats-apotheke-duesseldorf.de", "Stadtteil: Gerresheim"]
             },
             "geometry": {
                 "type": "Point",
@@ -384,13 +384,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11027,
                 "title": "MAXMO Apotheke Düsseldorf-Benrath",
                 "location": "Hauptstraße 4, 40597 Düsseldorf",
                 "details_url": "www.maxmo.de/apotheken/maxmo-benrath/",
-                "hints": ["Email: eva.kandziora@maxmo.de",
-
-                    "Stadtteil: Benrath"]
+                "hints": ["Email: eva.kandziora@maxmo.de", "Stadtteil: Benrath"]
             },
             "geometry": {
                 "type": "Point",
@@ -399,13 +399,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11029,
                 "title": "Testzentrum Terminal C",
                 "location": "Flughafenstraße 5, 40474 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: direct-support@ecocare.center",
-
-                    "Stadtteil: Lohausen"]
+                "hints": ["Email: direct-support@ecocare.center", "Stadtteil: Lohausen"]
             },
             "geometry": {
                 "type": "Point",
@@ -414,13 +414,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11030,
                 "title": "Zotz/Klimas MVZ Düsseldorf Zentrum",
                 "location": "Immermannstr. 65 A, 40210 Düsseldorf",
                 "details_url": "www.zotzklimas.de",
-                "hints": ["Email: walkin.dueseldorf@zotzklimas.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: walkin.dueseldorf@zotzklimas.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -429,13 +429,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11031,
                 "title": "Apotheke Kempken",
                 "location": "Altenbrückstraße 17, 40599 Düsseldorf",
                 "details_url": "www.apotheke-kempken.de",
-                "hints": ["Email: post@apotheke-kempken.de",
-
-                    "Stadtteil: Hassels"]
+                "hints": ["Email: post@apotheke-kempken.de", "Stadtteil: Hassels"]
             },
             "geometry": {
                 "type": "Point",
@@ -444,13 +444,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11032,
                 "title": "Praxis Dr. Kuhnt und Dr. Schwencke",
                 "location": "Gumbertstr. 180, 40229 Düsseldorf",
                 "details_url": "https://hausarztpraxis-eller.de/",
-                "hints": ["Email: info@hausarztpraxis-eller.de",
-
-                    "Stadtteil: Eller"]
+                "hints": ["Email: info@hausarztpraxis-eller.de", "Stadtteil: Eller"]
             },
             "geometry": {
                 "type": "Point",
@@ -459,13 +459,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11033,
                 "title": "St. Bruno Apotheke",
                 "location": "Kalkumer Str. 22, 40468 Düsseldorf",
                 "details_url": "https://bruno-apotheke.de/",
-                "hints": ["Email: team@bruno-apotheke.de",
-
-                    "Stadtteil: Unterrath"]
+                "hints": ["Email: team@bruno-apotheke.de", "Stadtteil: Unterrath"]
             },
             "geometry": {
                 "type": "Point",
@@ -474,13 +474,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11034,
                 "title": "Atrium Apotheke a.d. Graf-Adolf Straße",
                 "location": "Graf Adolf Straße 35, 40210 Düsseldorf",
                 "details_url": "www.atriumapotheke.com/Apotheke/Atrium+Apotheke+an+der+Graf+Adolf+Strasse/",
-                "hints": ["Email: international@atrium-apotheke.com",
-
-                    "Stadtteil: Friedrichstadt"]
+                "hints": ["Email: international@atrium-apotheke.com", "Stadtteil: Friedrichstadt"]
             },
             "geometry": {
                 "type": "Point",
@@ -489,13 +489,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11035,
                 "title": "Heine-Apotheke",
                 "location": "Nordstr. 24, 40477 Düsseldorf",
                 "details_url": "https://heine-apotheke.de/",
-                "hints": ["Email: info@heine-apotheke.de",
-
-                    "Stadtteil: Pempelfort"]
+                "hints": ["Email: info@heine-apotheke.de", "Stadtteil: Pempelfort"]
             },
             "geometry": {
                 "type": "Point",
@@ -504,13 +504,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11036,
                 "title": "Franziskus-Apotheke",
                 "location": "Eugen-Richter-Str. 1, 40470 Düsseldorf",
                 "details_url": "https://www.franziskus-apotheke-duesseldorf.de/",
-                "hints": ["Email: info@franziskus-apotheke.com",
-
-                    "Stadtteil: Mörsenbroich"]
+                "hints": ["Email: info@franziskus-apotheke.com", "Stadtteil: Mörsenbroich"]
             },
             "geometry": {
                 "type": "Point",
@@ -519,13 +519,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11038,
                 "title": "ZAP8 Zahnarztpraxis am Seestern",
                 "location": "Emanuel-Leutze-Str. 8, 40547 Düsseldorf",
                 "details_url": "https://zap8.de/",
-                "hints": ["Email: info@zap8.de",
-
-                    "Stadtteil: Lörick"]
+                "hints": ["Email: info@zap8.de", "Stadtteil: Lörick"]
             },
             "geometry": {
                 "type": "Point",
@@ -534,13 +534,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11039,
                 "title": "Schnelltestzentrum Düsseldorf Nord",
                 "location": "Moltkestraße 124, 40479 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email:",
-
-                    "Stadtteil: Pempelfort"]
+                "hints": ["Email:", "Stadtteil: Pempelfort"]
             },
             "geometry": {
                 "type": "Point",
@@ -549,13 +549,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11042,
                 "title": "Zahnarztpraxis Jörg Gerndt",
                 "location": "Hauptstraße 1, 40597 Düsseldorf",
                 "details_url": "www.zahnarzt-gerndt.de",
-                "hints": ["Email: praxis@zahnarzt-gerndt.de",
-
-                    "Stadtteil: Benrath"]
+                "hints": ["Email: praxis@zahnarzt-gerndt.de", "Stadtteil: Benrath"]
             },
             "geometry": {
                 "type": "Point",
@@ -564,13 +564,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11046,
                 "title": "Kinderarzt-Praxis",
                 "location": "Kammerrathsfeldstraße 24, 40593 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: vesterling-hoerner@t-online.de",
-
-                    "Stadtteil: Urdenbach"]
+                "hints": ["Email: vesterling-hoerner@t-online.de", "Stadtteil: Urdenbach"]
             },
             "geometry": {
                 "type": "Point",
@@ -579,13 +579,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11047,
                 "title": "Rheinapotheke",
                 "location": "Wickrather Straße 4, 40547 Düsseldorf",
                 "details_url": "www.rheinapotheke-loerick.com",
-                "hints": ["Email: pauksch@rheinapotheke-loerick.com",
-
-                    "Stadtteil: Lörick"]
+                "hints": ["Email: pauksch@rheinapotheke-loerick.com", "Stadtteil: Lörick"]
             },
             "geometry": {
                 "type": "Point",
@@ -594,13 +594,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11049,
                 "title": "Praxis Dr. med. Collin Gerd Blume",
                 "location": "Lenaustraße 1, 40470 Düsseldorf",
                 "details_url": "www.collinblume.de",
-                "hints": ["Email: cgb9869@yahoo.com",
-
-                    "Stadtteil: Mörsenbroich"]
+                "hints": ["Email: cgb9869@yahoo.com", "Stadtteil: Mörsenbroich"]
             },
             "geometry": {
                 "type": "Point",
@@ -609,13 +609,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11050,
                 "title": "Praxis für Gynäkologie und Geburtshilfe",
                 "location": "Ria-Thiele-Straße 4, 40549 Düsseldorf",
                 "details_url": "www.praxis-gynaekologie.de",
-                "hints": ["Email: email@praxis-gynaekologie.de",
-
-                    "Stadtteil: Oberkassel"]
+                "hints": ["Email: email@praxis-gynaekologie.de", "Stadtteil: Oberkassel"]
             },
             "geometry": {
                 "type": "Point",
@@ -624,13 +624,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11052,
                 "title": "Praxis für Urologie, Allgemeinmedizin und Psychotherapie",
                 "location": "Carlo-Schmid-Straße 1, 40595 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: maykan@icloud.com",
-
-                    "Stadtteil: Hellerhof"]
+                "hints": ["Email: maykan@icloud.com", "Stadtteil: Hellerhof"]
             },
             "geometry": {
                 "type": "Point",
@@ -639,13 +639,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11054,
                 "title": "MediCan GmbH",
                 "location": "Kurfürstenstraße 30, 40211 Düsseldorf",
                 "details_url": "www.coronatest-eu.com",
-                "hints": ["Email: o.can@coronatest-nrw.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: o.can@coronatest-nrw.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -654,13 +654,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11057,
                 "title": "Praxis Dr. Andre Schumacher",
                 "location": "Hügelstraße 14, 40589 Düsseldorf",
                 "details_url": "www.drandreschumacher.de",
-                "hints": ["Email: DrAndreSchumacherDDorf@t-online.de",
-
-                    "Stadtteil: Wersten"]
+                "hints": ["Email: DrAndreSchumacherDDorf@t-online.de", "Stadtteil: Wersten"]
             },
             "geometry": {
                 "type": "Point",
@@ -669,13 +669,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11058,
                 "title": "Hausarztpraxis Hüttenstraße",
                 "location": "Hüttenstraße 40, 40215 Düsseldorf",
                 "details_url": "www.hausarztpraxis-huettenstrasse.de",
-                "hints": ["Email: huettenstrasse-hausarztpraxis@web.de",
-
-                    "Stadtteil: Friedrichstadt"]
+                "hints": ["Email: huettenstrasse-hausarztpraxis@web.de", "Stadtteil: Friedrichstadt"]
             },
             "geometry": {
                 "type": "Point",
@@ -684,13 +684,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11059,
                 "title": "Praxis Dr. med. Manfred Bartsch, Frau Dr. med. Maren Hoffmann-Becking",
                 "location": "Kaiserswerther Straße 283, 40474 Düsseldorf",
                 "details_url": "www.hno-in-duesseldorf.de",
-                "hints": ["Email: info@hno-­in-­duesseldorf.de  ",
-
-                    "Stadtteil: Golzheim"]
+                "hints": ["Email: info@hno-­in-­duesseldorf.de  ", "Stadtteil: Golzheim"]
             },
             "geometry": {
                 "type": "Point",
@@ -699,13 +699,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11063,
                 "title": "Praxis Dr. med. Ralf Hollstein",
                 "location": "Eulerstraße 3, 40477 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: drmedhollstein@aol.com",
-
-                    "Stadtteil: Derendorf"]
+                "hints": ["Email: drmedhollstein@aol.com", "Stadtteil: Derendorf"]
             },
             "geometry": {
                 "type": "Point",
@@ -714,13 +714,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11065,
                 "title": "Gemeinschaftspraxis für HNO-Heilkunde Dres. Derichs und Werminghaus",
                 "location": "Münsterstraße 114, 40476 Düsseldorf",
                 "details_url": "www.hno-derendorf.de",
-                "hints": ["Email: info@hno-derendorf.de",
-
-                    "Stadtteil: Derendorf"]
+                "hints": ["Email: info@hno-derendorf.de", "Stadtteil: Derendorf"]
             },
             "geometry": {
                 "type": "Point",
@@ -729,13 +729,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11066,
                 "title": "Praxis Dr. Marie-Dominique Bertrand",
                 "location": "Roßstraße 69, 40476 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: mdbertrandrossstr@email.de",
-
-                    "Stadtteil: Derendorf"]
+                "hints": ["Email: mdbertrandrossstr@email.de", "Stadtteil: Derendorf"]
             },
             "geometry": {
                 "type": "Point",
@@ -744,13 +744,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11067,
                 "title": "Gemeinschaftspraxis Dr. Monika Homrich, Robert Homrich, Dr. Sebastian Neuwald",
                 "location": "Gerresheimer Landstraße 113, 40627 Düsseldorf",
                 "details_url": "https://hausarzt-unterbach.de",
-                "hints": ["Email: rezepte@hausarzt-unterbach.de",
-
-                    "Stadtteil: Unterbach"]
+                "hints": ["Email: rezepte@hausarzt-unterbach.de", "Stadtteil: Unterbach"]
             },
             "geometry": {
                 "type": "Point",
@@ -759,13 +759,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11072,
                 "title": "Storchen-Apotheke",
                 "location": "Gladbacher Straße 39, 40219 Düsseldorf",
                 "details_url": "www.apo-paucksch.de",
-                "hints": ["Email: paucksch@storchenapo.com",
-
-                    "Stadtteil: Unterbilk"]
+                "hints": ["Email: paucksch@storchenapo.com", "Stadtteil: Unterbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -774,13 +774,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11073,
                 "title": "Praxis Dr. Enrico Kuhnert",
                 "location": "Grafenberger Allee 68, 40237 Düsseldorf",
                 "details_url": "www.drkuhnert.de",
-                "hints": ["Email: praxis@drkuhnert.de",
-
-                    "Stadtteil: Düsseltal"]
+                "hints": ["Email: praxis@drkuhnert.de", "Stadtteil: Düsseltal"]
             },
             "geometry": {
                 "type": "Point",
@@ -789,13 +789,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11077,
                 "title": "Gemeinschaftspraxis Dr. Kooshani, D. Wohde-Kooshani",
                 "location": "Reisholzer Straße 50, 40231 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: dr.kooshani@t-online.de",
-
-                    "Stadtteil: Lierenfeld"]
+                "hints": ["Email: dr.kooshani@t-online.de", "Stadtteil: Lierenfeld"]
             },
             "geometry": {
                 "type": "Point",
@@ -804,13 +804,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11078,
                 "title": "Stifts-Apotheke",
                 "location": "Benderstraße 76, 40625 Düsseldorf",
                 "details_url": "www.stifts-apotheke-duesseldorf.de",
-                "hints": ["Email: info@stifts-apotheke-duesseldorf.de",
-
-                    "Stadtteil: Gerresheim"]
+                "hints": ["Email: info@stifts-apotheke-duesseldorf.de", "Stadtteil: Gerresheim"]
             },
             "geometry": {
                 "type": "Point",
@@ -819,13 +819,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11083,
                 "title": "Caritasverband Düsseldorf",
                 "location": "Neusser Straße 39, 40219 Düsseldorf",
                 "details_url": "https://caritas.erzbistum-koeln.de/duesseldorf-cv/",
-                "hints": ["Email: testzentrum@caritas-duesseldof.de",
-
-                    "Stadtteil: Unterbilk"]
+                "hints": ["Email: testzentrum@caritas-duesseldof.de", "Stadtteil: Unterbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -834,13 +834,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11085,
                 "title": "Hausarztpraxis Oberle & Niehues",
                 "location": "Eugen-Richter-Straße 1, 40470 Düsseldorf",
                 "details_url": "https://ihre-hausarztpraxis.com",
-                "hints": ["Email: post@ihre-hausarztpraxis.com",
-
-                    "Stadtteil: Mörsenbroich"]
+                "hints": ["Email: post@ihre-hausarztpraxis.com", "Stadtteil: Mörsenbroich"]
             },
             "geometry": {
                 "type": "Point",
@@ -849,13 +849,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11092,
                 "title": "MEIN CORONA SCHNELLTEST / MCS Health Service GmbH",
                 "location": "Friedrichstraße 133, 40217 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: ddorfarcaden@meincoronaschnelltest.de",
-
-                    "Stadtteil: Bilk"]
+                "hints": ["Email: ddorfarcaden@meincoronaschnelltest.de", "Stadtteil: Bilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -864,13 +864,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11094,
                 "title": "Hausarztpraxis Düsseltal",
                 "location": "Goethestraße 75, 40237 Düsseldorf",
                 "details_url": "www.hausarztpraxis-duesseltal.de",
-                "hints": ["Email: info@hausarztpraxis-duesseltal.de",
-
-                    "Stadtteil: Düsseltal"]
+                "hints": ["Email: info@hausarztpraxis-duesseltal.de", "Stadtteil: Düsseltal"]
             },
             "geometry": {
                 "type": "Point",
@@ -879,13 +879,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11095,
                 "title": "Kern-Apotheke",
                 "location": "Gumbertstraße 180, 40229 Düsseldorf",
                 "details_url": "www.kern-apotheke.de",
-                "hints": ["Email: info@kern-apotheke.de",
-
-                    "Stadtteil: Eller"]
+                "hints": ["Email: info@kern-apotheke.de", "Stadtteil: Eller"]
             },
             "geometry": {
                 "type": "Point",
@@ -894,13 +894,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11097,
                 "title": "Praxis Dr. Stella Lande",
                 "location": "Schweidnitzer Straße 29a, 40231 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: praxisdrlande@gmail.com",
-
-                    "Stadtteil: Lierenfeld"]
+                "hints": ["Email: praxisdrlande@gmail.com", "Stadtteil: Lierenfeld"]
             },
             "geometry": {
                 "type": "Point",
@@ -909,13 +909,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11100,
                 "title": "Chirurgisch–orthopädische Gemeinschaftspraxis Dr. med. Heinrich Steinfort / FA. Talip Sakinc",
                 "location": "Kölner Landstraße 11, 40591 Düsseldorf",
                 "details_url": "www.chirurgie-orthopaedie-dus.de",
-                "hints": ["Email: praxis-steinfort-sakinc@arcor.de",
-
-                    "Stadtteil: Wersten"]
+                "hints": ["Email: praxis-steinfort-sakinc@arcor.de", "Stadtteil: Wersten"]
             },
             "geometry": {
                 "type": "Point",
@@ -924,13 +924,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11104,
                 "title": "Praxis Flommersfeld",
                 "location": "Merowingerstrasse 29, 40223 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: flommersfeld@ish.de",
-
-                    "Stadtteil: Bilk"]
+                "hints": ["Email: flommersfeld@ish.de", "Stadtteil: Bilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -939,13 +939,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11108,
                 "title": "Praxis Dr. med. Carina Brause",
                 "location": "Von-Gahlen-Straße 22, 40625 Düsseldorf",
                 "details_url": "www.hausarztpraxis-gerresheim.de",
-                "hints": ["Email: dr.cbrause@gmx.de",
-
-                    "Stadtteil: Gerresheim"]
+                "hints": ["Email: dr.cbrause@gmx.de", "Stadtteil: Gerresheim"]
             },
             "geometry": {
                 "type": "Point",
@@ -954,13 +954,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11110,
                 "title": "Guten Tag Apotheke",
                 "location": "Friedrichstraße 129-133, 40217 Düsseldorf",
                 "details_url": "www.gta-duesseldorf.de",
-                "hints": ["Email: info@gta-duesseldorf.de",
-
-                    "Stadtteil: Bilk"]
+                "hints": ["Email: info@gta-duesseldorf.de", "Stadtteil: Bilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -969,13 +969,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11111,
                 "title": "Praxis Dr. Doris Sadean",
                 "location": "Brunnenstr. 17, 40223 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: praxis-dr.doris-sadean@t-online.de",
-
-                    "Stadtteil: Bilk"]
+                "hints": ["Email: praxis-dr.doris-sadean@t-online.de", "Stadtteil: Bilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -984,13 +984,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11117,
                 "title": "Gemeinschaftspraxis Hausarzt am Hofgarten",
                 "location": "Louise-Dumont-Straße 1, 40211 Düsseldorf",
                 "details_url": "www.hausarzt-am-hofgarten.de",
-                "hints": ["Email: geimer@hausarzt-am-hofgarten.de",
-
-                    "Stadtteil: Pempelfort"]
+                "hints": ["Email: geimer@hausarzt-am-hofgarten.de", "Stadtteil: Pempelfort"]
             },
             "geometry": {
                 "type": "Point",
@@ -999,13 +999,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11118,
                 "title": "Praxis Damanakis-Richter",
                 "location": "Bilker Allee 56, 40219 Düsseldorf",
                 "details_url": "http://www.damanakis.de/",
-                "hints": ["Email: info@damanakis-richter.de",
-
-                    "Stadtteil: Unterbilk"]
+                "hints": ["Email: info@damanakis-richter.de", "Stadtteil: Unterbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -1014,13 +1014,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11121,
                 "title": "Frauenarzt Dr. Vrinssen",
                 "location": "Louise-Dumont-Straße 1, 40211 Düsseldorf",
                 "details_url": "www.vrinssen-frauenarzt.de",
-                "hints": ["Email: info@vrinssen-frauenarzt.de",
-
-                    "Stadtteil: Pempelfort"]
+                "hints": ["Email: info@vrinssen-frauenarzt.de", "Stadtteil: Pempelfort"]
             },
             "geometry": {
                 "type": "Point",
@@ -1029,13 +1029,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11126,
                 "title": "Corona Zentrale Düsseldorf",
                 "location": "Schorlemer Straße 63, 40547 Düsseldorf",
                 "details_url": "https://www.duesseldorf.de/schnelltest",
-                "hints": ["Email: inf@corona-zentrale.de",
-
-                    "Stadtteil: Niederkassel"]
+                "hints": ["Email: inf@corona-zentrale.de", "Stadtteil: Niederkassel"]
             },
             "geometry": {
                 "type": "Point",
@@ -1044,13 +1044,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11130,
                 "title": "Apotheke am Oberbilker Markt",
                 "location": "Kölner Straße 231, 40277 Düsseldorf",
                 "details_url": "http://www.apotheke-am-oberbilker-markt.de/",
-                "hints": ["Email: info@apotheke-am-oberbilker-markt.de",
-
-                    "Stadtteil: Oberbilk"]
+                "hints": ["Email: info@apotheke-am-oberbilker-markt.de", "Stadtteil: Oberbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -1059,13 +1059,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11132,
                 "title": "Praxis Dr. Claus",
                 "location": "Nordstraße 34, 40477 Düsseldorf",
                 "details_url": "http://hno-dr-claus.de/",
-                "hints": ["Email: dr.b.claus.hno@gmx.de",
-
-                    "Stadtteil: Pempelfort"]
+                "hints": ["Email: dr.b.claus.hno@gmx.de", "Stadtteil: Pempelfort"]
             },
             "geometry": {
                 "type": "Point",
@@ -1074,13 +1074,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11133,
                 "title": "Hausarzt-Rath",
                 "location": "Kanzlerstr. 3, 40472 Düsseldorf",
                 "details_url": "www.hausarzt-rath.de",
-                "hints": ["Email:",
-
-                    "Stadtteil: Rath"]
+                "hints": ["Email:", "Stadtteil: Rath"]
             },
             "geometry": {
                 "type": "Point",
@@ -1089,13 +1089,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11135,
                 "title": "Praxis Lasana",
                 "location": "Kölner Landstraße 48, 40591 Düsseldorf",
                 "details_url": "https://www.la-sana.care/",
-                "hints": ["Email: la.sana.care@gmail.com",
-
-                    "Stadtteil: Wersten"]
+                "hints": ["Email: la.sana.care@gmail.com", "Stadtteil: Wersten"]
             },
             "geometry": {
                 "type": "Point",
@@ -1104,13 +1104,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11136,
                 "title": "Praxis Dr. Kukalla",
                 "location": "Volkardeyer Weg 53A, 40472 Düsseldorf",
                 "details_url": "https://www.kukalla.de/",
-                "hints": ["Email: kontakt@kukalla.de",
-
-                    "Stadtteil: Lichtenbroich"]
+                "hints": ["Email: kontakt@kukalla.de", "Stadtteil: Lichtenbroich"]
             },
             "geometry": {
                 "type": "Point",
@@ -1119,13 +1119,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11147,
                 "title": "Praxis Adem Dolas",
                 "location": "Friedenstrasse 13, 40219 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: praxiszentrum-unterbilk@hotmail.com",
-
-                    "Stadtteil: Unterbilk"]
+                "hints": ["Email: praxiszentrum-unterbilk@hotmail.com", "Stadtteil: Unterbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -1134,13 +1134,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11149,
                 "title": "advitam Gesundheitszentrum",
                 "location": "Graf-Adolf-Straße 89, 40210 Düsseldorf",
                 "details_url": "https://www.advitam-duesseldorf.de/",
-                "hints": ["Email: Theodoropoulos@advitam-duesseldorf.de",
-
-                    "Stadtteil: Friedrichstadt"]
+                "hints": ["Email: Theodoropoulos@advitam-duesseldorf.de", "Stadtteil: Friedrichstadt"]
             },
             "geometry": {
                 "type": "Point",
@@ -1149,13 +1149,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11151,
                 "title": "Zwilling Apotheke oHG",
                 "location": "Friedrichstraße 17, 40217 Düsseldorf",
                 "details_url": "www.zwilling-apotheke-duesseldorf.de/",
-                "hints": ["Email: info@zwilling-apotheke-duesseldorf.de",
-
-                    "Stadtteil: Unterbilk"]
+                "hints": ["Email: info@zwilling-apotheke-duesseldorf.de", "Stadtteil: Unterbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -1164,13 +1164,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11152,
                 "title": "Ecolog Deutschland GmbH",
                 "location": "Marler Straße 4, 40472 Düsseldorf",
                 "details_url": "https://buergertest.ecocare.center/",
-                "hints": ["Email: duesseldorf.buergertest@ecocare.center",
-
-                    "Stadtteil: Rath"]
+                "hints": ["Email: duesseldorf.buergertest@ecocare.center", "Stadtteil: Rath"]
             },
             "geometry": {
                 "type": "Point",
@@ -1179,13 +1179,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11155,
                 "title": "Praxis Dr. Edna Hoffmann",
                 "location": "Kyffhäuserstr. 9, 40545 Düsseldorf",
                 "details_url": "http://ednahoffmann-düsseldorf.de/",
-                "hints": ["Email: info@xn--ednahoffmann-dsseldorf-5lc.de",
-
-                    "Stadtteil: Oberkassel"]
+                "hints": ["Email: info@xn--ednahoffmann-dsseldorf-5lc.de", "Stadtteil: Oberkassel"]
             },
             "geometry": {
                 "type": "Point",
@@ -1194,13 +1194,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11158,
                 "title": "Zahnarztpraxis Dr. Ece Vargönen",
                 "location": "Wilhelm-Kreis-Str. 17, 40595 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: ecevargonen@gmail.com",
-
-                    "Stadtteil: Garath"]
+                "hints": ["Email: ecevargonen@gmail.com", "Stadtteil: Garath"]
             },
             "geometry": {
                 "type": "Point",
@@ -1209,13 +1209,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11160,
                 "title": "Praxis Dr. Christian Alder",
                 "location": "Brunnenstr. 4, 40223 Düsseldorf",
                 "details_url": "http://praxis-alder.de/",
-                "hints": ["Email: info@praxis-alder.de",
-
-                    "Stadtteil: Bilk"]
+                "hints": ["Email: info@praxis-alder.de", "Stadtteil: Bilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -1224,13 +1224,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11163,
                 "title": "Praxis Dr. Schottenfeld-Naor",
                 "location": "Oststr.51, 40211 Düsseldorf",
                 "details_url": "www.medplus-nordrhein.de",
-                "hints": ["Email: anmeldung-allg@medplus-nordrhein.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: anmeldung-allg@medplus-nordrhein.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -1239,13 +1239,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11164,
                 "title": "Praxis Dr. Brigitte Prem",
                 "location": "Bolkerstraße 56, 40213 Düsseldorf",
                 "details_url": "www.dr-prem.de",
-                "hints": ["Email: info@dr-prem.de",
-
-                    "Stadtteil: Altstadt"]
+                "hints": ["Email: info@dr-prem.de", "Stadtteil: Altstadt"]
             },
             "geometry": {
                 "type": "Point",
@@ -1254,13 +1254,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11175,
                 "title": "Albert-Schweitzer-Apotheke",
                 "location": "Uhlandstraße 9, 40237 Düsseldorf",
                 "details_url": "www.albert-schweitzer-apotheke-duesseldorf.de",
-                "hints": ["Email: info@asa-d.de",
-
-                    "Stadtteil: Düsseltal"]
+                "hints": ["Email: info@asa-d.de", "Stadtteil: Düsseltal"]
             },
             "geometry": {
                 "type": "Point",
@@ -1269,13 +1269,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11176,
                 "title": "InVitaMarket GmbH",
                 "location": "Kalkumer Schloßallee 1, 40489 Düsseldorf",
                 "details_url": "www.covid-testlab.de",
-                "hints": ["Email: info@covid-testlab.de",
-
-                    "Stadtteil: Kaiserswerth"]
+                "hints": ["Email: info@covid-testlab.de", "Stadtteil: Kaiserswerth"]
             },
             "geometry": {
                 "type": "Point",
@@ -1284,13 +1284,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11178,
                 "title": "Goethe-Apotheke",
                 "location": "Lindemannstraße 62, 40237 Düsseldorf",
                 "details_url": "www.goethe-apotheke-duesseldorf.de",
-                "hints": ["Email: goetheapotheke@web.de",
-
-                    "Stadtteil: Düsseltal"]
+                "hints": ["Email: goetheapotheke@web.de", "Stadtteil: Düsseltal"]
             },
             "geometry": {
                 "type": "Point",
@@ -1299,13 +1299,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11179,
                 "title": "Dominikus Apotheke",
                 "location": "Luegallee 97, 40545 Düsseldorf",
                 "details_url": "www.dominikus-apotheke-duesseldorf.de",
-                "hints": ["Email: dominikusapotheke@gmail.com",
-
-                    "Stadtteil: Oberkassel"]
+                "hints": ["Email: dominikusapotheke@gmail.com", "Stadtteil: Oberkassel"]
             },
             "geometry": {
                 "type": "Point",
@@ -1314,13 +1314,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11180,
                 "title": "Fa. Fest.-Test Mike Schöneberg",
                 "location": "Ratinger Straße 25, 40213 Düsseldorf",
                 "details_url": "www.fest-test.de",
-                "hints": ["Email: info@nightlife-events.de",
-
-                    "Stadtteil: Altstadt"]
+                "hints": ["Email: info@nightlife-events.de", "Stadtteil: Altstadt"]
             },
             "geometry": {
                 "type": "Point",
@@ -1329,13 +1329,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11181,
                 "title": "Praxis Dr. Lankisch und Dr. Bienemann",
                 "location": "Friedhofstraße 21, 40597 Düsseldorf",
                 "details_url": "www.kinderarztpraxis-benrath.de",
-                "hints": ["Email: info@kinderarztpraxis-benrath.de",
-
-                    "Stadtteil: Benrath"]
+                "hints": ["Email: info@kinderarztpraxis-benrath.de", "Stadtteil: Benrath"]
             },
             "geometry": {
                 "type": "Point",
@@ -1344,13 +1344,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11182,
                 "title": "Praxis Dr. Joksimovic-Suchanek",
                 "location": "Bagelstraße 96, 40479 Düsseldorf",
                 "details_url": "www.dr-joksimovic.de",
-                "hints": ["Email: joksimovic.praxis@gmail.com",
-
-                    "Stadtteil: Pempelfort"]
+                "hints": ["Email: joksimovic.praxis@gmail.com", "Stadtteil: Pempelfort"]
             },
             "geometry": {
                 "type": "Point",
@@ -1359,13 +1359,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11185,
                 "title": "Praxis Bassenge-Sauer",
                 "location": "Schadowstraße 74, 40212 Düsseldorf",
                 "details_url": "www.praxis-bassenge-sauer.de",
-                "hints": ["Email: zbs@praxis-bassenge-sauer.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: zbs@praxis-bassenge-sauer.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -1374,13 +1374,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11186,
                 "title": "Zahnarztpraxis Loewe",
                 "location": "Wickrather Straße 39, 40547 Düsseldorf",
                 "details_url": "https://drloewe.info/",
-                "hints": ["Email: dr.i.loewe@t-online.de",
-
-                    "Stadtteil: Lörick"]
+                "hints": ["Email: dr.i.loewe@t-online.de", "Stadtteil: Lörick"]
             },
             "geometry": {
                 "type": "Point",
@@ -1389,13 +1389,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11188,
                 "title": "Praxis Dr. Wallenfels",
                 "location": "Martinstr. 34, 40223 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: mwausd13@aol.com",
-
-                    "Stadtteil: Bilk"]
+                "hints": ["Email: mwausd13@aol.com", "Stadtteil: Bilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -1404,13 +1404,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11193,
                 "title": "ISS Dome",
                 "location": "DEG Platz 1, 40472 Düsseldorf",
                 "details_url": "https://www.duesseldorf.de/schnelltest",
-                "hints": ["Email: hussmann@d-live.de",
-
-                    "Stadtteil: Rath"]
+                "hints": ["Email: hussmann@d-live.de", "Stadtteil: Rath"]
             },
             "geometry": {
                 "type": "Point",
@@ -1419,13 +1419,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11194,
                 "title": "intervivos AG",
                 "location": "Erkrather Straße 224a, 40233 Düsseldorf",
                 "details_url": "www.intervivos.de",
-                "hints": ["Email: info@intervivos.de",
-
-                    "Stadtteil: Flingern Süd"]
+                "hints": ["Email: info@intervivos.de", "Stadtteil: Flingern Süd"]
             },
             "geometry": {
                 "type": "Point",
@@ -1434,13 +1434,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11195,
                 "title": "Praxis Strack / Bauer\r\n",
                 "location": "Cäcilienstraße 1, 40597 Düsseldorf",
                 "details_url": "http://www.hnoinbenrath.de/",
-                "hints": ["Email: info@hnoinbenrath.de",
-
-                    "Stadtteil: Benrath"]
+                "hints": ["Email: info@hnoinbenrath.de", "Stadtteil: Benrath"]
             },
             "geometry": {
                 "type": "Point",
@@ -1449,13 +1449,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11196,
                 "title": "Pauli-Apotheke",
                 "location": "Paulistraße 10, 40597 Düsseldorf",
                 "details_url": "www.pauli-apotheke.de",
-                "hints": ["Email: info@pauli-apotheke.de",
-
-                    "Stadtteil: Benrath"]
+                "hints": ["Email: info@pauli-apotheke.de", "Stadtteil: Benrath"]
             },
             "geometry": {
                 "type": "Point",
@@ -1464,13 +1464,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11198,
                 "title": "InVitaMarket GmbH",
                 "location": "Heubesstraße 23, 40597 Düsseldorf",
                 "details_url": "www.covid-testlab.de www.invitalab.de",
-                "hints": ["Email: info@covid-testlab.de j.schmitz@invitamarket.de",
-
-                    "Stadtteil: Benrath"]
+                "hints": ["Email: info@covid-testlab.de j.schmitz@invitamarket.de", "Stadtteil: Benrath"]
             },
             "geometry": {
                 "type": "Point",
@@ -1479,13 +1479,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11204,
                 "title": "Praxis Dr. med. Sven Gregor\r\n",
                 "location": "Kölner Landstr. 135, 40591 Düsseldorf",
                 "details_url": "https://praxis-dr-gregor.de/",
-                "hints": ["Email: mey@praxis-dr-gregor.de",
-
-                    "Stadtteil: Wersten"]
+                "hints": ["Email: mey@praxis-dr-gregor.de", "Stadtteil: Wersten"]
             },
             "geometry": {
                 "type": "Point",
@@ -1494,13 +1494,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11207,
                 "title": "Apotheke am Straußenkreuz",
                 "location": "Karlsruher Straße 26, 40229 Düsseldorf",
                 "details_url": "https://apotheke-am-straussenkreuz.de/",
-                "hints": ["Email: info@apotheke-am-straussenkreuz.de",
-
-                    "Stadtteil: Eller"]
+                "hints": ["Email: info@apotheke-am-straussenkreuz.de", "Stadtteil: Eller"]
             },
             "geometry": {
                 "type": "Point",
@@ -1509,13 +1509,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11208,
                 "title": "MediCan GmbH",
                 "location": "Moorenstraße 5, 40225 Düsseldorf",
                 "details_url": "www.coronatest-nrw.de",
-                "hints": ["Email: o.can@coronatest-nrw.de",
-
-                    "Stadtteil: Bilk"]
+                "hints": ["Email: o.can@coronatest-nrw.de", "Stadtteil: Bilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -1524,13 +1524,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11209,
                 "title": "Praxis Dr. V. Niermann",
                 "location": "Mauerstrasse 21, 40476 Düsseldorf",
                 "details_url": "https://www.die-internistinnen.de/",
-                "hints": ["Email: dr.niermann@die-internistinnen.de",
-
-                    "Stadtteil: Golzheim"]
+                "hints": ["Email: dr.niermann@die-internistinnen.de", "Stadtteil: Golzheim"]
             },
             "geometry": {
                 "type": "Point",
@@ -1539,13 +1539,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11223,
                 "title": "Praxis Dr. med. Susanne Cremer",
                 "location": "Heyestr. 105, 40625 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email:",
-
-                    "Stadtteil: Gerresheim"]
+                "hints": ["Email:", "Stadtteil: Gerresheim"]
             },
             "geometry": {
                 "type": "Point",
@@ -1554,13 +1554,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11237,
                 "title": "Europa Apotheke",
                 "location": "Gneisenaustraße 2, 40477 Düsseldorf",
                 "details_url": "www.europa-apotheke.net",
-                "hints": ["Email: web@europa-apotheke.net",
-
-                    "Stadtteil: Pempelfort"]
+                "hints": ["Email: web@europa-apotheke.net", "Stadtteil: Pempelfort"]
             },
             "geometry": {
                 "type": "Point",
@@ -1569,13 +1569,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11239,
                 "title": "Kleeblatt Apotheke im real Bilk",
                 "location": "Friedrichstraße 152, 40217 Düsseldorf",
                 "details_url": "www.kleeblatt-apotheken.de",
-                "hints": ["Email: bilk@kleeblatt-apotheken.de",
-
-                    "Stadtteil: Friedrichstadt"]
+                "hints": ["Email: bilk@kleeblatt-apotheken.de", "Stadtteil: Friedrichstadt"]
             },
             "geometry": {
                 "type": "Point",
@@ -1584,13 +1584,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11240,
                 "title": "Zahnärztliche Praxis",
                 "location": "Klosterstraße 34, 40211 Düsseldorf",
                 "details_url": "www.brandl-riedel.de",
-                "hints": ["Email: info@brandl-riedel.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: info@brandl-riedel.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -1599,13 +1599,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11241,
                 "title": "Praxisgemeinschaft Brandl-Riedel",
                 "location": "Klosterstraße 34, 40211 Düsseldorf",
                 "details_url": "www.praxis-seelische-zufriedenheit.de",
-                "hints": ["Email: info@praxis-seelische-zufriedenheit.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: info@praxis-seelische-zufriedenheit.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -1614,13 +1614,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11242,
                 "title": "Alter Bahnhof Gerresheim",
                 "location": "Heyestraße 194, 40625 Düsseldorf",
                 "details_url": "coronatest-dus.de",
-                "hints": ["Email: gerresheim@coronatest-dus.de",
-
-                    "Stadtteil: Gerresheim"]
+                "hints": ["Email: gerresheim@coronatest-dus.de", "Stadtteil: Gerresheim"]
             },
             "geometry": {
                 "type": "Point",
@@ -1629,13 +1629,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11243,
                 "title": "Zahnarztpraxis Nabia Azizi (vorm. Mokahli)",
                 "location": "Reisholzer Straße 33, 40231 Düsseldorf",
                 "details_url": "www.me-d-dent.de",
-                "hints": ["Email: duesseldorf@me-d-dent.de",
-
-                    "Stadtteil: Lierenfeld"]
+                "hints": ["Email: duesseldorf@me-d-dent.de", "Stadtteil: Lierenfeld"]
             },
             "geometry": {
                 "type": "Point",
@@ -1644,13 +1644,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11244,
                 "title": "DocApotheke Am Worringer Platz",
                 "location": "Worringer Straße 83, 40211 Düsseldorf",
                 "details_url": "https://docapotheke-duesseldorf.de/",
-                "hints": ["Email: info@docapotheke-duesseldorf.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: info@docapotheke-duesseldorf.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -1659,13 +1659,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11245,
                 "title": "Zahnmedizin Kettel",
                 "location": "Martin-Luther-Platz 22, 40212 Düsseldorf",
                 "details_url": "www.zahnmedizin-kettel.de",
-                "hints": ["Email: info@zahnmedizin-kettel.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: info@zahnmedizin-kettel.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -1674,13 +1674,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11246,
                 "title": "Herzogen Apotheke D-Pempelfort",
                 "location": "Venloer Straße 5-7, 40477 Düsseldorf",
                 "details_url": "www.herzogen-apotheke.biz",
-                "hints": ["Email: herzogen-apo-pempelfor@gmx.de",
-
-                    "Stadtteil: Pempelfort"]
+                "hints": ["Email: herzogen-apo-pempelfor@gmx.de", "Stadtteil: Pempelfort"]
             },
             "geometry": {
                 "type": "Point",
@@ -1689,13 +1689,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11247,
                 "title": "Apotheke am Kirchplatz",
                 "location": "Fürstenwall 150-152, 40217 Düsseldorf",
                 "details_url": "www.apo-am-kirchplatz-duesseldorf.de",
-                "hints": ["Email: apo.am.kirchplatz@t-online.de",
-
-                    "Stadtteil: Unterbilk"]
+                "hints": ["Email: apo.am.kirchplatz@t-online.de", "Stadtteil: Unterbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -1704,13 +1704,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11253,
                 "title": "Schauspielhaus Düsseldorf",
                 "location": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
                 "details_url": "https://schnelltest.youcanbook.me",
-                "hints": ["Email: Schnelltest@vwdd.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: Schnelltest@vwdd.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -1719,13 +1719,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11256,
                 "title": "DRK Kreisverband Düsseldorf e. V.",
                 "location": "Georg-Glock-Straße 15, 40474 Düsseldorf",
                 "details_url": "www.testzentrum-drkduesseldorf.de",
-                "hints": ["Email: info@drk-duesseldorf.de",
-
-                    "Stadtteil: Golzheim"]
+                "hints": ["Email: info@drk-duesseldorf.de", "Stadtteil: Golzheim"]
             },
             "geometry": {
                 "type": "Point",
@@ -1734,13 +1734,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11257,
                 "title": "Zahnarzt Hunselar + Partner",
                 "location": "Lindemannstraße 96, 40237 Düsseldorf",
                 "details_url": "www.zahnaerzte-zoo.de",
-                "hints": ["Email: info@zahnaerzte-zoo.de",
-
-                    "Stadtteil: Düsseltal"]
+                "hints": ["Email: info@zahnaerzte-zoo.de", "Stadtteil: Düsseltal"]
             },
             "geometry": {
                 "type": "Point",
@@ -1749,13 +1749,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11258,
                 "title": "Zahnarzt Kay Adam",
                 "location": "Neunzigstraße 1, 40625 Düsseldorf",
                 "details_url": "www.zahnarzt-gerresheim.de",
-                "hints": ["Email: internetzahnarzt@aol.com",
-
-                    "Stadtteil: Benrath"]
+                "hints": ["Email: internetzahnarzt@aol.com", "Stadtteil: Benrath"]
             },
             "geometry": {
                 "type": "Point",
@@ -1764,13 +1764,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11262,
                 "title": "HNO Praxis Derichs, Werminghaus",
                 "location": "Unterrather Straße 101, 40468 Düsseldorf",
                 "details_url": "https://www.hno-derendorf.de/",
-                "hints": ["Email: hirschfeld@hno-derendorf.de",
-
-                    "Stadtteil: Unterrath"]
+                "hints": ["Email: hirschfeld@hno-derendorf.de", "Stadtteil: Unterrath"]
             },
             "geometry": {
                 "type": "Point",
@@ -1779,13 +1779,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11265,
                 "title": "Zahnartzpraxis Me-D-Dent",
                 "location": "Herzogstr. 89 - 91, 40215 Düsseldorf",
                 "details_url": "http://www.me-d-dent.de/",
-                "hints": ["Email: duesseldorf2@me-d-dent.de",
-
-                    "Stadtteil: Friedrichstadt"]
+                "hints": ["Email: duesseldorf2@me-d-dent.de", "Stadtteil: Friedrichstadt"]
             },
             "geometry": {
                 "type": "Point",
@@ -1794,13 +1794,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11266,
                 "title": "Teststelle Restaurant Uns Lüü",
                 "location": "Kronprinzenstraße 52, 40217 Düsseldorf",
                 "details_url": "www.unslueue-restaurant.de",
-                "hints": ["Email: marc-vlaho@gmx.de",
-
-                    "Stadtteil: Unterbilk"]
+                "hints": ["Email: marc-vlaho@gmx.de", "Stadtteil: Unterbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -1809,13 +1809,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11267,
                 "title": "HNO Praxis Selim Ilkgün",
                 "location": "Friedrichstraße 17, 40227 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: praxis@praxis-ilkgun.de",
-
-                    "Stadtteil: Unterbilk"]
+                "hints": ["Email: praxis@praxis-ilkgun.de", "Stadtteil: Unterbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -1824,13 +1824,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11269,
                 "title": "Zahnärzte Benderstraße",
                 "location": "Benderstraße 72, 40625 Düsseldorf",
                 "details_url": "www.zahnärzte-benderstrasse.de",
-                "hints": ["Email: info@zahnaerzte-benderstrasse.de",
-
-                    "Stadtteil: Gerresheim"]
+                "hints": ["Email: info@zahnaerzte-benderstrasse.de", "Stadtteil: Gerresheim"]
             },
             "geometry": {
                 "type": "Point",
@@ -1839,13 +1839,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11272,
                 "title": "Medicare Testzentrum Flurstraße",
                 "location": "Flurstraße 14 , 40235 Düsseldorf",
                 "details_url": "www.covid-testzentrum.de",
-                "hints": ["Email: Flingern@vSeasons.de",
-
-                    "Stadtteil: Flingern Nord"]
+                "hints": ["Email: Flingern@vSeasons.de", "Stadtteil: Flingern Nord"]
             },
             "geometry": {
                 "type": "Point",
@@ -1854,13 +1854,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11273,
                 "title": "Medicare Testzentrum Ratinger Straße",
                 "location": "Ratinger Straße 50, 40213 Düsseldorf",
                 "details_url": "www.covid-testzentrum.de",
-                "hints": ["Email: Innenstadt@vSeasons.de",
-
-                    "Stadtteil: Altstadt"]
+                "hints": ["Email: Innenstadt@vSeasons.de", "Stadtteil: Altstadt"]
             },
             "geometry": {
                 "type": "Point",
@@ -1869,13 +1869,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11278,
                 "title": "Zahnarztpraxis Dr. Bamfaste",
                 "location": "Kölner Landstr. 205, 40591 Düsseldorf",
                 "details_url": "www.zahnarzt-dr-bamfaste.de/",
-                "hints": ["Email: rbamfaste@t-online.de",
-
-                    "Stadtteil: Wersten"]
+                "hints": ["Email: rbamfaste@t-online.de", "Stadtteil: Wersten"]
             },
             "geometry": {
                 "type": "Point",
@@ -1884,13 +1884,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11286,
                 "title": "Licht-Apotheke Gerresheim",
                 "location": "Benderstraße 48, 40625 Düsseldorf",
                 "details_url": "http://www.gerresheim.licht-apotheke.de/",
-                "hints": ["Email: privat@licht-apotheke.de",
-
-                    "Stadtteil: Gerresheim"]
+                "hints": ["Email: privat@licht-apotheke.de", "Stadtteil: Gerresheim"]
             },
             "geometry": {
                 "type": "Point",
@@ -1899,13 +1899,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11288,
                 "title": "Galaxxy GmbH",
                 "location": "Zeppelinstraße 24, 40231 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: levent.guenduez@galaxxygmbh.de",
-
-                    "Stadtteil: Eller"]
+                "hints": ["Email: levent.guenduez@galaxxygmbh.de", "Stadtteil: Eller"]
             },
             "geometry": {
                 "type": "Point",
@@ -1914,13 +1914,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11289,
                 "title": "Drive-In Tiefgarage Land- und Amtsgericht Düsseldorf",
                 "location": "Werdener Straße 1-3, 40227 Düsseldorf",
                 "details_url": "https://www.verkehrswacht-duesseldorf.de/index.php?id=2666",
-                "hints": ["Email: Drive-In@vwdd.de",
-
-                    "Stadtteil: Oberbilk"]
+                "hints": ["Email: Drive-In@vwdd.de", "Stadtteil: Oberbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -1929,13 +1929,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11290,
                 "title": "NH Hotel Düsseldorf Königsallee",
                 "location": "Adersstraße 29 - 31, 40215 Düsseldorf",
                 "details_url": "www.testedichschnell.de",
-                "hints": ["Email: gvo-schnelltest@gvo-personal.de",
-
-                    "Stadtteil: Friedrichstadt"]
+                "hints": ["Email: gvo-schnelltest@gvo-personal.de", "Stadtteil: Friedrichstadt"]
             },
             "geometry": {
                 "type": "Point",
@@ -1944,13 +1944,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11292,
                 "title": "CoronaTestTeam, Testzentrum Eissporthalle Benrath",
                 "location": "Paulsmühlenstraße 6, 40597 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: eissporthalle@coronatestteam.de",
-
-                    "Stadtteil: Benrath"]
+                "hints": ["Email: eissporthalle@coronatestteam.de", "Stadtteil: Benrath"]
             },
             "geometry": {
                 "type": "Point",
@@ -1959,13 +1959,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11293,
                 "title": "Medicare Testzentrum Schwanenhöfe Drive-In",
                 "location": "Erkrather Straße 230, 40233 Düsseldorf",
                 "details_url": "www.caretec-germany.de/pages/test",
-                "hints": ["Email: schwanenhoefe@caretec-germany.de",
-
-                    "Stadtteil: Flingern Süd"]
+                "hints": ["Email: schwanenhoefe@caretec-germany.de", "Stadtteil: Flingern Süd"]
             },
             "geometry": {
                 "type": "Point",
@@ -1974,13 +1974,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11294,
                 "title": "Medicare Testzentrum Heinrich-Heine-Campus",
                 "location": "Universitätsstraße 1, 40225 Düsseldorf",
                 "details_url": "https://www.caretec-germany.de/pages/test",
-                "hints": ["Email: hhu@caretec-germany.de",
-
-                    "Stadtteil: Bilk"]
+                "hints": ["Email: hhu@caretec-germany.de", "Stadtteil: Bilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -1989,13 +1989,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11297,
                 "title": "Praxis für Arbeitsmedizin Dr. Yvonne Kalender",
                 "location": "Luegallee 112, 40545 Düsseldorf",
                 "details_url": "https://www.arbeitsmedizin-kalender.de/",
-                "hints": ["Email: info@amz-kalender.de",
-
-                    "Stadtteil: Oberkassel"]
+                "hints": ["Email: info@amz-kalender.de", "Stadtteil: Oberkassel"]
             },
             "geometry": {
                 "type": "Point",
@@ -2004,13 +2004,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11299,
                 "title": "Apotheke in Rath",
                 "location": "Westfalenstr. 49, 40472 Düsseldorf",
                 "details_url": "www.corona-testzentrum-rath.de",
-                "hints": ["Email: termin@corona-testzentrum-rath.de",
-
-                    "Stadtteil: Rath"]
+                "hints": ["Email: termin@corona-testzentrum-rath.de", "Stadtteil: Rath"]
             },
             "geometry": {
                 "type": "Point",
@@ -2019,13 +2019,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11302,
                 "title": "Alma Corona Test",
                 "location": "Willstätter Straße 50, 40549 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: coronatest@almasportsclub.de",
-
-                    "Stadtteil: Heerdt"]
+                "hints": ["Email: coronatest@almasportsclub.de", "Stadtteil: Heerdt"]
             },
             "geometry": {
                 "type": "Point",
@@ -2034,13 +2034,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11304,
                 "title": "Hassels Fit",
                 "location": "Am Wald 132a, 40599 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: schnelltest@hasselsfit.info",
-
-                    "Stadtteil: Hassels"]
+                "hints": ["Email: schnelltest@hasselsfit.info", "Stadtteil: Hassels"]
             },
             "geometry": {
                 "type": "Point",
@@ -2049,13 +2049,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11306,
                 "title": "Altenpflege-Service Alles unter einem Dach",
                 "location": "Benderstr. 89, 40625 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: susannemerino@googlemail.com",
-
-                    "Stadtteil: Gerresheim"]
+                "hints": ["Email: susannemerino@googlemail.com", "Stadtteil: Gerresheim"]
             },
             "geometry": {
                 "type": "Point",
@@ -2064,13 +2064,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11307,
                 "title": "Testzentrum am Hbf",
                 "location": "Karlstraße 29 - 31, 40210 Düsseldorf",
                 "details_url": "www.testzentrum-am-hbf.de",
-                "hints": ["Email: termin@testzentrum-am-hbf.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: termin@testzentrum-am-hbf.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -2079,13 +2079,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11308,
                 "title": "D.LIVE Oststraße",
                 "location": "Oststr. 129, 40210 Düsseldorf",
                 "details_url": "https://www.duesseldorf.de/schnelltest",
-                "hints": ["Email: Poschmann@d-live.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: Poschmann@d-live.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -2094,13 +2094,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11309,
                 "title": "Praxisklinik am Schlosspark",
                 "location": "Peter-Richarz-Str. 18, 40229 Düsseldorf",
                 "details_url": "www.praxisklinik-schlosspark.de",
-                "hints": ["Email: info@drtabatabaie.de",
-
-                    "Stadtteil: Eller"]
+                "hints": ["Email: info@drtabatabaie.de", "Stadtteil: Eller"]
             },
             "geometry": {
                 "type": "Point",
@@ -2109,13 +2109,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11312,
                 "title": "aumedo care Testzentrum im neuen Atrium",
                 "location": "Grafenberger Allee 136, 40237 Düsseldorf",
                 "details_url": "www.aumedo-care.de",
-                "hints": ["Email: test.duesseldorf@aumedo.de",
-
-                    "Stadtteil: Düsseltal"]
+                "hints": ["Email: test.duesseldorf@aumedo.de", "Stadtteil: Düsseltal"]
             },
             "geometry": {
                 "type": "Point",
@@ -2124,13 +2124,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11313,
                 "title": "Testzentrum Düsseldorf",
                 "location": "Graf-Adolf-Straße 108, 40210 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: info@nextmarketing24.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: info@nextmarketing24.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -2139,13 +2139,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11314,
                 "title": "Testcentrum CBT Moltkestraße",
                 "location": "Moltkestr. 23, 40477 Düsseldorf",
                 "details_url": "www.cbtmed.de",
-                "hints": ["Email: ccd02@cbtmed.de",
-
-                    "Stadtteil: Pempelfort"]
+                "hints": ["Email: ccd02@cbtmed.de", "Stadtteil: Pempelfort"]
             },
             "geometry": {
                 "type": "Point",
@@ -2154,13 +2154,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11315,
                 "title": "Testcentrum CBT Adlerstraße",
                 "location": "Adlerstr. 4, 40211 Düsseldorf",
                 "details_url": "www.cbtmed.de",
-                "hints": ["Email: ccd03@cbtmed.de",
-
-                    "Stadtteil: Pempelfort"]
+                "hints": ["Email: ccd03@cbtmed.de", "Stadtteil: Pempelfort"]
             },
             "geometry": {
                 "type": "Point",
@@ -2169,13 +2169,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11316,
                 "title": "Helios-Apotheke",
                 "location": "Fritz-Erler-Straße 20, 40595 Düsseldorf",
                 "details_url": "www.heliosapotheke-app.de",
-                "hints": ["Email: apo40595@hotmail.de",
-
-                    "Stadtteil: Garath"]
+                "hints": ["Email: apo40595@hotmail.de", "Stadtteil: Garath"]
             },
             "geometry": {
                 "type": "Point",
@@ -2184,13 +2184,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11317,
                 "title": "CoviTest im Schadow-Arkaden Düsseldorf",
                 "location": "Schadowstraße 11, 40212 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: info@covitests.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: info@covitests.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -2199,13 +2199,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11318,
                 "title": "OBI Markt Düsseldorf Rath",
                 "location": "Franz-Rennefeld-Weg 8, 40472 Düsseldorf",
                 "details_url": "www.bildungsakademie-nrw.de",
-                "hints": ["Email: info@bildungsakademie-nrw.de",
-
-                    "Stadtteil: Unterrath"]
+                "hints": ["Email: info@bildungsakademie-nrw.de", "Stadtteil: Unterrath"]
             },
             "geometry": {
                 "type": "Point",
@@ -2214,13 +2214,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11319,
                 "title": "Dr. med. Peter Buddenberg",
                 "location": "Kaiserswerther Straße 239, 40474 Düsseldorf",
                 "details_url": "www.mrt-golzheim.com",
-                "hints": ["Email: info@mrt-golzheim.com",
-
-                    "Stadtteil: Golzheim"]
+                "hints": ["Email: info@mrt-golzheim.com", "Stadtteil: Golzheim"]
             },
             "geometry": {
                 "type": "Point",
@@ -2229,13 +2229,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11320,
                 "title": "Testzentrum Drive In Harffstraße",
                 "location": "Harffstraße 42, 40591 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: info@coronatestzentrumnrw.de",
-
-                    "Stadtteil: Oberbilk"]
+                "hints": ["Email: info@coronatestzentrumnrw.de", "Stadtteil: Oberbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -2244,13 +2244,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11326,
                 "title": "Fast & Safe Neustraße",
                 "location": "Neustraße 39, 40213 Düsseldorf",
                 "details_url": "www.fastandsafe-medicare.de ",
-                "hints": ["Email: fastandsafe.dus1@gmail.com",
-
-                    "Stadtteil: Altstadt"]
+                "hints": ["Email: fastandsafe.dus1@gmail.com", "Stadtteil: Altstadt"]
             },
             "geometry": {
                 "type": "Point",
@@ -2259,13 +2259,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11327,
                 "title": "Fast & Safe Schneider-Wibbel-Gasse",
                 "location": "Schneider-Wibbel-Gasse 9, 40213 Düsseldorf",
                 "details_url": "www.fastandsafe-medicare.de ",
-                "hints": ["Email: fastandsafe.dus2@gmail.com",
-
-                    "Stadtteil: Altstadt"]
+                "hints": ["Email: fastandsafe.dus2@gmail.com", "Stadtteil: Altstadt"]
             },
             "geometry": {
                 "type": "Point",
@@ -2274,13 +2274,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11328,
                 "title": "Fast & Safe Münsterstraße",
                 "location": "Münsterstraße 199, 40470 Düsseldorf",
                 "details_url": "www.fastandsafe-medicare.de ",
-                "hints": ["Email: fastandsafe.dus3@gmail.com",
-
-                    "Stadtteil: Düsseltal"]
+                "hints": ["Email: fastandsafe.dus3@gmail.com", "Stadtteil: Düsseltal"]
             },
             "geometry": {
                 "type": "Point",
@@ -2289,13 +2289,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11329,
                 "title": "Fast & Safe Ellerstraße",
                 "location": "Ellerstraße 44, 40227 Düsseldorf",
                 "details_url": "www.fastandsafe-medicare.de ",
-                "hints": ["Email: fastandsafe.dus4@gmail.com",
-
-                    "Stadtteil: Oberbilk"]
+                "hints": ["Email: fastandsafe.dus4@gmail.com", "Stadtteil: Oberbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -2304,13 +2304,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11330,
                 "title": "Fast & Safe Bonner Straße",
                 "location": "Bonner Straße 7-11, 40589 Düsseldorf",
                 "details_url": "www.fastandsafe-medicare.de ",
-                "hints": ["Email: fastandsafe.dus5@gmail.com",
-
-                    "Stadtteil: Holthausen"]
+                "hints": ["Email: fastandsafe.dus5@gmail.com", "Stadtteil: Holthausen"]
             },
             "geometry": {
                 "type": "Point",
@@ -2319,13 +2319,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11331,
                 "title": "Testzentrum Hotel 25hours Düsseldorf",
                 "location": "Louis-Pasteur-Platz 1, 40211 Düsseldorf",
                 "details_url": "www.testzentrum-25hours-duesseldorf.de",
-                "hints": ["Email: termin@testzentrum-25hours-duesseldorf.de",
-
-                    "Stadtteil: Pempelfort"]
+                "hints": ["Email: termin@testzentrum-25hours-duesseldorf.de", "Stadtteil: Pempelfort"]
             },
             "geometry": {
                 "type": "Point",
@@ -2334,13 +2334,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11334,
                 "title": "DUSMED Corona Testzentrum",
                 "location": "Reisholzer Str. 35, 40231 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: info@clever-automieten.de",
-
-                    "Stadtteil: Lierenfeld"]
+                "hints": ["Email: info@clever-automieten.de", "Stadtteil: Lierenfeld"]
             },
             "geometry": {
                 "type": "Point",
@@ -2349,13 +2349,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11335,
                 "title": "Medicare Testzentrum Schadowplatz",
                 "location": "Schadowplatz 12 - 18, 40212 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: schadowplatz@vSeasons.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: schadowplatz@vSeasons.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -2364,13 +2364,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11336,
                 "title": "D.Live mobiler Service",
                 "location": "Schadowplatz 12 - 18, 40212 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: Poschmann@d-live.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: Poschmann@d-live.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -2379,13 +2379,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11337,
                 "title": "MedCo Testzentrum Prinzenallee",
                 "location": "Prinzenallee 18, 40549 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: info@medco-group.de",
-
-                    "Stadtteil: Oberkassel"]
+                "hints": ["Email: info@medco-group.de", "Stadtteil: Oberkassel"]
             },
             "geometry": {
                 "type": "Point",
@@ -2394,13 +2394,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11338,
                 "title": "Schnelltestzentrum Automeile Höherweg GmbH by intervivos AG",
                 "location": "Höherweg 95, 40233 Düsseldorf",
                 "details_url": "https://www.rheintest.de/book-online",
-                "hints": ["Email: automeile@intervivos.de",
-
-                    "Stadtteil: Flingern Süd"]
+                "hints": ["Email: automeile@intervivos.de", "Stadtteil: Flingern Süd"]
             },
             "geometry": {
                 "type": "Point",
@@ -2409,13 +2409,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11339,
                 "title": "Coronapoint Testzentrum Düsseldorf",
                 "location": "Worringer Straße 142, 40210 Düsseldorf",
                 "details_url": "www.coronapoint.de",
-                "hints": ["Email: 11339@coronapoint.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: 11339@coronapoint.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -2424,13 +2424,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11340,
                 "title": "Drive-Through Schnelltestzentrum Hase & Igel by intervivos AG",
                 "location": "Erkrather Straße 226, 40233 Düsseldorf",
                 "details_url": "https://www.rheintest.de/book-online",
-                "hints": ["Email: haseundigel@intervivos.de",
-
-                    "Stadtteil: Flingern Süd"]
+                "hints": ["Email: haseundigel@intervivos.de", "Stadtteil: Flingern Süd"]
             },
             "geometry": {
                 "type": "Point",
@@ -2439,13 +2439,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11341,
                 "title": "BMW NL Düsseldorf-Rath",
                 "location": "Theodorstraße 279, 40742 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: bmw.duesseldorfrath@hi-competence.com",
-
-                    "Stadtteil: Rath"]
+                "hints": ["Email: bmw.duesseldorfrath@hi-competence.com", "Stadtteil: Rath"]
             },
             "geometry": {
                 "type": "Point",
@@ -2454,13 +2454,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11342,
                 "title": "BMW NL Grafenberger Allee",
                 "location": "Grafenberger Allee 227 - 287, 40237 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: bmw.duesseldorf@hi-competence.com",
-
-                    "Stadtteil: Düsseltal"]
+                "hints": ["Email: bmw.duesseldorf@hi-competence.com", "Stadtteil: Düsseltal"]
             },
             "geometry": {
                 "type": "Point",
@@ -2469,13 +2469,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11343,
                 "title": "Stölting Heltorfer Straße",
                 "location": "Heltorfer Str. 22, 40472 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: stoelting.duesseldorf@hi-competence.com",
-
-                    "Stadtteil: Lichtenbroich"]
+                "hints": ["Email: stoelting.duesseldorf@hi-competence.com", "Stadtteil: Lichtenbroich"]
             },
             "geometry": {
                 "type": "Point",
@@ -2484,13 +2484,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11344,
                 "title": "Allure Academy & Beauty Studio",
                 "location": "Corneliusstraße 94, 40215 Düsseldorf",
                 "details_url": "https://www.duesseldorf.de/schnelltest",
-                "hints": ["Email: tatjana@allure-academy.com",
-
-                    "Stadtteil: Bilk"]
+                "hints": ["Email: tatjana@allure-academy.com", "Stadtteil: Bilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -2499,13 +2499,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11345,
                 "title": "Mobile Teststation Ickerswarder Straße",
                 "location": "Ickerswarder Straße 177, 40589 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: info@colbecher-vertrieb.de",
-
-                    "Stadtteil: Himmelgeist"]
+                "hints": ["Email: info@colbecher-vertrieb.de", "Stadtteil: Himmelgeist"]
             },
             "geometry": {
                 "type": "Point",
@@ -2514,13 +2514,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11346,
                 "title": "Test Zentrum Nordstraße Düsseldorf",
                 "location": "Nordstraße  117, 40447 Düsseldorf",
                 "details_url": "www.coronatest-deutschland.de",
-                "hints": ["Email: Nordstrasse@coronatest-deutschland.de",
-
-                    "Stadtteil: Pempelfort"]
+                "hints": ["Email: Nordstrasse@coronatest-deutschland.de", "Stadtteil: Pempelfort"]
             },
             "geometry": {
                 "type": "Point",
@@ -2529,13 +2529,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11347,
                 "title": "Pavillon Königsallee",
                 "location": "Königsallee 22, 40212 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: rehmann@corona-duesseldorf.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: rehmann@corona-duesseldorf.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -2544,13 +2544,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11348,
                 "title": "Testzentrum im Deutschen Sportclub Düsseldorf e.V.  ",
                 "location": "Altenbergstraße 81, 40235 Düsseldorf",
                 "details_url": "http://www.testzentrum-flingern.de/",
-                "hints": ["Email: info-duesseldorf@schnelltestservice.com",
-
-                    "Stadtteil: Grafenberg"]
+                "hints": ["Email: info-duesseldorf@schnelltestservice.com", "Stadtteil: Grafenberg"]
             },
             "geometry": {
                 "type": "Point",
@@ -2559,13 +2559,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11349,
                 "title": "Testzentrum Düsseldorf Bezirk 2",
                 "location": "Birkenstraße 130, 40233 Düsseldorf",
                 "details_url": "www.testzentrum-flingern.de",
-                "hints": ["Email: info@testzentrum-flingern.de",
-
-                    "Stadtteil: Flingern Nord"]
+                "hints": ["Email: info@testzentrum-flingern.de", "Stadtteil: Flingern Nord"]
             },
             "geometry": {
                 "type": "Point",
@@ -2574,13 +2574,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11350,
                 "title": "Feinkost Zurheide Nürnberger Straße",
                 "location": "Nürnberger Straße 40 - 42, 40599 Düsseldorf",
                 "details_url": "www.Cov-21.de",
-                "hints": ["Email: ZurheideNB@Cov-21.de",
-
-                    "Stadtteil: Benrath"]
+                "hints": ["Email: ZurheideNB@Cov-21.de", "Stadtteil: Benrath"]
             },
             "geometry": {
                 "type": "Point",
@@ -2589,13 +2589,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11351,
                 "title": "Feinkost Zurheide Berliner Allee",
                 "location": "Berliner Allee 52, 40212 Düsseldorf",
                 "details_url": "www.Cov-21.de",
-                "hints": ["Email: ZurheideBA@Cov-21.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: ZurheideBA@Cov-21.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -2604,13 +2604,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11352,
                 "title": "Galaxxy GmbH Ackerstraße",
                 "location": "Ackerstraße 84, 40233 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: ackerstr@galaxxygmbh.de",
-
-                    "Stadtteil: Flingern Nord"]
+                "hints": ["Email: ackerstr@galaxxygmbh.de", "Stadtteil: Flingern Nord"]
             },
             "geometry": {
                 "type": "Point",
@@ -2619,13 +2619,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11354,
                 "title": "Sportpark-Lohausen",
                 "location": "Neusser Weg 94, 40474 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: Sportpark-Lohausen@CoV-21.de",
-
-                    "Stadtteil: Lohausen"]
+                "hints": ["Email: Sportpark-Lohausen@CoV-21.de", "Stadtteil: Lohausen"]
             },
             "geometry": {
                 "type": "Point",
@@ -2634,13 +2634,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11355,
                 "title": "Novogyn Praxis",
                 "location": "Luise-Rainer-Straße 6 - 10, 40235 Düsseldorf",
                 "details_url": "https://www.novogyn.de",
-                "hints": ["Email: info@novogyn.de",
-
-                    "Stadtteil: Flingern Nord"]
+                "hints": ["Email: info@novogyn.de", "Stadtteil: Flingern Nord"]
             },
             "geometry": {
                 "type": "Point",
@@ -2649,13 +2649,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11357,
                 "title": "Dr. Amir Reza Ghasemi u.a. Schneidemühler Str.",
                 "location": "Schneidemühler Straße 13, 40599 Düsseldorf",
                 "details_url": "https://www.orthopaedie-duesseldorf-sued.de",
-                "hints": ["Email: Reza20@gmx.de",
-
-                    "Stadtteil: Hassels"]
+                "hints": ["Email: Reza20@gmx.de", "Stadtteil: Hassels"]
             },
             "geometry": {
                 "type": "Point",
@@ -2664,13 +2664,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11358,
                 "title": "Dr. Amir Reza Ghasemi u.a. Am Langen Weiher",
                 "location": "Am Langen Weiher 14, 40599 Düsseldorf",
                 "details_url": "https://www.orthopaedie-duesseldorf-sued.de",
-                "hints": ["Email: Reza20gh@yahoo.de",
-
-                    "Stadtteil: Holthausen"]
+                "hints": ["Email: Reza20gh@yahoo.de", "Stadtteil: Holthausen"]
             },
             "geometry": {
                 "type": "Point",
@@ -2679,13 +2679,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11361,
                 "title": "MediTest24",
                 "location": "Bergische Landstraße 297, 40629 Düsseldorf",
                 "details_url": "https://meditest24.com",
-                "hints": ["Email: info@meditest24.eu",
-
-                    "Stadtteil: Ludenberg"]
+                "hints": ["Email: info@meditest24.eu", "Stadtteil: Ludenberg"]
             },
             "geometry": {
                 "type": "Point",
@@ -2694,13 +2694,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11364,
                 "title": "LVR-Klinikum Düsseldorf",
                 "location": "Bergische Landstraße 2, 40629 Düsseldorf",
                 "details_url": "https://klinikum-duesseldorf.lvr.de",
-                "hints": ["Email: lvr-kd.coronatestzentrum@lvr.de",
-
-                    "Stadtteil: Ludenberg"]
+                "hints": ["Email: lvr-kd.coronatestzentrum@lvr.de", "Stadtteil: Ludenberg"]
             },
             "geometry": {
                 "type": "Point",
@@ -2709,13 +2709,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11365,
                 "title": "farma-plus Apotheke Düsseldorf",
                 "location": "Flinger Straße 3, 40231 Düsseldorf",
                 "details_url": "https://www.farma-plus-duesseldorf.de/",
-                "hints": ["Email: info@farma-plus-duesseldorf.de",
-
-                    "Stadtteil: Altstadt"]
+                "hints": ["Email: info@farma-plus-duesseldorf.de", "Stadtteil: Altstadt"]
             },
             "geometry": {
                 "type": "Point",
@@ -2724,13 +2724,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11369,
                 "title": "Galaxxy GmbH Kölner Landstraße",
                 "location": "Kölner Landstraße 429, 40589 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: teststelle-wersten@galaxxygmbh.de",
-
-                    "Stadtteil: Wersten"]
+                "hints": ["Email: teststelle-wersten@galaxxygmbh.de", "Stadtteil: Wersten"]
             },
             "geometry": {
                 "type": "Point",
@@ -2739,13 +2739,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11370,
                 "title": "Cakmak & Kloepfel Schaffrath Aachener Straße",
                 "location": "Aachener Straße 90, 40223 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: test-due-schaffrath@kloepfel-operations.com",
-
-                    "Stadtteil: Bilk"]
+                "hints": ["Email: test-due-schaffrath@kloepfel-operations.com", "Stadtteil: Bilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -2754,13 +2754,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11371,
                 "title": "Cakmak & Kloepfel Mediamarkt Metro-Straße",
                 "location": "Metro-Straße 16, 40235 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: test-due-media1@kloepfel-operations.com",
-
-                    "Stadtteil: Flingern Nord"]
+                "hints": ["Email: test-due-media1@kloepfel-operations.com", "Stadtteil: Flingern Nord"]
             },
             "geometry": {
                 "type": "Point",
@@ -2769,13 +2769,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11372,
                 "title": "Cakmak & Kloepfel Obi Königsberger Straße",
                 "location": "Königsberger Straße 87, 40231 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: test-due-obi2@kloepfel-operations.com",
-
-                    "Stadtteil: Lierenfeld"]
+                "hints": ["Email: test-due-obi2@kloepfel-operations.com", "Stadtteil: Lierenfeld"]
             },
             "geometry": {
                 "type": "Point",
@@ -2784,13 +2784,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11373,
                 "title": "Apotheke im Medical Center",
                 "location": "Luise-Rainer-Straße 8, 40235 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: mcd@pharma-star.com",
-
-                    "Stadtteil: Flingern Nord"]
+                "hints": ["Email: mcd@pharma-star.com", "Stadtteil: Flingern Nord"]
             },
             "geometry": {
                 "type": "Point",
@@ -2799,13 +2799,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11375,
                 "title": "Obi Franz-Rennefeld-Weg",
                 "location": "Franz-Rennefeld-Weg 8, 40472 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: covid19-dus-rath@praxis.altinay.de",
-
-                    "Stadtteil: Lichtenbroich"]
+                "hints": ["Email: covid19-dus-rath@praxis.altinay.de", "Stadtteil: Lichtenbroich"]
             },
             "geometry": {
                 "type": "Point",
@@ -2814,13 +2814,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11377,
                 "title": "MediTest24 Kreuzstraße",
                 "location": "Kreuzstraße 51, 40210 Düsseldorf",
                 "details_url": "https://meditest24.com",
-                "hints": ["Email: kreuzstrasse@meditest24.com",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: kreuzstrasse@meditest24.com", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -2829,13 +2829,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11382,
                 "title": "Regina-Apotheke",
                 "location": "Matthiaskirchweg 6, 40472 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: malcher@regina-apotheke.com",
-
-                    "Stadtteil: Lichtenbroich"]
+                "hints": ["Email: malcher@regina-apotheke.com", "Stadtteil: Lichtenbroich"]
             },
             "geometry": {
                 "type": "Point",
@@ -2844,13 +2844,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11384,
                 "title": "Flur-Apotheke",
                 "location": "Flurstraße 35, 40235 Düsseldorf",
                 "details_url": "https://www.flur-apotheke.de",
-                "hints": ["Email: info@flur-apotheke.de",
-
-                    "Stadtteil: Flingern Nord"]
+                "hints": ["Email: info@flur-apotheke.de", "Stadtteil: Flingern Nord"]
             },
             "geometry": {
                 "type": "Point",
@@ -2859,13 +2859,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11385,
                 "title": "CovidZentrum Düsseldorf Oberkassel am Belsenplatz",
                 "location": "Lanker Straße 2, 40545 Düsseldorf",
                 "details_url": "https://covidzentrum.de/corona-test-duesseldorf/gebucht",
-                "hints": ["Email: Duesseldorf-belsenplatz@covidzentrum.de",
-
-                    "Stadtteil: Oberkassel"]
+                "hints": ["Email: Duesseldorf-belsenplatz@covidzentrum.de", "Stadtteil: Oberkassel"]
             },
             "geometry": {
                 "type": "Point",
@@ -2874,13 +2874,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11389,
                 "title": "Test Zentrum Benrath Mitte",
                 "location": "Hauptstraße 39, 40597 Düsseldorf",
                 "details_url": "https://www.coronatest-deutschland.de",
-                "hints": ["Email: benrath@coronatest-deutschland.de",
-
-                    "Stadtteil: Benrath"]
+                "hints": ["Email: benrath@coronatest-deutschland.de", "Stadtteil: Benrath"]
             },
             "geometry": {
                 "type": "Point",
@@ -2889,13 +2889,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11391,
                 "title": "Rosen-Apotheke",
                 "location": "Angermunder Straße 38, 40489 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email:",
-
-                    "Stadtteil: Angermund"]
+                "hints": ["Email:", "Stadtteil: Angermund"]
             },
             "geometry": {
                 "type": "Point",
@@ -2904,13 +2904,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11392,
                 "title": "Kiwifalter",
                 "location": "Kalkumer Schloßallee 100, 40489 Düsseldorf",
                 "details_url": "https://app.no-q.info/familientestzentrum-kalkum/checkins#",
-                "hints": ["Email:",
-
-                    "Stadtteil: Kalkum"]
+                "hints": ["Email:", "Stadtteil: Kalkum"]
             },
             "geometry": {
                 "type": "Point",
@@ -2919,13 +2919,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11393,
                 "title": "Eventhalle Benrath",
                 "location": "Bayreuther Straße 31, 40597 Düsseldorf",
                 "details_url": "https://elegance-eventlocation.de",
-                "hints": ["Email: kenanguendag@hotmail.de",
-
-                    "Stadtteil: Benrath"]
+                "hints": ["Email: kenanguendag@hotmail.de", "Stadtteil: Benrath"]
             },
             "geometry": {
                 "type": "Point",
@@ -2934,13 +2934,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11398,
                 "title": "Testzentrum@La-Pailette",
                 "location": "Schirmerstraße 2, 40211 Düsseldorf",
                 "details_url": "https://www.Testzentrum-La-Paillette.de",
-                "hints": ["Email: Schnelltest@Testzentrum-La-Paillette.de",
-
-                    "Stadtteil: Pempelfort"]
+                "hints": ["Email: Schnelltest@Testzentrum-La-Paillette.de", "Stadtteil: Pempelfort"]
             },
             "geometry": {
                 "type": "Point",
@@ -2949,13 +2949,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11399,
                 "title": "Galaxxy GmbH Graf-Adolf-Straße",
                 "location": "Graf-Adolf-Straße 102, 40210 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: teststelle-grafadolfstr@galaxxygmbh.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: teststelle-grafadolfstr@galaxxygmbh.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -2964,13 +2964,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11400,
                 "title": "Medicare Testzentrum Mangold Düsseldorf",
                 "location": "Glockenstraße 20, 40476 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: Derendorf@vSeasons.de",
-
-                    "Stadtteil: Derendorf"]
+                "hints": ["Email: Derendorf@vSeasons.de", "Stadtteil: Derendorf"]
             },
             "geometry": {
                 "type": "Point",
@@ -2979,13 +2979,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11401,
                 "title": "MediTest24 Bahnhofstraße",
                 "location": "Bahnhofstraße 2, 40489 Düsseldorf",
                 "details_url": "https://meditest24.com",
-                "hints": ["Email: angermund@meditest24.com",
-
-                    "Stadtteil: Angermund"]
+                "hints": ["Email: angermund@meditest24.com", "Stadtteil: Angermund"]
             },
             "geometry": {
                 "type": "Point",
@@ -2994,13 +2994,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11402,
                 "title": "Privatpraxis Avicenna",
                 "location": "Arnulfstraße 22, 40545 Düsseldorf",
                 "details_url": "https://www.avicenna-praxis.de",
-                "hints": ["Email: info@avicenna-praxis.de",
-
-                    "Stadtteil: Oberkassel"]
+                "hints": ["Email: info@avicenna-praxis.de", "Stadtteil: Oberkassel"]
             },
             "geometry": {
                 "type": "Point",
@@ -3009,13 +3009,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11404,
                 "title": "Corona-Schnelltestzentrum Fassbender Tenten",
                 "location": "An der Schützenwiese 40, 40231 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: corona-schnelltestzentrum1@germocore.de",
-
-                    "Stadtteil: Lierenfeld"]
+                "hints": ["Email: corona-schnelltestzentrum1@germocore.de", "Stadtteil: Lierenfeld"]
             },
             "geometry": {
                 "type": "Point",
@@ -3024,13 +3024,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11405,
                 "title": "International School of Düsseldorf",
                 "location": "Niederrheinstraße 336, 40489 Düsseldorf",
                 "details_url": "www.hi-testzentrum.de",
-                "hints": ["Email: internationalschool.duesseldorf@hi-competence.com",
-
-                    "Stadtteil: Kaiserswerth"]
+                "hints": ["Email: internationalschool.duesseldorf@hi-competence.com", "Stadtteil: Kaiserswerth"]
             },
             "geometry": {
                 "type": "Point",
@@ -3039,13 +3039,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11406,
                 "title": "Nachtresidenz",
                 "location": "Bahnstraße 13, 40212 Düsseldorf",
                 "details_url": "https://covida-testzentrum.de",
-                "hints": ["Email: s.schiffer@gis-personal.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: s.schiffer@gis-personal.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -3054,13 +3054,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11407,
                 "title": "Chang Noi Massage",
                 "location": "Leichlinger Straße 5, 40591 Düsseldorf",
                 "details_url": "https://chang-noi-massage.de",
-                "hints": ["Email: info@chang-noi-massage.de",
-
-                    "Stadtteil: Wersten"]
+                "hints": ["Email: info@chang-noi-massage.de", "Stadtteil: Wersten"]
             },
             "geometry": {
                 "type": "Point",
@@ -3069,13 +3069,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11408,
                 "title": "Testzentrum Stahlwerk",
                 "location": "Ronsdorfer Straße 134, 40233 Düsseldorf",
                 "details_url": "https://testzentrum-stahlwerk.de",
-                "hints": ["Email: service@ikom-beratung.de",
-
-                    "Stadtteil: Lierenfeld"]
+                "hints": ["Email: service@ikom-beratung.de", "Stadtteil: Lierenfeld"]
             },
             "geometry": {
                 "type": "Point",
@@ -3084,13 +3084,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11409,
                 "title": "Testzentrum Zollhof",
                 "location": "Zollhof 32 - 34, 40221 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: nguyend@mail.de",
-
-                    "Stadtteil: Hafen"]
+                "hints": ["Email: nguyend@mail.de", "Stadtteil: Hafen"]
             },
             "geometry": {
                 "type": "Point",
@@ -3099,13 +3099,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11410,
                 "title": "Corona Hunter Hassels",
                 "location": "Fürstenberger Straße 41, 40599 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: coronaschnelltest@mail.de",
-
-                    "Stadtteil: Hassels"]
+                "hints": ["Email: coronaschnelltest@mail.de", "Stadtteil: Hassels"]
             },
             "geometry": {
                 "type": "Point",
@@ -3114,13 +3114,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11412,
                 "title": "Corona Zentrale Düsseldorf, Schützenplatz Eller",
                 "location": "Heidelberger Straße 4, 40229 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: info@corona-zentrale.de",
-
-                    "Stadtteil: Eller"]
+                "hints": ["Email: info@corona-zentrale.de", "Stadtteil: Eller"]
             },
             "geometry": {
                 "type": "Point",
@@ -3129,13 +3129,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11413,
                 "title": "Bauhaus Nach den Mauresköthen",
                 "location": "Nach den Mauresköthen 137, 40625 Düsseldorf",
                 "details_url": "www.hi-testzentrum.de",
-                "hints": ["Email: bauhaus.duesseldorf@hi-competence.com",
-
-                    "Stadtteil: Gerresheim"]
+                "hints": ["Email: bauhaus.duesseldorf@hi-competence.com", "Stadtteil: Gerresheim"]
             },
             "geometry": {
                 "type": "Point",
@@ -3144,13 +3144,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11414,
                 "title": "Karstadt Schadowstraße",
                 "location": "Schadowstraße 93, 40412 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: KarstadtDuesseldorf@covid-testzentrum.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: KarstadtDuesseldorf@covid-testzentrum.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -3159,13 +3159,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11415,
                 "title": "Kaufhof Königsalle",
                 "location": "Königsallee 1 - 5, 40412 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: KaufhofDuesseldorf@covid-testzentrum.de",
-
-                    "Stadtteil: Stadtmitte"]
+                "hints": ["Email: KaufhofDuesseldorf@covid-testzentrum.de", "Stadtteil: Stadtmitte"]
             },
             "geometry": {
                 "type": "Point",
@@ -3174,13 +3174,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11417,
                 "title": "Testzentrum Corneliusstraße",
                 "location": "Corneliusstraße 63, 40215 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: dennismehl13@gmail.com",
-
-                    "Stadtteil: Bilk"]
+                "hints": ["Email: dennismehl13@gmail.com", "Stadtteil: Bilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -3189,13 +3189,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11418,
                 "title": "Testzentrum im DSC 99",
                 "location": "Diepenstraße 99, 40625 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: testzentrumimdsc99@gmail.com",
-
-                    "Stadtteil: Gerresheim"]
+                "hints": ["Email: testzentrumimdsc99@gmail.com", "Stadtteil: Gerresheim"]
             },
             "geometry": {
                 "type": "Point",
@@ -3204,13 +3204,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11419,
                 "title": "Königs-Apotheke",
                 "location": "Friedrichstraße 2, 40217 Düsseldorf",
                 "details_url": "https://Koenigs-apotheke-duesseldorf.de",
-                "hints": ["Email: Koenigsapotheke.duesseldorf@gmail.com",
-
-                    "Stadtteil: Bilk"]
+                "hints": ["Email: Koenigsapotheke.duesseldorf@gmail.com", "Stadtteil: Bilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -3219,13 +3219,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11423,
                 "title": "Covid Schnelltest Center RSNRW",
                 "location": "Kölner Straße 356, 40227 Düsseldorf",
                 "details_url": "http://rescue-school-nrw.de",
-                "hints": ["Email: covidtest01@rsnrw.de",
-
-                    "Stadtteil: Oberbilk"]
+                "hints": ["Email: covidtest01@rsnrw.de", "Stadtteil: Oberbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -3234,13 +3234,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11425,
                 "title": "Testzentrum Westfalenstraße",
                 "location": "Westfalenstraße 27, 40472 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: Covid19-dus@praxis-altinay.de",
-
-                    "Stadtteil: Rath"]
+                "hints": ["Email: Covid19-dus@praxis-altinay.de", "Stadtteil: Rath"]
             },
             "geometry": {
                 "type": "Point",
@@ -3249,13 +3249,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11426,
                 "title": "Testzentrum am Zoo",
                 "location": "Graf-Recke-Straße 103, 40239 Düsseldorf",
                 "details_url": "https://big-health.de",
-                "hints": ["Email: zoo@big-health.de",
-
-                    "Stadtteil: Düsseltal"]
+                "hints": ["Email: zoo@big-health.de", "Stadtteil: Düsseltal"]
             },
             "geometry": {
                 "type": "Point",
@@ -3264,13 +3264,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11427,
                 "title": "Medicare Testzentrum Grabbeplatz",
                 "location": "Grabbeplatz, 40213 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: grabbeplatz@vSeasons.de",
-
-                    "Stadtteil: Altstadt"]
+                "hints": ["Email: grabbeplatz@vSeasons.de", "Stadtteil: Altstadt"]
             },
             "geometry": {
                 "type": "Point",
@@ -3279,13 +3279,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11428,
                 "title": "Spucktestcenter IKEA",
                 "location": "Oerschbachstraße 75, 40589 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: duesseldorf@spucktestcenter.de",
-
-                    "Stadtteil: Holthausen"]
+                "hints": ["Email: duesseldorf@spucktestcenter.de", "Stadtteil: Holthausen"]
             },
             "geometry": {
                 "type": "Point",
@@ -3294,13 +3294,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11429,
                 "title": "Testzentrum Rather Kreuzweg",
                 "location": "Rather Kreuzweg 1, 40472 Düsseldorf",
                 "details_url": "https://Schnelltest-Zentrum-Krefeld.de",
-                "hints": ["Email: t.turkyilmaz@gmx.de",
-
-                    "Stadtteil: Rath"]
+                "hints": ["Email: t.turkyilmaz@gmx.de", "Stadtteil: Rath"]
             },
             "geometry": {
                 "type": "Point",
@@ -3309,13 +3309,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11430,
                 "title": "Hütten-Apotheke",
                 "location": "Hüttenstraße 67, 40215 Düsseldorf",
                 "details_url": "https://www.gesundesleben.com",
-                "hints": ["Email: dr.haupt@gesundesleben.com",
-
-                    "Stadtteil: Friedrichstadt"]
+                "hints": ["Email: dr.haupt@gesundesleben.com", "Stadtteil: Friedrichstadt"]
             },
             "geometry": {
                 "type": "Point",
@@ -3324,13 +3324,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11431,
                 "title": "Testzentrum im SFD '75 e.V.",
                 "location": "Paul-Thomas-Straße 35, 40589 Düsseldorf",
                 "details_url": "https://schnelltest-duesseldorf.de",
-                "hints": ["Email: info-duesseldorf2@schnelltestservice.com",
-
-                    "Stadtteil: Holthausen"]
+                "hints": ["Email: info-duesseldorf2@schnelltestservice.com", "Stadtteil: Holthausen"]
             },
             "geometry": {
                 "type": "Point",
@@ -3339,13 +3339,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11432,
                 "title": "Testzentrum Bilk",
                 "location": "Martinstraße 4, 40223 Düsseldorf",
                 "details_url": "https://testzentrumbilk.de",
-                "hints": ["Email: service@testzentrumbilk.de",
-
-                    "Stadtteil: Unterbilk"]
+                "hints": ["Email: service@testzentrumbilk.de", "Stadtteil: Unterbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -3354,13 +3354,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11434,
                 "title": "Privatpraxis für Physiotherapie Patryk Warda",
                 "location": "Kapellstraße 11, 40479 Düsseldorf",
                 "details_url": "",
-                "hints": ["Email: Testzentrum-Pempelfort@gmx.de",
-
-                    "Stadtteil: Pempelfort"]
+                "hints": ["Email: Testzentrum-Pempelfort@gmx.de", "Stadtteil: Pempelfort"]
             },
             "geometry": {
                 "type": "Point",
@@ -3369,13 +3369,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11435,
                 "title": "Hubertus-Apotheke",
                 "location": "Gerresheimer Landstraße 117, 40627 Düsseldorf",
                 "details_url": "https://www.hubertus-apotheke-duesseldorf-app.de",
-                "hints": ["Email: f.krebs@hubertus-apotheke.info",
-
-                    "Stadtteil: Unterbach"]
+                "hints": ["Email: f.krebs@hubertus-apotheke.info", "Stadtteil: Unterbach"]
             },
             "geometry": {
                 "type": "Point",
@@ -3384,13 +3384,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11436,
                 "title": "Testzentrum Friedrichstraße",
                 "location": "Friedrichstraße 39, 40217 Düsseldorf",
                 "details_url": "http://testzentrum-duesseldorf-mitte.de",
-                "hints": ["Email: sulejmaniruhide@hotmail.de",
-
-                    "Stadtteil: Unterbilk"]
+                "hints": ["Email: sulejmaniruhide@hotmail.de", "Stadtteil: Unterbilk"]
             },
             "geometry": {
                 "type": "Point",
@@ -3399,13 +3399,13 @@
         }, {
             "type": "Feature",
             "properties": {
+                "opening_hours": null,
+                "opening_hours_unclassified": null,
                 "Teststellennr": 11437,
                 "title": "Fast & Safe Kölner Straße",
                 "location": "Kölner Straße 273, 40227 Düsseldorf",
                 "details_url": "https://www.fastandsafe-medicare.de",
-                "hints": ["Email: fastandsafe.dus6@gmail.com",
-
-                    "Stadtteil: Oberbilk"]
+                "hints": ["Email: fastandsafe.dus6@gmail.com", "Stadtteil: Oberbilk"]
             },
             "geometry": {
                 "type": "Point",
