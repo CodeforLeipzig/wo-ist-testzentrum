@@ -3,6 +3,10 @@
         "id": "berlin",
         "label": "Berlin"
     },
+    "duesseldorf": {
+        "id": "duesseldorf",
+        "label": "Düsseldorf"
+    },
     "leipzig": {
         "id": "leipzig",
         "label": "Leipzig"
