@@ -10,7 +10,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11001,
                 "title": "Mitsubishi-Electric-Halle",
                 "location": "Siegburgerstraße 15, 40591 Düsseldorf",
@@ -25,7 +25,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11002,
                 "title": "MedCo Testzentrum",
                 "location": "Vogelsanger Weg 66, 40470 Düsseldorf",
@@ -40,7 +40,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11003,
                 "title": "Corona-Test-Point",
                 "location": "Uhlandstraße 11, 40237 Düsseldorf",
@@ -55,7 +55,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11004,
                 "title": "Atrium Apotheke",
                 "location": "Lindemannstraße 83, 40237 Düsseldorf",
@@ -70,7 +70,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11005,
                 "title": "Medicare Testzentrum",
                 "location": "Mühlenstraße 2, 40213 Düsseldorf",
@@ -85,7 +85,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11006,
                 "title": "PFLEGE TÄGLICH…Daniel Schott",
                 "location": "Emil-Barth-Straße 3, 40595 Düsseldorf",
@@ -100,7 +100,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11007,
                 "title": "Vital Apotheke am Brehmplatz",
                 "location": "Rethelstraße 174, 40237 Düsseldorf",
@@ -115,7 +115,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11008,
                 "title": "Zahnarztpraxis Drs. Hausweiler und Hartwig",
                 "location": "Kölner Landstraße 135, 40591 Düsseldorf",
@@ -130,7 +130,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11009,
                 "title": "Corona Schnelltest Center Düsseldorf",
                 "location": "Belsenstraße 2a, 40545 Düsseldorf",
@@ -145,7 +145,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11010,
                 "title": "Corona Schnelltest Center Düsseldorf",
                 "location": "Klemensplatz 7, 40489 Düsseldorf",
@@ -160,7 +160,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11011,
                 "title": "Kloster-Apotheke",
                 "location": "Oststraße 51, 40211 Düsseldorf",
@@ -175,7 +175,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11012,
                 "title": "medi-Apotheke",
                 "location": "Schadowstraße 80, 40212 Düsseldorf",
@@ -190,7 +190,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11013,
                 "title": "Schwanen-Apotheke",
                 "location": "Kölner Straße 258, 40227 Düsseldorf",
@@ -205,7 +205,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11014,
                 "title": "Licht-Apotheke",
                 "location": "Lichtstraße 49, 40235 Düsseldorf",
@@ -220,7 +220,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11015,
                 "title": "Oberkasseler Apotheke",
                 "location": "Luegallee 39, 40545 Düsseldorf",
@@ -235,7 +235,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11016,
                 "title": "Praxis Dr. M. T. Petersohn",
                 "location": "Pfeifferstraße 68, 40625 Düsseldorf",
@@ -250,7 +250,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11017,
                 "title": "Flindocs Süd",
                 "location": "Aachener Straße 164, 40223 Düsseldorf",
@@ -265,7 +265,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11018,
                 "title": "Flindocs Mitte",
                 "location": "Birkenstraße 38, 40223 Düsseldorf",
@@ -280,7 +280,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11019,
                 "title": "Zahnarztpraxis Dr. Thomas Witte",
                 "location": "Kruppstraße 3, 40227 Düsseldorf",
@@ -295,7 +295,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11020,
                 "title": "Kleeblatt Apotheke im real,- Heerdt",
                 "location": "Schiessstraße 31, 40549 Düsseldorf",
@@ -310,7 +310,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11022,
                 "title": "Zahnarztpraxis Dr. Nikolaus Schauerte",
                 "location": "Elisabethstraße 43, 40217 Düsseldorf",
@@ -325,7 +325,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11023,
                 "title": "Swidbert-Apotheke",
                 "location": "An St. Swidbert 3 - 5, 40489 Düsseldorf",
@@ -340,7 +340,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11024,
                 "title": "Dein Corona Testzentrum",
                 "location": "Berliner Allee 26, 40212 Düsseldorf",
@@ -355,7 +355,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11025,
                 "title": "Barbara-Apotheke",
                 "location": "Erftstraße 7-9, 40219 Düsseldorf",
@@ -370,7 +370,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11026,
                 "title": "Rats-Apotheke",
                 "location": "Gräulinger Straße 3, 40625 Düsseldorf",
@@ -385,7 +385,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11027,
                 "title": "MAXMO Apotheke Düsseldorf-Benrath",
                 "location": "Hauptstraße 4, 40597 Düsseldorf",
@@ -400,7 +400,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11029,
                 "title": "Testzentrum Terminal C",
                 "location": "Flughafenstraße 5, 40474 Düsseldorf",
@@ -415,7 +415,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11030,
                 "title": "Zotz/Klimas MVZ Düsseldorf Zentrum",
                 "location": "Immermannstr. 65 A, 40210 Düsseldorf",
@@ -430,7 +430,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11031,
                 "title": "Apotheke Kempken",
                 "location": "Altenbrückstraße 17, 40599 Düsseldorf",
@@ -445,7 +445,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11032,
                 "title": "Praxis Dr. Kuhnt und Dr. Schwencke",
                 "location": "Gumbertstr. 180, 40229 Düsseldorf",
@@ -460,7 +460,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11033,
                 "title": "St. Bruno Apotheke",
                 "location": "Kalkumer Str. 22, 40468 Düsseldorf",
@@ -475,7 +475,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11034,
                 "title": "Atrium Apotheke a.d. Graf-Adolf Straße",
                 "location": "Graf Adolf Straße 35, 40210 Düsseldorf",
@@ -490,7 +490,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11035,
                 "title": "Heine-Apotheke",
                 "location": "Nordstr. 24, 40477 Düsseldorf",
@@ -505,7 +505,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11036,
                 "title": "Franziskus-Apotheke",
                 "location": "Eugen-Richter-Str. 1, 40470 Düsseldorf",
@@ -520,7 +520,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11038,
                 "title": "ZAP8 Zahnarztpraxis am Seestern",
                 "location": "Emanuel-Leutze-Str. 8, 40547 Düsseldorf",
@@ -535,7 +535,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11039,
                 "title": "Schnelltestzentrum Düsseldorf Nord",
                 "location": "Moltkestraße 124, 40479 Düsseldorf",
@@ -550,7 +550,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11042,
                 "title": "Zahnarztpraxis Jörg Gerndt",
                 "location": "Hauptstraße 1, 40597 Düsseldorf",
@@ -565,7 +565,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11046,
                 "title": "Kinderarzt-Praxis",
                 "location": "Kammerrathsfeldstraße 24, 40593 Düsseldorf",
@@ -580,7 +580,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11047,
                 "title": "Rheinapotheke",
                 "location": "Wickrather Straße 4, 40547 Düsseldorf",
@@ -595,7 +595,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11049,
                 "title": "Praxis Dr. med. Collin Gerd Blume",
                 "location": "Lenaustraße 1, 40470 Düsseldorf",
@@ -610,7 +610,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11050,
                 "title": "Praxis für Gynäkologie und Geburtshilfe",
                 "location": "Ria-Thiele-Straße 4, 40549 Düsseldorf",
@@ -625,7 +625,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11052,
                 "title": "Praxis für Urologie, Allgemeinmedizin und Psychotherapie",
                 "location": "Carlo-Schmid-Straße 1, 40595 Düsseldorf",
@@ -640,7 +640,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11054,
                 "title": "MediCan GmbH",
                 "location": "Kurfürstenstraße 30, 40211 Düsseldorf",
@@ -655,7 +655,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11057,
                 "title": "Praxis Dr. Andre Schumacher",
                 "location": "Hügelstraße 14, 40589 Düsseldorf",
@@ -670,7 +670,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11058,
                 "title": "Hausarztpraxis Hüttenstraße",
                 "location": "Hüttenstraße 40, 40215 Düsseldorf",
@@ -685,7 +685,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11059,
                 "title": "Praxis Dr. med. Manfred Bartsch, Frau Dr. med. Maren Hoffmann-Becking",
                 "location": "Kaiserswerther Straße 283, 40474 Düsseldorf",
@@ -700,7 +700,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11063,
                 "title": "Praxis Dr. med. Ralf Hollstein",
                 "location": "Eulerstraße 3, 40477 Düsseldorf",
@@ -715,7 +715,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11065,
                 "title": "Gemeinschaftspraxis für HNO-Heilkunde Dres. Derichs und Werminghaus",
                 "location": "Münsterstraße 114, 40476 Düsseldorf",
@@ -730,7 +730,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11066,
                 "title": "Praxis Dr. Marie-Dominique Bertrand",
                 "location": "Roßstraße 69, 40476 Düsseldorf",
@@ -745,7 +745,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11067,
                 "title": "Gemeinschaftspraxis Dr. Monika Homrich, Robert Homrich, Dr. Sebastian Neuwald",
                 "location": "Gerresheimer Landstraße 113, 40627 Düsseldorf",
@@ -760,7 +760,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11072,
                 "title": "Storchen-Apotheke",
                 "location": "Gladbacher Straße 39, 40219 Düsseldorf",
@@ -775,7 +775,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11073,
                 "title": "Praxis Dr. Enrico Kuhnert",
                 "location": "Grafenberger Allee 68, 40237 Düsseldorf",
@@ -790,7 +790,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11077,
                 "title": "Gemeinschaftspraxis Dr. Kooshani, D. Wohde-Kooshani",
                 "location": "Reisholzer Straße 50, 40231 Düsseldorf",
@@ -805,7 +805,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11078,
                 "title": "Stifts-Apotheke",
                 "location": "Benderstraße 76, 40625 Düsseldorf",
@@ -820,7 +820,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11083,
                 "title": "Caritasverband Düsseldorf",
                 "location": "Neusser Straße 39, 40219 Düsseldorf",
@@ -835,7 +835,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11085,
                 "title": "Hausarztpraxis Oberle & Niehues",
                 "location": "Eugen-Richter-Straße 1, 40470 Düsseldorf",
@@ -850,7 +850,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11092,
                 "title": "MEIN CORONA SCHNELLTEST / MCS Health Service GmbH",
                 "location": "Friedrichstraße 133, 40217 Düsseldorf",
@@ -865,7 +865,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11094,
                 "title": "Hausarztpraxis Düsseltal",
                 "location": "Goethestraße 75, 40237 Düsseldorf",
@@ -880,7 +880,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11095,
                 "title": "Kern-Apotheke",
                 "location": "Gumbertstraße 180, 40229 Düsseldorf",
@@ -895,7 +895,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11097,
                 "title": "Praxis Dr. Stella Lande",
                 "location": "Schweidnitzer Straße 29a, 40231 Düsseldorf",
@@ -910,7 +910,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11100,
                 "title": "Chirurgisch–orthopädische Gemeinschaftspraxis Dr. med. Heinrich Steinfort / FA. Talip Sakinc",
                 "location": "Kölner Landstraße 11, 40591 Düsseldorf",
@@ -925,7 +925,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11104,
                 "title": "Praxis Flommersfeld",
                 "location": "Merowingerstrasse 29, 40223 Düsseldorf",
@@ -940,7 +940,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11108,
                 "title": "Praxis Dr. med. Carina Brause",
                 "location": "Von-Gahlen-Straße 22, 40625 Düsseldorf",
@@ -955,7 +955,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11110,
                 "title": "Guten Tag Apotheke",
                 "location": "Friedrichstraße 129-133, 40217 Düsseldorf",
@@ -970,7 +970,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11111,
                 "title": "Praxis Dr. Doris Sadean",
                 "location": "Brunnenstr. 17, 40223 Düsseldorf",
@@ -985,7 +985,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11117,
                 "title": "Gemeinschaftspraxis Hausarzt am Hofgarten",
                 "location": "Louise-Dumont-Straße 1, 40211 Düsseldorf",
@@ -1000,7 +1000,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11118,
                 "title": "Praxis Damanakis-Richter",
                 "location": "Bilker Allee 56, 40219 Düsseldorf",
@@ -1015,7 +1015,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11121,
                 "title": "Frauenarzt Dr. Vrinssen",
                 "location": "Louise-Dumont-Straße 1, 40211 Düsseldorf",
@@ -1030,7 +1030,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11126,
                 "title": "Corona Zentrale Düsseldorf",
                 "location": "Schorlemer Straße 63, 40547 Düsseldorf",
@@ -1045,7 +1045,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11130,
                 "title": "Apotheke am Oberbilker Markt",
                 "location": "Kölner Straße 231, 40277 Düsseldorf",
@@ -1060,7 +1060,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11132,
                 "title": "Praxis Dr. Claus",
                 "location": "Nordstraße 34, 40477 Düsseldorf",
@@ -1075,7 +1075,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11133,
                 "title": "Hausarzt-Rath",
                 "location": "Kanzlerstr. 3, 40472 Düsseldorf",
@@ -1090,7 +1090,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11135,
                 "title": "Praxis Lasana",
                 "location": "Kölner Landstraße 48, 40591 Düsseldorf",
@@ -1105,7 +1105,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11136,
                 "title": "Praxis Dr. Kukalla",
                 "location": "Volkardeyer Weg 53A, 40472 Düsseldorf",
@@ -1120,7 +1120,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11147,
                 "title": "Praxis Adem Dolas",
                 "location": "Friedenstrasse 13, 40219 Düsseldorf",
@@ -1135,7 +1135,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11149,
                 "title": "advitam Gesundheitszentrum",
                 "location": "Graf-Adolf-Straße 89, 40210 Düsseldorf",
@@ -1150,7 +1150,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11151,
                 "title": "Zwilling Apotheke oHG",
                 "location": "Friedrichstraße 17, 40217 Düsseldorf",
@@ -1165,7 +1165,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11152,
                 "title": "Ecolog Deutschland GmbH",
                 "location": "Marler Straße 4, 40472 Düsseldorf",
@@ -1180,7 +1180,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11155,
                 "title": "Praxis Dr. Edna Hoffmann",
                 "location": "Kyffhäuserstr. 9, 40545 Düsseldorf",
@@ -1195,7 +1195,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11158,
                 "title": "Zahnarztpraxis Dr. Ece Vargönen",
                 "location": "Wilhelm-Kreis-Str. 17, 40595 Düsseldorf",
@@ -1210,7 +1210,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11160,
                 "title": "Praxis Dr. Christian Alder",
                 "location": "Brunnenstr. 4, 40223 Düsseldorf",
@@ -1225,7 +1225,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11163,
                 "title": "Praxis Dr. Schottenfeld-Naor",
                 "location": "Oststr.51, 40211 Düsseldorf",
@@ -1240,7 +1240,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11164,
                 "title": "Praxis Dr. Brigitte Prem",
                 "location": "Bolkerstraße 56, 40213 Düsseldorf",
@@ -1255,7 +1255,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11175,
                 "title": "Albert-Schweitzer-Apotheke",
                 "location": "Uhlandstraße 9, 40237 Düsseldorf",
@@ -1270,7 +1270,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11176,
                 "title": "InVitaMarket GmbH",
                 "location": "Kalkumer Schloßallee 1, 40489 Düsseldorf",
@@ -1285,7 +1285,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11178,
                 "title": "Goethe-Apotheke",
                 "location": "Lindemannstraße 62, 40237 Düsseldorf",
@@ -1300,7 +1300,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11179,
                 "title": "Dominikus Apotheke",
                 "location": "Luegallee 97, 40545 Düsseldorf",
@@ -1315,7 +1315,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11180,
                 "title": "Fa. Fest.-Test Mike Schöneberg",
                 "location": "Ratinger Straße 25, 40213 Düsseldorf",
@@ -1330,7 +1330,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11181,
                 "title": "Praxis Dr. Lankisch und Dr. Bienemann",
                 "location": "Friedhofstraße 21, 40597 Düsseldorf",
@@ -1345,7 +1345,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11182,
                 "title": "Praxis Dr. Joksimovic-Suchanek",
                 "location": "Bagelstraße 96, 40479 Düsseldorf",
@@ -1360,7 +1360,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11185,
                 "title": "Praxis Bassenge-Sauer",
                 "location": "Schadowstraße 74, 40212 Düsseldorf",
@@ -1375,7 +1375,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11186,
                 "title": "Zahnarztpraxis Loewe",
                 "location": "Wickrather Straße 39, 40547 Düsseldorf",
@@ -1390,7 +1390,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11188,
                 "title": "Praxis Dr. Wallenfels",
                 "location": "Martinstr. 34, 40223 Düsseldorf",
@@ -1405,7 +1405,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11193,
                 "title": "ISS Dome",
                 "location": "DEG Platz 1, 40472 Düsseldorf",
@@ -1420,7 +1420,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11194,
                 "title": "intervivos AG",
                 "location": "Erkrather Straße 224a, 40233 Düsseldorf",
@@ -1435,7 +1435,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11195,
                 "title": "Praxis Strack / Bauer\r\n",
                 "location": "Cäcilienstraße 1, 40597 Düsseldorf",
@@ -1450,7 +1450,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11196,
                 "title": "Pauli-Apotheke",
                 "location": "Paulistraße 10, 40597 Düsseldorf",
@@ -1465,7 +1465,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11198,
                 "title": "InVitaMarket GmbH",
                 "location": "Heubesstraße 23, 40597 Düsseldorf",
@@ -1480,7 +1480,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11204,
                 "title": "Praxis Dr. med. Sven Gregor\r\n",
                 "location": "Kölner Landstr. 135, 40591 Düsseldorf",
@@ -1495,7 +1495,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11207,
                 "title": "Apotheke am Straußenkreuz",
                 "location": "Karlsruher Straße 26, 40229 Düsseldorf",
@@ -1510,7 +1510,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11208,
                 "title": "MediCan GmbH",
                 "location": "Moorenstraße 5, 40225 Düsseldorf",
@@ -1525,7 +1525,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11209,
                 "title": "Praxis Dr. V. Niermann",
                 "location": "Mauerstrasse 21, 40476 Düsseldorf",
@@ -1540,7 +1540,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11223,
                 "title": "Praxis Dr. med. Susanne Cremer",
                 "location": "Heyestr. 105, 40625 Düsseldorf",
@@ -1555,7 +1555,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11237,
                 "title": "Europa Apotheke",
                 "location": "Gneisenaustraße 2, 40477 Düsseldorf",
@@ -1570,7 +1570,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11239,
                 "title": "Kleeblatt Apotheke im real Bilk",
                 "location": "Friedrichstraße 152, 40217 Düsseldorf",
@@ -1585,7 +1585,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11240,
                 "title": "Zahnärztliche Praxis",
                 "location": "Klosterstraße 34, 40211 Düsseldorf",
@@ -1600,7 +1600,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11241,
                 "title": "Praxisgemeinschaft Brandl-Riedel",
                 "location": "Klosterstraße 34, 40211 Düsseldorf",
@@ -1615,7 +1615,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11242,
                 "title": "Alter Bahnhof Gerresheim",
                 "location": "Heyestraße 194, 40625 Düsseldorf",
@@ -1630,7 +1630,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11243,
                 "title": "Zahnarztpraxis Nabia Azizi (vorm. Mokahli)",
                 "location": "Reisholzer Straße 33, 40231 Düsseldorf",
@@ -1645,7 +1645,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11244,
                 "title": "DocApotheke Am Worringer Platz",
                 "location": "Worringer Straße 83, 40211 Düsseldorf",
@@ -1660,7 +1660,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11245,
                 "title": "Zahnmedizin Kettel",
                 "location": "Martin-Luther-Platz 22, 40212 Düsseldorf",
@@ -1675,7 +1675,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11246,
                 "title": "Herzogen Apotheke D-Pempelfort",
                 "location": "Venloer Straße 5-7, 40477 Düsseldorf",
@@ -1690,7 +1690,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11247,
                 "title": "Apotheke am Kirchplatz",
                 "location": "Fürstenwall 150-152, 40217 Düsseldorf",
@@ -1705,7 +1705,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11253,
                 "title": "Schauspielhaus Düsseldorf",
                 "location": "Gustaf-Gründgens-Platz 1, 40211 Düsseldorf",
@@ -1720,7 +1720,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11256,
                 "title": "DRK Kreisverband Düsseldorf e. V.",
                 "location": "Georg-Glock-Straße 15, 40474 Düsseldorf",
@@ -1735,7 +1735,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11257,
                 "title": "Zahnarzt Hunselar + Partner",
                 "location": "Lindemannstraße 96, 40237 Düsseldorf",
@@ -1750,7 +1750,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11258,
                 "title": "Zahnarzt Kay Adam",
                 "location": "Neunzigstraße 1, 40625 Düsseldorf",
@@ -1765,7 +1765,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11262,
                 "title": "HNO Praxis Derichs, Werminghaus",
                 "location": "Unterrather Straße 101, 40468 Düsseldorf",
@@ -1780,7 +1780,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11265,
                 "title": "Zahnartzpraxis Me-D-Dent",
                 "location": "Herzogstr. 89 - 91, 40215 Düsseldorf",
@@ -1795,7 +1795,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11266,
                 "title": "Teststelle Restaurant Uns Lüü",
                 "location": "Kronprinzenstraße 52, 40217 Düsseldorf",
@@ -1810,7 +1810,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11267,
                 "title": "HNO Praxis Selim Ilkgün",
                 "location": "Friedrichstraße 17, 40227 Düsseldorf",
@@ -1825,7 +1825,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11269,
                 "title": "Zahnärzte Benderstraße",
                 "location": "Benderstraße 72, 40625 Düsseldorf",
@@ -1840,7 +1840,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11272,
                 "title": "Medicare Testzentrum Flurstraße",
                 "location": "Flurstraße 14 , 40235 Düsseldorf",
@@ -1855,7 +1855,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11273,
                 "title": "Medicare Testzentrum Ratinger Straße",
                 "location": "Ratinger Straße 50, 40213 Düsseldorf",
@@ -1870,7 +1870,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11278,
                 "title": "Zahnarztpraxis Dr. Bamfaste",
                 "location": "Kölner Landstr. 205, 40591 Düsseldorf",
@@ -1885,7 +1885,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11286,
                 "title": "Licht-Apotheke Gerresheim",
                 "location": "Benderstraße 48, 40625 Düsseldorf",
@@ -1900,7 +1900,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11288,
                 "title": "Galaxxy GmbH",
                 "location": "Zeppelinstraße 24, 40231 Düsseldorf",
@@ -1915,7 +1915,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11289,
                 "title": "Drive-In Tiefgarage Land- und Amtsgericht Düsseldorf",
                 "location": "Werdener Straße 1-3, 40227 Düsseldorf",
@@ -1930,7 +1930,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11290,
                 "title": "NH Hotel Düsseldorf Königsallee",
                 "location": "Adersstraße 29 - 31, 40215 Düsseldorf",
@@ -1945,7 +1945,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11292,
                 "title": "CoronaTestTeam, Testzentrum Eissporthalle Benrath",
                 "location": "Paulsmühlenstraße 6, 40597 Düsseldorf",
@@ -1960,7 +1960,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11293,
                 "title": "Medicare Testzentrum Schwanenhöfe Drive-In",
                 "location": "Erkrather Straße 230, 40233 Düsseldorf",
@@ -1975,7 +1975,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11294,
                 "title": "Medicare Testzentrum Heinrich-Heine-Campus",
                 "location": "Universitätsstraße 1, 40225 Düsseldorf",
@@ -1990,7 +1990,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11297,
                 "title": "Praxis für Arbeitsmedizin Dr. Yvonne Kalender",
                 "location": "Luegallee 112, 40545 Düsseldorf",
@@ -2005,7 +2005,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11299,
                 "title": "Apotheke in Rath",
                 "location": "Westfalenstr. 49, 40472 Düsseldorf",
@@ -2020,7 +2020,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11302,
                 "title": "Alma Corona Test",
                 "location": "Willstätter Straße 50, 40549 Düsseldorf",
@@ -2035,7 +2035,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11304,
                 "title": "Hassels Fit",
                 "location": "Am Wald 132a, 40599 Düsseldorf",
@@ -2050,7 +2050,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11306,
                 "title": "Altenpflege-Service Alles unter einem Dach",
                 "location": "Benderstr. 89, 40625 Düsseldorf",
@@ -2065,7 +2065,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11307,
                 "title": "Testzentrum am Hbf",
                 "location": "Karlstraße 29 - 31, 40210 Düsseldorf",
@@ -2080,7 +2080,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11308,
                 "title": "D.LIVE Oststraße",
                 "location": "Oststr. 129, 40210 Düsseldorf",
@@ -2095,7 +2095,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11309,
                 "title": "Praxisklinik am Schlosspark",
                 "location": "Peter-Richarz-Str. 18, 40229 Düsseldorf",
@@ -2110,7 +2110,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11312,
                 "title": "aumedo care Testzentrum im neuen Atrium",
                 "location": "Grafenberger Allee 136, 40237 Düsseldorf",
@@ -2125,7 +2125,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11313,
                 "title": "Testzentrum Düsseldorf",
                 "location": "Graf-Adolf-Straße 108, 40210 Düsseldorf",
@@ -2140,7 +2140,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11314,
                 "title": "Testcentrum CBT Moltkestraße",
                 "location": "Moltkestr. 23, 40477 Düsseldorf",
@@ -2155,7 +2155,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11315,
                 "title": "Testcentrum CBT Adlerstraße",
                 "location": "Adlerstr. 4, 40211 Düsseldorf",
@@ -2170,7 +2170,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11316,
                 "title": "Helios-Apotheke",
                 "location": "Fritz-Erler-Straße 20, 40595 Düsseldorf",
@@ -2185,7 +2185,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11317,
                 "title": "CoviTest im Schadow-Arkaden Düsseldorf",
                 "location": "Schadowstraße 11, 40212 Düsseldorf",
@@ -2200,7 +2200,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11318,
                 "title": "OBI Markt Düsseldorf Rath",
                 "location": "Franz-Rennefeld-Weg 8, 40472 Düsseldorf",
@@ -2215,7 +2215,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11319,
                 "title": "Dr. med. Peter Buddenberg",
                 "location": "Kaiserswerther Straße 239, 40474 Düsseldorf",
@@ -2230,7 +2230,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11320,
                 "title": "Testzentrum Drive In Harffstraße",
                 "location": "Harffstraße 42, 40591 Düsseldorf",
@@ -2245,7 +2245,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11326,
                 "title": "Fast & Safe Neustraße",
                 "location": "Neustraße 39, 40213 Düsseldorf",
@@ -2260,7 +2260,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11327,
                 "title": "Fast & Safe Schneider-Wibbel-Gasse",
                 "location": "Schneider-Wibbel-Gasse 9, 40213 Düsseldorf",
@@ -2275,7 +2275,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11328,
                 "title": "Fast & Safe Münsterstraße",
                 "location": "Münsterstraße 199, 40470 Düsseldorf",
@@ -2290,7 +2290,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11329,
                 "title": "Fast & Safe Ellerstraße",
                 "location": "Ellerstraße 44, 40227 Düsseldorf",
@@ -2305,7 +2305,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11330,
                 "title": "Fast & Safe Bonner Straße",
                 "location": "Bonner Straße 7-11, 40589 Düsseldorf",
@@ -2320,7 +2320,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11331,
                 "title": "Testzentrum Hotel 25hours Düsseldorf",
                 "location": "Louis-Pasteur-Platz 1, 40211 Düsseldorf",
@@ -2335,7 +2335,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11334,
                 "title": "DUSMED Corona Testzentrum",
                 "location": "Reisholzer Str. 35, 40231 Düsseldorf",
@@ -2350,7 +2350,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11335,
                 "title": "Medicare Testzentrum Schadowplatz",
                 "location": "Schadowplatz 12 - 18, 40212 Düsseldorf",
@@ -2365,7 +2365,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11336,
                 "title": "D.Live mobiler Service",
                 "location": "Schadowplatz 12 - 18, 40212 Düsseldorf",
@@ -2380,7 +2380,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11337,
                 "title": "MedCo Testzentrum Prinzenallee",
                 "location": "Prinzenallee 18, 40549 Düsseldorf",
@@ -2395,7 +2395,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11338,
                 "title": "Schnelltestzentrum Automeile Höherweg GmbH by intervivos AG",
                 "location": "Höherweg 95, 40233 Düsseldorf",
@@ -2410,7 +2410,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11339,
                 "title": "Coronapoint Testzentrum Düsseldorf",
                 "location": "Worringer Straße 142, 40210 Düsseldorf",
@@ -2425,7 +2425,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11340,
                 "title": "Drive-Through Schnelltestzentrum Hase & Igel by intervivos AG",
                 "location": "Erkrather Straße 226, 40233 Düsseldorf",
@@ -2440,7 +2440,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11341,
                 "title": "BMW NL Düsseldorf-Rath",
                 "location": "Theodorstraße 279, 40742 Düsseldorf",
@@ -2455,7 +2455,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11342,
                 "title": "BMW NL Grafenberger Allee",
                 "location": "Grafenberger Allee 227 - 287, 40237 Düsseldorf",
@@ -2470,7 +2470,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11343,
                 "title": "Stölting Heltorfer Straße",
                 "location": "Heltorfer Str. 22, 40472 Düsseldorf",
@@ -2485,7 +2485,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11344,
                 "title": "Allure Academy & Beauty Studio",
                 "location": "Corneliusstraße 94, 40215 Düsseldorf",
@@ -2500,7 +2500,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11345,
                 "title": "Mobile Teststation Ickerswarder Straße",
                 "location": "Ickerswarder Straße 177, 40589 Düsseldorf",
@@ -2515,7 +2515,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11346,
                 "title": "Test Zentrum Nordstraße Düsseldorf",
                 "location": "Nordstraße  117, 40447 Düsseldorf",
@@ -2530,7 +2530,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11347,
                 "title": "Pavillon Königsallee",
                 "location": "Königsallee 22, 40212 Düsseldorf",
@@ -2545,7 +2545,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11348,
                 "title": "Testzentrum im Deutschen Sportclub Düsseldorf e.V.  ",
                 "location": "Altenbergstraße 81, 40235 Düsseldorf",
@@ -2560,7 +2560,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11349,
                 "title": "Testzentrum Düsseldorf Bezirk 2",
                 "location": "Birkenstraße 130, 40233 Düsseldorf",
@@ -2575,7 +2575,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11350,
                 "title": "Feinkost Zurheide Nürnberger Straße",
                 "location": "Nürnberger Straße 40 - 42, 40599 Düsseldorf",
@@ -2590,7 +2590,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11351,
                 "title": "Feinkost Zurheide Berliner Allee",
                 "location": "Berliner Allee 52, 40212 Düsseldorf",
@@ -2605,7 +2605,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11352,
                 "title": "Galaxxy GmbH Ackerstraße",
                 "location": "Ackerstraße 84, 40233 Düsseldorf",
@@ -2620,7 +2620,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11354,
                 "title": "Sportpark-Lohausen",
                 "location": "Neusser Weg 94, 40474 Düsseldorf",
@@ -2635,7 +2635,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11355,
                 "title": "Novogyn Praxis",
                 "location": "Luise-Rainer-Straße 6 - 10, 40235 Düsseldorf",
@@ -2650,7 +2650,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11357,
                 "title": "Dr. Amir Reza Ghasemi u.a. Schneidemühler Str.",
                 "location": "Schneidemühler Straße 13, 40599 Düsseldorf",
@@ -2665,7 +2665,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11358,
                 "title": "Dr. Amir Reza Ghasemi u.a. Am Langen Weiher",
                 "location": "Am Langen Weiher 14, 40599 Düsseldorf",
@@ -2680,7 +2680,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11361,
                 "title": "MediTest24",
                 "location": "Bergische Landstraße 297, 40629 Düsseldorf",
@@ -2695,7 +2695,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11364,
                 "title": "LVR-Klinikum Düsseldorf",
                 "location": "Bergische Landstraße 2, 40629 Düsseldorf",
@@ -2710,7 +2710,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11365,
                 "title": "farma-plus Apotheke Düsseldorf",
                 "location": "Flinger Straße 3, 40231 Düsseldorf",
@@ -2725,7 +2725,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11369,
                 "title": "Galaxxy GmbH Kölner Landstraße",
                 "location": "Kölner Landstraße 429, 40589 Düsseldorf",
@@ -2740,7 +2740,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11370,
                 "title": "Cakmak & Kloepfel Schaffrath Aachener Straße",
                 "location": "Aachener Straße 90, 40223 Düsseldorf",
@@ -2755,7 +2755,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11371,
                 "title": "Cakmak & Kloepfel Mediamarkt Metro-Straße",
                 "location": "Metro-Straße 16, 40235 Düsseldorf",
@@ -2770,7 +2770,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11372,
                 "title": "Cakmak & Kloepfel Obi Königsberger Straße",
                 "location": "Königsberger Straße 87, 40231 Düsseldorf",
@@ -2785,7 +2785,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11373,
                 "title": "Apotheke im Medical Center",
                 "location": "Luise-Rainer-Straße 8, 40235 Düsseldorf",
@@ -2800,7 +2800,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11375,
                 "title": "Obi Franz-Rennefeld-Weg",
                 "location": "Franz-Rennefeld-Weg 8, 40472 Düsseldorf",
@@ -2815,7 +2815,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11377,
                 "title": "MediTest24 Kreuzstraße",
                 "location": "Kreuzstraße 51, 40210 Düsseldorf",
@@ -2830,7 +2830,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11382,
                 "title": "Regina-Apotheke",
                 "location": "Matthiaskirchweg 6, 40472 Düsseldorf",
@@ -2845,7 +2845,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11384,
                 "title": "Flur-Apotheke",
                 "location": "Flurstraße 35, 40235 Düsseldorf",
@@ -2860,7 +2860,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11385,
                 "title": "CovidZentrum Düsseldorf Oberkassel am Belsenplatz",
                 "location": "Lanker Straße 2, 40545 Düsseldorf",
@@ -2875,7 +2875,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11389,
                 "title": "Test Zentrum Benrath Mitte",
                 "location": "Hauptstraße 39, 40597 Düsseldorf",
@@ -2890,7 +2890,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11391,
                 "title": "Rosen-Apotheke",
                 "location": "Angermunder Straße 38, 40489 Düsseldorf",
@@ -2905,7 +2905,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11392,
                 "title": "Kiwifalter",
                 "location": "Kalkumer Schloßallee 100, 40489 Düsseldorf",
@@ -2920,7 +2920,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11393,
                 "title": "Eventhalle Benrath",
                 "location": "Bayreuther Straße 31, 40597 Düsseldorf",
@@ -2935,7 +2935,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11398,
                 "title": "Testzentrum@La-Pailette",
                 "location": "Schirmerstraße 2, 40211 Düsseldorf",
@@ -2950,7 +2950,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11399,
                 "title": "Galaxxy GmbH Graf-Adolf-Straße",
                 "location": "Graf-Adolf-Straße 102, 40210 Düsseldorf",
@@ -2965,7 +2965,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11400,
                 "title": "Medicare Testzentrum Mangold Düsseldorf",
                 "location": "Glockenstraße 20, 40476 Düsseldorf",
@@ -2980,7 +2980,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11401,
                 "title": "MediTest24 Bahnhofstraße",
                 "location": "Bahnhofstraße 2, 40489 Düsseldorf",
@@ -2995,7 +2995,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11402,
                 "title": "Privatpraxis Avicenna",
                 "location": "Arnulfstraße 22, 40545 Düsseldorf",
@@ -3010,7 +3010,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11404,
                 "title": "Corona-Schnelltestzentrum Fassbender Tenten",
                 "location": "An der Schützenwiese 40, 40231 Düsseldorf",
@@ -3025,7 +3025,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11405,
                 "title": "International School of Düsseldorf",
                 "location": "Niederrheinstraße 336, 40489 Düsseldorf",
@@ -3040,7 +3040,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11406,
                 "title": "Nachtresidenz",
                 "location": "Bahnstraße 13, 40212 Düsseldorf",
@@ -3055,7 +3055,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11407,
                 "title": "Chang Noi Massage",
                 "location": "Leichlinger Straße 5, 40591 Düsseldorf",
@@ -3070,7 +3070,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11408,
                 "title": "Testzentrum Stahlwerk",
                 "location": "Ronsdorfer Straße 134, 40233 Düsseldorf",
@@ -3085,7 +3085,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11409,
                 "title": "Testzentrum Zollhof",
                 "location": "Zollhof 32 - 34, 40221 Düsseldorf",
@@ -3100,7 +3100,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11410,
                 "title": "Corona Hunter Hassels",
                 "location": "Fürstenberger Straße 41, 40599 Düsseldorf",
@@ -3115,7 +3115,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11412,
                 "title": "Corona Zentrale Düsseldorf, Schützenplatz Eller",
                 "location": "Heidelberger Straße 4, 40229 Düsseldorf",
@@ -3130,7 +3130,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11413,
                 "title": "Bauhaus Nach den Mauresköthen",
                 "location": "Nach den Mauresköthen 137, 40625 Düsseldorf",
@@ -3145,7 +3145,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11414,
                 "title": "Karstadt Schadowstraße",
                 "location": "Schadowstraße 93, 40412 Düsseldorf",
@@ -3160,7 +3160,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11415,
                 "title": "Kaufhof Königsalle",
                 "location": "Königsallee 1 - 5, 40412 Düsseldorf",
@@ -3175,7 +3175,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11417,
                 "title": "Testzentrum Corneliusstraße",
                 "location": "Corneliusstraße 63, 40215 Düsseldorf",
@@ -3190,7 +3190,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11418,
                 "title": "Testzentrum im DSC 99",
                 "location": "Diepenstraße 99, 40625 Düsseldorf",
@@ -3205,7 +3205,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11419,
                 "title": "Königs-Apotheke",
                 "location": "Friedrichstraße 2, 40217 Düsseldorf",
@@ -3220,7 +3220,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11423,
                 "title": "Covid Schnelltest Center RSNRW",
                 "location": "Kölner Straße 356, 40227 Düsseldorf",
@@ -3235,7 +3235,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11425,
                 "title": "Testzentrum Westfalenstraße",
                 "location": "Westfalenstraße 27, 40472 Düsseldorf",
@@ -3250,7 +3250,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11426,
                 "title": "Testzentrum am Zoo",
                 "location": "Graf-Recke-Straße 103, 40239 Düsseldorf",
@@ -3265,7 +3265,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11427,
                 "title": "Medicare Testzentrum Grabbeplatz",
                 "location": "Grabbeplatz, 40213 Düsseldorf",
@@ -3280,7 +3280,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11428,
                 "title": "Spucktestcenter IKEA",
                 "location": "Oerschbachstraße 75, 40589 Düsseldorf",
@@ -3295,7 +3295,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11429,
                 "title": "Testzentrum Rather Kreuzweg",
                 "location": "Rather Kreuzweg 1, 40472 Düsseldorf",
@@ -3310,7 +3310,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11430,
                 "title": "Hütten-Apotheke",
                 "location": "Hüttenstraße 67, 40215 Düsseldorf",
@@ -3325,7 +3325,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11431,
                 "title": "Testzentrum im SFD '75 e.V.",
                 "location": "Paul-Thomas-Straße 35, 40589 Düsseldorf",
@@ -3340,7 +3340,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11432,
                 "title": "Testzentrum Bilk",
                 "location": "Martinstraße 4, 40223 Düsseldorf",
@@ -3355,7 +3355,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11434,
                 "title": "Privatpraxis für Physiotherapie Patryk Warda",
                 "location": "Kapellstraße 11, 40479 Düsseldorf",
@@ -3370,7 +3370,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11435,
                 "title": "Hubertus-Apotheke",
                 "location": "Gerresheimer Landstraße 117, 40627 Düsseldorf",
@@ -3385,7 +3385,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11436,
                 "title": "Testzentrum Friedrichstraße",
                 "location": "Friedrichstraße 39, 40217 Düsseldorf",
@@ -3400,7 +3400,7 @@
             "type": "Feature",
             "properties": {
                 "opening_hours": null,
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnungszeiten",
                 "Teststellennr": 11437,
                 "title": "Fast & Safe Kölner Straße",
                 "location": "Kölner Straße 273, 40227 Düsseldorf",

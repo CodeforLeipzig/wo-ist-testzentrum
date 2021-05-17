@@ -20,8 +20,8 @@
                 "location": "Prager Straße 36, 04317 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo 10:00-13:00, Th 15:30-18:30, Fr 9:30-12:30",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_ja: nein"
                 ]
             },
@@ -35,11 +35,10 @@
                 "title": "Apotheke im Hauptbahnhof",
                 "location": "Willy-Brandt-Platz 5, 04109 Leipzig",
                 "telephone": "0341/1406080",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge, Feiertags geschlossen, Ausnahmen mögl",
                 "opening_hours": "Mo-Fr 10:00-19:00, Sa 10:00-16:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge, Feiertags geschlossen, Ausnahmen mögl",
                     "termin_art: Internet",
                     "termin_url: www.apotheke-leipzig.de"
                 ]
@@ -73,11 +72,10 @@
                 "title": "Goethe-Apotheke",
                 "location": "Leipziger Straße 81, 04178 Leipzig",
                 "telephone": "0341/4410748",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) 14",
                 "opening_hours": "Mo, We-Fr 14:00-15:00",
                 "hints": [
-                    "termin_ja: nein"
-
+                    "termin_ja: nein",
+                    "Th, 13.05.2021 (Himmelfahrt) 14"
                 ]
             },
             "geometry": {
@@ -90,13 +88,11 @@
                 "title": "Hirsch Apotheke",
                 "location": "Zschampertaue 2, 04207 Leipzig",
                 "telephone": "0341/9422222",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
-                "opening_hours": "Mo-Fr 08:00-12:00, Mo We Fr 16:00-18:00",
+                "opening_hours": "Mo-Fr 08:00-12:00, Mo 16:00-18:00, We 16:00-18:00, Fr 16:00-18:00",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_ja: ja",
-
                     "termin_art: telephone"
-
                 ]
             },
             "geometry": {
@@ -109,7 +105,7 @@
                 "title": "Händel Apotheke",
                 "location": "Wurzner Straße 151, 04318 Leipzig",
                 "telephone": "0341/2444888",
-                "opening_hours": "Mo Tu Th Fr 08:00-12, Mo Tu Th Fr 13:00-17:00, We 08:00-12:00",
+                "opening_hours": "Mo-Tu 08:00-12:00, Th-Fr 08:00-12:00, Mo-Tu 13:00-17:00, Th-Fr 13:00-17:00, We 08:00-12:00",
                 "hints": [
                     "termin_ja: ja",
 
@@ -146,11 +142,10 @@
                 "title": "Park-Apotheke",
                 "location": "Antonienstraße 1, 04229 Leipzig",
                 "telephone": "0341/2304512",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo, We, Fr 11:00-13:00, Tu 13:00-17:30, Th 08:00-13:00",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_ja: ja",
-
                     "termin_art: Telefon+Internet",
                     "termin_url: info@park-apotheke-leipzig.de"
                 ]
@@ -165,11 +160,10 @@
                 "title": "Petersbogen-Apotheke",
                 "location": "Petersstraße 36, 04109 Leipzig",
                 "telephone": "0341/35520333",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Sa 08:00-18:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Internet",
                     "termin_url: https://www.petersbogen-apotheke.de/"
                 ]
@@ -184,11 +178,10 @@
                 "title": "Schlehen-Apotheke OHG",
                 "location": "Stöhrerstraße 1, 04347 Leipzig",
                 "telephone": "0341/22903810",
-                "opening_hours_unclassified": "10.05.-12.05./14.05./17.05.-21.05.2021,",
                 "opening_hours": "Mo-Fr 08:00-20:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "10.05.-12.05./14.05./17.05.-21.05.2021,",
                     "termin_art: Internet",
                     "termin_url: www.terminland.de/schlehenapotheke"
                 ]
@@ -203,11 +196,10 @@
                 "title": "Seume-Apotheke",
                 "location": "Dieskaustraße 455, 04249 Leipzig",
                 "telephone": "0341/426600",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 08:00-9:30, Mo-Fr 17:00-18:30",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: telephone"
 
                 ]
@@ -222,11 +214,10 @@
                 "title": "Sonnen-Apotheke",
                 "location": "Karl-Liebknecht-Straße 59, 04275 Leipzig",
                 "telephone": "0341/3016474",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 10:00-18:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Internet",
                     "termin_url: https://www.sonnen-apotheke-leipzig.de/coronaschnelltest-onlinetermin.html"
                 ]
@@ -241,11 +232,10 @@
                 "title": "Wilhelm-Tell-Apotheke",
                 "location": "Georg-Schumann-Straße 105, 04155 Leipzig",
                 "telephone": "0341/5861250",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 09:00-12:00, Mo-Fr 14:00-18:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: telephone"
 
                 ]
@@ -264,7 +254,6 @@
                 "opening_hours": null,
                 "hints": [
                     "termin_ja: ja",
-
                     "termin_art: telephone"
 
                 ]
@@ -298,9 +287,9 @@
                 "title": "Teststation im Bruno-Plache-Stadion",
                 "location": "Connewitzer Straße 21, 04289 Leipzig",
                 "telephone": "03494/3762994",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo, We, Fr 18:00-21:00, Su 10:00-12:00",
                 "hints": ["auch PCR-Test",
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_ja: nein"
 
                 ]
@@ -334,11 +323,10 @@
                 "title": "Apotheke Mockauer Post",
                 "location": "Mockauer Straße 121, 04357 Leipzig",
                 "telephone": "0341/6022904",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 9:30-17:15",
                 "hints": [
                     "termin_ja: nein",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_url: www.apotheke-mockauer-post.de"
                 ]
             },
@@ -370,11 +358,10 @@
                 "title": "Bären Apotheke",
                 "location": "Selliner Straße 15, 04207 Leipzig",
                 "telephone": "0341/710790",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 08:00-12:00, Mo-Fr 14:00-18:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Internet",
                     "termin_url: www.baeren24.de"
                 ]
@@ -389,11 +376,10 @@
                 "title": "Apotheke Holzhausen",
                 "location": "Stötteritzer Landstraße 28, 04288 Leipzig",
                 "telephone": "034297/905835",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
-                "opening_hours": "Mo-Fr 08:00-12:00, Mo-Fr 14:00-18:00, Sa 8.30-12:00",
+                "opening_hours": "Mo-Fr 08:00-12:00, Mo-Fr 14:00-18:00, Sa 08:30-12:00",
                 "hints": ["Ab 10.05.2021 neuer Standort Stötteritzer Landstraße 63, 04288 Lei",
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.apo-holzhausen.de",
                     " . Nachmittags Tests ohn"
@@ -409,11 +395,10 @@
                 "title": "Kulturhof Gohlis, durchführende Praxis: InterMed Praxiszentrum MVZ",
                 "location": "Eisenacher Straße 72, 04155 Leipzig",
                 "telephone": "0341/55008344",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 08:00-14:00, Mo-Fr 14:30-19:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Internet",
                     "termin_url: http://kulturhof-gohlis.de/coronatest/"
                 ]
@@ -465,11 +450,10 @@
                 "title": "Arnika-Apotheke",
                 "location": "Holzhäuser Straße 81, 04299 Leipzig",
                 "telephone": "0341/8617623",
-                "opening_hours_unclassified": "3 mal wöchentlich 16:00-18:00, Th",
                 "opening_hours": "Mo-Fr 08:00-13:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "3 mal wöchentlich 16:00-18:00, Th",
                     "termin_art: telephone"
 
                 ]
@@ -484,11 +468,11 @@
                 "title": "SC DHfK Leipzig e. V.",
                 "location": "Am Sportforum 10, 04105 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "10.05.2021-12.05.2021 und 14.05.2021 09:00-",
-                "opening_hours": "Mo-Th 09:00-20:00, Fr 09:00-16:00, Keine Voranmeldung nötig, ein gülti",
+                "opening_hours": "Mo-Th 09:00-20:00, Fr 09:00-16:00",
                 "hints": ["Parken ist auf dem Gelände des SC DHfK möglich, barrierefreier Zug",
                     "termin_ja: ja",
-
+                    "Keine Voranmeldung nötig, ein gülti",
+                    "10.05.2021-12.05.2021 und 14.05.2021 09:00-",
                     "termin_art: Internet",
                     "termin_url: www.scdhfk.de/testzentrum"
                 ]
@@ -503,11 +487,10 @@
                 "title": "Liebig-Apotheke",
                 "location": "Windmühlenstraße 41, 04107 Leipzig",
                 "telephone": "0341/9604626",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 10:00-12:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Internet",
                     "termin_url: www.terminland.eu/liebig-apo/"
                 ]
@@ -522,11 +505,10 @@
                 "title": "Schultheiß Augenoptik & Hörgeräte e. Kfr.",
                 "location": "Kieler Straße 53, 04357 Leipzig",
                 "telephone": "0341/6014373",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 10:00-12:00, Mo-Fr 13:00-15:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: telephone"
 
                 ]
@@ -541,7 +523,7 @@
                 "title": "Herz-Apotheke",
                 "location": "Wittenberger Straße 81, 04129 Leipzig",
                 "telephone": "0341/9118180",
-                "opening_hours_unclassified": "",
+                "opening_hours_unclassified": "Keine Angabe zu Öffnunsgzeiten",
                 "opening_hours": null,
                 "hints": [
                     "termin_ja: ja",
@@ -560,11 +542,10 @@
                 "title": "McMedi Apotheke Testzentrum in der Kletterhalle NOLIMIT",
                 "location": "Dessauer Straße 2, 04129 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) 10",
                 "opening_hours": "Mo-Fr 07:00-13:00, Sa 09:00-14:00, Su 10:00-15:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) 10",
                     "termin_art: Internet",
                     "termin_url: www.mc-medi-apotheke-testzentrum.de"
                 ]
@@ -579,7 +560,7 @@
                 "title": "InterMed Praxiszentrum MVZ GmbH",
                 "location": "Stieglitzstraße 87, 04229 Leipzig",
                 "telephone": "0341/9260262",
-                "opening_hours": "Th Fr 13:00-15:00",
+                "opening_hours": "Th-Fr 13:00-15:00",
                 "hints": [
                     "ohne Anmeldung",
                     "termin_ja: nein"
@@ -596,9 +577,9 @@
                 "title": "Kopfzentrum Leipzig",
                 "location": "Käthe-Kollwitz-Straße 64, 04109 Leipzig",
                 "telephone": "0341/33733100",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) 09:00-",
                 "opening_hours": "Mo-Fr 08:00-20:00, Sa 09:00-15:00, Su 09:00-12:00",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) 09:00-",
                     "termin_ja: nein"
 
                 ]
@@ -613,11 +594,10 @@
                 "title": "Kopfzentrum Leipzig",
                 "location": "Fichtestraße 9, 04275 Leipzig",
                 "telephone": "0341/33733100",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Th 08:00-18:00, Fr 08:00-13:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.kopfzentrum-gruppe.de"
                 ]
@@ -632,11 +612,10 @@
                 "title": "Kopfzentrum Leipzig",
                 "location": "Landsberger Straße 4, 04157 Leipzig",
                 "telephone": "0341/33733100",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo, We, Fr 08:00-13:00, Tu, Th 08:00-18:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.kopfzentrum-gruppe.de"
                 ]
@@ -651,11 +630,10 @@
                 "title": "Kopfzentrum Leipzig",
                 "location": "Straße am Park 2, 04209 Leipzig",
                 "telephone": "0341/33733100",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo, Th 08:00-18:00, Tu-We, Fr 08:00-13:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.kopfzentrum-gruppe.de"
                 ]
@@ -670,11 +648,10 @@
                 "title": "Kopfzentrum Leipzig",
                 "location": "Waldstraße 62, 04105 Leipzig",
                 "telephone": "0341/33733100",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Tu, Th 08:00-18:00, We, Fr 08:00-13:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.kopfzentrum-gruppe.de"
                 ]
@@ -689,11 +666,10 @@
                 "title": "Kopfzentrum Wahren",
                 "location": "Oststraße 2, 04317 Leipzig",
                 "telephone": "0341/33733100",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo, Fr 08:00-13:00, Tu-Th 08:00-18:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.kopfzentrum-gruppe.de"
                 ]
@@ -708,9 +684,9 @@
                 "title": "Kopfzentrum Wahren",
                 "location": "Rudolph-Herrmann-Straße 33, 04299 Leipzig",
                 "telephone": "0341/33733100",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo 14:00-18:00, We 08:00-18:00, Fr 08:00-13:00",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_ja: nein"
 
                 ]
@@ -725,11 +701,10 @@
                 "title": "Kopfzentrum Wahren",
                 "location": "Georg-Schumann-Straße 355, 04159 Leipzig",
                 "telephone": "0341/33733100",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo, We 08:00-18:00, Tu, Th-Fr 08:00-13:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.kopfzentrum-gruppe.de"
                 ]
@@ -744,11 +719,10 @@
                 "title": "Kopfzentrum Thomaskirchhof",
                 "location": "Augustusplatz 5, 04109 Leipzig",
                 "telephone": "0341/33733100",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo, Th 08:00-18:00, Tu-We,Fr 08:00-13:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.kopfzentrum-gruppe.de"
                 ]
@@ -763,11 +737,10 @@
                 "title": "Gesundheitspraxis Cornelia Lindner",
                 "location": "Hans-Driesch-Straße 20, 04179 Leipzig",
                 "telephone": "0341/49690799o",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) 09:00-",
                 "opening_hours": "Mo-Fr, Sa 09:00-13:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) 09:00-",
                     "termin_art: telephone"
 
                 ]
@@ -782,9 +755,9 @@
                 "title": "Corona-Testambulanz des Universitätsklinikums Leipzig",
                 "location": "Liebigstraße 22A, 04103 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) 13",
                 "opening_hours": "Mo-Su 13:00-17:00",
                 "hints": ["Haus 7.2",
+                    "Th, 13.05.2021 (Himmelfahrt) 13",
                     "termin_ja: nein"
 
                 ]
@@ -818,11 +791,10 @@
                 "title": "Testcenter Corona Leipzig GbR",
                 "location": "Karl-Liebknecht-Straße 40, 04107 Leipzig",
                 "telephone": "0152/03987557",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa-Su 10:00-16:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Internet",
                     "termin_url: www.testcenter-corona.de"
                 ]
@@ -837,11 +809,10 @@
                 "title": "Bürgertestzentrum am Rabensteinplatz",
                 "location": "Dresdner Straße 2, 04103 Leipzig",
                 "telephone": "0156/78405168",
-                "opening_hours_unclassified": "Tu, Th nach Vereinbarung",
                 "opening_hours": "Mo, We, Fr 08:00-11:30, Mo, We, Fr 12:30-15:30",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Tu, Th nach Vereinbarung",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.teste-dich-jetzt.com"
                 ]
@@ -856,11 +827,10 @@
                 "title": "Evangelisches Diakonissenkrankenhaus Leipzig gGmbH",
                 "location": "Georg-Schwarz-Straße 49, 04177 Leipzig",
                 "telephone": "0341/4445954",
-                "opening_hours_unclassified": "ab 17.05.2021 geänderte Öffnungszeiten",
-                "opening_hours": "Mo We Fr 08:00-17:00",
+                "opening_hours": "Mo 08:00-17:00, We 08:00-17:00, Fr 08:00-17:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "ab 17.05.2021 geänderte Öffnungszeiten",
                     "termin_art: telephone"
 
                 ]
@@ -875,11 +845,10 @@
                 "title": "Corona Testzentrum Karli 12",
                 "location": "Karl-Liebknecht-Straße 12, 04107 Leipzig",
                 "telephone": "0176/70102125",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) 08:00-",
                 "opening_hours": "Mo-Fr 08:00-19:00, Sa 10:00-18:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) 08:00-",
                     "termin_art: Telefon+Internet",
                     "termin_url: https://leipzig-coronatest.com"
                 ]
@@ -912,9 +881,9 @@
                 "title": "ASB-Teststation \"Am Sonnenpark\"",
                 "location": "Mattheuerbogen 6, 04289 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo 08:00-12:00, Tu 12:00-18:00, Fr 12:00-16:00",
                 "hints": ["Zufahrt über Franzosenallee",
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_ja: nein"
 
                 ]
@@ -929,9 +898,9 @@
                 "title": "Mondo Medical GmbH",
                 "location": "Wittenberger Straße 36, 04129 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) 09:00-",
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-14:00",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) 09:00-",
                     "termin_ja: nein"
 
                 ]
@@ -946,11 +915,10 @@
                 "title": "DeinTestzentrum.de/Testzentrum Felsenkeller",
                 "location": "Karl-Heine-Straße 32, 04229 Leipzig",
                 "telephone": "0341/23820530",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) 08:00-",
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa 10:00-14:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) 08:00-",
                     "termin_art: Internet",
                     "termin_url: www.deintestzentrum.de"
                 ]
@@ -1018,9 +986,9 @@
                 "title": "Humanitas-Apotheke Leipzig",
                 "location": "Coppistraße 42, 04157 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 09:00-11:00",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_ja: nein"
 
                 ]
@@ -1072,9 +1040,9 @@
                 "title": "Privatpraxis für Kinder- und Jugendmedizin Dr. med. habil. Sabine Hussack",
                 "location": "Hainstraße 9, 04109 Leipzig",
                 "telephone": "0341/65673330",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 8:30-9:00, Mo-Fr 12:00-13:00",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_ja: nein"
 
                 ]
@@ -1089,11 +1057,10 @@
                 "title": "Adler Apotheke Liebertwolkwitz",
                 "location": "Kirchstraße 5, 04288 Leipzig",
                 "telephone": "034297/42735",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 10:00-16:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: telephone"
 
                 ]
@@ -1108,9 +1075,9 @@
                 "title": "Medservio GmbH",
                 "location": "Chemnitzer Straße 6, 04289 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Sa 10:00-19:00",
                 "hints": ["Parkplatz Obi-Markt",
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_ja: nein"
 
                 ]
@@ -1142,9 +1109,9 @@
                 "title": "Culture-Consulting Leipzig GmbH",
                 "location": "Gutenbergstraße 11, 04178 Leipzig",
                 "telephone": "0177/8915344",
-                "opening_hours_unclassified": "Th; 13.05.2021",
                 "opening_hours": "Mo-Fr 08:00-15:00",
                 "hints": [
+                    "Th; 13.05.2021",
                     "termin_ja: nein",
                     "ohne Anmeldung"
                 ]
@@ -1159,11 +1126,10 @@
                 "title": "Testzentrum Elsterartig",
                 "location": "Dittrichring 17, 04109 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) 09:00-",
                 "opening_hours": "Mo-Fr 08:00-13:00, Mo-Fr 14:00-19:00, Sa 10:00-15:00",
                 "hints": [
                     "termin_ja: nein",
-
+                    "Th, 13.05.2021 (Himmelfahrt) 09:00-",
                     "termin_url: www.schnelltest-leipzig.com"
                 ]
             },
@@ -1212,11 +1178,10 @@
                 "title": "Testzentrum Stötteritz",
                 "location": "Holzhäuser Straße 72, 04299 Leipzig",
                 "telephone": "0152/07426232",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-We 08:00-12:00, Mo-We 16:00-20:00, Sa 09:00-12:00, Su 15:00-18:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Telefon+Internet",
                     "termin_url: testzentrum-stoetteritz@outlook.com"
                 ]
@@ -1231,11 +1196,10 @@
                 "title": "PhysioMobil-Leipzig Nadin Heinze",
                 "location": "Lindenthaler Hauptstraße 71, 04158 Leipzig",
                 "telephone": "0341/92790086",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) 10",
-                "opening_hours": "Mo Tu Th 08:00-18:00, We 08:00-20:00, Fr 08:00-13:00",
+                "opening_hours": "Mo-Tu 08:00-18:00, We 08:00-20:00, Th 08:00-18:00, Fr 08:00-13:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) 10",
                     "termin_art: telephone"
 
                 ]
@@ -1287,11 +1251,10 @@
                 "title": "leipzig-coronatestzentrum.de",
                 "location": "Zschortauer Straße 96, 04129 Leipzig",
                 "telephone": "0174/4004062",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) 07:00-",
                 "opening_hours": "Mo-Su 08:00-20:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) 07:00-",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.leipzig-coronatestzentrum.de"
                 ]
@@ -1306,7 +1269,7 @@
                 "title": "Praxis für Physiotherapie Lindner/Perl",
                 "location": "Tauchaer Straße 83, 04349 Leipzig",
                 "telephone": "0341/9218799",
-                "opening_hours": "Mo We 08:00-12:00, Tu 12:00-16:00, Th 12:00-18:00, Fr 08:00-11:00",
+                "opening_hours": "Mo 08:00-12:00, We 08:00-12:00, Tu 12:00-16:00, Th 12:00-18:00, Fr 08:00-11:00",
                 "hints": [
                     "termin_ja: nein"
 
@@ -1322,9 +1285,9 @@
                 "title": "Apotheke im Löwencenter",
                 "location": "Miltitzer Straße 13, 04178 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
-                "opening_hours": "Mo 10:00-15:00, Tu We 10:00-14:00, Th Fr 10:00-17:00",
+                "opening_hours": "Mo 10:00-15:00, Tu-We 10:00-14:00, Th-Fr 10:00-17:00",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_ja: nein"
 
                 ]
@@ -1339,9 +1302,9 @@
                 "title": "Reinker - Ambulante Rehabilitation Leipzig GmbH",
                 "location": "Am Sportforum 2, 04105 Leipzig",
                 "telephone": "0341/231065371",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 15:00-17:00",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_ja: ja",
 
                     "termin_art: telephone"
@@ -1376,9 +1339,9 @@
                 "title": "Cherry Nails",
                 "location": "Delitzscher Straße 66, 04129 Leipzig",
                 "telephone": "0341/25696067",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 09:00-19:00, Sa 09:00-16:00, Su 10:00-16:00",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_ja: ja",
 
                     "termin_art: telephone"
@@ -1395,9 +1358,9 @@
                 "title": "Chocolate",
                 "location": "Barfußgäßchen 12, 04109 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) 09:00-",
-                "opening_hours": "Mo-Fr 09:00-21:00, Sa Su 14:00-21:00",
+                "opening_hours": "Mo-Fr 09:00-21:00, Sa-Su 14:00-21:00",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) 09:00-",
                     "termin_ja: nein"
 
                 ]
@@ -1412,9 +1375,9 @@
                 "title": "CovidZentrum Gewandhaus zu Leipzig",
                 "location": "Augustusplatz 8, 04109 Leipzig",
                 "telephone": "0341/1270257",
-                "opening_hours_unclassified": "Feiertags geöffnet und nur nach online",
                 "opening_hours": "Mo-Fr 08:00-20:00, Tu-Th 08:00-18:00, Sa 08:00-18:00",
                 "hints": [
+                    "Feiertags geöffnet und nur nach online",
                     "termin_ja: ja",
 
                     "termin_art: Telefon+Internet",
@@ -1431,7 +1394,7 @@
                 "title": "Testzentrum Café \"Pascucci\"",
                 "location": "Thomasgasse 2, 04109 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 08:00-15:00, Sa/Su 10:00-14:00",
+                "opening_hours": "Mo-Fr 08:00-15:00, Sa-Su 10:00-14:00",
                 "hints": [
                     "Für ein digitales Ergebnis ohne Warten",
                     "termin_ja: ja",
@@ -1450,7 +1413,7 @@
                 "title": "Testzentrum Robert-Koch-Klinikum",
                 "location": "Nikolai-Rumjanzew-Straße 100, 04207 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo Tu Th 07:30-15:00, We Fr 10:00-17:00",
+                "opening_hours": "Mo-Tu 07:30-15:00, Th 07:30-15:00, We 10:00-17:00, Fr 10:00-17:00",
                 "hints": [
                     "Test ohne Anmeldung möglich. Donnersta",
                     "termin_ja: ja",
@@ -1523,11 +1486,10 @@
                 "title": "Stadt Apotheke Leipzig",
                 "location": "Grimmaische Straße 19, 04109 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 08:30-10:00, 11:00-13:00, 16:00-17:00, Sa 11:00-13:00, 16:00-17:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Internet",
                     "termin_url: www.stadt-apotheke-leipzig.de"
                 ]
@@ -1542,9 +1504,9 @@
                 "title": "Apotheke am Sanct Georg",
                 "location": "Delitzscher Straße 137, 04129 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) 06:00-",
-                "opening_hours": "Mo-Su 06:00-18.30:00",
+                "opening_hours": "Mo-Su 06:00-18:30",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) 06:00-",
                     "termin_ja: nein"
 
                 ]
@@ -1559,9 +1521,9 @@
                 "title": "Corona Lab Testzentrum",
                 "location": "Tauchaer Straße 83, 04349 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) 08:00-",
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa 10:00-15:00,",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) 08:00-",
                     "termin_ja: nein",
 
                     "termin_url: www.corona-testen-leipzig.de/info@corona-testen-leipzig.de"
@@ -1577,7 +1539,7 @@
                 "title": "Community Testcenter Spinnerei",
                 "location": "Spinnereistraße 7, 04179 Leipzig",
                 "telephone": "0151/72962549",
-                "opening_hours": "Mo Fr 07:00-15:00",
+                "opening_hours": "Mo 07:00-15:00, Fr 07:00-15:00",
                 "hints": [
                     "Terminvergabe online unter www.communit",
                     "termin_ja: ja",
@@ -1596,9 +1558,9 @@
                 "title": "Küchenschmiede Leipzig GmbH",
                 "location": "Adenauerallee 3, 04347 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 10:00-19:00",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_ja: ja",
 
                     "termin_art: Internet",
@@ -1615,11 +1577,10 @@
                 "title": "FAMA-Aktiv GmbH/Physiotherapie",
                 "location": "Haydnstraße 12, 04107 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Testzeiten für Patienten Mo-Freita",
-                "opening_hours": "Mo Th 08:00-20:00, Tu Fr 08:00-17:00, We 08:00-18:00",
+                "opening_hours": "Mo 08:00-20:00, Th 08:00-20:00, Tu 08:00-17:00, Fr 08:00-17:00, We 08:00-18:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Testzeiten für Patienten Mo-Freitag",
                     "termin_art: Internet",
                     "termin_url: https://corona-schnelltest-leipzig.net"
                 ]
@@ -1634,7 +1595,7 @@
                 "title": "Corona-Testcenter Hof-Apotheke am Neumarkt",
                 "location": "Neumarkt 26, 04109 Leipzig",
                 "telephone": "0341/14991203",
-                "opening_hours": "Montg-Fr 08:30-16.30:00, Sa 09:30-16:00",
+                "opening_hours": "Mo-Fr 08:30-16:30, Sa 09:30-16:00",
                 "hints": [
                     "termin_ja: ja",
 
@@ -1652,9 +1613,9 @@
                 "title": "Praxis für Physiowelt",
                 "location": "Eisenbahnstraße 73, 04315 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Sa Su nach Vereinbarung, Th, 13.05.2021 (Himmelfahrt) 09:00-",
                 "opening_hours": "Mo-Fr 09:00-18:00",
                 "hints": [
+                    "Sa Su nach Vereinbarung, Th, 13.05.2021 (Himmelfahrt) 09:00-",
                     "termin_ja: nein"
 
                 ]
@@ -1704,7 +1665,7 @@
                 "title": "Das CoronaSchnelltest-Zentrum Mohamad Mohamad",
                 "location": "Torgauer Platz 1, 04315 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 08:00-18:00, Sa Su 10:00-15:00",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa-Su 10:00-15:00",
                 "hints": ["auf dem Marktplatz",
                     "Eröffnung am 17.05.2021",
                     "termin_ja: nein"
@@ -1721,7 +1682,7 @@
                 "title": "LBW Aus- und Fortbildungsgesellschaft mbH",
                 "location": "Torgauer Straße 74, 04318 Leipzig",
                 "telephone": "0341/33755070",
-                "opening_hours": "Mo-Fr 09:00-15.30:00",
+                "opening_hours": "Mo-Fr 09:00-15:30",
                 "hints": [
                     "nur nach vorheriger Anmeldung, 13.05.20",
                     "termin_ja: ja",
@@ -1759,11 +1720,10 @@
                 "title": "Testcenter Corona Leipzig GbR",
                 "location": "Dübener Landstraße 7, 04129 Leipzig",
                 "telephone": "0152/27878825",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Sa 10:00-16:00",
                 "hints": ["Parkplatz Hornbach",
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Telefon+Internet",
                     "termin_url: info@testcenter-corona-leipzig.de"
                 ]
@@ -1778,11 +1738,10 @@
                 "title": "SC DHfK Leipzig e. V. - Kanu",
                 "location": "Klingerweg 2, 04229 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "10.05.2021-12.05.2021 und 14.05.2021 13",
                 "opening_hours": "Mo-Fr 13:00-19:00",
                 "hints": ["Ecke Könneritzstraße, Parken ist am Klingerweg möglich, barrieref",
                     "termin_ja: ja",
-
+                    "10.05.2021-12.05.2021 und 14.05.2021 13",
                     "termin_art: Internet",
                     "termin_url: www.scdhfk.de/testzentrum"
                 ]
@@ -1816,11 +1775,10 @@
                 "title": "Testcenter Corona Leipzig GbR",
                 "location": "Maximilianallee 16, 04129 Leipzig",
                 "telephone": "01522/7878826",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 10:00-16:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Internet",
                     "termin_url: info@testcenter-corona-leipzig.de"
                 ]
@@ -1835,7 +1793,7 @@
                 "title": "Therapielotsen, Praxis  für Ergotherapie und Logopädie",
                 "location": "Georg-Schwarz-Straße 141, 04179 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo Th Fr 09:00-12:00",
+                "opening_hours": "Mo 09:00-12:00, Th-Fr 09:00-12:00",
                 "hints": [
                     "termin_ja: nein"
 
@@ -1870,9 +1828,9 @@
                 "title": "Moritz-Hof",
                 "location": "Zwickauer Straße 125, 04279 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Sa 09:00-18:00",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_ja: nein"
 
                 ]
@@ -1906,9 +1864,9 @@
                 "title": "Teststation Poco Leipzig",
                 "location": "Naumburger Straße 22, 04229 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 10:00-17:00, Sa 09:00-13:00",
                 "hints": [
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_ja: nein"
 
                 ]
@@ -1942,11 +1900,10 @@
                 "title": "Corona Testzentrum Dr. Henke MTE",
                 "location": "Schongauerstraße 23, 04328 Leipzig",
                 "telephone": "0341/33204931",
-                "opening_hours_unclassified": "We auf Anfrage, Th, 13.05.2021 (Himmelfahrt) ge",
-                "opening_hours": "Mo Tu Th Fr 10:00-12:00",
+                "opening_hours": "Mo-Tu 10:00-12:00, Th-Fr 10:00-12:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "We auf Anfrage, Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Internet",
                     "termin_url: corona-schnelltest@drhenke.de"
                 ]
@@ -1980,11 +1937,10 @@
                 "title": "Tattoo Studio Eule Shop",
                 "location": "Zschochersche Straße 95, 04229 Leipzig",
                 "telephone": "0341/90236070",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo-Fr 10:00-14:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: telephone"
 
                 ]
@@ -1999,11 +1955,10 @@
                 "title": "Tattoo-Lounge",
                 "location": "Große Fleischergasse 9, 04109 Leipzig",
                 "telephone": "0341/2669913",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo 11:00-15:00, Sa 09:00-14:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: telephone"
 
                 ]
@@ -2018,11 +1973,10 @@
                 "title": "Tattoo-Cafe",
                 "location": "Prager Straße 33, 04317 Leipzig",
                 "telephone": "0341/6865933",
-                "opening_hours_unclassified": "Sa nur nach Vereinbarung, Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": "Mo 10:00-16:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Sa nur nach Vereinbarung, Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: telephone"
 
                 ]
@@ -2037,11 +1991,10 @@
                 "title": "Testzentrum EFG Brühl 67",
                 "location": "Brühl 67, 04109 Leipzig",
                 "telephone": "0341/97854237",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) v",
-                "opening_hours": "Mo-Fr 08:00-13:00, Mo-Fr 14:00-19:00, Sa 9.30-16:00, Su 11:00-16:00",
+                "opening_hours": "Mo-Fr 08:00-13:00, Mo-Fr 14:00-19:00, Sa 09:30-16:00, Su 11:00-16:00",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) v",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.testzentrum-efg.de"
                 ]
@@ -2056,11 +2009,10 @@
                 "title": "dm-Markt Plagwitz",
                 "location": "Zschochersche Straße 82A, 04229 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
-                "opening_hours": "Mo-Sa 09:00-16.30:00",
+                "opening_hours": "Mo-Sa 09:00-16:30",
                 "hints": [
                     "termin_ja: ja",
-
+                    "Th, 13.05.2021 (Himmelfahrt) ge",
                     "termin_art: Internet",
                     "termin_url: dm.de/corona-schnelltest-zentren/Meindm-App"
                 ]
@@ -2094,9 +2046,9 @@
                 "title": "MONDO Medical GmbH / Testzentrum Springerstraße",
                 "location": "Springerstraße 16, 04105 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) 09:00-",
                 "opening_hours": "Mo - Fr 08:00-18:00, Sa 08:00-14:00",
                 "hints": ["Eingang über Gohliser Straße",
+                    "Th, 13.05.2021 (Himmelfahrt) 09:00-",
                     "termin_ja: nein"
 
                 ]
