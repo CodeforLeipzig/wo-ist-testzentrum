@@ -7,6 +7,12 @@
             "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
         }
     },
+    "metadata": {
+        "data_source": {
+          "title": "Stadt Leipzig",
+          "url": "https://www.leipzig.de/jugend-familie-und-soziales/gesundheit/neuartiges-coronavirus-2019-n-cov/testzentrum/"
+        }
+    },    
     "features": [{
             "type": "Feature",
             "properties": {
