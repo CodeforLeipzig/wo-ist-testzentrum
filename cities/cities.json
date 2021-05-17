@@ -11,6 +11,10 @@
         "id": "leipzig",
         "label": "Leipzig"
     },
+    "lemgo": {
+        "id": "lemgo",
+        "label": "Lemgo"
+    },
     "hessen": {
         "id": "hessen",
         "label": "Hessen"
