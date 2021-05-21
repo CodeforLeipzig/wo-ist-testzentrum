@@ -7,6 +7,10 @@
         "id": "duesseldorf",
         "label": "Düsseldorf"
     },
+    "kalletal": {
+        "id": "kalletal",
+        "label": "Kalletal"
+    },
     "leipzig": {
         "id": "leipzig",
         "label": "Leipzig"

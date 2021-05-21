@@ -1,0 +1,31 @@
+{
+    "type": "FeatureCollection",
+    "name": "testzentren",
+    "crs": {
+        "type": "name",
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }
+    },
+    "metadata": {
+        "data_source": {
+          "title": "Stadt Lemgo (Daten per Mail zur Verfügung gestellt)",
+          "url": "https://www.lemgo.de/"
+        }
+    },    
+    "features": [{
+            "type": "Feature",
+            "properties": {
+                "title": "Testzentrum Bürgertestungen",
+                "location": "Herforder Straße 11, 32689 Kalletal",
+                "telephone": "05264 64 44 16",
+                "opening_hours": "Mo-Tu 09:30-12:00, Mo-Tu 15:00-18:00, We 15:00-18:00, Th-Fr 09:30-12:00, Th-Fr 15:00-18:00, Sa 09:00-14:00",
+                "hints": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.94654524319121, 52.107759217584494]
+            }
+        }
+    ]
+}
