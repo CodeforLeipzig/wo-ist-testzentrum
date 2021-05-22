@@ -9,11 +9,27 @@
     },
     "metadata": {
         "data_source": {
-          "title": "Stadt Leipzig",
+          "title": "Stadt Leipzig, Stand: 22.5.2021",
           "url": "https://www.leipzig.de/jugend-familie-und-soziales/gesundheit/neuartiges-coronavirus-2019-n-cov/testzentrum/"
         }
-    },    
+    },
     "features": [{
+            "type": "Feature",
+            "properties": {
+                "title": "Teststation \"Bike-In\" am Wilhelm-Leuschner-Platz",
+                "location": "Wilhelm-Leuschner-Platz",
+                "telephone": "",
+                "opening_hours": "Mo-Sa 09:00-18:00",
+                "hints": [
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 und Pfingsten von 9",
+                    "Terminvereinbarung notwendig: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.374726994421197, 51.334835996351956]
+            }
+        }, {
             "type": "Feature",
             "properties": {
                 "title": "Apotheke am Ostplatz",
@@ -21,8 +37,8 @@
                 "telephone": "",
                 "opening_hours": "Mo 10:00-13:00, Th 15:30-18:30, Fr 9:30-12:30",
                 "hints": [
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_ja: nein"
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 und Pfingsten geschlossen",
+                    "Terminvereinbarung notwendig: nein"
                 ]
             },
             "geometry": {
@@ -35,12 +51,14 @@
                 "title": "Apotheke im Hauptbahnhof",
                 "location": "Willy-Brandt-Platz 5, 04109 Leipzig",
                 "telephone": "0341/1406080",
-                "opening_hours": "Mo-Fr 10:00-19:00, Sa 10:00-16:00",
+                "opening_hours": "Mo-Fr 10:00-18:00, Sa 10:00-16:00",
+                "details_url": "https://www.apotheke-leipzig.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge, Feiertags geschlossen, Ausnahmen mögl",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 8-16 Uhr, Pfingsten",
                     "termin_art: Internet",
-                    "termin_url: www.apotheke-leipzig.de"
+                    "termin_url: www.apotheke-leipzig.de",
+                    "weitere Termine möglich, bitte in Apo"
                 ]
             },
             "geometry": {
@@ -56,10 +74,9 @@
                 "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
                 "opening_hours": null,
                 "hints": [
-                    "termin_ja: ja",
-
-                    "termin_art: telephone"
-
+                    "Terminvereinbarung notwendig: ja",
+                    "termin_art: telephone",
+                    "Sonderöffnungszeiten: Pfingsten gesschlossen!"
                 ]
             },
             "geometry": {
@@ -74,8 +91,8 @@
                 "telephone": "0341/4410748",
                 "opening_hours": "Mo, We-Fr 14:00-15:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "Th, 13.05.2021 (Himmelfahrt) 14"
+                    "Terminvereinbarung notwendig: nein",
+                    "Sonderöffnungszeiten: Pfingsten gesschlossen!"
                 ]
             },
             "geometry": {
@@ -86,18 +103,20 @@
             "type": "Feature",
             "properties": {
                 "title": "Hirsch Apotheke",
-                "location": "Zschampertaue 2, 04207 Leipzig",
+                "location": "An der Kotsche 1A",
                 "telephone": "0341/9422222",
                 "opening_hours": "Mo-Fr 08:00-12:00, Mo 16:00-18:00, We 16:00-18:00, Fr 16:00-18:00",
                 "hints": [
                     "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_ja: ja",
-                    "termin_art: telephone"
+                    "Terminvereinbarung notwendig: nein",
+                    "termin_art: telephone",
+                    "Teststation (vor ehem. Penny-Markt)",
+                    "Sonderöffnungszeiten: Pfingstsonntag, 23.05.2021 9-11 Uhr"
                 ]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.265516516664318, 51.307913423876329]
+                "coordinates": [12.267400355640163, 51.308351167658977]
             }
         }, {
             "type": "Feature",
@@ -106,9 +125,10 @@
                 "location": "Wurzner Straße 151, 04318 Leipzig",
                 "telephone": "0341/2444888",
                 "opening_hours": "Mo-Tu 08:00-12:00, Th-Fr 08:00-12:00, Mo-Tu 13:00-17:00, Th-Fr 13:00-17:00, We 08:00-12:00",
+                "details_url": "https://www.haendel-apotheke.de",
                 "hints": [
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: nein",
+                    "Sonderöffnungszeiten: Pfingsten gesschlossen!",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.haendel-apotheke.de"
                 ]
@@ -123,11 +143,12 @@
                 "title": "Lux-Apotheke",
                 "location": "Gohliser Straße 24, 04155 Leipzig",
                 "telephone": "0341/9605030",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
+                "opening_hours_unclassified": "Samstag, 22.05.2021 9-12 Uhr, Pfingsten",
                 "opening_hours": null,
+                "details_url": "https://www.lux-apotheke-leipzig.de/",
                 "hints": [
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 9-12 Uhr, Pfingsten",
                     "termin_art: Internet",
                     "termin_url: https://www.lux-apotheke-leipzig.de/"
                 ]
@@ -143,9 +164,10 @@
                 "location": "Antonienstraße 1, 04229 Leipzig",
                 "telephone": "0341/2304512",
                 "opening_hours": "Mo, We, Fr 11:00-13:00, Tu 13:00-17:30, Th 08:00-13:00",
+                "details_url": "mailto:info@park-apotheke-leipzig.de",
                 "hints": [
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_ja: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
+                    "Terminvereinbarung notwendig: ja",
                     "termin_art: Telefon+Internet",
                     "termin_url: info@park-apotheke-leipzig.de"
                 ]
@@ -161,9 +183,10 @@
                 "location": "Petersstraße 36, 04109 Leipzig",
                 "telephone": "0341/35520333",
                 "opening_hours": "Mo-Sa 08:00-18:00",
+                "details_url": "https://www.petersbogen-apotheke.de/",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 11-14 Uhr und 15-1",
                     "termin_art: Internet",
                     "termin_url: https://www.petersbogen-apotheke.de/"
                 ]
@@ -178,10 +201,11 @@
                 "title": "Schlehen-Apotheke OHG",
                 "location": "Stöhrerstraße 1, 04347 Leipzig",
                 "telephone": "0341/22903810",
-                "opening_hours": "Mo-Fr 08:00-20:00",
+                "opening_hours": "Mo-Fr 07:30-19:00",
+                "details_url": "https://www.terminland.de/schlehenapotheke",
                 "hints": [
-                    "termin_ja: ja",
-                    "10.05.-12.05./14.05./17.05.-21.05.2021,",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingstsamstag , 22.05.2021 von 8-14 Uhr",
                     "termin_art: Internet",
                     "termin_url: www.terminland.de/schlehenapotheke"
                 ]
@@ -198,8 +222,8 @@
                 "telephone": "0341/426600",
                 "opening_hours": "Mo-Fr 08:00-9:30, Mo-Fr 17:00-18:30",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: telephone"
 
                 ]
@@ -215,9 +239,9 @@
                 "location": "Karl-Liebknecht-Straße 59, 04275 Leipzig",
                 "telephone": "0341/3016474",
                 "opening_hours": "Mo-Fr 10:00-18:00",
+                "details_url": "https://www.sonnen-apotheke-leipzig.de/coronaschnelltest-onlinetermin.html",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
                     "termin_art: Internet",
                     "termin_url: https://www.sonnen-apotheke-leipzig.de/coronaschnelltest-onlinetermin.html"
                 ]
@@ -234,8 +258,8 @@
                 "telephone": "0341/5861250",
                 "opening_hours": "Mo-Fr 09:00-12:00, Mo-Fr 14:00-18:00",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: telephone"
 
                 ]
@@ -250,10 +274,11 @@
                 "title": "Zebra-Apotheke",
                 "location": "Kiewer Straße 30, 04205 Leipzig",
                 "telephone": "0341/415151",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
+                "opening_hours_unclassified": "Sonderöffnungszeiten: Pfingsten geschlossen!",
                 "opening_hours": null,
                 "hints": [
-                    "termin_ja: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
+                    "Terminvereinbarung notwendig: ja",
                     "termin_art: telephone"
 
                 ]
@@ -268,11 +293,13 @@
                 "title": "GesundheitsWerkstatt",
                 "location": "Leipziger Straße 88, 04178 Leipzig",
                 "telephone": "0341/46225020",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) 10",
+                "opening_hours_unclassified": "Montag-Sonntag mit/ohne Termin. Öffnungszeiten auf Homepage einsehbar",
                 "opening_hours": null,
+                "details_url": "https://www.schnelltestboehlitz.de",
                 "hints": [
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 11.30-13.30 Uhr",
+                    "Montag-Sonntag mit/ohne Termin. Öffnungszeiten auf Homepage einsehbar",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.schnelltestboehlitz.de"
                 ]
@@ -289,8 +316,7 @@
                 "telephone": "03494/3762994",
                 "opening_hours": "Mo, We, Fr 18:00-21:00, Su 10:00-12:00",
                 "hints": ["auch PCR-Test",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_ja: nein"
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -304,10 +330,12 @@
                 "title": "Apotheke Liebertwolkwitz",
                 "location": "Muldentalstraße 43, 04288 Leipzig",
                 "telephone": "034297/986391",
-                "opening_hours_unclassified": "Th, 13.05.2021 (Himmelfahrt) ge",
+                "opening_hours_unclassified": "Samstag, 22.05. und Pfingstmontag, 24.05.",
                 "opening_hours": null,
+                "details_url": "www.corona.ia.de",
                 "hints": [
-                    "termin_ja: ja",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05. und Pfingstmontag, 24.05.",
                     "telefonische Terminvereinbarung nur in Ausnahmefällen",
                     "termin_art: Internet",
                     "termin_url: www.corona.ia.de"
@@ -324,9 +352,10 @@
                 "location": "Mockauer Straße 121, 04357 Leipzig",
                 "telephone": "0341/6022904",
                 "opening_hours": "Mo-Fr 9:30-17:15",
+                "details_url": "www.apotheke-mockauer-post.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: nein",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 und Pfingsten geschlossen",
                     "termin_url: www.apotheke-mockauer-post.de"
                 ]
             },
@@ -341,9 +370,10 @@
                 "location": "Hainstraße 9, 04109 Leipzig",
                 "telephone": "0341/7107966",
                 "opening_hours": "Mo-Fr 08:30-9:00, Mo-Fr 12:00-13:00",
+                "details_url": "https://www.info-adler.de",
                 "hints": [
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Internet",
                     "termin_url: www.info-adler.de"
                 ]
@@ -359,9 +389,9 @@
                 "location": "Selliner Straße 15, 04207 Leipzig",
                 "telephone": "0341/710790",
                 "opening_hours": "Mo-Fr 08:00-12:00, Mo-Fr 14:00-18:00",
+                "details_url": "www.baeren24.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
                     "termin_art: Internet",
                     "termin_url: www.baeren24.de"
                 ]
@@ -377,12 +407,12 @@
                 "location": "Stötteritzer Landstraße 28, 04288 Leipzig",
                 "telephone": "034297/905835",
                 "opening_hours": "Mo-Fr 08:00-12:00, Mo-Fr 14:00-18:00, Sa 08:30-12:00",
+                "details_url": "https://www.apo-holzhausen.de",
                 "hints": ["Ab 10.05.2021 neuer Standort Stötteritzer Landstraße 63, 04288 Lei",
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 8.30 - 12 Uhr",
                     "termin_art: Telefon+Internet",
-                    "termin_url: www.apo-holzhausen.de",
-                    " . Nachmittags Tests ohn"
+                    "termin_url: www.apo-holzhausen.de"
                 ]
             },
             "geometry": {
@@ -396,9 +426,10 @@
                 "location": "Eisenacher Straße 72, 04155 Leipzig",
                 "telephone": "0341/55008344",
                 "opening_hours": "Mo-Fr 08:00-14:00, Mo-Fr 14:30-19:00",
+                "details_url": "http://kulturhof-gohlis.de/coronatest/",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Internet",
                     "termin_url: http://kulturhof-gohlis.de/coronatest/"
                 ]
@@ -415,8 +446,8 @@
                 "telephone": "0341/2462700",
                 "opening_hours": "Mo-Fr 09:00-12:00, Mo-Fr 14:00-17:00",
                 "hints": [
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: telephone"
 
                 ]
@@ -432,10 +463,11 @@
                 "location": "Torgauer Straße 231, 04347 Leipzig",
                 "telephone": "0341/6962615",
                 "opening_hours": "Mo-Fr 8:30-12:00, Mo-Fr 13:00-17:30",
+                "details_url": "https://www.johanniter.de/coronatest-leipzig",
                 "hints": [
                     "Eine Anmeldung ist nicht nötig. Inform",
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: nein",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Internet",
                     "termin_url: www.johanniter.de/coronatest-leipzig"
                 ]
@@ -452,8 +484,8 @@
                 "telephone": "0341/8617623",
                 "opening_hours": "Mo-Fr 08:00-13:00",
                 "hints": [
-                    "termin_ja: ja",
-                    "3 mal wöchentlich 16:00-18:00, Th",
+                    "Terminvereinbarung notwendig: ja",
+                    "3 mal wöchentlich 16-18 Uhr, Pfingsten",
                     "termin_art: telephone"
 
                 ]
@@ -469,10 +501,11 @@
                 "location": "Am Sportforum 10, 04105 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Th 09:00-20:00, Fr 09:00-16:00",
+                "details_url": "https://www.scdhfk.de/testzentrum",
                 "hints": ["Parken ist auf dem Gelände des SC DHfK möglich, barrierefreier Zug",
-                    "termin_ja: ja",
+                    "Terminvereinbarung notwendig: nein",
                     "Keine Voranmeldung nötig, ein gülti",
-                    "10.05.2021-12.05.2021 und 14.05.2021 09:00-",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 und Pfingstsonntag",
                     "termin_art: Internet",
                     "termin_url: www.scdhfk.de/testzentrum"
                 ]
@@ -488,9 +521,9 @@
                 "location": "Windmühlenstraße 41, 04107 Leipzig",
                 "telephone": "0341/9604626",
                 "opening_hours": "Mo-Fr 10:00-12:00",
+                "details_url": "https://www.terminland.eu/liebig-apo/",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
                     "termin_art: Internet",
                     "termin_url: www.terminland.eu/liebig-apo/"
                 ]
@@ -505,12 +538,13 @@
                 "title": "Schultheiß Augenoptik & Hörgeräte e. Kfr.",
                 "location": "Kieler Straße 53, 04357 Leipzig",
                 "telephone": "0341/6014373",
-                "opening_hours": "Mo-Fr 10:00-12:00, Mo-Fr 13:00-15:00",
+                "opening_hours": "Mo-Fr 10:00-16:00",
+                "details_url": "https://www.augenoptik-hörgeräte.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_art: telephone"
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 von 10-12 Uhr, Pfingsten",
+                    "termin_art: Telefon+Internet",
+                    "termin_url: www.augenoptik-hörgeräte.de"
                 ]
             },
             "geometry": {
@@ -526,7 +560,7 @@
                 "opening_hours_unclassified": "Keine Angabe zu Öffnunsgzeiten",
                 "opening_hours": null,
                 "hints": [
-                    "termin_ja: ja",
+                    "Terminvereinbarung notwendig: ja",
 
                     "termin_art: telephone"
 
@@ -543,9 +577,10 @@
                 "location": "Dessauer Straße 2, 04129 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Fr 07:00-13:00, Sa 09:00-14:00, Su 10:00-15:00",
+                "details_url": "https://www.mc-medi-apotheke-testzentrum.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) 10",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 9-14 Uhr, Pfingsten",
                     "termin_art: Internet",
                     "termin_url: www.mc-medi-apotheke-testzentrum.de"
                 ]
@@ -563,7 +598,8 @@
                 "opening_hours": "Th-Fr 13:00-15:00",
                 "hints": [
                     "ohne Anmeldung",
-                    "termin_ja: nein"
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -579,8 +615,8 @@
                 "telephone": "0341/33733100",
                 "opening_hours": "Mo-Fr 08:00-20:00, Sa 09:00-15:00, Su 09:00-12:00",
                 "hints": [
-                    "Th, 13.05.2021 (Himmelfahrt) 09:00-",
-                    "termin_ja: nein"
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 9-12 Uhr, Pfingsten",
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -595,9 +631,10 @@
                 "location": "Fichtestraße 9, 04275 Leipzig",
                 "telephone": "0341/33733100",
                 "opening_hours": "Mo-Th 08:00-18:00, Fr 08:00-13:00",
+                "details_url": "https://www.kopfzentrum-gruppe.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.kopfzentrum-gruppe.de"
                 ]
@@ -613,9 +650,10 @@
                 "location": "Landsberger Straße 4, 04157 Leipzig",
                 "telephone": "0341/33733100",
                 "opening_hours": "Mo, We, Fr 08:00-13:00, Tu, Th 08:00-18:00",
+                "details_url": "https://www.kopfzentrum-gruppe.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.kopfzentrum-gruppe.de"
                 ]
@@ -631,9 +669,10 @@
                 "location": "Straße am Park 2, 04209 Leipzig",
                 "telephone": "0341/33733100",
                 "opening_hours": "Mo, Th 08:00-18:00, Tu-We, Fr 08:00-13:00",
+                "details_url": "https://www.kopfzentrum-gruppe.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.kopfzentrum-gruppe.de"
                 ]
@@ -649,9 +688,10 @@
                 "location": "Waldstraße 62, 04105 Leipzig",
                 "telephone": "0341/33733100",
                 "opening_hours": "Mo-Tu, Th 08:00-18:00, We, Fr 08:00-13:00",
+                "details_url": "https://www.kopfzentrum-gruppe.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.kopfzentrum-gruppe.de"
                 ]
@@ -667,9 +707,10 @@
                 "location": "Oststraße 2, 04317 Leipzig",
                 "telephone": "0341/33733100",
                 "opening_hours": "Mo, Fr 08:00-13:00, Tu-Th 08:00-18:00",
+                "details_url": "https://www.kopfzentrum-gruppe.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.kopfzentrum-gruppe.de"
                 ]
@@ -686,8 +727,8 @@
                 "telephone": "0341/33733100",
                 "opening_hours": "Mo 14:00-18:00, We 08:00-18:00, Fr 08:00-13:00",
                 "hints": [
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_ja: nein"
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -702,9 +743,10 @@
                 "location": "Georg-Schumann-Straße 355, 04159 Leipzig",
                 "telephone": "0341/33733100",
                 "opening_hours": "Mo, We 08:00-18:00, Tu, Th-Fr 08:00-13:00",
+                "details_url": "https://www.kopfzentrum-gruppe.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.kopfzentrum-gruppe.de"
                 ]
@@ -720,9 +762,10 @@
                 "location": "Augustusplatz 5, 04109 Leipzig",
                 "telephone": "0341/33733100",
                 "opening_hours": "Mo, Th 08:00-18:00, Tu-We,Fr 08:00-13:00",
+                "details_url": "https://www.kopfzentrum-gruppe.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.kopfzentrum-gruppe.de"
                 ]
@@ -736,11 +779,11 @@
             "properties": {
                 "title": "Gesundheitspraxis Cornelia Lindner",
                 "location": "Hans-Driesch-Straße 20, 04179 Leipzig",
-                "telephone": "0341/49690799o",
-                "opening_hours": "Mo-Fr, Sa 09:00-13:00",
+                "telephone": "0341/49690799",
+                "opening_hours": "Mo-Fr 07:00-20:00, Sa 09:00-13:00",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) 09:00-",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 9-13 Uhr, Pfingsten",
                     "termin_art: telephone"
 
                 ]
@@ -757,8 +800,8 @@
                 "telephone": "",
                 "opening_hours": "Mo-Su 13:00-17:00",
                 "hints": ["Haus 7.2",
-                    "Th, 13.05.2021 (Himmelfahrt) 13",
-                    "termin_ja: nein"
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 und Pfingsten 13-17",
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -772,11 +815,12 @@
                 "title": "Beauty & Body Lounge",
                 "location": "Breitenfelder Straße 101, 04157 Leipzig",
                 "telephone": "0341/91859807",
-                "opening_hours_unclassified": "Mo-Su, 13.05.2021 (Himmelfahrt) 11:00-15:00 geö",
+                "opening_hours_unclassified": "Montag bis Sonntag",
                 "opening_hours": null,
+                "details_url": "https://www.schnelltestgohlis.de",
                 "hints": [
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 und Pfingstsonntag",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.schnelltestgohlis.de"
                 ]
@@ -792,9 +836,10 @@
                 "location": "Karl-Liebknecht-Straße 40, 04107 Leipzig",
                 "telephone": "0152/03987557",
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa-Su 10:00-16:00",
+                "details_url": "https://www.testcenter-corona.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05. und Pfingstsonntag",
                     "termin_art: Internet",
                     "termin_url: www.testcenter-corona.de"
                 ]
@@ -809,10 +854,11 @@
                 "title": "Bürgertestzentrum am Rabensteinplatz",
                 "location": "Dresdner Straße 2, 04103 Leipzig",
                 "telephone": "0156/78405168",
-                "opening_hours": "Mo, We, Fr 08:00-11:30, Mo, We, Fr 12:30-15:30",
+                "opening_hours": "Mo-Fr 07:30-12:00, Mo 13:00-15:30, Fr 13:00-15:30",
+                "details_url": "https:/www.teste-dich-jetzt.com",
                 "hints": [
-                    "termin_ja: ja",
-                    "Tu, Th nach Vereinbarung",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 10-13 Uhr",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.teste-dich-jetzt.com"
                 ]
@@ -829,7 +875,7 @@
                 "telephone": "0341/4445954",
                 "opening_hours": "Mo 08:00-17:00, We 08:00-17:00, Fr 08:00-17:00",
                 "hints": [
-                    "termin_ja: ja",
+                    "Terminvereinbarung notwendig: ja",
                     "ab 17.05.2021 geänderte Öffnungszeiten",
                     "termin_art: telephone"
 
@@ -846,9 +892,10 @@
                 "location": "Karl-Liebknecht-Straße 12, 04107 Leipzig",
                 "telephone": "0176/70102125",
                 "opening_hours": "Mo-Fr 08:00-19:00, Sa 10:00-18:00",
+                "details_url": "https://leipzig-coronatest.com",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) 08:00-",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 8-19 Uhr, Pfingsten",
                     "termin_art: Telefon+Internet",
                     "termin_url: https://leipzig-coronatest.com"
                 ]
@@ -864,8 +911,9 @@
                 "location": "Industriestraße 95, 04229 Leipzig",
                 "telephone": "0341/92610723",
                 "opening_hours": "Mo-Th 07:00-13:00, Fr 11:00-19:00",
+                "details_url": "https://www.communitytestcenter.de",
                 "hints": [
-                    "termin_ja: ja",
+                    "Terminvereinbarung notwendig: ja",
                     "Terminvergabe online unter www.communit",
                     "termin_art: Internet",
                     "termin_url: www.communitytestcenter.de"
@@ -881,10 +929,9 @@
                 "title": "ASB-Teststation \"Am Sonnenpark\"",
                 "location": "Mattheuerbogen 6, 04289 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo 08:00-12:00, Tu 12:00-18:00, Fr 12:00-16:00",
+                "opening_hours": "Mo 08:00-12:00, Tu 12:00-17:00, Th 12:00-16:00",
                 "hints": ["Zufahrt über Franzosenallee",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_ja: nein"
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -900,8 +947,8 @@
                 "telephone": "",
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-14:00",
                 "hints": [
-                    "Th, 13.05.2021 (Himmelfahrt) 09:00-",
-                    "termin_ja: nein"
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 8-14 Uhr, Pfingsten",
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -916,9 +963,10 @@
                 "location": "Karl-Heine-Straße 32, 04229 Leipzig",
                 "telephone": "0341/23820530",
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa 10:00-14:00",
+                "details_url": "https://www.deintestzentrum.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) 08:00-",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingstsonntag, 23.05.2021 14-20 Uhr",
                     "termin_art: Internet",
                     "termin_url: www.deintestzentrum.de"
                 ]
@@ -935,10 +983,11 @@
                 "telephone": "0176/74453464",
                 "opening_hours_unclassified": "Mo-Su geöffnet. Aktuelle Öffnungszeiten & Buchung per Mail oder auf unse",
                 "opening_hours": null,
+                "details_url": "https://www.testzentrum-lindenau.de",
                 "hints": [
-                    "termin_ja: nein",
+                    "Terminvereinbarung notwendig: nein",
                     "Schnelltests und PCR-Bestätigungstests",
-                    "termin_url: www.testzentrum-lindenau.de/testzentrumlindenau@gmail.com"
+                    "termin_url: www.testzentrum-lindenau.de / testzentrumlindenau@gmail.com"
                 ]
             },
             "geometry": {
@@ -952,9 +1001,10 @@
                 "location": "Lützowstraße 11, 04155 Leipzig",
                 "telephone": "0341/6962615",
                 "opening_hours": "Mo-Fr 8:30-12:00, Mo-Fr 13:00-17:30",
+                "details_url": "https://www.johanniter.de/coronatest-leipzig",
                 "hints": ["2.OG",
-                    "Eine Anmeldung ist nicht nötig. Inform",
-                    "termin_ja: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 und Pfingsten 23.",
+                    "Terminvereinbarung notwendig: nein",
 
                     "termin_art: Internet",
                     "termin_url: www.johanniter.de/coronatest-leipzig"
@@ -972,7 +1022,7 @@
                 "telephone": "0341/22536814",
                 "opening_hours": "Mo-Tu, Fr 07:00-14:00, We-Th 10:00-18:00, Sa 09:00-12:00",
                 "hints": [
-                    "termin_ja: nein"
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -988,8 +1038,8 @@
                 "telephone": "",
                 "opening_hours": "Mo-Fr 09:00-11:00",
                 "hints": [
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_ja: nein"
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -1004,9 +1054,10 @@
                 "location": "Grimmaische Straße 2, 04109 Leipzig",
                 "telephone": "0151/72962549",
                 "opening_hours": "Mo-Sa 09:00-16:00",
+                "details_url": "https://www.communitytestcenter.de",
                 "hints": [
                     "Terminvergabe online unter www.communit",
-                    "termin_ja: ja",
+                    "Terminvereinbarung notwendig: ja",
 
                     "termin_art: Internet",
                     "termin_url: www.communitytestcenter.de"
@@ -1023,9 +1074,10 @@
                 "location": "Bästleinstraße 6, 04347 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Tu, Th 10:00-12:00, Mo-Tu, Th 14:00-16:00, We, Fr 10:00-12:00",
+                "details_url": "https://www.scheffel-apotheke-leipzig.de",
                 "hints": [
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Internet",
                     "termin_url: www.scheffel-apotheke-leipzig.de"
                 ]
@@ -1042,8 +1094,8 @@
                 "telephone": "0341/65673330",
                 "opening_hours": "Mo-Fr 8:30-9:00, Mo-Fr 12:00-13:00",
                 "hints": [
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_ja: nein"
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -1059,8 +1111,7 @@
                 "telephone": "034297/42735",
                 "opening_hours": "Mo-Fr 10:00-16:00",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
                     "termin_art: telephone"
 
                 ]
@@ -1077,8 +1128,8 @@
                 "telephone": "",
                 "opening_hours": "Mo-Sa 10:00-19:00",
                 "hints": ["Parkplatz Obi-Markt",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_ja: nein"
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 10-19 Uhr, Pfingsten",
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -1093,9 +1144,10 @@
                 "location": "Handelsstraße 4, 04356 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Fr 09:00-19:00, Sa 09:00-16:00",
+                "details_url": "https://www.schnelltest-sachsenpark.de",
                 "hints": ["Parkplatz Handelsstraße/Walter-Köhn-Straße",
-                    "termin_ja: nein",
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 9-16 Uhr, Pfingsten",
                     "termin_url: www.schnelltest-sachsenpark.de"
                 ]
             },
@@ -1111,9 +1163,8 @@
                 "telephone": "0177/8915344",
                 "opening_hours": "Mo-Fr 08:00-15:00",
                 "hints": [
-                    "Th; 13.05.2021",
-                    "termin_ja: nein",
-                    "ohne Anmeldung"
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021",
+                    "Terminvereinbarung notwendig: nein"
                 ]
             },
             "geometry": {
@@ -1127,9 +1178,10 @@
                 "location": "Dittrichring 17, 04109 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Fr 08:00-13:00, Mo-Fr 14:00-19:00, Sa 10:00-15:00",
+                "details_url": "https://www.schnelltest-leipzig.com",
                 "hints": [
-                    "termin_ja: nein",
-                    "Th, 13.05.2021 (Himmelfahrt) 09:00-",
+                    "Terminvereinbarung notwendig: nein",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 9-13 Uhr und 14-19",
                     "termin_url: www.schnelltest-leipzig.com"
                 ]
             },
@@ -1145,8 +1197,8 @@
                 "telephone": "",
                 "opening_hours": "Mo-Fr 15:00-19:00, Sa-Su 09:00-15:00",
                 "hints": [
-                    "termin_ja: nein"
-
+                    "Terminvereinbarung notwendig: nein",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 und Sonntag, 23.05."
                 ]
             },
             "geometry": {
@@ -1161,9 +1213,10 @@
                 "telephone": "",
                 "opening_hours_unclassified": "Mo-Sa, Th, 13.05.2021 (Himmelfahrt) 09:00-",
                 "opening_hours": null,
+                "details_url": "https://www.apotheke-connewitz.de",
                 "hints": [
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 und Pfingstmontag",
                     "termin_art: Internet",
                     "termin_url: www.apotheke-connewitz.de"
                 ]
@@ -1175,15 +1228,32 @@
         }, {
             "type": "Feature",
             "properties": {
+                "title": "OBI Bau- und Heimwerkermarkt am Hauptbahnhof",
+                "location": "Brandenburger Straße 21, 04103 Leipzig",
+                "telephone": "0172/7622951",
+                "opening_hours": "Mo-Sa 08:00-19:00",
+                "hints": [
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten von 9-18 Uhr geöffnet.",
+                    "termin_art: Telefon"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.391039624214635, 51.348180155111621]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
                 "title": "Testzentrum Stötteritz",
                 "location": "Holzhäuser Straße 72, 04299 Leipzig",
                 "telephone": "0152/07426232",
                 "opening_hours": "Mo-We 08:00-12:00, Mo-We 16:00-20:00, Sa 09:00-12:00, Su 15:00-18:00",
+                "details_url": "https://www.kee-leipzig.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_art: Telefon+Internet",
-                    "termin_url: testzentrum-stoetteritz@outlook.com"
+                    "Terminvereinbarung notwendig: nein",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 9-12 Uhr, Sonntag",
+                    "termin_url: www.kee-leipzig.de"
                 ]
             },
             "geometry": {
@@ -1196,12 +1266,10 @@
                 "title": "PhysioMobil-Leipzig Nadin Heinze",
                 "location": "Lindenthaler Hauptstraße 71, 04158 Leipzig",
                 "telephone": "0341/92790086",
-                "opening_hours": "Mo-Tu 08:00-18:00, We 08:00-20:00, Th 08:00-18:00, Fr 08:00-13:00",
+                "opening_hours": "Mo-Tu 08:00-16:00, Fr 08:00-12:00, Sa 09:00-12:00",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) 10",
-                    "termin_art: telephone"
-
+                    "Terminvereinbarung notwendig: nein",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 9-12 Uhr, Pfingsten"
                 ]
             },
             "geometry": {
@@ -1214,13 +1282,14 @@
                 "title": "Physiotherapie Lindenau",
                 "location": "Lützner Straße 92, 04177 Leipzig",
                 "telephone": "",
-                "opening_hours_unclassified": "Mo-Su geöffnet, Th, 13.05.2021 (Himmelfahrt) 09:00-",
+                "opening_hours_unclassified": "Mo-Su geöffnet",
                 "opening_hours": null,
+                "details_url": "https://www.testzentrum-leipzig-west.de",
                 "hints": [
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Internet",
-                    "termin_url: www.testzentrum-leipzig-west.de/termin@testzentrum-leipzig-west.de"
+                    "termin_url: www.testzentrum-leipzig-west.de / termin@testzentrum-leipzig-west.de"
                 ]
             },
             "geometry": {
@@ -1234,8 +1303,9 @@
                 "location": "Miltitzer Straße 13, 04178 Leipzig",
                 "telephone": "02327/947979",
                 "opening_hours": "Mo-Sa 07:00-20:00",
+                "details_url": "https://www.coronatest-eu.com",
                 "hints": [
-                    "termin_ja: ja",
+                    "Terminvereinbarung notwendig: ja",
 
                     "termin_art: Telefon+Internet",
                     "termin_url: www.coronatest-eu.com"
@@ -1252,9 +1322,10 @@
                 "location": "Zschortauer Straße 96, 04129 Leipzig",
                 "telephone": "0174/4004062",
                 "opening_hours": "Mo-Su 08:00-20:00",
+                "details_url": "https://www.leipzig-coronatestzentrum.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) 07:00-",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten von 8-20 Uhr geöffnet.",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.leipzig-coronatestzentrum.de"
                 ]
@@ -1271,7 +1342,7 @@
                 "telephone": "0341/9218799",
                 "opening_hours": "Mo 08:00-12:00, We 08:00-12:00, Tu 12:00-16:00, Th 12:00-18:00, Fr 08:00-11:00",
                 "hints": [
-                    "termin_ja: nein"
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!"
 
                 ]
             },
@@ -1287,8 +1358,8 @@
                 "telephone": "",
                 "opening_hours": "Mo 10:00-15:00, Tu-We 10:00-14:00, Th-Fr 10:00-17:00",
                 "hints": [
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_ja: nein"
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021, 10-16 Uhr, Pfingsten",
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -1304,8 +1375,7 @@
                 "telephone": "0341/231065371",
                 "opening_hours": "Mo-Fr 15:00-17:00",
                 "hints": [
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_ja: ja",
+                    "Terminvereinbarung notwendig: ja",
 
                     "termin_art: telephone"
 
@@ -1323,8 +1393,8 @@
                 "telephone": "0341/6025762",
                 "opening_hours": "Mo-Fr 12:00-14:00",
                 "hints": [
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: telephone"
 
                 ]
@@ -1341,8 +1411,8 @@
                 "telephone": "0341/25696067",
                 "opening_hours": "Mo-Fr 09:00-19:00, Sa 09:00-16:00, Su 10:00-16:00",
                 "hints": [
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_ja: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 9-16 Uhr, Pfingsten",
+                    "Terminvereinbarung notwendig: ja",
 
                     "termin_art: telephone"
 
@@ -1360,8 +1430,8 @@
                 "telephone": "",
                 "opening_hours": "Mo-Fr 09:00-21:00, Sa-Su 14:00-21:00",
                 "hints": [
-                    "Th, 13.05.2021 (Himmelfahrt) 09:00-",
-                    "termin_ja: nein"
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 10-12 Uhr, Pfingstmontag",
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -1376,10 +1446,11 @@
                 "location": "Augustusplatz 8, 04109 Leipzig",
                 "telephone": "0341/1270257",
                 "opening_hours": "Mo-Fr 08:00-20:00, Tu-Th 08:00-18:00, Sa 08:00-18:00",
+                "details_url": "https://www.covidzentrum.de",
                 "hints": [
                     "Feiertags geöffnet und nur nach online",
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: nur nach online Terminbuchung: covidzen",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.covidzentrum.de"
                 ]
@@ -1391,33 +1462,14 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Testzentrum Café \"Pascucci\"",
-                "location": "Thomasgasse 2, 04109 Leipzig",
-                "telephone": "",
-                "opening_hours": "Mo-Fr 08:00-15:00, Sa-Su 10:00-14:00",
-                "hints": [
-                    "Für ein digitales Ergebnis ohne Warten",
-                    "termin_ja: ja",
-
-                    "termin_art: Internet",
-                    "termin_url: www.buergertest-leipzig.de"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.373992361621184, 51.339980321824228]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "Testzentrum Robert-Koch-Klinikum",
                 "location": "Nikolai-Rumjanzew-Straße 100, 04207 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Tu 07:30-15:00, Th 07:30-15:00, We 10:00-17:00, Fr 10:00-17:00",
+                "details_url": "https://www.sanktgeorg.de",
                 "hints": [
-                    "Test ohne Anmeldung möglich. Donnersta",
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: nein",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Internet",
                     "termin_url: www.sanktgeorg.de"
                 ]
@@ -1433,9 +1485,10 @@
                 "location": "Gießerstraße 37, 04229 Leipzig",
                 "telephone": "0209/702791999",
                 "opening_hours": "Mo-Sa 08:00-20:00",
+                "details_url": "mailto:toom.leipzig-plagwitz@hi-competence.com",
                 "hints": [
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Telefon+Internet",
                     "termin_url: toom.leipzig-plagwitz@hi-competence.com"
                 ]
@@ -1451,9 +1504,10 @@
                 "location": "Torgauer Straße 271, 04347 Leipzig",
                 "telephone": "0209/702791999",
                 "opening_hours": "Mo-Sa 08:00-20:00",
+                "details_url": "mailto:toom.leipzig-heiterblick@hi-competence.com",
                 "hints": [
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Telefon+Internet",
                     "termin_url: toom.leipzig-heiterblick@hi-competence.com"
                 ]
@@ -1469,9 +1523,10 @@
                 "location": "Riesaer Straße 102, 04319 Leipzig",
                 "telephone": "0209/702791999",
                 "opening_hours": "Mo-Sa 08:00-20:00",
+                "details_url": "mailto:toom.leipzig-engelsdorf@hi-competence.com",
                 "hints": [
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Telefon+Internet",
                     "termin_url: toom.leipzig-engelsdorf@hi-competence.com"
                 ]
@@ -1487,9 +1542,10 @@
                 "location": "Grimmaische Straße 19, 04109 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Fr 08:30-10:00, 11:00-13:00, 16:00-17:00, Sa 11:00-13:00, 16:00-17:00",
+                "details_url": "https://www.stadt-apotheke-leipzig.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 10-17 Uhr, Pfingsten",
                     "termin_art: Internet",
                     "termin_url: www.stadt-apotheke-leipzig.de"
                 ]
@@ -1506,9 +1562,7 @@
                 "telephone": "",
                 "opening_hours": "Mo-Su 06:00-18:30",
                 "hints": [
-                    "Th, 13.05.2021 (Himmelfahrt) 06:00-",
-                    "termin_ja: nein"
-
+                    "Sonderöffnungszeiten: Pfingsten, 22., 23. und 24.05.2021"
                 ]
             },
             "geometry": {
@@ -1522,11 +1576,12 @@
                 "location": "Tauchaer Straße 83, 04349 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa 10:00-15:00,",
+                "details_url": "https://www.corona-testen-leipzig.de",
                 "hints": [
-                    "Th, 13.05.2021 (Himmelfahrt) 08:00-",
-                    "termin_ja: nein",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 von 9-16 Uhr, Pfingsten",
+                    "Terminvereinbarung notwendig: nein",
 
-                    "termin_url: www.corona-testen-leipzig.de/info@corona-testen-leipzig.de"
+                    "termin_url: www.corona-testen-leipzig.de"
                 ]
             },
             "geometry": {
@@ -1540,9 +1595,10 @@
                 "location": "Spinnereistraße 7, 04179 Leipzig",
                 "telephone": "0151/72962549",
                 "opening_hours": "Mo 07:00-15:00, Fr 07:00-15:00",
+                "details_url": "https://www.communitytestcenter.de",
                 "hints": [
                     "Terminvergabe online unter www.communit",
-                    "termin_ja: ja",
+                    "Terminvereinbarung notwendig: ja",
 
                     "termin_art: Internet",
                     "termin_url: www.communitytestcenter.de"
@@ -1559,9 +1615,9 @@
                 "location": "Adenauerallee 3, 04347 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Fr 10:00-19:00",
+                "details_url": "mailto:kontakt@kuechenschmiede-leipzig.de",
                 "hints": [
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_ja: ja",
+                    "Terminvereinbarung notwendig: ja",
 
                     "termin_art: Internet",
                     "termin_url: kontakt@kuechenschmiede-leipzig.de"
@@ -1578,11 +1634,12 @@
                 "location": "Haydnstraße 12, 04107 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo 08:00-20:00, Th 08:00-20:00, Tu 08:00-17:00, Fr 08:00-17:00, We 08:00-18:00",
+                "details_url": "https://www.corona-schnelltest-leipzig.net",
                 "hints": [
-                    "termin_ja: ja",
+                    "Terminvereinbarung notwendig: ja",
                     "Testzeiten für Patienten Mo-Freitag",
                     "termin_art: Internet",
-                    "termin_url: https://corona-schnelltest-leipzig.net"
+                    "termin_url: www.corona-schnelltest-leipzig.net"
                 ]
             },
             "geometry": {
@@ -1594,13 +1651,14 @@
             "properties": {
                 "title": "Corona-Testcenter Hof-Apotheke am Neumarkt",
                 "location": "Neumarkt 26, 04109 Leipzig",
-                "telephone": "0341/14991203",
+                "telephone": "0341/98973960",
                 "opening_hours": "Mo-Fr 08:30-16:30, Sa 09:30-16:00",
+                "details_url": "https://www.apo-schnelltest.de/hof-apotheke-leipzig",
                 "hints": [
-                    "termin_ja: ja",
-
-                    "termin_art: telephone"
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Vororttermin und Terminbuchung auch online",
+                    "termin_art: Telefon+Internet",
+                    "termin_url: www.apo-schnelltest.de/hof-apotheke-leipzig"
                 ]
             },
             "geometry": {
@@ -1615,8 +1673,8 @@
                 "telephone": "",
                 "opening_hours": "Mo-Fr 09:00-18:00",
                 "hints": [
-                    "Sa Su nach Vereinbarung, Th, 13.05.2021 (Himmelfahrt) 09:00-",
-                    "termin_ja: nein"
+                    "Sonderöffnungszeiten: Samstag und Sonntag nach Vereinbarung, Samstag, 22.05.2021 und Pfingsten 10-18",
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -1632,7 +1690,7 @@
                 "telephone": "",
                 "opening_hours": "Mo-Sa 08:00-20:00",
                 "hints": [
-                    "termin_ja: nein"
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -1648,9 +1706,10 @@
                 "telephone": "0176/84170602",
                 "opening_hours_unclassified": "Mo-Fr nach Vereinbarung",
                 "opening_hours": null,
+                "details_url": "mailto:nwoltschleger@web.de",
                 "hints": [
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Telefon+Internet",
                     "termin_url: nwoltschleger@web.de"
                 ]
@@ -1667,8 +1726,8 @@
                 "telephone": "",
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa-Su 10:00-15:00",
                 "hints": ["auf dem Marktplatz",
-                    "Eröffnung am 17.05.2021",
-                    "termin_ja: nein"
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 und Pfingsten 10-16",
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -1683,10 +1742,11 @@
                 "location": "Torgauer Straße 74, 04318 Leipzig",
                 "telephone": "0341/33755070",
                 "opening_hours": "Mo-Fr 09:00-15:30",
+                "details_url": "mailto:info@lbw-leipzig.de",
                 "hints": [
                     "nur nach vorheriger Anmeldung, 13.05.20",
-                    "termin_ja: ja",
-
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Telefon+Internet",
                     "termin_url: info@lbw-leipzig.de"
                 ]
@@ -1701,11 +1761,10 @@
                 "title": "Das Lädchen für Schönheit und Gesundheit",
                 "location": "Leostraße 1, 04347 Leipzig",
                 "telephone": "0177/8543620",
-                "opening_hours": "Mo-We 08:00-9:00, Fr 08:00-9:00, Sa 09:00-11:00",
+                "opening_hours": null,
+                "opening_hours_unclassified": "Montag/Dienstag/Mittwoch/Freitag/Samstag nach Vereinbarung",
                 "hints": [
-                    "termin_ja: ja",
-                    "Freitag auch nach Vereinbarung",
-
+                    "Terminvereinbarung notwendig: ja",
                     "termin_art: telephone"
 
                 ]
@@ -1721,9 +1780,10 @@
                 "location": "Dübener Landstraße 7, 04129 Leipzig",
                 "telephone": "0152/27878825",
                 "opening_hours": "Mo-Sa 10:00-16:00",
+                "details_url": "mailto:info@testcenter-corona-leipzig.de",
                 "hints": ["Parkplatz Hornbach",
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: nein",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021, 8-16 Uhr, Pfingsten",
                     "termin_art: Telefon+Internet",
                     "termin_url: info@testcenter-corona-leipzig.de"
                 ]
@@ -1739,9 +1799,10 @@
                 "location": "Klingerweg 2, 04229 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Fr 13:00-19:00",
+                "details_url": "https://www.scdhfk.de/testzentrum",
                 "hints": ["Ecke Könneritzstraße, Parken ist am Klingerweg möglich, barrieref",
-                    "termin_ja: ja",
-                    "10.05.2021-12.05.2021 und 14.05.2021 13",
+                    "Terminvereinbarung notwendig: nein",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 und Pfingsten, ab 10",
                     "termin_art: Internet",
                     "termin_url: www.scdhfk.de/testzentrum"
                 ]
@@ -1757,9 +1818,10 @@
                 "location": "Alte Messe 2, 04103 Leipzig",
                 "telephone": "0157/83002500",
                 "opening_hours": "Mo-Fr 11:00-16:00, Sa 10:00-14:00",
+                "details_url": "https://www.buergertest-leipzig.de",
                 "hints": ["Porta Leipzig",
                     "Für ein digitales Ergebnis ohne Warten",
-                    "termin_ja: ja",
+                    "Terminvereinbarung notwendig: nein",
 
                     "termin_art: Internet",
                     "termin_url: www.buergertest-leipzig.de"
@@ -1776,9 +1838,10 @@
                 "location": "Maximilianallee 16, 04129 Leipzig",
                 "telephone": "01522/7878826",
                 "opening_hours": "Mo-Fr 10:00-16:00",
+                "details_url": "mailto:info@testcenter-corona-leipzig.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: nein",
+                    "Sonderöffnungszeiten: Samstag, 22.05. und Pfingstsonntag, 23.",
                     "termin_art: Internet",
                     "termin_url: info@testcenter-corona-leipzig.de"
                 ]
@@ -1795,8 +1858,7 @@
                 "telephone": "",
                 "opening_hours": "Mo 09:00-12:00, Th-Fr 09:00-12:00",
                 "hints": [
-                    "termin_ja: nein"
-
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!"
                 ]
             },
             "geometry": {
@@ -1810,9 +1872,10 @@
                 "location": "Markt 17, 04109 Leipzig",
                 "telephone": "0341/9785370",
                 "opening_hours": "Mo-Fr 08:00-13:00, 14:00-19:00, Sa 10:00-15:00",
+                "details_url": "https://schnelltest-leipzig.com",
                 "hints": [
                     "Onlinebuchung /Terminvereinbarung mit Q",
-                    "termin_ja: ja",
+                    "Terminvereinbarung notwendig: ja",
 
                     "termin_art: Internet",
                     "termin_url: https://schnelltest-leipzig.com"
@@ -1830,8 +1893,7 @@
                 "telephone": "",
                 "opening_hours": "Mo-Sa 09:00-18:00",
                 "hints": [
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_ja: nein"
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -1845,10 +1907,11 @@
                 "title": "VSU Sächsische Wach- und Schliessgesellschaft mbH",
                 "location": "Gabelsbergerstraße 10, 04317 Leipzig",
                 "telephone": "0341/6963930",
-                "opening_hours": "Mo-Fr 10:00-16:00",
+                "opening_hours": "Mo-Fr 10:00-15:00",
+                "details_url": "https://www.swsg-sachsen.de",
                 "hints": [
-                    "Onlinebuchung /Terminvereinbarung nach",
-                    "termin_ja: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
+                    "Terminvereinbarung notwendig: ja",
 
                     "termin_art: Telefon+Internet",
                     "termin_url: www.swsg-sachsen.de"
@@ -1866,8 +1929,8 @@
                 "telephone": "",
                 "opening_hours": "Mo-Fr 10:00-17:00, Sa 09:00-13:00",
                 "hints": [
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
-                    "termin_ja: nein"
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
@@ -1882,9 +1945,10 @@
                 "location": "Willy-Brandt-Platz 7, 04109 Leipzig",
                 "telephone": "0341/9785370",
                 "opening_hours": "Mo-Fr 08:00-13:00, 14:00-19:00, Sa 10:00-15:00, Su 09:00-11:00",
+                "details_url": "https://schnelltest-leipzig.com",
                 "hints": [
                     "Onlinebuchung /Terminvereinbarung mit Q",
-                    "termin_ja: ja",
+                    "Terminvereinbarung notwendig: ja",
 
                     "termin_art: Internet",
                     "termin_url: https://schnelltest-leipzig.com"
@@ -1901,9 +1965,10 @@
                 "location": "Schongauerstraße 23, 04328 Leipzig",
                 "telephone": "0341/33204931",
                 "opening_hours": "Mo-Tu 10:00-12:00, Th-Fr 10:00-12:00",
+                "details_url": "mailto:corona-schnelltest@drhenke.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "We auf Anfrage, Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Mittwoch auf Anfrage",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: Internet",
                     "termin_url: corona-schnelltest@drhenke.de"
                 ]
@@ -1915,34 +1980,14 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Ergotherapie in der Kö",
-                "location": "Könneritzstraße 19, 04229 Leipzig",
-                "telephone": "0157/50426115",
-                "opening_hours": "Fr 16:00-19:00, Sa 09:00-12:00",
-                "hints": [
-                    "Termine für den Folgetag nach Vereinba",
-                    "termin_ja: ja",
-
-                    "termin_art: telephone"
-
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.345958611860373, 51.327668971408713]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "Tattoo Studio Eule Shop",
                 "location": "Zschochersche Straße 95, 04229 Leipzig",
                 "telephone": "0341/90236070",
                 "opening_hours": "Mo-Fr 10:00-14:00",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Pfingsten geschlossen!",
                     "termin_art: telephone"
-
                 ]
             },
             "geometry": {
@@ -1957,8 +2002,8 @@
                 "telephone": "0341/2669913",
                 "opening_hours": "Mo 11:00-15:00, Sa 09:00-14:00",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 9-14 Uhr, Pfingsten",
                     "termin_art: telephone"
 
                 ]
@@ -1973,10 +2018,11 @@
                 "title": "Tattoo-Cafe",
                 "location": "Prager Straße 33, 04317 Leipzig",
                 "telephone": "0341/6865933",
-                "opening_hours": "Mo 10:00-16:00",
+                "opening_hours": "Mo-Fr 10:00-16:00",
                 "hints": [
-                    "termin_ja: ja",
-                    "Sa nur nach Vereinbarung, Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Samstag nur nach Vereinbarung",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 nach Vereinbarung.",
                     "termin_art: telephone"
 
                 ]
@@ -1988,13 +2034,33 @@
         }, {
             "type": "Feature",
             "properties": {
+                "title": "TEAMBRENNER Personalkonzept GmbH",
+                "location": "Ferdinand-Lassalle-Straße 17, 04109 Leipzig",
+                "telephone": "0341/2154750",
+                "opening_hours": "Mo-Fr 09:00-17:00",
+                "details_url": "mailto:info@teambrenner.de",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "Sonderöffnungszeiten: Samstag und Sonntag auf Anfrage",
+                    "termin_art: Telefon+Internet",
+                    "termin_url: info@teambrenner.de"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.356807127112626, 51.33341043954659]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
                 "title": "Testzentrum EFG Brühl 67",
                 "location": "Brühl 67, 04109 Leipzig",
                 "telephone": "0341/97854237",
                 "opening_hours": "Mo-Fr 08:00-13:00, Mo-Fr 14:00-19:00, Sa 09:30-16:00, Su 11:00-16:00",
+                "details_url": "https://www.testzentrum-efg.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) v",
+                    "Terminvereinbarung notwendig: nein",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 9-18 Uhr, Pfingsten",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.testzentrum-efg.de"
                 ]
@@ -2010,9 +2076,10 @@
                 "location": "Zschochersche Straße 82A, 04229 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Sa 09:00-16:30",
+                "details_url": "https://dm.de/corona-schnelltest-zentren/Meindm-App",
                 "hints": [
-                    "termin_ja: ja",
-                    "Th, 13.05.2021 (Himmelfahrt) ge",
+                    "Terminvereinbarung notwendig: ja",
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 9-16.30 Uhr, Pfingsten",
                     "termin_art: Internet",
                     "termin_url: dm.de/corona-schnelltest-zentren/Meindm-App"
                 ]
@@ -2028,9 +2095,10 @@
                 "location": "Schreberstraße 6, 04109 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Su 08:00-18:00",
+                "details_url": "https://www.Testmobil24.com",
                 "hints": [
                     "Onlinebuchung / Terminvereinbarung nach",
-                    "termin_ja: ja",
+                    "Terminvereinbarung notwendig: ja",
 
                     "termin_art: Internet",
                     "termin_url: www.Testmobil24.com"
@@ -2046,16 +2114,181 @@
                 "title": "MONDO Medical GmbH / Testzentrum Springerstraße",
                 "location": "Springerstraße 16, 04105 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo - Fr 08:00-18:00, Sa 08:00-14:00",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-14:00",
                 "hints": ["Eingang über Gohliser Straße",
-                    "Th, 13.05.2021 (Himmelfahrt) 09:00-",
-                    "termin_ja: nein"
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 8-14 Uhr, Pfingsten",
+                    "Terminvereinbarung notwendig: nein"
 
                 ]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.371997636785641, 51.354665522664703]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Zoo Leipzig / Testzentrum in Gondwanaland am Zoo",
+                "location": "Pfaffendorfer Straße 29, 04105 Leipzig",
+                "telephone": "",
+                "opening_hours": "Mo-Su 08:00-16:00",
+                "details_url": "https://www.buergertest-leipzig.de/schnelltest-zoo-leipzig/",
+                "hints": [
+                    "Sonderöffnungszeiten: Anmeldung unter www.buergertest-leipzig",
+                    "Terminvereinbarung notwendig: nein",
+                    "termin_art: Internet",
+                    "termin_url: www.buergertest-leipzig.de/schnelltest-zoo-leipzig/"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.370958761202136, 51.348336190039539]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Corona-Testzentrum in der QUARTERBACK Immobilien ARENA",
+                "location": "Am Sportforum 2, 04105 Leipzig",
+                "telephone": "",
+                "opening_hours": "Mo-Fr 09:00-17:00, Sa 09:00-16:00",
+                "details_url": "https://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/corona",
+                "hints": [
+                    "Sonderöffnungszeiten: Vorabregistrierung über https://besafe",
+                    "Terminvereinbarung notwendig: nein",
+                    "termin_art: Internet",
+                    "termin_url: www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/corona"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.354449817110108, 51.342299664123104]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Generation of Hope e.V",
+                "location": "Zschortauer Straße 18, 04129 Leipzig",
+                "telephone": "0177/3124955",
+                "opening_hours": "Mo-Sa 08:00-18:00, Su 08:00-12:00",
+                "details_url": "https://www.generation-of-hope.de",
+                "hints": [
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 und Pfingsten 23.+24.",
+                    "Terminvereinbarung notwendig: nein",
+                    "termin_art: Telefon+Internet",
+                    "termin_url: www.generation-of-hope.de"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.396412105311166, 51.37322301058574]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Kommunales Testzentrum Petersbogen",
+                "location": "Petersstraße 34, 04109 Leipzig",
+                "telephone": "0176/704893805",
+                "opening_hours": "Mo-Su 09:00-17:30",
+                "details_url": "https://www.cocare-testzentrum.de",
+                "hints": [
+                    "Sonderöffnungszeiten: Terminvereinbarung per Mail",
+                    "Terminvereinbarung notwendig: ja",
+                    "termin_art: Telefon+Internet",
+                    "termin_url: www.cocare-testzentrum.de"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.374565474343955, 51.338007760073104]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Santa Cruz (Bar&Restaurant)",
+                "location": "Volckmarstraße 18, 04317 Leipzig",
+                "telephone": "0174/3949336",
+                "opening_hours": "Mo-Su 08:00-18:00",
+                "details_url": "https://santy-cruz-leipzig.eatbu.com",
+                "hints": [
+                    "Sonderöffnungszeiten: Pfingsten geöffnet von 8-18 Uhr",
+                    "Terminvereinbarung notwendig: ja",
+                    "termin_art: Telefon+Internet",
+                    "termin_url: santy-cruz-leipzig.eatbu.com"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.397347315160125, 51.331128412473632]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "DeinTestzentrum.de / Testzentrum Allee Center",
+                "location": "Ludwigsburger Straße 9, 04209 Leipzig",
+                "telephone": "",
+                "opening_hours": "Mo-Fr 08:00-16:00, Sa 09:00-14:00",
+                "details_url": "https://www.deintestzentrum.de",
+                "hints": [
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 9-14 Uhr, Pfingsten",
+                    "Terminvereinbarung notwendig: nein",
+                    "termin_art: Internet",
+                    "termin_url: www.deintestzentrum.de"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.289423277979358, 51.320595309060593]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Drive In Testzentrum Mc Medi Apotheke an der Boulderhalle Leipzig",
+                "location": "Brandenburger Straße 26, 04347 Leipzig",
+                "telephone": "",
+                "opening_hours": "Mo-Sa 09:00-18:00, Sa 09:00-14:00",
+                "hints": [
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 und Pfingsten, 23.+24.",
+                    "Terminvereinbarung notwendig: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.395705660091208, 51.352165835763486]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Testzentrum im Restaurant \"Bellinis\"",
+                "location": "Barfußgässchen 3, 04109 Leipzig",
+                "telephone": "0341/9617681",
+                "opening_hours": "Mo-Su 11:00-22:00",
+                "hints": [
+                    "Sonderöffnungszeiten: Samstag, 22.05.2021 und Pfingsten, ab 10",
+                    "Terminvereinbarung notwendig: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.373715785802935, 51.340770745017522]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Medici-Apotheke",
+                "location": "Lützner Straße 164, 04179 Leipzig",
+                "telephone": "0341/4909422",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa-Su 09:00-16:00",
+                "details_url": "mailto:corona@medici-apotheke.de",
+                "hints": [
+                    "Sonderöffnungszeiten: Pfingsten 9-18 Uhr",
+                    "Terminvereinbarung notwendig: nein",
+                    "termin_art: Internet",
+                    "termin_url: corona@medici-apotheke.de"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.318914335634934, 51.331767857195729]
             }
         }
     ]
