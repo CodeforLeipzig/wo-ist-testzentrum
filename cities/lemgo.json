@@ -177,6 +177,23 @@
                 "type": "Point",
                 "coordinates": [8.888883252802726, 52.023363828760374]
             }
-        }        
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Lippe Reha GmbH & Co. KG",
+                "location": "Lagesche Str. 15g, 32657 Lemgo",
+                "telephone": "",
+                "opening_hours": "Mo-Fr 07:30-18:30, Sa-So 08:00-13:00",
+                "details_url": "https://www.lippe-reha.de/",
+                "hints": [
+                    "Bitte mit Online-Terminbuchung unter www.lippe-reha.de"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.892452525552082, 52.022513341214434]
+            }
+        }                 
     ]
 }
