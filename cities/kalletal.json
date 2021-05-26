@@ -20,7 +20,10 @@
                 "location": "Herforder Straße 11, 32689 Kalletal",
                 "telephone": "05264 64 44 16",
                 "opening_hours": "Mo-Tu 09:30-12:00, Mo-Tu 15:00-18:00, We 15:00-18:00, Th-Fr 09:30-12:00, Th-Fr 15:00-18:00, Sa 09:00-14:00",
-                "hints": []
+                "details_url": "https://testzentrum-kalletal.de",
+                "hints": [ 
+                    "Die Webseite des Testzentrums finden Sie unter: https://testzentrum-kalletal.de" 
+                ]
             },
             "geometry": {
                 "type": "Point",
