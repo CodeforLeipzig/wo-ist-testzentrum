@@ -2,8 +2,11 @@
 "use strict";
 
 const fetch = require('node-fetch');
+const dayjs = require('dayjs');
 
 const URL = 'https://test-to-go.berlin/wp-admin/admin-ajax.php?action=asl_load_stores&nonce=3a3f19feff&load_all=1&layout=1';
+
+const NOW_DATE = dayjs().format("DD.MM.YYYY");
 
 const getData = () => {
     return fetch(URL).then(response => response.json())
@@ -92,7 +95,7 @@ getData()
         {
             "metadata": {
                 "data_source": {
-                    "title": "Stadt Berlin",
+                    "title": "Stadt Berlin, Stand: " + NOW_DATE,
                     "url": "https://test-to-go.berlin/testzentren-und-teststellen/",
                 }
             },
