@@ -96,7 +96,7 @@ getData()
             "metadata": {
                 "data_source": {
                     "title": "Stadt Berlin, Stand: " + NOW_DATE,
-                    "url": "https://test-to-go.berlin/testzentren-und-teststellen/",
+                    "url": "https://test-to-go.berlin",
                 }
             },
             "type": "FeatureCollection",
