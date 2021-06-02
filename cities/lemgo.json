@@ -19,7 +19,7 @@
                 "title": "DRK-Testzentrum Lemgo",
                 "location": "Pagenhelle 17, 32657 Lemgo",
                 "telephone": "",
-                "opening_hours": "Mo 09:00-15:00, Tu-Fr 10:00-18:00, Sa 09:00-15:00",
+                "opening_hours": "Mo 10:00-18:00, Tu-Fr 10:00-18:00, Sa-Su 09:00-15:00",
                 "details_url": "https://testzentren-lippe.de/",
                 "hints": [
                     "Bitte Terminbuchung unter https://testzentren-lippe.de/ bei Drive-In",
@@ -51,7 +51,7 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "HNO-Praxis Henneken/Sassenberg",
+                "title": "HNO-Praxis Henneken/Sassenberg",
                 "location": "Lagesche Straße 9-13, 32657 Lemgo",
                 "telephone": "05261 49 60",
                 "opening_hours": "Mo-Fr 07:00-12:00",
@@ -134,8 +134,8 @@
             "properties": {
                 "title": "TV Lemgo von 1863 e.V.",
                 "location": "Pideritstraße 17a, 32657 Lemgo",
-                "telephone": "05261/2170820",
-                "opening_hours": "Mo-Fr 08:00-13:00, Sa 09:00-13:00, Mo-Tu 15:00-18:00, Th 15:00-18:00, Fr 13:00-16:00",
+                "telephone": "05261 / 2170820",
+                "opening_hours": "Mo-Th 08:00-13:00, Mo-Th 15:00-20:00, Fr 08:00-16:00, Sa 09:00-16:00",
                 "hints": []
             },
             "geometry": {
@@ -153,7 +153,8 @@
                 "details_url": "https://www.testzentren-lippe.de/",
                 "hints": [
                     "Bitte Terminbuchungu unter www.testzentren-lippe.de", 
-                    "An Feiertagen können die Öffnungszeiten abweichen."
+                    "An Feiertagen können die Öffnungszeiten abweichen.",
+					"Sonntags nicht geöffnet."
                 ]
             },
             "geometry": {
@@ -167,10 +168,10 @@
                 "title": "TRIGUS UG, Mobiles Testzentrum am REWE-Parkplatz",
                 "location": "Steinweg 66, 32657 Lemgo",
                 "telephone": "",
-                "opening_hours": "Mo-Sa 09:00-19:00",
+                "opening_hours": "Mo-Sa 09:00-19:00, Su 10:00-14:00",
                 "details_url": "https://www.trigus.de/",
                 "hints": [
-                    "Terminbuchung: www.trigus.de"
+                    "Terminbuchung: www.trigus.de"
                 ]
             },
             "geometry": {
@@ -187,7 +188,7 @@
                 "opening_hours": "Mo-Fr 07:30-18:30, Sa-Su 08:00-13:00",
                 "details_url": "https://www.lippe-reha.de/",
                 "hints": [
-                    "Bitte mit Online-Terminbuchung unter www.lippe-reha.de"
+                    "Bitte mit Online-Terminbuchung unter www.lippe-reha.de"
                 ]
             },
             "geometry": {
