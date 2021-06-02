@@ -202,7 +202,7 @@ function getOpeningTimes(openingHoursStrings) {
             return null;
         }
     } catch (e) {
-        console.log(`Could not parse ${openingHoursStrings}`)
+        console.log(`Could not parse ${openingHoursStrings}`);
         return null;
     }
 }
@@ -283,13 +283,13 @@ function initMarker(feature) {
         if (hints.length == 0) {
             hintStr = '';
         } else if (hints.length == 1) {
-            hintStr = '<p><b>Hinweis:</b> ' + hints[0] + "</p>"
+            hintStr = '<p><b>Hinweis:</b> ' + hints[0] + "</p>";
         } else {
-            hintStr = '<p><b>Hinweise</b>:<ul>'
+            hintStr = '<p><b>Hinweise</b>:<ul>';
             for (var index in hints) {
                 hintStr += '<li>' + hints[index] + '</li>';
             }
-            hints = '</ul></p>'
+            hints = '</ul></p>';
         }
     } else {
         hintStr = '';

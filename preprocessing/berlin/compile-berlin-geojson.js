@@ -9,7 +9,7 @@ const URL = 'https://test-to-go.berlin/wp-admin/admin-ajax.php?action=asl_load_s
 const NOW_DATE = dayjs().format("DD.MM.YYYY");
 
 const getData = () => {
-    return fetch(URL).then(response => response.json())
+    return fetch(URL).then(response => response.json());
 };
 
 const weekDayMap = {
@@ -47,10 +47,10 @@ const appointmentMap = {
 const accessibilityMap = {
     "mit": "ja",
     "ohne": "nein",
-}
+};
 
 const convertToHumanReadable = (valuesMap, value) => {
-    return value && valuesMap[value.toLowerCase()] || value
+    return value && valuesMap[value.toLowerCase()] || value;
 };
 
 const convertToGeoJson = (node) => {
