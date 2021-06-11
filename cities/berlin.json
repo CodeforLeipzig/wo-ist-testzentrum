@@ -3715,13 +3715,14 @@
         "location": "Ratiborstr.14c  10999  Berlin",
         "telephone": "0176 20965816",
         "details_url": "",
-        "opening_hours": "",
+        "opening_hours": null,
         "title": "Corona-Schnelltestzentrum MN&C",
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: ja",
           "Terminbuchung: möglich"
-        ]
+        ],
+        "opening_hours_unclassified": "Keine Angabe"
       },
       "type": "Feature"
     },
@@ -8489,13 +8490,14 @@
         "location": "Heinrich-Grüber-Strasse 3 12621 Berlin",
         "telephone": null,
         "details_url": "https://salzlounge.covidservicepoint.de",
-        "opening_hours": "",
+        "opening_hours": null,
         "title": "Salzlounge",
         "hints": [
           "PCR-Nachtestung: moeglich",
           "Barrierefreiheit: ja",
           "Terminbuchung: möglich"
-        ]
+        ],
+        "opening_hours_unclassified": "Keine Angabe"
       },
       "type": "Feature"
     },
@@ -9985,13 +9987,14 @@
         "location": "Müllerstr.121 13349 Berlin",
         "telephone": null,
         "details_url": "https://www.paul-gerhardt-apotheke.de/",
-        "opening_hours": "",
+        "opening_hours": null,
         "title": "Test to go ( Lale Cafe Bar ) Müllestr. 121",
         "hints": [
           "PCR-Nachtestung: nein",
           "Barrierefreiheit: ja",
           "Terminbuchung: möglich"
-        ]
+        ],
+        "opening_hours_unclassified": "Keine Angabe"
       },
       "type": "Feature"
     },
