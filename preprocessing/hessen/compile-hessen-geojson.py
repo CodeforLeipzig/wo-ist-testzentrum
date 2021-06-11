@@ -116,7 +116,7 @@ for station in root.findall("station"):
         opening_hours = opening_hours.strip().strip(",")
     except ValueError as e:
         eprint(e)
-        opening_hours = 'unbekannt'
+        opening_hours = None
 
     # Anmerkungen
     notes = station.find("other/data[@field='notes']").text
@@ -144,7 +144,7 @@ for station in root.findall("station"):
     hints.append(f'Terminbuchung notwendig: {appointment}')
 
     # JSON-Objekt erstellen
-    features.append({
+    feature = {
       "geometry": {
         "coordinates": [
           lng,
@@ -163,7 +163,10 @@ for station in root.findall("station"):
         "hints": hints,
       },
       "type": "Feature"
-    })
+    }
+    if opening_hours is None:
+        feature["properties"]["opening_hours_unclassified"] = "unbekannt"
+    features.append(feature)
 
 geojson = {
   "metadata": {
