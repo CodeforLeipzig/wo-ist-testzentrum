@@ -24,7 +24,7 @@ const weekDayMap = {
 
 const convertToOpeningHours = (openingString) => {
     const data = JSON.parse(openingString);
-    return Object.keys(data).reduce((agg, key) => {
+    const text = Object.keys(data).reduce((agg, key) => {
         const value = data[key];
         if (value === "0" || value === "1"){
             return agg;
@@ -32,6 +32,7 @@ const convertToOpeningHours = (openingString) => {
         agg += `${weekDayMap[key]} ${value.join(',')}; `;
         return agg;
     }, "");
+    return text.trim().replace(/;$/, '');
 };
 
 const appointmentMap = {
