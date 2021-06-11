@@ -55,7 +55,7 @@ const convertToHumanReadable = (valuesMap, value) => {
 };
 
 const convertToGeoJson = (node) => {
-    return {
+    const json = {
         "geometry": {
             "coordinates": [
                 parseFloat(node.lng), parseFloat(node.lat)
@@ -66,7 +66,7 @@ const convertToGeoJson = (node) => {
             "location": `${node.street} ${node.postal_code} ${node.city}`,
             "telephone": node.phone || null,
             "details_url": node.website,
-            "opening_hours": convertToOpeningHours(node.open_hours),
+            "opening_hours": convertToOpeningHours(node.open_hours) || null,
             "title": node.title,
             "hints": [
                 `PCR-Nachtestung: ${node.pcr_nachtestung || "nein"}`,
@@ -76,6 +76,10 @@ const convertToGeoJson = (node) => {
         },
         "type": "Feature"
     };
+    if (json.properties.opening_hours == null) {
+        json.properties.opening_hours_unclassified = "Keine Angabe";
+    }
+    return json;
 };
 
 const isValidEntry = (entry) => {
