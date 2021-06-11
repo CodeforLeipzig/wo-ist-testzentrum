@@ -113,6 +113,7 @@ for station in root.findall("station"):
         saturday  = parseSpecialOpeningHourFormat("Sa", get_content(station, "other/data[@field='saturday']", ''))
 
         opening_hours = monday + tuesday + wednesday + thursday + friday + saturday
+        opening_hours = opening_hours.strip().strip(",")
     except ValueError as e:
         eprint(e)
         opening_hours = 'unbekannt'
