@@ -1,8 +1,8 @@
 {
   "metadata": {
     "data_source": {
-      "title": "Stadt Berlin, Stand: 30.05.2021",
-      "url": "https://test-to-go.berlin/testzentren-und-teststellen/"
+      "title": "Stadt Berlin, Stand: 11.06.2021",
+      "url": "https://test-to-go.berlin"
     }
   },
   "type": "FeatureCollection",
@@ -8436,28 +8436,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.4287125,
-          52.4869046
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "Sonnenallee 21 12047  Berlin",
-        "telephone": null,
-        "details_url": "",
-        "opening_hours": "Mo 09:00 - 18:00; Tu 09:00 - 18:00; We 09:00 - 18:00; Th 09:00 - 18:00; Fr 09:00 - 18:00; Sa 09:00 - 18:00; Su 09:00 - 18:00; ",
-        "title": "Roots Yoga Testzentrum",
-        "hints": [
-          "PCR-Nachtestung: nein",
-          "Barrierefreiheit: ja",
-          "Terminbuchung: nicht notwendig"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.3242239,
           52.4384697
         ],
@@ -11503,7 +11481,7 @@
         "location": "Am Juliusturm 64 13599 Berlin",
         "telephone": null,
         "details_url": "https://test-to-go.berlin/testzentrum-berlin-spandau/",
-        "opening_hours": "Mo 08:00 - 18:00; Tu 08:00 - 18:00; We 08:00 - 18:00; Th 08:00 - 18:00; Fr 08:00 - 18:00; Sa 08:00 - 18:00; Su 08:00 - 18:00; ",
+        "opening_hours": "Mo 10:00 - 20:00; Tu 10:00 - 20:00; We 10:00 - 20:00; Th 10:00 - 20:00; Fr 10:00 - 20:00; Sa 10:00 - 20:00; Su 10:00 - 20:00; ",
         "title": "Testzentrum Berlin Spandau",
         "hints": [
           "PCR-Nachtestung: moeglich",
