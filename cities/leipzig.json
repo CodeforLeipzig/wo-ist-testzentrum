@@ -20,13 +20,15 @@
                 "location": "Wilhelm-Leuschner-Platz",
                 "telephone": "",
                 "opening_hours": "Mo-Th 09:00-18:00, Fr-Sa 09:00-22:00",
+				"details_url": "https://www.corona-teststrasse.de",
                 "hints": [
-                    "Terminvereinbarung notwendig: nein"
+                    "Terminvereinbarung notwendig: nein",
+					"termin_url: www.corona-teststrasse.de"
                 ]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.374726994421197, 51.334835996351963]
+                "coordinates": [12.374726994421197, 51.334835996351956]
             }
         }, {
             "type": "Feature",
@@ -45,7 +47,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.380786268801842, 51.344408928767891]
+                "coordinates": [12.380786268801842, 51.344408928767884]
             }
         }, {
             "type": "Feature",
@@ -76,7 +78,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.267400355640163, 51.308351167658969]
+                "coordinates": [12.267400355640163, 51.308351167658977]
             }
         }, {
             "type": "Feature",
@@ -86,14 +88,16 @@
                 "telephone": "0341/9605030",
                 "opening_hours_unclassified": "Nur mit Termin!",
                 "opening_hours": null,
+				"details_url": "http://www.lux-apotheke-leipzig.de/",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon"
+                    "termin_art: Telefon",
+					"termin_url: www.lux-apotheke-leipzig.de"
                 ]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.369658230851201, 51.356335348840013]
+                "coordinates": [12.369658230851201, 51.35633534884002]
             }
         }, {
             "type": "Feature",
@@ -101,7 +105,7 @@
                 "title": "Park-Apotheke",
                 "location": "Antonienstraße 1, 04229 Leipzig",
                 "telephone": "0341/2304512",
-                "opening_hours": "Mo, We, Fr 11:00-13:00, Tu 13:00-17:30, Th 08:00-13:00",
+                "opening_hours": "Mo 10:30-14:30, Tu 10:30-17:00, We 10:30-14:30, Th 08:00-14:30, Fr 10:30-16:30",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "termin_art: Telefon+Internet"
@@ -109,7 +113,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.333275233218826, 51.319442677018252]
+                "coordinates": [12.333275233218826, 51.319442677018245]
             }
         }, {
             "type": "Feature",
@@ -118,14 +122,16 @@
                 "location": "Petersstraße 36, 04109 Leipzig",
                 "telephone": "0341/35520333",
                 "opening_hours": "Mo-Sa 08:00-18:00",
+				"details_url": "http://www.petersbogen-apotheke.de/",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon"
+                    "termin_art: Telefon",
+					"termin_url: www.petersbogen-apotheke.de"
                 ]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.374625746207467, 51.33784664515958]
+                "coordinates": [12.374625746207469, 51.33784664515958]
             }
         }, {
             "type": "Feature",
@@ -143,7 +149,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.424649537086566, 51.365897963265283]
+                "coordinates": [12.424649537086568, 51.365897963265283]
             }
         }, {
             "type": "Feature",
@@ -160,7 +166,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.309844378155141, 51.2765043227962]
+                "coordinates": [12.309844378155141, 51.276504322796193]
             }
         }, {
             "type": "Feature",
@@ -169,9 +175,11 @@
                 "location": "Karl-Liebknecht-Straße 59, 04275 Leipzig",
                 "telephone": "0341/3016474",
                 "opening_hours": "Mo-Fr 09:00-11:00, Mo-Fr 16:00-18:00",
+				"details_url": "http://www.sonnen-apotheke-leipzig.de/coronaschnelltest-onlinetermin.html",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon"
+                    "termin_art: Telefon",
+					"termin_url: http://www.sonnen-apotheke-leipzig.de/coronaschnelltest-onlinetermin.html"
                 ]
             },
             "geometry": {
@@ -193,7 +201,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.362332907178265, 51.362852297639819]
+                "coordinates": [12.362332907178263, 51.362852297639819]
             }
         }, {
             "type": "Feature",
@@ -217,13 +225,13 @@
                 "title": "GesundheitsWerkstatt",
                 "location": "Leipziger Straße 88, 04178 Leipzig",
                 "telephone": "0341/46225020",
-                "opening_hours_unclassified": "Montag-Freitag mit Termin, Onlinevereinbarung. Freie Termine auf Homepage einzusehen.",
+                "opening_hours_unclassified": "Montag-Freitag mit/ohne Termin, Onlinevereinbarung. Freie Termine auf Homepage einzusehen. Digitales Ergebnis ohne Wartezeit.",
                 "opening_hours": null,
                 "details_url": "https://www.schnelltestboehlitz.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "Geschlossen vom 24.07.-31.07.2021",
-                    "Montag-Freitag mit/ohne Termin. Öffnungszeiten auf Homepage einsehbar",
+                    "Montag-Freitag mit/ohne Termin, Onlinevereinbarung. Freie Termine auf Homepage einzusehen. Digitales Ergebnis ohne Wartezeit.",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.schnelltestboehlitz.de"
                 ]
@@ -231,22 +239,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.290702183509005, 51.359813870936499]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "title": "Teststation im Bruno-Plache-Stadion",
-                "location": "Connewitzer Straße 21, 04289 Leipzig",
-                "telephone": "03494/3762994",
-                "opening_hours": "Mo, We, Fr 18:00-21:00, Su 10:00-12:00",
-                "hints": ["auch PCR-Test",
-                    "Terminvereinbarung notwendig: nein"
-
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.418684790329877, 51.304305754979332]
             }
         }, {
             "type": "Feature",
@@ -267,24 +259,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.460908119809771, 51.282621013343757]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "title": "Bären Apotheke",
-                "location": "Selliner Straße 15, 04207 Leipzig",
-                "telephone": "0341/710790",
-                "opening_hours": "Mo-Fr 08:00-12:00, Mo-Fr 14:00-18:00",
-                "details_url": "www.baeren24.de",
-                "hints": [
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.baeren24.de"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.265092329346309, 51.313249063375864]
             }
         }, {
             "type": "Feature",
@@ -322,7 +296,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.358906309013451, 51.362269003141613]
+                "coordinates": [12.358906309013451, 51.36226900314162]
             }
         }, {
             "type": "Feature",
@@ -339,7 +313,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.401187191621487, 51.33947363096167]
+                "coordinates": [12.401187191621487, 51.339473630961663]
             }
         }, {
             "type": "Feature",
@@ -437,7 +411,7 @@
                 "title": "Kopfzentrum Leipzig",
                 "location": "Käthe-Kollwitz-Straße 64, 04109 Leipzig",
                 "telephone": "0341/33733100",
-                "opening_hours": "Mo-Fr 08:00-20:00, Sa 09:00-15:00, Su 09:00-12:00",
+                "opening_hours": "Mo-Fr 08:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein"
 
@@ -445,7 +419,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.355108783076641, 51.3352586219372]
+                "coordinates": [12.35510878307664, 51.3352586219372]
             }
         }, {
             "type": "Feature",
@@ -463,7 +437,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.37042353918469, 51.316867539118128]
+                "coordinates": [12.370423539184689, 51.316867539118128]
             }
         }, {
             "type": "Feature",
@@ -481,7 +455,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.366653746509987, 51.367954694187922]
+                "coordinates": [12.366653746509987, 51.367954694187929]
             }
         }, {
             "type": "Feature",
@@ -499,7 +473,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.304685408997354, 51.316287133624471]
+                "coordinates": [12.304685408997354, 51.316287133624463]
             }
         }, {
             "type": "Feature",
@@ -569,7 +543,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.323735337928124, 51.374450141832533]
+                "coordinates": [12.323735337928124, 51.37445014183254]
             }
         }, {
             "type": "Feature",
@@ -587,7 +561,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.382057786932672, 51.338159459579956]
+                "coordinates": [12.382057786932672, 51.338159459579948]
             }
         }, {
             "type": "Feature",
@@ -642,38 +616,20 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Testcenter Corona Leipzig GbR",
-                "location": "Karl-Liebknecht-Straße 40, 04107 Leipzig",
-                "telephone": "0152/03987557",
-                "opening_hours": "Mo-Fr 08:00-12:00, Sa-Su 10:00-14:00",
-                "details_url": "https://www.testcenter-corona.de",
-                "hints": [
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.testcenter-corona.de"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.373457887281669, 51.325755804955293]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "Bürgertestzentrum am Rabensteinplatz",
                 "location": "Dresdner Straße 2, 04103 Leipzig",
                 "telephone": "0156/78405168",
-                "opening_hours": "Mo-Fr 07:30-13:30, Fr 14:30-18:00",
+                "opening_hours": "Mo-Fr 08:30-12:00, Fr 14:30-17:30, Sa 10:00-13:00",
                 "details_url": "https:/www.teste-dich-jetzt.com",
                 "hints": [
-                    "Terminvereinbarung notwendig: ja",
+                    "Terminvereinbarung notwendig: nein",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.teste-dich-jetzt.com"
                 ]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.39075298377127, 51.338386704760211]
+                "coordinates": [12.39075298377127, 51.338386704760204]
             }
         }, {
             "type": "Feature",
@@ -744,7 +700,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.338422120820193, 51.332536202524246]
+                "coordinates": [12.338422120820193, 51.332536202524253]
             }
         }, {
             "type": "Feature",
@@ -762,7 +718,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.325935369039577, 51.334525389613688]
+                "coordinates": [12.325935369039577, 51.334525389613695]
             }
         }, {
             "type": "Feature",
@@ -789,12 +745,12 @@
                 "opening_hours": "Mo-Fr 10:00-11:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "vom 2.8.2021 bis zum 6.8.2021 finden keine Testungen statt!"
+                    "vom 2.8.2021 bis 6.8.2021 und vom 16. bis 17.08.21 finden keine Testungen statt!"
                 ]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.375596842556657, 51.367054204311046]
+                "coordinates": [12.375596842556655, 51.367054204311046]
             }
         }, {
             "type": "Feature",
@@ -831,7 +787,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.423805534075562, 51.354718500341818]
+                "coordinates": [12.423805534075562, 51.354718500341811]
             }
         }, {
             "type": "Feature",
@@ -841,29 +797,13 @@
                 "telephone": "0341/65673330",
                 "opening_hours": "Mo-Fr 8:30-9:00, Mo-Fr 12:00-13:00",
                 "hints": [
-                    "Terminvereinbarung notwendig: nein"
+                    "Terminvereinbarung notwendig: nein",
+					"Vom 23.08. bis 05.09.2021 finden keine Testungen statt."
                 ]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.373650388801309, 51.341771813246289]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "title": "Corona Schnelltestzentrum Sachsen Park",
-                "location": "Handelsstraße 4, 04356 Leipzig",
-                "telephone": "",
-                "opening_hours": "Mo-Fr 09:00-19:00, Sa 09:00-16:00",
-                "details_url": "https://www.schnelltest-sachsenpark.de",
-                "hints": ["Parkplatz Handelsstraße/Walter-Köhn-Straße",
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_url: www.schnelltest-sachsenpark.de"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.399540066064578, 51.401241735845346]
             }
         }, {
             "type": "Feature",
@@ -879,7 +819,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.29860508862348, 51.345682849425422]
+                "coordinates": [12.29860508862348, 51.34568284942543]
             }
         }, {
             "type": "Feature",
@@ -894,7 +834,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.377354440412502, 51.337455555681316]
+                "coordinates": [12.3773544404125, 51.337455555681316]
             }
         }, {
             "type": "Feature",
@@ -913,7 +853,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.380646960582563, 51.306791920158311]
+                "coordinates": [12.380646960582562, 51.306791920158311]
             }
         }, {
             "type": "Feature",
@@ -921,7 +861,7 @@
                 "title": "OBI Testcenter am Hauptbahnhof",
                 "location": "Brandenburger Straße 21, 04103 Leipzig",
                 "telephone": "0172/7622951",
-                "opening_hours": "Mo-Sa 09:00-19:00",
+                "opening_hours": "Mo-Sa 10:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "termin_art: Telefon",
@@ -931,22 +871,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.391039624214635, 51.348180155111613]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "title": "PhysioMobil-Leipzig Nadin Heinze",
-                "location": "Lindenthaler Hauptstraße 71, 04158 Leipzig",
-                "telephone": "0341/92790086",
-                "opening_hours": "Mo-Tu 08:00-16:00, Fr 08:00-12:00",
-                "hints": [
-                    "Terminvereinbarung notwendig: nein"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.328209465889737, 51.391575524927312]
+                "coordinates": [12.391039624214635, 51.348180155111621]
             }
         }, {
             "type": "Feature",
@@ -1000,24 +925,6 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Reinker - Ambulante Rehabilitation Leipzig GmbH",
-                "location": "Am Sportforum 2, 04105 Leipzig",
-                "telephone": "0341/231065371",
-                "opening_hours": "Mo-Fr 15:00-17:00",
-                "hints": [
-                    "Terminvereinbarung notwendig: ja",
-
-                    "termin_art: telephone"
-
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.354449817110108, 51.342299664123111]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "Friseur-Salon Jeanette Siegert-Schönfisch",
                 "location": "Kieler Straße 51, 04357 Leipzig",
                 "telephone": "0341/6025762",
@@ -1053,9 +960,9 @@
                 "title": "Chocolate",
                 "location": "Barfußgäßchen 12, 04109 Leipzig",
                 "telephone": "0341/25696067",
-                "opening_hours": "We 09:00-12:00, Th 09:00-12:00, Th 17:00-20:00, Fr 09:00-12:00, Fr 17:00-20:00, Sa 10:00-12:00, Sa 17:00-20:00",
+                "opening_hours": "We-Sa 17:00-20:00",
                 "hints": [
-                    "Terminvereinbarung notwendig: ja",
+                    "Terminvereinbarung notwendig: nein",
                     "termin_art: Telefon+Internet"
                 ]
             },
@@ -1197,7 +1104,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.405137858129418, 51.345670625095757]
+                "coordinates": [12.40513785812942, 51.345670625095757]
             }
         }, {
             "type": "Feature",
@@ -1229,7 +1136,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.414608301649205, 51.345695516019049]
+                "coordinates": [12.414608301649205, 51.345695516019056]
             }
         }, {
             "type": "Feature",
@@ -1268,24 +1175,6 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Testcenter Corona Leipzig GbR",
-                "location": "Dübener Landstraße 7, 04129 Leipzig",
-                "telephone": "0152/27878825",
-                "opening_hours": "Mo-Sa 10:00-15:00",
-                "details_url": "https://www.textcenter-corona.de",
-                "hints": ["Parkplatz Hornbach",
-                    "Terminvereinbarung notwendig: nein",
-                    "termin_art: Telefon+Internet",
-                    "termin_url: www.textcenter-corona.de"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.386139230992013, 51.382112249911231]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "Testzentrum \"Alte Messe\"",
                 "location": "Alte Messe 2, 04103 Leipzig",
                 "telephone": "0157/83002500",
@@ -1318,7 +1207,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.398312368614754, 51.367103740797631]
+                "coordinates": [12.398312368614755, 51.367103740797631]
             }
         }, {
             "type": "Feature",
@@ -1354,7 +1243,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.396754417929367, 51.301373385038765]
+                "coordinates": [12.396754417929365, 51.301373385038765]
             }
         }, {
             "type": "Feature",
@@ -1373,7 +1262,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.396223607079444, 51.340208204639289]
+                "coordinates": [12.396223607079444, 51.340208204639282]
             }
         }, {
             "type": "Feature",
@@ -1424,7 +1313,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.331156421144208, 51.32112377088378]
+                "coordinates": [12.331156421144208, 51.321123770883773]
             }
         }, {
             "type": "Feature",
@@ -1457,7 +1346,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.396515939223619, 51.331499277843953]
+                "coordinates": [12.396515939223619, 51.33149927784396]
             }
         }, {
             "type": "Feature",
@@ -1476,7 +1365,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.356807127112624, 51.33341043954659]
+                "coordinates": [12.356807127112626, 51.33341043954659]
             }
         }, {
             "type": "Feature",
@@ -1517,24 +1406,6 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Zoo Leipzig  / Testzentrum in Gondwanaland am Zoo",
-                "location": "Pfaffendorfer Straße 29, 04105 Leipzig",
-                "telephone": "",
-                "opening_hours": "Mo-Su 08:00-16:00",
-                "details_url": "https://www.buergertest-leipzig.de/schnelltest-zoo-leipzig/",
-                "hints": [
-                    "Terminvereinbarung notwendig: nein",
-                    "termin_art: Internet",
-                    "termin_url: https://www.buergertest-leipzig.de/schnelltest-zoo-leipzig/"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.370958761202134, 51.348336190039539]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "Corona-Testzentrum in der QUARTERBACK Immobilien ARENA",
                 "location": "Am Sportforum 2, 04105 Leipzig",
                 "telephone": "",
@@ -1549,7 +1420,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.371997636785641, 51.354665522664703]
+                "coordinates": [12.371997636785641, 51.342299664123104]
             }
         }, {
             "type": "Feature",
@@ -1567,14 +1438,14 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.396412105311166, 51.373223010585747]
+                "coordinates": [12.396412105311166, 51.37322301058574]
             }
         }, {
             "type": "Feature",
             "properties": {
                 "title": "Kommunales Testzentrum Petersbogen",
-                "location": "Petersstraße 34, 04109 Leipzig",
-                "telephone": "0176/704893805",
+                "location": "Petersstraße 36, 04109 Leipzig",
+                "telephone": "0176/70489380",
                 "opening_hours": "Mo-Su 09:00-17:30",
                 "details_url": "https://www.cocare-testzentrum.de",
                 "hints": [
@@ -1587,24 +1458,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.374625746207467, 51.33784664515958]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "title": "Kommunales Testzentrum Paunsdorf",
-                "location": "Südblick 5A, 04329 Leipzig",
-                "telephone": "",
-                "opening_hours": "Mo-Tu 08:00-15:00, We 10:00-17:00, Th 08:00-15:00, Fr 10:00-17:00",
-                "details_url": "https://www.sanktgeorg.de",
-                "hints": [
-                    "Test ohne Anmeldung möglich. Anmeldung online über www.sanktgeorg.de",
-                    "Terminvereinbarung notwendig: nein",
-                    "termin_url: www.sanktgeorg.de"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.455212865983874, 51.351166418297197]
             }
         }, {
             "type": "Feature",
@@ -1631,9 +1484,9 @@
             "type": "Feature",
             "properties": {
                 "title": "DeinTestzentrum.de / Testzentrum Hauptbahnhof Leipzig",
-                "location": "Willy-Brandt-Platz 7, 04109 Leipzig",
+                "location": "Willy-Brandt-Platz 5, 04109 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Th 08:00-18:00, Sa-Su 08:00-20:00",
+                "opening_hours": "Mo-Th 08:00-18:00, Fr-Sa 08:00-20:00",
                 "details_url": "https://www.deintestzentrum.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
@@ -1643,7 +1496,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.381909906906406, 51.34398140217413]
+                "coordinates": [12.380786268801842, 51.344408928767884]
             }
         },
         {
@@ -1652,7 +1505,7 @@
                 "title": "DeinTestzentrum.de / Testzentrum Allee Center",
                 "location": "Ludwigsburger Straße 9, 04209 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 08:00-17:00, Sa 09:00-15:00",
+                "opening_hours": "Mo-Fr 08:00-17:00, Sa 08:00-15:00",
                 "details_url": "https://www.deintestzentrum.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
@@ -1662,7 +1515,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.289423277979358, 51.3205953090606]
+                "coordinates": [12.289423277979358, 51.320595309060593]
             }
         }, {
             "type": "Feature",
@@ -1730,7 +1583,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.372873797855283, 51.343280211352315]
+                "coordinates": [12.372873797855284, 51.343280211352315]
             }
         },
         {
@@ -1765,7 +1618,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.290116964842079, 51.318133323351006]
+                "coordinates": [12.290116964842079, 51.318133323351013]
             }
         },
         {
@@ -1853,7 +1706,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.42229292464272, 51.336207725998442]
+                "coordinates": [12.42229292464272, 51.336207725998435]
             }
         },
         {
@@ -1864,7 +1717,7 @@
                 "telephone": "0341/35585040",
                 "opening_hours": "Mo-Su 13:00-16:00",
                 "hints": [
-                    "Terminvereinbarung notwendig: ja",
+                    "Terminvereinbarung notwendig: nein",
                     "termin_art: Telefon+Internet",
                     "Terminvereinbarung telefonisch oder über Website"
                 ]
@@ -1888,13 +1741,13 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.372873797855283, 51.343280211352315]
+                "coordinates": [12.372873797855284, 51.343280211352315]
             }
         },
         {
             "type": "Feature",
             "properties": {
-                "title": "Mein Corona Schnelltest \"Höfe am Brühl\"",
+                "title": "Mein Corona Schnelltest",
                 "location": "Paunsdorfer Allee 1, 04329 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Sa 10:00-20:00, Su 10:00-15:00",
@@ -1916,7 +1769,7 @@
                 "title": "Wasserturm GmbH FKK Leipzig",
                 "location": "Torgauer Straße 246, 04347 Leipzig",
                 "telephone": "0341/24168212",
-                "opening_hours": "Mo-Su 11:00-15:00, Fr-Sa 11:00-17:00",
+                "opening_hours": "Mo-Th 11:00-15:00, Fr-Sa 11:00-17:00, Su 11:00-15:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "termin_art: Internet"
@@ -1925,23 +1778,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.439517382881791, 51.357692817993737]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Sky-Club",
-                "location": "Riesaer Straße 56, 04328 Leipzig",
-                "telephone": "0177/7571166",
-                "opening_hours": "Fr-Sa 19:45-00:45",
-                "hints": [
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon+Internet"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.449411902926753, 51.345325917884153]
             }
         }
     ]
