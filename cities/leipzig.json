@@ -225,13 +225,14 @@
                 "title": "GesundheitsWerkstatt",
                 "location": "Leipziger Straße 88, 04178 Leipzig",
                 "telephone": "0341/46225020",
-                "opening_hours_unclassified": "Montag-Freitag mit/ohne Termin, Onlinevereinbarung. Freie Termine auf Homepage einzusehen. Digitales Ergebnis ohne Wartezeit.",
+                "opening_hours_unclassified": "Montag-Sonntag mit/ohne Termin, Onlinevereinbarung erwünscht",
                 "opening_hours": null,
                 "details_url": "https://www.schnelltestboehlitz.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "Geschlossen vom 24.07.-31.07.2021",
-                    "Montag-Freitag mit/ohne Termin, Onlinevereinbarung. Freie Termine auf Homepage einzusehen. Digitales Ergebnis ohne Wartezeit.",
+                    "Montag-Sonntag mit/ohne Termin, Onlinevereinbarung erwünscht.",
+                    "Für ein digitales Ergebnis ohne Wartezeit vor Ort, bitte Schnelltest-Profil bereithalten.",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.schnelltestboehlitz.de"
                 ]
@@ -708,7 +709,8 @@
                 "title": "Testzentrum Lindenau (ärztliche Teststelle)",
                 "location": "Lützner Straße 100, 04177 Leipzig",
                 "telephone": "0176/74453464",
-                "opening_hours": "Th 08:00-12:00, Fr-Su 08:00-16:00",
+                "opening_hours_unclassified": "Montag - Sonntag siehe Webseite",
+                "opening_hours": null,
                 "details_url": "https://www.testzentrum-lindenau.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
@@ -973,24 +975,6 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "CovidZentrum Gewandhaus zu Leipzig",
-                "location": "Augustusplatz 8, 04109 Leipzig",
-                "telephone": "0341/1270257",
-                "opening_hours": "Mo-Sa 08:00-18:00",
-                "details_url": "https://www.covidzentrum.de",
-                "hints": [
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.covidzentrum.de"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.380619482056609, 51.33806614502307]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "Testzentrum Robert-Koch-Klinikum",
                 "location": "Nikolai-Rumjanzew-Straße 100, 04207 Leipzig",
                 "telephone": "",
@@ -1030,7 +1014,7 @@
                 "title": "Apotheke am Sanct Georg",
                 "location": "Delitzscher Straße 137, 04129 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 07:00-10:00, Mo-Fr 15:00-18:30, Sa 07:00-10:00, Su 08:00-10:00",
+                "opening_hours": "Mo-Fr 07:00-11:00, Mo-Fr 15:00-18:30, Sa 07:00-12:00, Su 08:00-11:00",
                 "hints": []
             },
             "geometry": {
@@ -1447,38 +1431,17 @@
                 "location": "Petersstraße 36, 04109 Leipzig",
                 "telephone": "0176/70489380",
                 "opening_hours": "Mo-Su 09:00-17:30",
-                "details_url": "https://www.cocare-testzentrum.de",
+                "details_url": "https://www.leipzig-petersbogen.veranstaltungsbutler.de/book#/bookcart?fcourses=mit_termin",
                 "hints": [
                     "Terminvereinbarung telefonisch, über Website oder per Mail an petersbogen@co-care.gmbh",
                     "Terminvereinbarung notwendig: nein",
                     "termin_art: Telefon+Internet",
-                    "termin_url: www.cocare-testzentrum.de"
+                    "termin_url: www.leipzig-petersbogen.veranstaltungsbutler.de/book#/bookcart?fcourses=mit_termin"
                 ]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.374625746207467, 51.33784664515958]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "title": "Mobiles Testzentrum \"Vor Ort\"",
-                "location": "Holzhäuser Straße 72, 04299 Leipzig",
-                "telephone": "0152/07426232",
-                "opening_hours": "Mo-Tu 08:00-15:00, We 10:00-17:00, Th 08:00-15:00, Fr 10:00-17:00",
-                "details_url": "mailto:testzentrum-vorort@outlook.com",
-                "hints": [
-                    "termin_art: Internet",
-                    "wechselnde Standorte, u.a.: Werk II Leipzig, Kochstraße 132, 04277 Leipzig / Kabarett academixer, Kupfergasse 2, 04109 Leipzig / Schauspiel Leipzig, Bosestraße 1, 04109 Leipzig / Cammerspiele, Kochstraße 132, 04277 Leipzig / Moritzbastei, Kurt-Masur-Platz",
-                    "Termine können via Email über testzentrum-vorort@outlook.com oder vor Ort per QR-Code gebucht werden.",
-                    "Die Testzeiten variieren je nach Veranstaltung.",
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_url: testzentrum-vorort@outlook.com"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.418956789928181, 51.319107892153333]
             }
         }, {
             "type": "Feature",
@@ -1750,7 +1713,7 @@
                 "title": "Mein Corona Schnelltest",
                 "location": "Paunsdorfer Allee 1, 04329 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Sa 10:00-20:00, Su 10:00-15:00",
+                "opening_hours": "Mo-Sa 09:00-17:00",
                 "details_url": "mailto:fst@meincornaschnelltest.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
