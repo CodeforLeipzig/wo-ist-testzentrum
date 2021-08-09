@@ -37,9 +37,10 @@
                 "title": "Leopold-Apotheke",
                 "location": "Leopoldstraße 2+4, 32657 Lemgo",
                 "telephone": "05261 94 46 0",
-                "opening_hours": "Mo-Fr 08:00-18:30, Sa 8:00-13:30",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa 8:00-12:45",
                 "details_url": "https://app.no-q.info/vitalhaus-leopold-apotheke/checkins#/992/2021-04-01",
                 "hints": [
+                    "Neue Öffnungszeiten ab dem 09.08.2021",
                     "Terminbuchung: https://app.no-q.info/vitalhaus-leopold-apotheke/checkins#/992/2021-04-01"
                 ]
             },
@@ -54,7 +55,7 @@
                 "title": "HNO-Praxis Henneken/Sassenberg",
                 "location": "Lagesche Straße 9-13, 32657 Lemgo",
                 "telephone": "05261 49 60",
-                "opening_hours": "Mo-Fr 07:00-12:00",
+                "opening_hours": "Mo 07:00-11:00, Mo 14:30-18:00, Tu 07:00-11:00, We-Fr 07:00-11:00, We-Fr 14:30-18:00, Sa-Su 08:00-13:00",
                 "hints": [
                     "Bitte telefonisch einen Termin vereinbaren."
                 ]
@@ -67,13 +68,13 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Johanneswerk",
+                "title": "Johanneswerk, Bürgerteststelle Lemgo",
                 "location": "Steinmüllerweg 32, 32657 Lemgo",
                 "telephone": "",
-                "opening_hours": "Mo-Sa 08:00-17:00",
-                "details_url": "https://johanneswerk-sls.de/corona-schnelltest/",
+                "opening_hours_unclassified": "Momentan keine Testungen",
+                "opening_hours": null,
                 "hints": [
-                    "Terminbuchung: https://johanneswerk-sls.de/corona-schnelltest/"
+                    "Momentan keine Testungen"
                 ]
             },
             "geometry": {
@@ -101,9 +102,10 @@
                 "title": "Medicum-Apotheke am Klinikum",
                 "location": "Rintelner Straße 83, 32657 Lemgo",
                 "telephone": "05261/21 70 70 0",
-                "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-14:00",
+                "opening_hours": "Mo-Fr 08:00-18:30, Sa 09:00-12:00",
                 "details_url": "https://app.no-q.info/medicum-apotheke-lemgo/checkins#/1119/2021-04-01",
                 "hints": [
+                    "Geänderte Öffnungszeiten ab dem 09.08.2021",
                     "Terminbuchung: https://app.no-q.info/medicum-apotheke-lemgo/checkins#/1119/2021-04-01"
                 ]
             },
@@ -135,8 +137,10 @@
                 "title": "TV Lemgo von 1863 e.V.",
                 "location": "Pideritstraße 17a, 32657 Lemgo",
                 "telephone": "05261 / 2170820",
-                "opening_hours": "Mo-Th 08:00-13:00, Mo-Th 15:00-20:00, Fr 08:00-16:00, Sa 09:00-16:00",
-                "hints": []
+                "opening_hours": "Mo-Fr 08:00-12:00, Mo-Fr 16:00-20:00, Sa 09:00-16:00, Su 09:00-13:00",
+                "hints": [
+					"Neue Öffnungszeiten ab dem 09.08.2021"
+				]
             },
             "geometry": {
                 "type": "Point",
@@ -149,9 +153,10 @@
                 "title": "mobile Teststelle DRK, vor der Sparkasse",
                 "location": "Mittelstraße 73-79, 32657 Lemgo",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 10:00-18:00, Sa 10:00-16:00",
+                "opening_hours": "Mo-Th 08:00-16:00, Fr 10:00-18:00, Sa 09:00-15:00",
                 "details_url": "https://www.testzentren-lippe.de/",
                 "hints": [
+                    "Geänderte Öffnungszeiten ab dem 09.08.2021",
                     "Bitte Terminbuchung unter www.testzentren-lippe.de",
                     "An Feiertagen können die Öffnungszeiten abweichen.",
 					"Sonntags nicht geöffnet."
