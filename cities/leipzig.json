@@ -1042,22 +1042,6 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Küchenschmiede Leipzig GmbH",
-                "location": "Adenauerallee 3, 04347 Leipzig",
-                "telephone": "",
-                "opening_hours": "Mo-Fr 10:00-19:00",
-                "hints": [
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.398206878683657, 51.353479027161313]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "FAMA-Aktiv GmbH/Physiotherapie",
                 "location": "Haydnstraße 12, 04107 Leipzig",
                 "telephone": "",
@@ -1155,25 +1139,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.413304096060156, 51.359703691679826]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "title": "Testzentrum \"Alte Messe\"",
-                "location": "Alte Messe 2, 04103 Leipzig",
-                "telephone": "0157/83002500",
-                "opening_hours": "Mo-Fr 11:00-16:00, Sa 10:00-14:00",
-                "details_url": "https://www.buergertest-leipzig.de",
-                "hints": ["Porta Leipzig",
-                    "Für ein digitales Ergebnis ohne Wartezeit vor Ort, ist eine vorab Registrierung möglich, oder vor Ort.",
-                    "Terminvereinbarung notwendig: nein",
-                    "termin_art: Internet",
-                    "termin_url: www.buergertest-leipzig.de"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.403027363400057, 51.320235151468154]
             }
         }, {
             "type": "Feature",
@@ -1741,6 +1706,41 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.439517382881791, 51.357692817993737]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Columbus Apotheke international",
+                "location": "Dresdner Straße 63a, 04317 Leipzig",
+                "telephone": "0341/696890",
+                "opening_hours": "Mo-Fr 08:00-18:30",
+                "hints": [
+                    "Terminvereinbarung notwendig: ja",
+                    "termin_art: Telefon"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.404286480683023, 51.338480789226608]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "CovidZentrum im Gewandhaus",
+                "location": "Augustusplatz 8, 04109 Leipzig",
+                "telephone": "0341/1270257",
+                "opening_hours": "Mo-Su 08:00-18:00",
+                "hints": [
+                    "termin_art: Internet",
+                    "termin_url: covidzentrum.de/corona-test-leipzig"
+                ],
+                "details_url": "https://covidzentrum.de/corona-test-leipzig/"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.380619482056609, 51.33806614502307]
             }
         }
     ]
