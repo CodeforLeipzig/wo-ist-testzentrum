@@ -109,6 +109,10 @@ fs.readdir(MARKETS_DIR_PATH, function (err, files) {
             return;
         }
         console.log("\n===> Validating %s ...".section, file);
+        if (file === "cities/hessen.json") {
+            console.log("\n===> Skipping Hessen for now.".warning);
+            return;
+        }
         var marketValidator = new MarketValidator(file);
         marketValidator.validate();
         marketCount++;
