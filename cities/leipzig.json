@@ -141,42 +141,6 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Schlehen-Apotheke OHG",
-                "location": "Stöhrerstraße 1, 04347 Leipzig",
-                "telephone": "0341/22903810",
-                "opening_hours": "Mo-Fr 08:00-11:00",
-                "details_url": "https://www.terminland.de/schlehenapotheke",
-                "hints": [
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.terminland.de/schlehenapotheke"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.424649537086568, 51.365897963265283]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "title": "Seume-Apotheke",
-                "location": "Dieskaustraße 455, 04249 Leipzig",
-                "telephone": "0341/426600",
-                "opening_hours": "Mo-Fr 08:00-9:30, Mo-Fr 17:00-18:30",
-                "hints": [
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: telephone",
-                    "pcr_test: nein"
-
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.309844378155141, 51.276504322796193]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "Sonnen-Apotheke",
                 "location": "Karl-Liebknecht-Straße 59, 04275 Leipzig",
                 "telephone": "0341/3016474",
@@ -234,7 +198,7 @@
                 "title": "GesundheitsWerkstatt",
                 "location": "Leipziger Straße 88, 04178 Leipzig",
                 "telephone": "0341/46225020",
-                "opening_hours_unclassified": "Montag-Sonntag mit/ohne Termin, Onlinevereinbarung erwünscht",
+                "opening_hours_unclassified": "Montag-Sonntag, Onlinevereinbarung erwünscht",
                 "opening_hours": null,
                 "details_url": "https://www.schnelltestboehlitz.de",
                 "hints": [
@@ -683,6 +647,7 @@
                     "Terminvereinbarung notwendig: ja",
                     "Terminvergabe online unter www.communitytestcenter.de",
                     "termin_art: Internet",
+                    "pcr_test: ja",
                     "termin_url: www.communitytestcenter.de"
                 ]
             },
@@ -744,23 +709,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.325935369039577, 51.334525389613695]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "title": "Malteser Hilfsdienst e. V.",
-                "location": "Meusdorfer Straße 10, 04277 Leipzig",
-                "telephone": "0341/22536814",
-                "opening_hours": "Mo 08:00-14:00, Fr 08:00-14:00, We 10:00-17:00, Sa 09:00-12:00",
-                "hints": [
-                    "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein"
-
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.375051073514577, 51.304244217075244]
             }
         }, {
             "type": "Feature",
@@ -827,7 +775,8 @@
                 "opening_hours": "Mo-Fr 8:30-9:00, Mo-Fr 12:00-13:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-					"Vom 23.08. bis 05.09.2021 finden keine Testungen statt."
+                    "pcr_test: ja",
+					"PCR-Test nach positivem Antigen-Test möglich"
                 ]
             },
             "geometry": {
@@ -933,6 +882,7 @@
                 "opening_hours": "Mo 08:00-12:00, We 08:00-12:00, Tu 12:00-16:00, Th 12:00-18:00, Fr 08:00-11:00",
                 "hints": [
                     "termin_art: Telefon",
+                    "Terminvereinbarung notwendig: ja",
                     "pcr_test: nein"
                 ]
             },
@@ -977,23 +927,6 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Cherry Nails",
-                "location": "Delitzscher Straße 66, 04129 Leipzig",
-                "telephone": "0341/25696067",
-                "opening_hours": "Mo-Fr 09:00-19:00, Sa 09:00-16:00, Su 10:00-16:00",
-                "hints": [
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: telephone",
-                    "pcr_test: nein"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.384230397271425, 51.36444795422274]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "Chocolate",
                 "location": "Barfußgäßchen 12, 04109 Leipzig",
                 "telephone": "0341/25696067",
@@ -1019,6 +952,8 @@
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "termin_art: Internet",
+                    "PCR-Test nach positivem Antigen-Test möglich",
+                    "pcr_test: ja",
                     "termin_url: www.sanktgeorg.de"
                 ]
             },
@@ -1242,7 +1177,7 @@
             "type": "Feature",
             "properties": {
                 "title": "VSU Sächsische Wach- und Schliessgesellschaft mbH",
-                "location": "Gabelsbergerstraße 10, 04317 Leipzig",
+                "location": "Gabelsbergerstraße 5, 04317 Leipzig",
                 "telephone": "0341/6963930",
                 "opening_hours": "Mo-Tu 10:00-15:00, Fr 10:00-15:00",
                 "details_url": "https://www.swsg-sachsen.de",
@@ -1256,7 +1191,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.396223607079444, 51.340208204639282]
+                "coordinates": [12.395731967766636, 51.340133955384076]
             }
         }, {
             "type": "Feature",
@@ -1348,12 +1283,13 @@
             "properties": {
                 "title": "TEAMBRENNER Personalkonzept GmbH",
                 "location": "Ferdinand-Lassalle-Straße 17, 04109 Leipzig",
-                "telephone": "0341/2154750",
-                "opening_hours": "Mo-Fr 09:00-15:00",
+                "telephone": "0341/21547510",
+                "opening_hours": "Fr 09:00-15:00",
                 "details_url": "https://www.teambrenner.de/corona-schnelltest",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon",
+                    "termin_art: Internet",
+                    "pcr_test: nein",
                     "Die Anmeldung erfolgt ausschließich über teambrenner.de/corona-schnelltest!",
                     "Die Testergebnisse werden automatisiert ohne Wartezeit vor Ort per E-Mail versendet oder nach 15 min. vor Ort ausgedruckt und ausgehändigt."
                 ]
@@ -1410,6 +1346,7 @@
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "termin_art: Internet",
+                    "pcr_test: nein",
                     "Vorabregistrierung über https://besafe-leipzig.de",
                     "termin_url: http://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/corona-testzentrum/542"
                 ]
@@ -1443,7 +1380,7 @@
                     "title": "Santa Cruz (Bar&Restaurant)",
                     "location": "Volckmarstraße 18, 04317 Leipzig",
                     "telephone": "0174/3949336",
-                    "opening_hours": "Mo-Su 12:00-17:00",
+                    "opening_hours": "Tu 14:00-17:00, Th-Sa 14:00-17:00",
                     "details_url": "http://www.santy-cruz-leipzig.eatbu.com",
                     "hints": [
                         "Terminvereinbarung notwendig: nein",
@@ -1744,7 +1681,7 @@
                 "telephone": "0341/24168212",
                 "opening_hours": "Mo-Th 11:00-15:00, Fr-Sa 11:00-17:00, Su 11:00-15:00",
                 "hints": [
-                    "Terminvereinbarung notwendig: ja",
+                    "Terminvereinbarung notwendig: nein",
                     "termin_art: Internet",
                     "pcr_test: nein"
                 ]
