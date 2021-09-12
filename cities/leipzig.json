@@ -185,7 +185,8 @@
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "termin_art: telephone",
-                    "pcr_test: nein"
+                    "pcr_test: nein",
+                    "keine Tests durchführbar vom 13. bis 15.09.2021"
                 ]
             },
             "geometry": {
@@ -847,7 +848,8 @@
                     "termin_art: Telefon",
                     "Bitte Gesundheitskarte mitbringen",
                     "Zertifikat ist in Druckform ohne Aufpreis erhältllich und natürlich auch per QR Code auf Handy abrufbar",
-                    "pcr_test: nein"
+                    "pcr_test: nein",
+                    "02.-22.09.2021 geschlossen"
                 ]
             },
             "geometry": {
@@ -1341,14 +1343,16 @@
                 "title": "Corona-Testzentrum in der QUARTERBACK Immobilien ARENA",
                 "location": "Am Sportforum 2, 04105 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 09:00-17:00, Sa 09:00-16:00",
-                "details_url": "http://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/corona-testzentrum/542",
+                "opening_hours": null,
+                "opening_hours_unclassified": "Im Rahmen stattfindender Veranstaltungen geöffnet, weitere Informationen finden Sie auf der Webseite.",
+                "details_url": "http://www.quarterback-immobilien-arena.de/corona-testzentrum",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "termin_art: Internet",
                     "pcr_test: nein",
                     "Vorabregistrierung über https://besafe-leipzig.de",
-                    "termin_url: http://www.quarterback-immobilien-arena.de/events-tickets/eventdetail/event/corona-testzentrum/542"
+                    "termin_url: http://www.quarterback-immobilien-arena.de/corona-testzentrum",
+                    "Im Rahmen stattfindender Veranstaltungen geöffnet, weitere Informationen finden Sie auf der Webseite."
                 ]
             },
             "geometry": {
@@ -1660,11 +1664,11 @@
                 "location": "Paunsdorfer Allee 1, 04329 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Sa 09:00-17:00",
-                "details_url": "mailto:fst@meincornaschnelltest.de",
+                "details_url": "https://mcs.meincoronaschnelltest.de/paunsdorf-leipzig/start.php",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "termin_art: Internet",
-                    "termin_url: fst@meincornaschnelltest.de",
+                    "termin_url: https://mcs.meincoronaschnelltest.de/paunsdorf-leipzig/start.php",
                     "pcr_test: nein"
                 ]
             },
@@ -1725,6 +1729,59 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.380619482056609, 51.33806614502307]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Corona Testzentrum",
+                "location": "Holzhäuser Straße 10, 04299 Leipzig",
+                "telephone": "0157/37521582",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "hints": [
+                    "pcr_test: ja",
+                    "Terminvereinbarung notwendig: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.424763869633821, 51.319654035234485]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "BestOfTestzentrum",
+                "location": "Bayrischer Platz 1, 04103 Leipzig",
+                "telephone": "0176/31797045",
+                "opening_hours": "Mo-Sa 09:00-20:00, Su 12:00-16:00",
+                "hints": [
+                    "termin_art: Telefon+E-Mail",
+                    "pcr_test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.380976565783914, 51.329557527406678]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "MVO-Coronatestzentrum Leipzig",
+                "location": "Richard-Wagner-Straße 10, 04109 Leipzig",
+                "telephone": "0341/1270257",
+                "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-18:00, Su 10:00-16:00",
+                "hints": [
+                    "termin_art: Internet",
+                    "termin_url: www.coronafreepass.de/buchen",
+                    "pcr_test: ja"
+                ],
+                "details_url": "http://www.coronafreepass.de/buchen"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.377320617010049, 51.343782065731304]
             }
         }
     ]
