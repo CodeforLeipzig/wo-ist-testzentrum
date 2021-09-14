@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "devDependencies": {
     "colors": "^1.4.0",
-    "dayjs": "^1.9.1",
+    "dayjs": "^1.10.7",
     "i18next-client": "^1.11.5",
     "jasmine": "^3.0.0",
     "jshint": "^2.12.0",
