@@ -1063,7 +1063,8 @@
                 "opening_hours": null,
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon+Internet"
+                    "termin_art: Telefon+Internet",
+                    "pcr_test: nein"
                 ]
             },
             "geometry": {
@@ -1384,7 +1385,7 @@
                     "title": "Santa Cruz (Bar&Restaurant)",
                     "location": "Volckmarstraße 18, 04317 Leipzig",
                     "telephone": "0174/3949336",
-                    "opening_hours": "Tu 14:00-17:00, Th-Sa 14:00-17:00",
+                    "opening_hours": "Mo-Sa 09:00-12:00, Tu 14:00-17:00, Th 14:00-17:00, Fr 14:00-17:00, Sa 14:00-17:00, Su 12:00-15:00",
                     "details_url": "http://www.santy-cruz-leipzig.eatbu.com",
                     "hints": [
                         "Terminvereinbarung notwendig: nein",
@@ -1440,22 +1441,6 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Drive In Testzentrum Mc Medi Apotheke an der Boulderhalle Leipzig",
-                "location": "Brandenburger Straße 26, 04347 Leipzig",
-                "telephone": "",
-                "opening_hours": "Fr 14:00-19:00, Sa 14:00-19:00",
-                "hints": [
-                    "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.395705660091208, 51.352165835763486]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "Medici-Apotheke",
                 "location": "Lützner Straße 164, 04179 Leipzig",
                 "telephone": "0341/4909422",
@@ -1501,7 +1486,8 @@
                     "Terminvereinbarung telefonisch, über Website oder per Mail an petersbogen@co-care.gmbh",
                     "Terminvereinbarung notwendig: nein",
                     "termin_art: Telefon+Internet",
-                    "termin_url: www.leipzig-petersbogen.veranstaltungsbutler.de/book#/bookcart?fcourses=mit_termin"
+                    "termin_url: www.leipzig-petersbogen.veranstaltungsbutler.de/book#/bookcart?fcourses=mit_termin",
+                    "am Wahlabend, dem 26.09.2021, bis 20 Uhr geöffnet"
                 ]
             },
             "geometry": {
@@ -1626,7 +1612,7 @@
                 "title": "Testcenter im Pentahotel",
                 "location": "Großer Brockhaus 3, 04103 Leipzig",
                 "telephone": "0341/35585040",
-                "opening_hours": "Mo-Su 13:00-16:00",
+                "opening_hours": "Mo-Fr 16:00-19:00, Sa 13:00-16:00, Su 12:00-16:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "termin_art: Telefon+Internet",
