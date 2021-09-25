@@ -264,7 +264,7 @@
                 "title": "Kulturhof Gohlis, durchführende Praxis: InterMed Praxiszentrum MVZ",
                 "location": "Eisenacher Straße 72, 04155 Leipzig",
                 "telephone": "0341/55008500",
-                "opening_hours": "Mo-Fr 08:00-11:00, Mo-Fr 16:00-19:00",
+                "opening_hours": "Mo-Fr 16:00-19:00",
                 "details_url": "http://kulturhof-gohlis.de/coronatest/",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
@@ -897,9 +897,8 @@
             "properties": {
                 "title": "Apotheke im Löwencenter",
                 "location": "Miltitzer Straße 13, 04178 Leipzig",
-                "telephone": "0341/9410023",
-                "opening_hours_unclassified": "Nur nach telefonischer Vereinbarung",
-                "opening_hours": null,
+                "telephone": "0341/22565763",
+                "opening_hours": "Mo-Fr 14:00-18:00, Sa 10:00-14:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "termin_art: Telefon"
@@ -932,7 +931,7 @@
                 "title": "Chocolate",
                 "location": "Barfußgäßchen 12, 04109 Leipzig",
                 "telephone": "0341/25696067",
-                "opening_hours": "We-Sa 17:00-20:00",
+                "opening_hours": "Mo-Fr 16:00-19:00, Sa 13:00-16:00, Su 12:00-16:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "termin_art: Telefon+Internet",
@@ -988,9 +987,10 @@
                 "title": "Apotheke am Sanct Georg",
                 "location": "Delitzscher Straße 137, 04129 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 07:00-11:00, Mo-Fr 15:00-18:30, Sa 07:00-12:00, Su 08:00-11:00",
+                "opening_hours": "Mo-Fr 07:00-11:00, Mo-Fr 15:00-18:30, Sa-Su 07:00-12:00",
                 "hints": [
-                    "pcr_test: nein"
+                    "pcr_test: nein",
+                    "ab 27.09.21 Montag-Samstag PCR-Test möglich"
                 ]
             },
             "geometry": {
@@ -1127,7 +1127,7 @@
                 "title": "Testcenter Corona Leipzig GbR",
                 "location": "Maximilianallee 16, 04129 Leipzig",
                 "telephone": "01522/7878826",
-                "opening_hours": "Mo-Fr 08:00-13:00, Sa-Su 10:00-16:00",
+                "opening_hours": "Fr 08:00-13:00, Sa-Su 10:00-16:00",
                 "details_url": "https://www.testcenter-corona.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
@@ -1768,6 +1768,20 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.377320617010049, 51.343782065731304]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Bürgertestcenter Leipzig Leutzsch",
+                "location": "Merseburger Straße 189, 04179 Leipzig",
+                "telephone": "0173/4350712",
+                "opening_hours": "Mo-Su 12:00-20:00",
+                "hints": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.304568117871666, 51.341925415241782]
             }
         }
     ]
