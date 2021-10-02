@@ -639,26 +639,6 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "COMMUNITY TESTCENTER Konsumzentrale",
-                "location": "Industriestraße 95, 04229 Leipzig",
-                "telephone": "0341/92610723",
-                "opening_hours": "Mo 07:00-12:00, Fr 11:00-19:00",
-                "details_url": "https://www.communitytestcenter.de",
-                "hints": [
-                    "Terminvereinbarung notwendig: ja",
-                    "Terminvergabe online unter www.communitytestcenter.de",
-                    "termin_art: Internet",
-                    "pcr_test: ja",
-                    "termin_url: www.communitytestcenter.de"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.32888731441515, 51.328136557264457]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "ASB-Teststation \"Am Sonnenpark\"",
                 "location": "Mattheuerbogen 6, 04289 Leipzig",
                 "telephone": "",
@@ -727,26 +707,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.375596842556655, 51.367054204311046]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "title": "COMMUNITY TESTCENTER Mädler Passage",
-                "location": "Grimmaische Straße 2, 04109 Leipzig",
-                "telephone": "0151/72962549",
-                "opening_hours": "Mo 08:00-12:00, Fr 15:00-20:00",
-                "details_url": "https://www.communitytestcenter.de",
-                "hints": [
-                    "Terminvergabe online unter www.communitytestcenter.de",
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.communitytestcenter.de",
-                    "pcr_test: nein"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.375441493489454, 51.339819869549423]
             }
         }, {
             "type": "Feature",
@@ -1777,11 +1737,55 @@
                 "location": "Merseburger Straße 189, 04179 Leipzig",
                 "telephone": "0173/4350712",
                 "opening_hours": "Mo-Su 12:00-20:00",
-                "hints": []
+                "details_url": "http://www.buergertestcenter-leipzig.de",
+                "hints": [
+                    "termin_ja: ja",
+                    "termin_art: Internet",
+                    "termin_url: www.buergertestcenter-leipzig.de",
+                    "pcr_test: nein"
+                ]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.304568117871666, 51.341925415241782]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "hbCosmetics qualifizierte Teststelle",
+                "location": "Funkenburgstraße 19, 04105 Leipzig",
+                "telephone": "0173/2977333",
+                "opening_hours": null,
+                "opening_hours_unclassified": "Termine nach Vereinbarung",
+                "hints": [
+                    "termin_ja: ja",
+                    "termin_art: Telefon+E-Mail",
+                    "pcr_test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.361808767065183, 51.345402536772468]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Bürgertest Sky Club",
+                "location": "Riesaer Straße 59, 04328 Leipzig",
+                "opening_hours": "Fr-Sa 21:45-01:30",
+                "details_url": "https://www.buergertest-leipzig.de",
+                "hints": [
+                    "termin_ja: ja",
+                    "termin_art: Internet",
+                    "termin_url: www.buergertest-leipzig.de",
+                    "pcr_test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.449411902926753, 51.345325917884153]
             }
         }
     ]
