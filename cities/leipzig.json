@@ -36,8 +36,8 @@
                 "title": "Apotheke im Hauptbahnhof",
                 "location": "Willy-Brandt-Platz 5, 04109 Leipzig",
                 "telephone": "0341/1406080",
-                "opening_hours": "Mo-Fr 09:00-11:00, Mo-Fr 17:00-18:00, Sa 10:00-16:00",
-                "details_url": "https://www.apotheke-leipzig.de",
+                "opening_hours": "Mo 09:00-12:00, Tu 11:00-14:00, We 09:00-12:00, Th 09:00-12:00, Sa 15:00-17:00, Su 09:00-12:00",
+                "details_url": "https://app.no-q.info/apo-hbf-leipzig/checkins",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "termin_art: Internet",
@@ -125,7 +125,7 @@
                 "title": "Petersbogen-Apotheke",
                 "location": "Petersstraße 36, 04109 Leipzig",
                 "telephone": "0341/35520333",
-                "opening_hours": "Mo-Sa 08:00-18:00",
+                "opening_hours": "Mo-Th 09:00-10:00, Mo-Th 12:00-12:30, Mo-Th 16:00-16:30, Fr 09:00-10:00, Fr 12:00-12:30, Fr 15:00-18:00, Sa 11:00-17:00",
 				"details_url": "http://www.petersbogen-apotheke.de/",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
@@ -181,12 +181,13 @@
                 "title": "Zebra-Apotheke",
                 "location": "Kiewer Straße 30, 04205 Leipzig",
                 "telephone": "0341/415151",
-                "opening_hours": "Mo-Tu 08:00-15:00, Fr 08:00-15:00, Th 12:00-18:00, Sa 08:00-13:00",
+                "opening_hours": "Mo 08:00-15:00, Tu 08:00-15:00, Fr 08:00-15:00, Th 12:00-18:00, Sa 08:00-13:00",
+                "details_url": "http://www.covisa.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: telephone",
+                    "termin_art: Telefon/Internet",
                     "pcr_test: nein",
-                    "keine Tests durchführbar vom 13. bis 15.09.2021"
+                    "Termine sind online buchbar."
                 ]
             },
             "geometry": {
@@ -199,15 +200,15 @@
                 "title": "GesundheitsWerkstatt",
                 "location": "Leipziger Straße 88, 04178 Leipzig",
                 "telephone": "0341/46225020",
-                "opening_hours_unclassified": "Montag-Sonntag, Onlinevereinbarung erwünscht",
+                "opening_hours_unclassified": "Montag - Sonntag siehe Homepage",
                 "opening_hours": null,
                 "details_url": "https://www.schnelltestboehlitz.de",
                 "hints": [
-                    "Terminvereinbarung notwendig: ja",
+                    "Terminvereinbarung notwendig: nein",
                     "Geschlossen vom 24.07.-31.07.2021",
                     "Montag-Sonntag mit/ohne Termin, Onlinevereinbarung erwünscht.",
                     "Für ein digitales Ergebnis ohne Wartezeit vor Ort, bitte Schnelltest-Profil bereithalten.",
-                    "termin_art: Telefon+Internet",
+                    "termin_art: Internet",
                     "termin_url: www.schnelltestboehlitz.de",
                     "pcr_test: ja"
                 ]
@@ -222,13 +223,12 @@
                 "title": "Apotheke Liebertwolkwitz",
                 "location": "Muldentalstraße 43, 04288 Leipzig",
                 "telephone": "034297/986391",
-                "opening_hours_unclassified": "Nur mit Termin!",
-                "opening_hours": null,
+                "opening_hours": "Mo-Fr 07:30-18:30, Sa 08:00-12:00",
                 "details_url": "www.corona.ia.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "telefonische Terminvereinbarung nur in Ausnahmefällen",
-                    "termin_art: Internet",
+                    "termin_art: Telefon",
                     "termin_url: www.corona.ia.de",
                     "pcr_test: ja"
                 ]
@@ -261,33 +261,15 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Kulturhof Gohlis, durchführende Praxis: InterMed Praxiszentrum MVZ",
-                "location": "Eisenacher Straße 72, 04155 Leipzig",
-                "telephone": "0341/55008500",
-                "opening_hours": "Mo-Fr 16:00-19:00",
-                "details_url": "http://kulturhof-gohlis.de/coronatest/",
-                "hints": [
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: http://kulturhof-gohlis.de/coronatest/"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.358906309013451, 51.36226900314162]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "Apotheke Reudnitz",
                 "location": "Dresdner Straße 53, 04317 Leipzig",
                 "telephone": "0341/2462700",
-                "opening_hours": "Mo-Fr 09:00-12:00, Mo-Fr 14:00-17:00",
+                "opening_hours": "Mo-Fr 09:00-18:00, Sa 09:00-11:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: telephone",
+                    "Testung nach vorheriger Terminvergabe",
+                    "termin_art: Telefon",
                     "pcr_test: nein"
-
                 ]
             },
             "geometry": {
@@ -642,10 +624,11 @@
                 "title": "ASB-Teststation \"Am Sonnenpark\"",
                 "location": "Mattheuerbogen 6, 04289 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo 08:00-12:00, Tu 12:00-17:00",
-                "hints": ["Zufahrt über Franzosenallee",
-                    "Terminvereinbarung notwendig: nein"
-
+                "opening_hours": "Fr 12:00-16:00",
+                "hints": [
+                    "Zufahrt über Franzosenallee",
+                    "Terminvereinbarung notwendig: nein",
+                    "pcr_test: nein"
                 ]
             },
             "geometry": {
@@ -747,25 +730,8 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Culture-Consulting Leipzig GmbH",
-                "location": "Gutenbergstraße 11, 04178 Leipzig",
-                "telephone": "0177/8915344",
-                "opening_hours": "Mo-Fr 08:00-15:00",
-                "hints": [
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon",
-                    "pcr_test: nein"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.29860508862348, 51.34568284942543]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "Dr. med. Gerold Kotman",
-                "location": "Magazingasse 11, 04109 Leipzig",
+                "location": "Magazingasse 9, 04109 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Fr 15:00-19:00, Sa-Su 09:00-15:00",
                 "hints": [
@@ -774,7 +740,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.3773544404125, 51.337455555681316]
+                "coordinates": [12.377278928026772, 51.337444752943789]
             }
         }, {
             "type": "Feature",
@@ -874,7 +840,7 @@
                 "title": "Friseur-Salon Jeanette Siegert-Schönfisch",
                 "location": "Kieler Straße 51, 04357 Leipzig",
                 "telephone": "0341/6025762",
-                "opening_hours": "Mo-Fr 12:00-14:00",
+                "opening_hours": "Mo 13:00-18:00, Tu-Fr 10:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "termin_art: telephone",
@@ -891,7 +857,7 @@
                 "title": "Chocolate",
                 "location": "Barfußgäßchen 12, 04109 Leipzig",
                 "telephone": "0341/25696067",
-                "opening_hours": "Mo-Fr 16:00-19:00, Sa 13:00-16:00, Su 12:00-16:00",
+                "opening_hours": "Mo-Sa 17:00-20:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "termin_art: Telefon+Internet",
@@ -1024,7 +990,8 @@
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "termin_art: Telefon+Internet",
-                    "pcr_test: nein"
+                    "pcr_test: nein",
+                    "Urlaub 18.-30.10.2021"
                 ]
             },
             "geometry": {
@@ -1103,26 +1070,6 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Leipzig Königshauspassage",
-                "location": "Markt 17, 04109 Leipzig",
-                "telephone": "",
-                "opening_hours": "Mo-Fr 08:00-13:00, 14:00-19:00, Sa 10:00-15:00",
-                "details_url": "https://schnelltest-leipzig.com",
-                "hints": [
-                    "Onlinebuchung /Terminvereinbarung mit QR-Code",
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: https://schnelltest-leipzig.com",
-                    "pcr_test: nein"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.375091608071196, 51.339831487864494]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "Moritz-Hof",
                 "location": "Zwickauer Straße 125, 04279 Leipzig",
                 "telephone": "",
@@ -1155,26 +1102,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.395731967766636, 51.340133955384076]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "title": "Fernbus Terminal Hauptbahnhof Leipzig",
-                "location": "Willy-Brandt-Platz 7, 04109 Leipzig",
-                "telephone": "0341/9785370",
-                "opening_hours": "Mo-Fr 08:00-13:00, 14:00-19:00, Sa 10:00-15:00, Su 09:00-11:00",
-                "details_url": "https://schnelltest-leipzig.com",
-                "hints": [
-                    "Onlinebuchung /Terminvereinbarung mit QR-Code",
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: https://schnelltest-leipzig.com",
-                    "pcr_test: nein"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.381909906906406, 51.34398140217413]
             }
         }, {
             "type": "Feature",
@@ -1282,25 +1209,6 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "dm-Markt Plagwitz",
-                "location": "Zschochersche Straße 82A, 04229 Leipzig",
-                "telephone": "",
-                "opening_hours": "Mo-Sa 09:00-16:30",
-                "details_url": "https://dm.de/corona-schnelltest-zentren/Meindm-App",
-                "hints": [
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: dm.de/corona-schnelltest-zentren/Meindm-App",
-                    "pcr_test: nein"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.331556046286799, 51.323884277465076]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "Corona-Testzentrum in der QUARTERBACK Immobilien ARENA",
                 "location": "Am Sportforum 2, 04105 Leipzig",
                 "telephone": "",
@@ -1345,7 +1253,7 @@
                     "title": "Santa Cruz (Bar&Restaurant)",
                     "location": "Volckmarstraße 18, 04317 Leipzig",
                     "telephone": "0174/3949336",
-                    "opening_hours": "Mo-Sa 09:00-12:00, Tu 14:00-17:00, Th 14:00-17:00, Fr 14:00-17:00, Sa 14:00-17:00, Su 12:00-15:00",
+                    "opening_hours": "Mo-Sa 09:00-12:00, Tu 14:00-17:00, Th-Sa 14:00-17:00, Su 12:00-15:00",
                     "details_url": "http://www.santy-cruz-leipzig.eatbu.com",
                     "hints": [
                         "Terminvereinbarung notwendig: nein",
@@ -1481,7 +1389,7 @@
                 "title": "RB Russisch Brot Markt",
                 "location": "Stuttgarter Allee 23, 04209 Leipzig",
                 "telephone": "0341/26188020",
-                "opening_hours": "Mo-Sa 09:00-20:00",
+                "opening_hours": "Mo-Sa 09:00-19:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "termin_art: Telefon"
@@ -1591,7 +1499,7 @@
                 "title": "Mein Corona Schnelltest \"Höfe am Brühl\"",
                 "location": "Brühl 1, 04109 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Sa 10:00-20:00, Su 10:00-15:00",
+                "opening_hours": "Mo-Sa 09:00-17:30",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "termin_art: Internet",
@@ -1715,19 +1623,19 @@
             "type": "Feature",
             "properties": {
                 "title": "MVO-Coronatestzentrum Leipzig",
-                "location": "Richard-Wagner-Straße 10, 04109 Leipzig",
+                "location": "Richard-Wagner-Straße 1, 04109 Leipzig",
                 "telephone": "0341/1270257",
                 "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-18:00, Su 10:00-16:00",
                 "hints": [
                     "termin_art: Internet",
                     "termin_url: www.coronafreepass.de/buchen",
-                    "pcr_test: ja"
+                    "pcr_test: nein"
                 ],
                 "details_url": "http://www.coronafreepass.de/buchen"
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.377320617010049, 51.343782065731304]
+                "coordinates": [12.380596413492984, 51.342788346942051]
             }
         },
         {
@@ -1787,6 +1695,61 @@
                 "type": "Point",
                 "coordinates": [12.449411902926753, 51.345325917884153]
             }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Schnelltest Zoo Leipzig",
+                "location": "Pfaffendorfer Straße 29, 04105 Leipzig",
+                "telephone": "01578/3002500",
+                "opening_hours": "Mo-Su 08:30-13:00",
+                "details_url": "https://www.buergertest-leipzig.de",
+                "hints": [
+                    "termin_ja: ja",
+                    "termin_art: Internet",
+                    "termin_url: www.buergertest-leipzig.de",
+                    "pcr_test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.370958761202134, 51.348336190039539]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Testzentrum Gesundheitssportverein Leipzig",
+                "location": "Lessingstraße 1, 04109 Leipzig",
+                "telephone": "0341/4969050",
+                "opening_hours": "Mo 08:00-12:00, Mo 16:00-20:00, Tu-Th 08:00-12:00, Tu-Th 16:00-19:00, Fr 08:00-12:00, Fr 16:00-18:00, Sa 09:00-12:00",
+                "details_url": "https://www.gesundheitssportverein.de",
+                "hints": [
+                    "termin_ja: ja",
+                    "termin_art: Internet",
+                    "termin_url: www.gesundheitssportverein.de",
+                    "pcr_test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.368119032293837, 51.342145297347258]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "SC DHfK Leipzig e. V.",
+                "location": "Am Sportforum 10, 04105 Leipzig",
+                "opening_hours": "Mo-Fr 08:00-16:00",
+                "hints": [
+                    "termin_ja: ja",
+                    "termin_art: E-Mail",
+                    "pcr_test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.345776319936659, 51.351400170175559]
+            }
         }
+
     ]
 }
