@@ -36,7 +36,7 @@
                 "title": "Apotheke im Hauptbahnhof",
                 "location": "Willy-Brandt-Platz 5, 04109 Leipzig",
                 "telephone": "0341/1406080",
-                "opening_hours": "Mo 09:00-12:00, Tu 11:00-14:00, We 09:00-12:00, Th 09:00-12:00, Sa 15:00-17:00, Su 09:00-12:00",
+                "opening_hours": "Mo-Th 09:00-12:00, Fr 14:00-17:00, Sa 10:00-13:00",
                 "details_url": "https://app.no-q.info/apo-hbf-leipzig/checkins",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
@@ -241,9 +241,9 @@
             "type": "Feature",
             "properties": {
                 "title": "Apotheke Holzhausen",
-                "location": "Stötteritzer Landstraße 63, 04288 Leipzig",
-                "telephone": "034297/905835",
-                "opening_hours": "Mo-Fr 08:00-12:00, Mo-Fr 14:00-18:00, Sa 08:30-12:00",
+                "location": "Stötteritzer Landstraße 28, 04288 Leipzig",
+                "telephone": "034297/42496",
+                "opening_hours": "Mo 08:00-12:00, Mo 14:00-18:00, Tu 08:00-12:00, Fr 08:00-12:00, Fr 14:00-18:00, Sa 08:30-12:00",
                 "details_url": "https://www.apo-holzhausen.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
@@ -256,7 +256,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.457445344838474, 51.307633433264705]
+                "coordinates": [12.46089386937793, 51.306683304181433]
             }
         }, {
             "type": "Feature",
@@ -294,25 +294,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.421240225733632, 51.319490844881926]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "title": "Liebig-Apotheke",
-                "location": "Windmühlenstraße 41, 04107 Leipzig",
-                "telephone": "0341/9604626",
-                "opening_hours": "Mo-Fr 10:00-12:00",
-                "details_url": "https://www.terminland.eu/liebig-apo/",
-                "hints": [
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.terminland.eu/liebig-apo/",
-                    "pcr_test: nein"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.380696951980202, 51.331770866299728]
             }
         }, {
             "type": "Feature",
@@ -547,18 +528,22 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Corona-Testambulanz des Universitätsklinikums Leipzig",
-                "location": "Liebigstraße 22A, 04103 Leipzig",
-                "telephone": "",
-                "opening_hours": "Mo-Su 13:00-17:00",
-                "hints": ["Haus 7.2",
+                "title": "Corona-Testambulanz Universitätsklinikum Leipzig",
+                "location": "Liebigstraße 20, 04103 Leipzig",
+                "telephone": "0341/9711549",
+                "opening_hours": "Mo-Fr 07:00-17:00, Sa-So 11:00-17:00",
+                "hints": [
+                    "Haus 4",
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: ja"
+                    "termin_art: Telefon",
+                    "pcr_test: ja",
+                    "Der letzte Einlass ist 16:45 Uhr.",
+                    "feiertags: 11:00-17:00"
                 ]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [12.389561883738351, 51.329789641852187]
+                "coordinates": [12.386599231494042, 51.331360288151899]
             }
         }, {
             "type": "Feature",
@@ -602,25 +587,6 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Corona Testzentrum Karli 12",
-                "location": "Karl-Liebknecht-Straße 12, 04107 Leipzig",
-                "telephone": "0176/70102125",
-                "opening_hours": "Mo-Fr 08:00-19:00, Sa 10:00-18:00",
-                "details_url": "https://leipzig-coronatest.com",
-                "hints": [
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon+Internet",
-                    "termin_url: https://leipzig-coronatest.com",
-                    "pcr_test: ja"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.373346177220379, 51.330146549160801]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "ASB-Teststation \"Am Sonnenpark\"",
                 "location": "Mattheuerbogen 6, 04289 Leipzig",
                 "telephone": "",
@@ -653,26 +619,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.338422120820193, 51.332536202524253]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "title": "Testzentrum Lindenau (ärztliche Teststelle)",
-                "location": "Lützner Straße 100, 04177 Leipzig",
-                "telephone": "0176/74453464",
-                "opening_hours_unclassified": "Montag - Sonntag siehe Webseite",
-                "opening_hours": null,
-                "details_url": "https://www.testzentrum-lindenau.de",
-                "hints": [
-                    "Terminvereinbarung notwendig: nein",
-                    "Schnelltests und PCR-Bestätigungstests",
-                    "termin_url: www.testzentrum-lindenau.de / testzentrumlindenau@gmail.com",
-                    "pcr_test: ja"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.325935369039577, 51.334525389613695]
             }
         }, {
             "type": "Feature",
@@ -733,9 +679,14 @@
                 "title": "Dr. med. Gerold Kotman",
                 "location": "Magazingasse 9, 04109 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 15:00-19:00, Sa-Su 09:00-15:00",
+                "opening_hours_unclassified": "Öffnungszeiten variieren - siehe Homepage",
+                "opening_hours": null,
+                "details_url": "https://coronatestleipzig.de",
                 "hints": [
-                    "Terminvereinbarung notwendig: nein"
+                    "Terminvereinbarung notwendig: ja",
+                    "termin_art: Internet",
+                    "termin_url: coronatestleipzig.de",
+                    "pcr_test: nein"
                 ]
             },
             "geometry": {
@@ -768,14 +719,13 @@
                 "title": "OBI Testcenter am Hauptbahnhof",
                 "location": "Brandenburger Straße 21, 04103 Leipzig",
                 "telephone": "0172/7622951",
-                "opening_hours": "Mo-Sa 10:00-18:00",
+                "opening_hours": "Fr-Sa 10:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "termin_art: Telefon",
                     "Bitte Gesundheitskarte mitbringen",
                     "Zertifikat ist in Druckform ohne Aufpreis erhältllich und natürlich auch per QR Code auf Handy abrufbar",
-                    "pcr_test: nein",
-                    "02.-22.09.2021 geschlossen"
+                    "pcr_test: nein"
                 ]
             },
             "geometry": {
@@ -894,13 +844,13 @@
                 "title": "Stadt Apotheke Leipzig",
                 "location": "Grimmaische Straße 19, 04109 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 08:30-10:00, 11:00-13:00, 16:00-17:00, Sa 11:00-13:00, 16:00-17:00",
+                "opening_hours": "Mo-Sa 09:00-18:00",
                 "details_url": "https://www.stadt-apotheke-leipzig.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "termin_art: Internet",
                     "termin_url: www.stadt-apotheke-leipzig.de",
-                    "pcr_test: nein"
+                    "pcr_test: ja"
                 ]
             },
             "geometry": {
@@ -926,33 +876,13 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Corona Lab Testzentrum",
-                "location": "Tauchaer Straße 83, 04349 Leipzig",
-                "telephone": "",
-                "opening_hours": "Mo 08:00-12:00, Mo 15:00-18:00, We 15:00-18:00, Th 08:00-12:00, Th 15:00-18:00, Fr 08:00-18:00, Sa 08:30-15:00, Su 08:30-13:00",
-                "details_url": "https://www.corona-testen-leipzig.de",
-                "hints": [
-                    "Terminvereinbarung notwendig: nein",
-                    "termin_url: www.corona-testen-leipzig.de",
-                    "termin_email: info@corona-testen-leipzig.de",
-                    "pcr_test: nein"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.431494324117654, 51.379561273728555]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "FAMA-Aktiv GmbH/Physiotherapie",
                 "location": "Haydnstraße 12, 04107 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo 08:00-20:00, Th 08:00-20:00, Tu 08:00-17:00, Fr 08:00-17:00, We 08:00-18:00, Sa 09:00-12:00, Su 18:00-20:00",
+                "opening_hours": "Mo 08:00-10:00, Tu 15:00-16:30, We 15:30-17:30, Th 15:00-16:30, Fr 13:00-15:30, Su 17:00-20:00",
                 "details_url": "https://www.corona-schnelltest-leipzig.net",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "Testzeiten für Patienten Mo-Fr ganztägig, weitere Termine auf Anrage",
                     "termin_art: Internet",
                     "termin_url: www.corona-schnelltest-leipzig.net",
                     "pcr_test: nein"
@@ -1004,8 +934,10 @@
                 "title": "Das CoronaSchnelltest-Zentrum",
                 "location": "Torgauer Platz 1, 04315 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 08:00-18:00, Sa-Su 10:00-16:00",
-                "hints": ["auf dem Marktplatz",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa 10:00-18:00, Su 10:00-16:00",
+                "hints": [
+                    "auf dem Marktplatz",
+                    "Aufgrund des Sturms vorübergehend geschlossen.",
                     "Terminvereinbarung notwendig: nein",
                     "pcr_test: nein"
                 ]
@@ -1047,25 +979,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.413304096060156, 51.359703691679826]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "title": "Testcenter Corona Leipzig GbR",
-                "location": "Maximilianallee 16, 04129 Leipzig",
-                "telephone": "01522/7878826",
-                "opening_hours": "Fr 08:00-13:00, Sa-Su 10:00-16:00",
-                "details_url": "https://www.testcenter-corona.de",
-                "hints": [
-                    "Terminvereinbarung notwendig: nein",
-                    "termin_art: Internet",
-                    "termin_url: www.testcenter-corona.de",
-                    "pcr_test: nein"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.398312368614755, 51.367103740797631]
             }
         }, {
             "type": "Feature",
@@ -1174,13 +1087,11 @@
                 "title": "TEAMBRENNER Personalkonzept GmbH",
                 "location": "Ferdinand-Lassalle-Straße 17, 04109 Leipzig",
                 "telephone": "0341/21547510",
-                "opening_hours": "Fr 09:00-15:00",
-                "details_url": "https://www.teambrenner.de/corona-schnelltest",
+                "opening_hours": "Tu-Fr 08:00-10:00, Tu-Fr 16:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
+                    "termin_art: Telefon",
                     "pcr_test: nein",
-                    "Die Anmeldung erfolgt ausschließich über teambrenner.de/corona-schnelltest!",
                     "Die Testergebnisse werden automatisiert ohne Wartezeit vor Ort per E-Mail versendet oder nach 15 min. vor Ort ausgedruckt und ausgehändigt."
                 ]
             },
@@ -1194,12 +1105,13 @@
                 "title": "Testzentrum EFG Brühl 67",
                 "location": "Brühl 67, 04109 Leipzig",
                 "telephone": "0341/97854237",
-                "opening_hours": "Mo-Fr 08:00-13:00, Mo-Fr 14:00-19:00, Sa 09:30-16:00, Su 11:00-16:00",
+                "opening_hours": "Mo-Fr 08:00-13:00, Mo-Fr 14:00-19:00, Sa 09:00-19:00, Su 09:00-18:00",
                 "details_url": "https://www.testzentrum-efg.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "termin_art: Telefon+Internet",
-                    "termin_url: www.testzentrum-efg.de"
+                    "termin_url: www.testzentrum-efg.de",
+                    "feiertags: 09:00-18:00"
                 ]
             },
             "geometry": {
@@ -1254,7 +1166,7 @@
                     "location": "Volckmarstraße 18, 04317 Leipzig",
                     "telephone": "0174/3949336",
                     "opening_hours": "Mo-Sa 09:00-12:00, Tu 14:00-17:00, Th-Sa 14:00-17:00, Su 12:00-15:00",
-                    "details_url": "http://www.santy-cruz-leipzig.eatbu.com",
+                    "details_url": "https://www.santy-cruz-leipzig.eatbu.com",
                     "hints": [
                         "Terminvereinbarung notwendig: nein",
                         "Testung ohne Termin möglich!",
@@ -1355,7 +1267,7 @@
                     "Terminvereinbarung notwendig: nein",
                     "termin_art: Telefon+Internet",
                     "termin_url: www.leipzig-petersbogen.veranstaltungsbutler.de/book#/bookcart?fcourses=mit_termin",
-                    "am Wahlabend, dem 26.09.2021, bis 20 Uhr geöffnet"
+                    "pcr_test: ja"
                 ]
             },
             "geometry": {
@@ -1392,7 +1304,8 @@
                 "opening_hours": "Mo-Sa 09:00-19:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_art: Telefon"
+                    "termin_art: Telefon",
+                    "pcr_test: nein"
                 ]
             },
             "geometry": {
@@ -1454,24 +1367,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.315489166787852, 51.330284915123464]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Podologie am Stünz",
-                "location": "Theodor-Neubauer-Straße 59, 04318 Leipzig",
-                "telephone": "0341/31957416",
-                "opening_hours": "Mo-Fr 08:00-09:00, Mo-Fr 18:00-19:00, Sa-Su 08:00-17:00",
-                "hints": [
-                    "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon",
-                    "pcr_test: nein"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.42229292464272, 51.336207725998435]
             }
         },
         {
@@ -1589,8 +1484,8 @@
             "type": "Feature",
             "properties": {
                 "title": "Corona Testzentrum",
-                "location": "Holzhäuser Straße 10, 04299 Leipzig",
-                "telephone": "0157/37521582",
+                "location": "Holzhäuser Straße 106, 04299 Leipzig",
+                "telephone": "0163/8568942",
                 "opening_hours": "Mo-Su 08:00-20:00",
                 "hints": [
                     "pcr_test: ja",
@@ -1608,7 +1503,7 @@
                 "title": "BestOfTestzentrum",
                 "location": "Bayrischer Platz 1, 04103 Leipzig",
                 "telephone": "0176/31797045",
-                "opening_hours": "Mo-Sa 09:00-20:00, Su 12:00-16:00",
+                "opening_hours": "Mo-Sa 10:00-18:00, Su 10:00-16:00",
                 "hints": [
                     "termin_art: Telefon+E-Mail",
                     "pcr_test: nein"
@@ -1625,11 +1520,11 @@
                 "title": "MVO-Coronatestzentrum Leipzig",
                 "location": "Richard-Wagner-Straße 1, 04109 Leipzig",
                 "telephone": "0341/1270257",
-                "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-18:00, Su 10:00-16:00",
+                "opening_hours": "Mo-Fr 08:00-20:00, Sa 10:00-20:00, Su 10:00-16:00",
                 "hints": [
                     "termin_art: Internet",
                     "termin_url: www.coronafreepass.de/buchen",
-                    "pcr_test: nein"
+                    "pcr_test: ja"
                 ],
                 "details_url": "http://www.coronafreepass.de/buchen"
             },
@@ -1720,7 +1615,7 @@
                 "title": "Testzentrum Gesundheitssportverein Leipzig",
                 "location": "Lessingstraße 1, 04109 Leipzig",
                 "telephone": "0341/4969050",
-                "opening_hours": "Mo 08:00-12:00, Mo 16:00-20:00, Tu-Th 08:00-12:00, Tu-Th 16:00-19:00, Fr 08:00-12:00, Fr 16:00-18:00, Sa 09:00-12:00",
+                "opening_hours": "Mo 10:00-12:00, Mo 16:00-18:00, Tu 09:00-11:00, We 10:00-12:00, We 16:00-18:00, Th 09:00-11:00",
                 "details_url": "https://www.gesundheitssportverein.de",
                 "hints": [
                     "termin_ja: ja",
@@ -1739,9 +1634,11 @@
                 "title": "SC DHfK Leipzig e. V.",
                 "location": "Am Sportforum 10, 04105 Leipzig",
                 "opening_hours": "Mo-Fr 08:00-16:00",
+                "details_url": "mailto:testzentrum@scdhfk.de",
                 "hints": [
                     "termin_ja: ja",
                     "termin_art: E-Mail",
+                    "email: testzentrum@scdhfk.de",
                     "pcr_test: nein"
                 ]
             },
@@ -1749,7 +1646,61 @@
                 "type": "Point",
                 "coordinates": [12.345776319936659, 51.351400170175559]
             }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Heilpraktikerin Katja Nitzsche",
+                "location": "Strümpelstraße, 04289 Leipzig",
+                "telephone": "0341/2405240",
+                "opening_hours_unclassified": "Tests nach vorheriger telefonischer Anmeldung",
+                "opening_hours": null,
+                "hints": [
+                    "termin_ja: ja",
+                    "termin_art: Telefon",
+                    "pcr_test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.427588946686761, 51.305500072267186]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Domos Apotheke",
+                "location": "Ludwigsburger Straße 18, 04209 Leipzig",
+                "telephone": "0341/42056404",
+                "opening_hours": "Mo-Fr 08:00-18:00",
+                "hints": [
+                    "termin_ja: ja",
+                    "termin_art: Telefon",
+                    "pcr_test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.289607249756003, 51.321591534653642]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Familienmedizinisches Zentrum Radowsky",
+                "location": "Grünauer Allee 49, 04209 Leipzig",
+                "telephone": "0341/4127178",
+                "opening_hours_unclassified": "Termine nach Vereinbarung",
+                "opening_hours": null,
+                "details_url": "http://www.hausarzt-gruenau.de",
+                "hints": [
+                    "termin_ja: ja",
+                    "termin_art: Telefon+E-Mail",
+                    "termin_url: www.hausarzt-gruenau.de",
+                    "pcr_test: ja"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.302733458431415, 51.323137196652539]
+            }
         }
-
     ]
 }
