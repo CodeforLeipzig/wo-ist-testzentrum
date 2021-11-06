@@ -36,7 +36,7 @@
                 "title": "Apotheke im Hauptbahnhof",
                 "location": "Willy-Brandt-Platz 5, 04109 Leipzig",
                 "telephone": "0341/1406080",
-                "opening_hours": "Mo-Th 09:00-12:00, Fr 14:00-17:00, Sa 10:00-13:00",
+                "opening_hours": "Mo 16:00-19:00, Tu 09:00-12:00, We 16:00-19:00, Th 09:00-12:00, Fr 14:00-18:00, Sa 10:00-16:00",
                 "details_url": "https://app.no-q.info/apo-hbf-leipzig/checkins",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
@@ -321,7 +321,7 @@
                 "title": "McMedi Apotheke Testzentrum in der Kletterhalle NOLIMIT",
                 "location": "Dessauer Straße 2, 04129 Leipzig",
                 "telephone": "",
-                "opening_hours": "Mo-Fr 08:30-13:00, Sa-Su 10:00-13:00",
+                "opening_hours": "Mo-Fr 08:30-13:00, Mo-Fr 16:00-18:00, Sa-Su 10:00-13:00",
                 "details_url": "https://www.mc-medi-apotheke-testzentrum.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
@@ -531,7 +531,7 @@
                 "title": "Corona-Testambulanz Universitätsklinikum Leipzig",
                 "location": "Liebigstraße 20, 04103 Leipzig",
                 "telephone": "0341/9711549",
-                "opening_hours": "Mo-Fr 07:00-17:00, Sa-So 11:00-17:00",
+                "opening_hours": "Mo-Fr 07:00-17:00, Sa-Su 11:00-17:00",
                 "hints": [
                     "Haus 4",
                     "Terminvereinbarung notwendig: nein",
@@ -590,7 +590,7 @@
                 "title": "ASB-Teststation \"Am Sonnenpark\"",
                 "location": "Mattheuerbogen 6, 04289 Leipzig",
                 "telephone": "",
-                "opening_hours": "Fr 12:00-16:00",
+                "opening_hours": "Mo 08:00-12:00, Tu 12:00-17:00, Fr 12:00-16:00",
                 "hints": [
                     "Zufahrt über Franzosenallee",
                     "Terminvereinbarung notwendig: nein",
@@ -804,23 +804,6 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "Chocolate",
-                "location": "Barfußgäßchen 12, 04109 Leipzig",
-                "telephone": "0341/25696067",
-                "opening_hours": "Mo-Sa 17:00-20:00",
-                "hints": [
-                    "Terminvereinbarung notwendig: nein",
-                    "termin_art: Telefon+Internet",
-                    "pcr_test: nein"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.372243977245251, 51.341050104490627]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "Testzentrum Robert-Koch-Klinikum",
                 "location": "Nikolai-Rumjanzew-Straße 100, 04207 Leipzig",
                 "telephone": "",
@@ -937,7 +920,6 @@
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa 10:00-18:00, Su 10:00-16:00",
                 "hints": [
                     "auf dem Marktplatz",
-                    "Aufgrund des Sturms vorübergehend geschlossen.",
                     "Terminvereinbarung notwendig: nein",
                     "pcr_test: nein"
                 ]
@@ -1429,24 +1411,6 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "Wasserturm GmbH FKK Leipzig",
-                "location": "Torgauer Straße 246, 04347 Leipzig",
-                "telephone": "0341/24168212",
-                "opening_hours": "Mo-Th 11:00-15:00, Fr-Sa 11:00-17:00, Su 11:00-15:00",
-                "hints": [
-                    "Terminvereinbarung notwendig: nein",
-                    "termin_art: Internet",
-                    "pcr_test: nein"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.439517382881791, 51.357692817993737]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
                 "title": "Columbus Apotheke international",
                 "location": "Dresdner Straße 63a, 04317 Leipzig",
                 "telephone": "0341/696890",
@@ -1467,7 +1431,7 @@
                 "title": "CovidZentrum im Gewandhaus",
                 "location": "Augustusplatz 8, 04109 Leipzig",
                 "telephone": "0341/1270257",
-                "opening_hours": "Mo-Su 08:00-18:00",
+                "opening_hours": "Mo 08:00-18:00, Th 08:00-18:00, Su 08:00-18:00",
                 "hints": [
                     "termin_art: Internet",
                     "termin_url: covidzentrum.de/corona-test-leipzig",
