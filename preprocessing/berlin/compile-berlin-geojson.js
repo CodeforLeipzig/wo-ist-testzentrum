@@ -1,8 +1,8 @@
 #!/usr/bin/env node
 "use strict";
 
-const fetch = require('node-fetch');
-const dayjs = require('dayjs');
+import fetch from "node-fetch";
+import dayjs from "dayjs";
 
 const URL = 'https://test-to-go.berlin/wp-admin/admin-ajax.php?action=asl_load_stores&nonce=3a3f19feff&load_all=1&layout=1';
 

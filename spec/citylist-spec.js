@@ -1,5 +1,5 @@
-var fs = require('fs'),
-    path = require('path');
+import fs from "fs";
+import path from "path";
 
 
 function normalizeString(string){
@@ -70,7 +70,7 @@ describe('CityList', function() {
                 key;
             for (var i = 0, n = keys.length; i < n; i++) {
                 key = keys[i];
-                city = cities[key];
+                var city = cities[key];
                 expect(key).toBe(city.id, "Key and id do not match");
             }
         });
