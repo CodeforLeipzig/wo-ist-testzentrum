@@ -1,6 +1,7 @@
 {
   "name": "wo-ist-testzentrum",
   "version": "0.0.1",
+  "type": "module",
   "devDependencies": {
     "colors": "^1.4.0",
     "dayjs": "^1.10.7",
