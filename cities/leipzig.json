@@ -72,7 +72,7 @@
                 "title": "Hirsch Apotheke",
                 "location": "An der Kotsche 1A",
                 "telephone": "0341/9422222",
-                "opening_hours": "Mo-Sa 08:00-10:00, Mo 16:00-18:00, Fr 16:00-18:00",
+                "opening_hours": "Mo-Sa 08:00-10:00, Mo-Sa 16:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "pcr_test: nein"
@@ -1110,7 +1110,7 @@
                     "title": "Santa Cruz (Bar&Restaurant)",
                     "location": "Volckmarstraße 18, 04317 Leipzig",
                     "telephone": "0174/3949336",
-                    "opening_hours": "Mo-Sa 09:00-12:00, Tu 14:00-17:00, Th-Sa 14:00-17:00, Su 12:00-15:00",
+                    "opening_hours": "Mo-Sa 09:00-12:00, Mo-Sa 13:00-18:00, Su 12:00-15:00",
                     "details_url": "https://www.santy-cruz-leipzig.eatbu.com",
                     "hints": [
                         "Terminvereinbarung notwendig: ja",
