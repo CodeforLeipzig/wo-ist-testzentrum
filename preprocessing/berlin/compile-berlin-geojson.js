@@ -4,7 +4,7 @@
 import fetch from "node-fetch";
 import dayjs from "dayjs";
 
-const URL = 'https://test-to-go.berlin/wp-admin/admin-ajax.php?action=asl_load_stores&nonce=3a3f19feff&load_all=1&layout=1';
+const URL = "https://www.direkttesten.berlin/api/test-centers/?page[size]=10000&filter[is_active]=true&filter[is_mobile]=false&filter[is_published]=true";
 
 const NOW_DATE = dayjs().format("DD.MM.YYYY");
 
@@ -13,65 +13,97 @@ const getData = () => {
 };
 
 const weekDayMap = {
-    "mon": "Mo",
-    "tue": "Tu",
-    "wed": "We",
-    "thu": "Th",
-    "fri": "Fr",
-    "sat": "Sa",
-    "sun": "Su"
+    "monday": "Mo",
+    "tuesday": "Tu",
+    "wednesday": "We",
+    "thursday": "Th",
+    "friday": "Fr",
+    "saturday": "Sa",
+    "sunday": "Su"
 };
 
-const convertToOpeningHours = (openingString) => {
-    const data = JSON.parse(openingString);
-    const text = Object.keys(data).reduce((agg, key) => {
-        const value = data[key];
-        if (value === "0" || value === "1"){
+
+// Converts `[{"end":"18:00","start":"09:00"}]` into `09:00-18:00`.
+const concatTimeRanges = (timeRangeArray) => {
+    return timeRangeArray.map(timeRange => {
+        return timeRange.start + "-" + timeRange.end;
+    });
+};
+
+const convertToOpeningHours = (openingHoursObject) => {
+    const text = Object.keys(openingHoursObject).reduce((agg, weekDay) => {
+        const timeRanges = concatTimeRanges(openingHoursObject[weekDay]);
+        if (timeRanges.length == 0) {
             return agg;
         }
-        agg += `${weekDayMap[key]} ${value.join(',')}; `;
+        agg += weekDayMap[weekDay] + " " + timeRanges.join(", ") + "; ";
         return agg;
     }, "");
-    return text.trim().replace(/;$/, '');
+    // Trim trailing semicolon and space
+    return text.trim().replace(/;$/, "");
 };
 
 const appointmentMap = {
-    "mit": "notwendig",
-    "mit_dritt": "notwendig",
-    "möglich": "telefonisch möglich",
-    "moeglich": "möglich",
-    "moeglich_dritt": "möglich",
-    "ohne": "nicht notwendig",
-    "ohne_dritt": "nicht notwendig",
+    "OPTIONAL": "optional",
+    "YES": "notwendig",
+    "NO": "nicht notwendig",
 };
 
-const accessibilityMap = {
-    "mit": "ja",
-    "ohne": "nein",
+const booleanValuesMap = {
+    "true": "ja",
+    "false": "nein",
 };
 
 const convertToHumanReadable = (valuesMap, value) => {
-    return value && valuesMap[value.toLowerCase()] || value;
+    return value && valuesMap[value] || value;
+};
+
+// Prepend "https://" if not present.
+// Trim space and trailing slash if present.
+const normalizeUrl = (url) => {
+    var text;
+    if (url && url.length > 0) {
+        if (url.startsWith("http://") || url.startsWith("https://")) {
+            text = url;
+        } else {
+            text = "https://" + url;
+        }
+        return text.trim().replace(/\/$/, "");
+    }
+    return null;
+};
+
+// Trim "Telefon: " from the start of the text.
+const sanitizePhoneText = (text) => {
+    if (text && text.length > 0) {
+        if (text.startsWith("Telefon: ")) {
+            return text.substring("Telefon: ".length);
+        }
+        return text;
+    }
+    return null;
 };
 
 const convertToGeoJson = (node) => {
+    const attributes = node.attributes;
     const json = {
         "geometry": {
             "coordinates": [
-                parseFloat(node.lng), parseFloat(node.lat)
+                parseFloat(attributes.longitude), parseFloat(attributes.latitude)
             ],
             "type": "Point"
         },
         "properties": {
-            "location": `${node.street} ${node.postal_code} ${node.city}`,
-            "telephone": node.phone || null,
-            "details_url": node.website,
-            "opening_hours": convertToOpeningHours(node.open_hours) || null,
-            "title": node.title,
+            "location": `${attributes.street}, ${attributes.postalCode} ${attributes.city}`,
+            "telephone": sanitizePhoneText(attributes.phone) || null,
+            "details_url": normalizeUrl(attributes.website) || null,
+            "opening_hours": convertToOpeningHours(attributes.openingHours) || null,
+            "title": attributes.name,
             "hints": [
-                `PCR-Nachtestung: ${node.pcr_nachtestung || "nein"}`,
-                `Barrierefreiheit: ${convertToHumanReadable(accessibilityMap, node.barrierefreiheit) || "nein"}`,
-                `Terminbuchung: ${convertToHumanReadable(appointmentMap, node.terminbuchung)}`,
+                `PCR-Nachtestung: ${convertToHumanReadable(booleanValuesMap, attributes.hasConfirmatoryPcr) || "keine Angabe"}`,
+                `Barrierefreiheit: ${convertToHumanReadable(booleanValuesMap, attributes.isAccessible) || "keine Angabe"}`,
+                `Tests für Kinder: ${convertToHumanReadable(booleanValuesMap, attributes.hasChildTesting) || "keine Angabe"}`,
+                `Terminbuchung: ${convertToHumanReadable(appointmentMap, attributes.requiresAppointment) || "keine Angabe"}`,
             ],
         },
         "type": "Feature"
@@ -92,16 +124,15 @@ const isValidEntry = (entry) => {
 };
 
 getData()
-    .then(entries =>
-        entries.map(convertToGeoJson)
-               .filter(isValidEntry)
+    .then(json => json.data.map(convertToGeoJson)
+                           .filter(isValidEntry)
     )
     .then(features => (
         {
             "metadata": {
                 "data_source": {
                     "title": "Stadt Berlin, Stand: " + NOW_DATE,
-                    "url": "https://test-to-go.berlin",
+                    "url": "https://www.direkttesten.berlin",
                 }
             },
             "type": "FeatureCollection",
