@@ -199,7 +199,7 @@
                 "title": "GesundheitsWerkstatt",
                 "location": "Leipziger Straße 88, 04178 Leipzig",
                 "telephone": "0341/46225020",
-                "opening_hours_unclassified": "Montag - Sonntag nach Vereinbarung",
+                "opening_hours_unclassified": "Termine nach Online-Vereinbarung, Öffnungszeiten siehe Website",
                 "opening_hours": null,
                 "details_url": "https://www.schnelltestboehlitz.de",
                 "hints": [
@@ -547,7 +547,7 @@
                 "details_url": "https://www.schnelltestgohlis.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
+                    "termin_art: Internet+Telefon",
                     "termin_url: www.schnelltestgohlis.de",
                     "pcr_test: ja"
                 ]
@@ -818,7 +818,7 @@
                 "location": "Delitzscher Straße 137, 04129 Leipzig",
                 "telephone": "",
                 "details_url": "http://www.corona-testcenter-nord.de",
-                "opening_hours": "Mo-Fr 07:00-11:00, Mo-Fr 15:00-18:30, Sa 07:00-12:00, Su 08:00-11:00",
+                "opening_hours": "Mo-Fr 06:00-18:30, Sa 07:00-13:00, Su 07:00-13:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "pcr_test: ja",
@@ -1032,10 +1032,10 @@
                 "title": "TEAMBRENNER Personalkonzept GmbH",
                 "location": "Ferdinand-Lassalle-Straße 17, 04109 Leipzig",
                 "telephone": "0341/21547510",
-                "opening_hours": "Tu-Fr 08:00-10:00, Tu-Fr 16:00-18:00",
+                "opening_hours": "Mo-Sa 08:00-17:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
+                    "termin_art: Telefon",
                     "pcr_test: nein"
                 ]
             },
@@ -1091,7 +1091,7 @@
                 "title": "Generation of Hope e.V",
                 "location": "Zschortauer Straße 18, 04129 Leipzig",
                 "telephone": "0177/3124955",
-                "opening_hours": "Mo-Fr 08:00-19:00, Sa 10:00-18:00, Su 10:00-16:00",
+                "opening_hours": "Mo-Fr 07:00-19:00",
                 "details_url": "https://www.generation-of-hope.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
@@ -1266,13 +1266,14 @@
                 "title": "Riele Personaldienstleistung GmbH",
                 "location": "Kirschbergstraße 26, 04159 Leipzig",
                 "telephone": "0341/5623269",
-                "opening_hours": "Mo-Fr 09:00-12:00, Mo-Fr 14:00-16:00",
+                "opening_hours": "Mo-Fr 08:30-16:00",
                 "details_url": "mailto:roesner@riele-gmbh.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "termin_art: Telefon+Internet",
                     "termin_url: roesner@riele-gmbh.de",
-                    "pcr_test: nein"
+                    "pcr_test: nein",
+                    "Weitere Termin, auch samstags, sind nach vorheriger Absprache möglich"
                 ]
             },
             "geometry": {
@@ -1436,7 +1437,7 @@
                 "title": "BestOfTestzentrum",
                 "location": "Bayrischer Platz 1, 04103 Leipzig",
                 "telephone": "0176/31797045",
-                "opening_hours": "Mo-Sa 10:00-18:00, Su 10:00-16:00",
+                "opening_hours": "Mo-Sa 09:00-18:00, Su 10:00-16:00",
                 "hints": [
                     "termin_art: Telefon+E-Mail",
                     "pcr_test: ja"
