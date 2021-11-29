@@ -26,13 +26,24 @@ const weekDayMap = {
 // Converts `[{"end":"18:00","start":"09:00"}]` into `09:00-18:00`.
 const concatTimeRanges = (timeRangeArray) => {
     return timeRangeArray.map(timeRange => {
+        if (timeRange.start === "") {
+            throw "'start' property is empty.";
+        }
+        if (timeRange.end === "") {
+            throw "'end' property is empty.";
+        }
         return timeRange.start + "-" + timeRange.end;
     });
 };
 
 const convertToOpeningHours = (openingHoursObject) => {
     const text = Object.keys(openingHoursObject).reduce((agg, weekDay) => {
-        const timeRanges = concatTimeRanges(openingHoursObject[weekDay]);
+        var timeRanges = [];
+        try {
+            timeRanges = concatTimeRanges(openingHoursObject[weekDay]);
+        } catch (e) {
+            throw weekDay + " -> " + e;
+        }
         if (timeRanges.length == 0) {
             return agg;
         }
@@ -86,6 +97,13 @@ const sanitizePhoneText = (text) => {
 
 const convertToGeoJson = (node) => {
     const attributes = node.attributes;
+    var openingHours;
+    try {
+        openingHours = convertToOpeningHours(attributes.openingHours);
+    } catch (e) {
+        // Opening hours are dropped if they cannot be parsed.
+        console.error("'" + attributes.name + "' -> " + e);
+    }
     const json = {
         "geometry": {
             "coordinates": [
@@ -97,7 +115,7 @@ const convertToGeoJson = (node) => {
             "location": `${attributes.street}, ${attributes.postalCode} ${attributes.city}`,
             "telephone": sanitizePhoneText(attributes.phone) || null,
             "details_url": normalizeUrl(attributes.website) || null,
-            "opening_hours": convertToOpeningHours(attributes.openingHours) || null,
+            "opening_hours": openingHours || null,
             "title": attributes.name,
             "hints": [
                 `PCR-Nachtestung: ${convertToHumanReadable(booleanValuesMap, attributes.hasConfirmatoryPcr) || "keine Angabe"}`,
