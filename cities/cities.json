@@ -7,6 +7,10 @@
         "id": "duesseldorf",
         "label": "Düsseldorf"
     },
+    "halle": {
+        "id": "halle",
+        "label": "Halle (Saale)"
+    },
     "kalletal": {
         "id": "kalletal",
         "label": "Kalletal"
