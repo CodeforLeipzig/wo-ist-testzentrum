@@ -9,7 +9,8 @@
     },
     "metadata": {
         "data_source": {
-          "title": "Stadt Halle, Stand: 08.12.2021, per Excel zugesendet"
+          "title": "Stadt Halle, Stand: 08.12.2021",
+          "url": " https://m.halle.de/de/Verwaltung/Gesundheit/Corona-Virus/Hinweise-zu-Testmoeg-10474/m.aspx"
         }
     },
     "features": [{
@@ -102,7 +103,7 @@
                 "title": "MS Gesund bleiben",
                 "location": "Salzmünder Str. 77a, 06108 Halle",
                 "telephone": "",
-                "opening_hours": "Mo-Fr: 08:00-18:00, Sa 08:00-20:00, Su: 09:00-19:00",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-20:00, Su 09:00-19:00",
                 "hints": [
                 ]
             },
@@ -158,7 +159,7 @@
                 "title": "Philipp Knabe",
                 "location": "Mansfelder Str. 5, 06108 Halle",
                 "telephone": "",
-                "opening_hours": "Mo-Fr: 08:00-20:00, Sa 08:00-24:00, Su 09:00-20:00",
+                "opening_hours": "Mo-Fr 08:00-20:00, Sa 08:00-24:00, Su 09:00-20:00",
                 "hints": [
                 ]
             },
