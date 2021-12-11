@@ -44,8 +44,8 @@
         },{
             "type": "Feature",
             "properties": {
-                "title": "Gründler Medical",
-                "location": "Teststation in der Eisburg / Hallmarkt, 06108 Halle",
+                "title": "Gründler Medical, Teststation in der Eisburg",
+                "location": "Hallmarkt, 06108 Halle",
                 "telephone": "",
                 "opening_hours": "Tu 08:00-12:00, Tu 14:00-18:00, Th 08:00-12:00, Th 14:00-18:00, Fr 08:00-12:00, Fr 14:00-18:00, Sa-Su 10:00-18:00",
                 "hints": [
@@ -59,7 +59,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Familie Ewald, Teststation 38",
-                "location": "Große Ullrichstraße 38, 06108 Halle",
+                "location": "Große Ulrichstraße 38, 06108 Halle",
                 "telephone": "",
                 "opening_hours": "Mo-Su 10:00-22:00",
                 "hints": [
@@ -101,7 +101,7 @@
             "type": "Feature",
             "properties": {
                 "title": "MS Gesund bleiben",
-                "location": "Salzmünder Str. 77a, 06108 Halle",
+                "location": "Salzmünder Str. 77a, 06120 Halle",
                 "telephone": "",
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-20:00, Su 09:00-19:00",
                 "hints": [
@@ -115,7 +115,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Mc Fit Fitnessstudio",
-                "location": "Merseburgerstr. 73, 06108 Halle",
+                "location": "Merseburgerstr. 73, 06112 Halle",
                 "telephone": "",
                 "opening_hours": "Mo-Fr 10:00-20:00, Sa-Su 14:00-20:00",
                 "hints": [
@@ -129,7 +129,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Lewida ambulante Dienste",
-                "location": "Am Gastronom 17, 06108 Halle",
+                "location": "Am Gastronom 17, 06124 Halle",
                 "telephone": "",
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa 08:00-20:00, Su 09:00-20:00",
                 "hints": [
@@ -171,7 +171,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Club Stellwerk",
-                "location": "Camillo Irmscher Str.9, 06108 Halle",
+                "location": "Camillo Irmscher Str. 9, 06132 Halle",
                 "telephone": "",
                 "opening_hours": "Mo-Th 00:00-24:00, Fr 20:00-00:00, Sa 00:00-02:00, Sa 20:00-00:00, Su 00:00-24:00",
                 "hints": [
@@ -200,7 +200,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Medicals GmbH",
-                "location": "Steintor 18, 06108 Halle",
+                "location": "Steintor 18, 06112 Halle",
                 "telephone": "",
                 "opening_hours": "Mo-Fr 06:00-12:00, Mo-Fr 17:00-21:00, Sa 06:00-12:00, Su 08:00-14:00",
                 "hints": [
@@ -214,11 +214,11 @@
             "type": "Feature",
             "properties": {
                 "title": "Physiotherapie Schween",
-                "location": "Mühlweg 41, 06108 Halle",
+                "location": "Mühlweg 41, 06114 Halle",
                 "telephone": "",
                 "opening_hours": "Mo-Fr 08:00-17:00",
                 "hints": [
- 	           "Sa-So : nach Vereinbarung"
+ 	           "Sa-Su : nach Vereinbarung"
                 ]
             },
             "geometry": {
@@ -252,6 +252,258 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.010537497907476, 51.478017300000005]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "Hypoxi, Starpark, Parkplatz Flaconi",
+                "location": "Polarisstraße 1, 06116 Halle",
+                "telephone": "",
+                "opening_hours": "Mo 07:30-11:00, Mo 14:30-17:30, Th 07:30-11:00, Th 14:30-17:30",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.074618339538574, 51.48920636145133]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "Hypoxi, Starpark, Parkplatz Neovita",
+                "location": "Orionstraße 6, 06116 Halle",
+                "telephone": "",
+                "opening_hours": "Mo 11:30-13:45, Tu-We 13:00-15:30, Th 11:30-13:45, Fr 13:00-15:30",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.0785745, 51.4828397]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "Hypoxi, Starpark, Parkplatz Home 24",
+                "location": "Orionstraße 12, 06116 Halle",
+                "telephone": "",
+                "opening_hours": "Tu 14:00-15:30, Fr 14:00-15:30",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.0692267, 51.4886566]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "Hypoxi, Südstadtring/Ecke Paul Suhr Str",
+                "location": "Südstadtring/Ecke Paul Suhr Str., 06130 Halle",
+                "telephone": "",
+                "opening_hours": "Mo-Su 12:00-18:00",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.9606343, 51.4489501]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "Hypoxi, Treff Neustadt",
+                "location": "Richard-Paulick-Str. 31, 06124 Halle",
+                "telephone": "",
+                "opening_hours": "Mo-Su 12:00-18:00",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.9300618, 51.4767149]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "Hypoxi, Hauptbahnhof",
+                "location": "Hans-Dietrich-Genscher-Platz, 06112 Halle",
+                "telephone": "",
+                "opening_hours": "Mo-Su 07:00-19:00",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.987610534731187, 51.477129000000005]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "Hypoxi, Starpark Smart Press Shop (Porsche)",
+                "location": "Polarisstraße 3, 06116 Halle",
+                "telephone": "",
+                "opening_hours": "Mo-Su 00:00-24:00",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.0794713, 51.4892526]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "Ironbody, Edekacenter",
+                "location": "Weissenfelser Str. 52, 06132 Halle",
+                "telephone": "",
+                "opening_hours": "Mo-Fr 09:00-18:00, Sa 10:00-15:00",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.972900980786658, 51.4369945]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "Ironbody, BWG Erlebnishaus",
+                "location": "Holzplatz 10, 06110 Halle",
+                "telephone": "",
+                "opening_hours": "We-Fr 14:00-19:00, Sa-Su 10:00-19:00",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.9568206, 51.480012]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "Ironbody",
+                "location": "Riebeckplatz, 06110 Halle",
+                "telephone": "",
+                "opening_hours": "Mo-Fr 08:00-17:00, Sa-Su 09:00-15:00",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.982811268447868, 51.4786646]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "A. Hanke",
+                "location": "Steintor 18, 06112 Halle",
+                "telephone": "",
+                "opening_hours": "Mo-Th 07:00-12:00, Mo-Th 15:00-18:00, Fr 07:00-18:00, Sa 08:30-15:00, Su 08:30-13:00",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.978945, 51.4883301]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "PS Solution, Volkspark",
+                "location": "Gosenstr. 8, 06114 Halle",
+                "telephone": "",
+                "opening_hours": "Mo-Fr 07:00-18:00, Sa 14:00-21:00, Su 14:00-18:00",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.957663729921956, 51.49826255000001]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "H.i. Glove & Service, Mömax",
+                "location": "Zscherbener Landstr. 3, 06126 Halle",
+                "telephone": "",
+                "opening_hours": "Mo-Sa 08:00-19:00, Su 10:00-19:00",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.89450459999999, 51.46993985]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "Stratag",
+                "location": "Regensburger Str. 106, 06132 Halle",
+                "telephone": "",
+                "opening_hours": "Mo 08:30-19:00, Tu 08:30-14:00, We 08:30-19:00, Th 08:30-14:00, Fr 08:30-19:00, Sa 10:00-14:00, Su 16:00-19:00",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.999183893203735, 51.42239985071581]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "Hypoxi, Zoo",
+                "location": "Reilstr. 57, 06114 Halle",
+                "telephone": "",
+                "opening_hours": "Mo-Su 09:00-13:00, Mo-Su 14:00-18:00",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.9650296, 51.5067993]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "Club Event Halle, EKZ",
+                "location": "Heideringpassage, 06120 Halle",
+                "telephone": "",
+                "opening_hours": "Mo-Sa 07:00-19:00, Su 14:00-18:00",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.9138217, 51.5162186]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "Eiscafe Softi",
+                "location": "Leipziger Str. 83, 06120 Halle",
+                "telephone": "",
+                "opening_hours": "Mo-Sa 06:00-19:00, Su 14:00-18:00",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.976749, 51.4798542]
+            }
+        },{
+            "type": "Feature",
+            "properties": {
+                "title": "Yoonit GmbH",
+                "location": "Gottfried Lindner Str. Ammendorf",
+                "telephone": "",
+                "opening_hours": "Mo-Fr 05:30-11:30, Mo-Fr 14:00-17:00, Sa-Su 10:00-20:00",
+                "hints": [
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [11.9929873, 51.437221]
             }
         }
     ]
