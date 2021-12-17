@@ -34,7 +34,7 @@
             "type": "Feature",
             "properties": {
                 "title": "Corona-Schnelltestzentrum der S.I.A. Dienstleistungen",
-                "location": "Gorkistraße Ecke Löbauer, 04347 Leipzig",
+                "location": "Gorkistraße Ecke Löbauer Straße, 04347 Leipzig",
                 "telephone": "0173/1981114",
                 "opening_hours": "Mo-Sa 09:00-18:00, Su 10:00-16:00",
                 "hints": [
@@ -46,6 +46,94 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.405417005960047, 51.351769003734212]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "BestOfTestzentrum Bayrischer Platz",
+                "location": "Bayrischer Platz 1, 04103 Leipzig",
+                "telephone": "",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa 10:00-18:00, Su 10:00-16:00",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "pcr_test: ja"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.350228992841455, 51.366241002422228]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Das Corona Schnelltestzentrum",
+                "location": "Waldplatz, 04109 Leipzig",
+                "telephone": "",
+                "details_url": "http://www.dascoronaschnelltestzentrum.de",
+                "opening_hours": "Mo-Th 08:00-18:00, Fr 08:00-20:00, Sa 10:00-20:00, Su 10:00-16:00",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "termin_art: Internet",
+                    "termin_url: www.dascoronaschnelltestzentrum.de",
+                    "email: info@dascoronaschnelltestzentrum.de",
+                    "pcr_test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.359026003279762, 51.342343999011995]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Corona Schnelltestzentrum Sachsen Park",
+                "location": "Handelsstraße Ecke Walter-Köhn-Straße, 04356 Leipzig",
+                "telephone": "",
+                "details_url": "http://www.schnelltest-sachsenpark.de",
+                "opening_hours": "Mo-Sa 09:00-18:00",
+                "hints": [
+                    "Terminvereinbarung notwendig: ja",
+                    "termin_art: Internet",
+                    "termin_url: www.schnelltest-sachsenpark.de",
+                    "pcr_test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.400308005004081, 51.400868999241332]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Testzentrum Stötteritz",
+                "location": "Papiermühlstraße Ecke Schönbachstraße, 04299 Leipzig",
+                "telephone": "0341/22703156",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa 09:00-16:00, Su 10:00-16:00",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "pcr_test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.412884003236654, 51.324400001535579]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "BestOfTestzentrum Huygensplatz",
+                "location": "Huygensplatz, 04159 Leipzig",
+                "telephone": "0157/35155017",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa 10:00-16:00, Su 12:00-18:00",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "feiertags 12:00-18:00",
+                    "pcr_test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.350216995517547, 51.366241999077914]
             }
         }, {
             "type": "Feature",
@@ -802,13 +890,13 @@
                 "location": "Nikolai-Rumjanzew-Straße 100, 04207 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Tu 07:30-15:00, Th 07:30-15:00, We 10:00-17:00, Fr 10:00-17:00",
-                "details_url": "https://www.sanktgeorg.de",
+                "details_url": "https://www.sanktgeorg.de/klinikum-st-georg-krankenhaus-medizin-in-leipzig/corona/corona-testzentren.html",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "termin_art: Internet",
                     "PCR-Test nach positivem Antigen-Test möglich",
                     "pcr_test: ja",
-                    "termin_url: www.sanktgeorg.de"
+                    "termin_url: www.sanktgeorg.de/klinikum-st-georg-krankenhaus-medizin-in-leipzig/corona/corona-testzentren.html"
                 ]
             },
             "geometry": {
@@ -844,6 +932,7 @@
                 "opening_hours": "Mo-Fr 06:00-18:30, Sa 07:00-13:00, Su 07:00-13:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
+                    "PCR-Tests möglich am 24.12.2021 07:00-11:00, 27.12.-30.12.2021 06:00-18:30, 31.12.2021 07:00-11:00 Uhr, 02.01.2022 von 07:00-11:00",
                     "pcr_test: ja",
                     "termin_art: Internet",
                     "termin_url: www.corona-testcenter-nord.de"
@@ -1066,28 +1155,6 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.379986391701388, 51.342300502058414]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "title": "Corona-Testzentrum in der QUARTERBACK Immobilien ARENA",
-                "location": "Am Sportforum 2, 04105 Leipzig",
-                "telephone": "",
-                "opening_hours": null,
-                "opening_hours_unclassified": "Im Rahmen stattfindender Veranstaltungen geöffnet, weitere Informationen finden Sie auf der Webseite.",
-                "details_url": "http://www.quarterback-immobilien-arena.de/corona-testzentrum",
-                "hints": [
-                    "Terminvereinbarung notwendig: nein",
-                    "termin_art: Internet",
-                    "pcr_test: nein",
-                    "Vorabregistrierung über https://besafe-leipzig.de",
-                    "termin_url: http://www.quarterback-immobilien-arena.de/corona-testzentrum",
-                    "Im Rahmen stattfindender Veranstaltungen geöffnet, weitere Informationen finden Sie auf der Webseite."
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [12.371997636785641, 51.342299664123104]
             }
         }, {
             "type": "Feature",
@@ -1349,11 +1416,12 @@
                 "location": "Brühl 1, 04109 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Sa 09:00-17:30",
-                "details_url": "https://www.hoefe-am-bruehl.de/",
+                "details_url": "https://www.hoefe-am-bruehl.de/news-detail/Mein-Corona-Schnelltest-in-den-H%C3%B6fen-am-Br%C3%BChl",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "termin_art: Internet",
                     "pcr_test: nein",
+                    "termin_url: www.hoefe-am-bruehl.de/news-detail/Mein-Corona-Schnelltest-in-den-H%C3%B6fen-am-Br%C3%BChl",
                     "mit Termin für kostenlose Tests"
                 ]
             },
@@ -1424,7 +1492,7 @@
         {
             "type": "Feature",
             "properties": {
-                "title": "BestOfTestzentrum",
+                "title": "BestOfTestzentrum Bayrischer Platz",
                 "location": "Bayrischer Platz 1, 04103 Leipzig",
                 "telephone": "",
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa 10:00-18:00, Su 10:00-16:00",
@@ -1524,11 +1592,12 @@
                 "opening_hours": "Mo-Fr 06:00-13:30, Mo-Fr 14:30-18:30, Sa 10:00-18:00, Su 11:00-18:00",
                 "details_url": "https://corona-tzm-paunsdorf.covidservicepoint.de/",
                 "hints": [
-                    "termin_ja: ja",
+                    "termin_ja: nein",
                     "termin_art: Internet",
                     "termin_url: corona-tzm-paunsdorf.covidservicepoint.de",
                     "email: testzentrum.paunsdorf@gmx.de",
-                    "pcr_test: nein"
+                    "pcr_test: nein",
+                    "letzte Testung 18:00 Uhr"
                 ]
             },
             "geometry": {
@@ -1619,7 +1688,7 @@
                 "details_url": "http://www.hausarzt-gruenau.de",
                 "hints": [
                     "termin_ja: ja",
-                    "termin_art: Telefon+E-Mail",
+                    "termin_art: Telefon+E-Mail+Internet",
                     "termin_url: www.hausarzt-gruenau.de",
                     "pcr_test: ja"
                 ]
@@ -1672,7 +1741,7 @@
                     "termin_art: Internet",
                     "pcr_test: ja",
                     "termin_url: www.terminland.de/schlehenapotheke",
-                    "Ein bestätigender PCR-Test kann nach einem positiven Antigen-Schnelltest erfolgen"
+                    "Ein bestätigender PCR-Test kann nach einem positiven Antigen-Schnelltest durchgeführt werden"
                 ]
             },
             "geometry": {
@@ -1709,7 +1778,7 @@
                 "hints": [
                     "termin_ja: nein",
                     "pcr_test: nein",
-                    "termin_art: Telefon+E-Mail",
+                    "termin_art: Telefon+E-Mail+Internet",
                     "email: info@corona-testen-leipzig.de",
                     "termin_url: www.corona-testen-leipzig.de"
                 ]
@@ -1836,9 +1905,9 @@
                 "opening_hours": "Mo 05:00-09:00, Mo 13:00-17:00, Tu-Fr 13:00-17:00",
                 "details_url": "http://www.corona-schnelltestzentrum-leipzig.com",
                 "hints": [
-                    "termin_ja: ja",
+                    "termin_ja: nein",
                     "pcr_test: nein",
-                    "termin_art: Telefon, E-Mail",
+                    "termin_art: Telefon+E-Mail+Internet",
                     "email: info@mbg-leipzig.de",
                     "termin_url: www.corona-schnelltestzentrum-leipzig.com"
                 ]
@@ -1846,6 +1915,96 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [12.438519563858037, 51.368194211525001]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Schnelltest Lagerhof",
+                "location": "Lagerhofstraße 2, 04103 Leipzig",
+                "telephone": "0151/29112649",
+                "opening_hours": "Mo-Fr 06:00-11:00, Mo-Fr 15:00-20:00, Sa 10:00-20:00, Su 14:00-18:00",
+                "details_url": "https://app.no-q.info/testzentrum-lagerhof/checkins",
+                "hints": [
+                    "termin_ja: nein",
+                    "pcr_test: nein",
+                    "termin_art: E-Mail+Internet",
+                    "email: lagerhof@corona-testen-leipzig.de",
+                    "termin_url: app.no-q.info/testzentrum-lagerhof/checkins"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.392264500115175, 51.346764566807273]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Fernbus-Terminal",
+                "location": "Willy-Brandt-Platz 7, 04109 Leipzig",
+                "telephone": "01522/391065",
+                "opening_hours": "Mo-Su 07:00-20:00",
+                "hints": [
+                    "termin_ja: nein",
+                    "pcr_test: ja",
+                    "termin_art: Internet"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.381909906906406, 51.34398140217413]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "AB Testzentrum",
+                "location": "Dessauer Straße 24, 04129 Leipzig",
+                "telephone": "0163/6756170",
+                "opening_hours": "Mo-Fr 05:30-20:00, Sa-Su 08:00-16:00",
+                "hints": [
+                    "termin_ja: nein",
+                    "pcr_test: nein",
+                    "termin_art: Telefon+E-Mail",
+                    "24.12./31.12.2021 08:00-16:00 Uhr, 01.01.2022 geschlossen"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.390246936505749, 51.359182620005811]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Testzentrum Grünau",
+                "location": "Stuttgarter Allee 2, 04209 Leipzig",
+                "telephone": "0341/22703156",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa 09:00-16:00, Su 10:00-16:00",
+                "hints": [
+                    "termin_ja: nein",
+                    "pcr_test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.29302995868693, 51.314052170543448]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Merkur Apotheke",
+                "location": "Lützner Straße 145, 04179 Leipzig",
+                "telephone": "0341/484970",
+                "opening_hours": "Mo-Fr 12:00-18:00",
+                "details_url": "http://www.merkur-apotheke-leipzig.de",
+                "hints": [
+                    "termin_ja: nein",
+                    "pcr_test: nein",
+                    "24.12.2021 + 31.12.2021 08:00-12:00",
+                    "termin_url: www.merkur-apotheke-leipzig.de"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [12.316029023352147, 51.33042783249298]
             }
         }
     ]
