@@ -21,8 +21,10 @@ var nowGroup = L.featureGroup();
 var todayGroup = L.featureGroup();
 var otherGroup = L.featureGroup();
 var unclassifiedGroup = L.featureGroup();
+var attimeGroup = L.featureGroup();
 
 var now = new Date();
+var attime = null;
 var TIME_NOW = [now.getHours(), now.getMinutes()];
 var DAY_INDEX = (now.getDay() + 6) % 7;  // In our data, first day is Monday
 var DAY_NAMES = ['Sonntag', 'Montag', 'Dienstag', 'Mittwoch', 'Donnerstag', 'Freitag', 'Samstag'];
@@ -30,6 +32,7 @@ var DEFAULT_MARKET_TITLE = 'Corona-Testzentrum';
 
 L.ExtraMarkers.Icon.prototype.options.prefix = 'fa';
 var nowIcon = L.ExtraMarkers.icon({markerColor: 'green', icon: 'fa-vial'});
+var attimeIcon = L.ExtraMarkers.icon({markerColor: 'yellow', icon: 'fa-vial'});
 var todayIcon = L.ExtraMarkers.icon({markerColor: 'green-dark', icon: 'fa-vial'});
 var otherIcon = L.ExtraMarkers.icon({markerColor: 'cyan', icon: 'fa-vial'});
 var unclassifiedIcon = L.ExtraMarkers.icon({markerColor: 'purple', icon: 'fa-vial'});
@@ -102,7 +105,7 @@ function getNextMarketDateHtml(nextChange) {
  * Moves the map to its initial position.
  */
 function positionMap() {
-    var bounds = L.featureGroup([nowGroup, todayGroup, otherGroup, unclassifiedGroup]).getBounds();
+    var bounds = L.featureGroup([nowGroup, todayGroup, otherGroup, unclassifiedGroup, attimeGroup]).getBounds();
     map.fitBounds(bounds);
 }
 
@@ -123,11 +126,13 @@ function getCity(cityId) {
 function updateControls() {
     var gotNow = nowGroup.getLayers().length > 0;
     var gotToday = todayGroup.getLayers().length > 0;
-    $('#now').prop('disabled', !gotNow);
-    $('#now').prop('checked', gotNow);
-    $('#today').prop('disabled', !gotToday);
-    $('#today').prop('checked', !gotNow && gotToday);
-    $('#other').prop('checked', !gotNow && !gotToday);
+    var gotAtTime = attimeGroup.getLayers().length > 0;
+    $('#now').prop('disabled', !gotNow || !gotAtTime);
+    $('#now').prop('checked', gotNow && !gotAtTime);
+    $('#today').prop('disabled', !gotToday || gotAtTime);
+    $('#today').prop('checked', !gotNow && gotToday && !gotAtTime);
+    $('#other').prop('checked', !gotNow && !gotToday && !gotAtTime);
+    $('#attime').prop('checked', gotAtTime);
 }
 
 
@@ -140,8 +145,7 @@ function updateLayers() {
     map.removeLayer(todayGroup);
     map.removeLayer(otherGroup);
     map.removeLayer(unclassifiedGroup);
-    map.addLayer(nowGroup);
-    map.addLayer(unclassifiedGroup);
+    map.removeLayer(attimeGroup);
     switch (value) {
         case "today":
             map.addLayer(todayGroup);
@@ -150,6 +154,12 @@ function updateLayers() {
             map.addLayer(todayGroup);
             map.addLayer(otherGroup);
             break;
+        case "attime":
+            map.addLayer(attimeGroup);
+            break;
+        default:
+            map.addLayer(nowGroup);
+            map.addLayer(unclassifiedGroup);
     }
 }
 
@@ -175,9 +185,9 @@ function openingRangeContainsTime(openingRange, date) {
  * Returns a object with the next opening date or opening ranges if available.
  * Returns null if no next opening date or ranges are available.
  */
-function getOpeningTimes(openingHoursStrings) {
-    var monday = dayjs().startOf("isoweek").toDate();
-    var sunday = dayjs().endOf("isoweek").toDate();
+function getOpeningTimes(openingHoursStrings, givenDate) {
+    var monday = (givenDate && new Date(givenDate.toDateString())) || dayjs().startOf("isoweek").toDate();
+    var sunday = (givenDate && new Date(givenDate.getFullYear(), givenDate.getMonth(), givenDate.getDate()+1)) || dayjs().endOf("isoweek").toDate();
     var options = {
         "address" : {
             "country_code" : "de"
@@ -227,6 +237,7 @@ function updateMarkers(featureCollection) {
     todayGroup.clearLayers();
     otherGroup.clearLayers();
     unclassifiedGroup.clearLayers();
+    attimeGroup.clearLayers();
     L.geoJson(featureCollection, {
         onEachFeature: initMarker
     });
@@ -244,14 +255,18 @@ function initMarker(feature) {
     if (openingHoursStrings === null || openingHoursStrings.length === 0) {
         openingHoursUnclassified = properties.opening_hours_unclassified;
     } else {
-        var openingTimes = getOpeningTimes(openingHoursStrings);
+        var openingTimes = getOpeningTimes(openingHoursStrings, attime);
         /* If no opening hours or a next date, show warning. */
         if (openingTimes === null) {
             timeTableHtml = '<p><strong>Achtung!</strong> Für dieses Testzentrum sind uns keine Öffnungszeiten bekannt. Bitte informieren Sie sich vor einem Besuch auf der Webseite des Anbieters über Öffnungszeiten!</p>';
         }
         /* Are there opening hours in the current week? */
         else if (openingTimes.hasOwnProperty('intervals')) {
-            todayOpeningRange = getOpeningRangeForDate(openingTimes.intervals, now);
+            if (attime) {
+                todayOpeningRange = getOpeningRangeForDate(openingTimes.intervals, attime);
+            } else {
+                todayOpeningRange = getOpeningRangeForDate(openingTimes.intervals, now);
+            }
             timeTableHtml = getTimeTableHtml(openingTimes.intervals);
         }
         /* Is there a next market date? */
@@ -314,12 +329,19 @@ function initMarker(feature) {
     popupHtml += hintStr;
     marker.bindPopup(popupHtml);
     if (todayOpeningRange !== undefined) {
-        marker.setIcon(todayIcon);
-        todayGroup.addLayer(marker);
+        if (attime !== null) {
+            if (openingRangeContainsTime(todayOpeningRange, attime)) {
+                marker.setIcon(attimeIcon);
+                attimeGroup.addLayer(marker);
+            }
+        } else {
+            marker.setIcon(todayIcon);
+            todayGroup.addLayer(marker);
 
-        if (openingRangeContainsTime(todayOpeningRange, now)) {
-            marker.setIcon(nowIcon);
-            nowGroup.addLayer(marker);
+            if (openingRangeContainsTime(todayOpeningRange, now)) {
+                marker.setIcon(nowIcon);
+                nowGroup.addLayer(marker);
+            }
         }
     } else {
         if (openingHoursUnclassified !== undefined) {
@@ -438,7 +460,8 @@ function setCity(cityID, createNewHistoryEntry) {
     if (filename === CITY_LIST_API_URL) {
         return loadDefaultCity(false);
     }
-    $.getJSON(filename, function(json) {
+
+    const handleGeoJson = (json) => {
         var cityName = getCity(cityID).label;
         updateDataSource(cityName, json.metadata.data_source);
         updateMarkers(json);
@@ -450,12 +473,18 @@ function setCity(cityID, createNewHistoryEntry) {
 
         // Update drop down but avoid recursion
         $('#dropDownCitySelection').val(cityID).trigger('change', true);
-    }).fail(function() {
-        console.log('Failure loading "' + filename + '".');
-        if (cityID !== DEFAULT_CITY_ID) {
-            console.log('Loading default city "' + DEFAULT_CITY_ID +
-                        '" instead.');
-            loadDefaultCity(createNewHistoryEntry);
+    };
+
+    $.getJSON(filename, (json) => handleGeoJson(json)).fail(function(e) {
+        if (e.responseText != null) {
+            handleGeoJson(e.responseText)
+        } else {
+            console.log('Failure loading "' + filename + '".');
+            if (cityID !== DEFAULT_CITY_ID) {
+                console.log('Loading default city "' + DEFAULT_CITY_ID +
+                            '" instead.');
+                loadDefaultCity(createNewHistoryEntry);
+            }
         }
     });
 }
@@ -565,10 +594,7 @@ $(document).ready(function() {
     // add locator
     L.control.locate({keepCurrentZoomLevel: true}).addTo(map);
 
-    // Populate dropdown
-    loadCities().fail(function(e) {
-        console.log("loadCities(); failed: ", e);
-    }).done(function(cities) {
+    const handleCities = (cities) => {
         // cache the results
         cityDirectory = cities;
         $.each(cityDirectory, function(key, value) {
@@ -598,8 +624,46 @@ $(document).ready(function() {
         dropDownCitySelection.select2('close');
 
         setCity(getHashCity(), false);
-    });
+    };
+
+    // Populate dropdown
+    loadCities().fail(function(e) {
+        if (e.responseText != null) {
+            handleCities(JSON.parse(e.responseText));
+        } else {
+            console.log("loadCities(); failed: ", e);
+        }
+    }).done(handleCities);
 
     $('#btnToggleHeader').click(toggleHeader);
     fixMapHeight();
+
+    const addDatePickerListener = () => {
+        const instance = flatpickr("#datepicker", {
+            "enableTime": true,
+            "locale": "de",
+            "altInput": true,
+            "altFormat": "d.m.Y H:i",
+            "dateFormat": "Y-m-d H:i",
+        });
+        instance.config.onClose.push((e) => {
+            attime = e[0]
+            map.invalidateSize();
+            setCity(getHashCity(), false);
+            updateLayers();
+        });
+    };
+
+    if ($('#attime')[0].checked) {
+        addDatePickerListener();
+    }
+
+    $('#attime').change((e) => {
+        if ($('#attime')[0].checked) {
+            const picker = $('#datepicker')[0];
+            addDatePickerListener();
+        } else {
+            const picker = $('#datepicker')[0];
+        }
+    })
 });
