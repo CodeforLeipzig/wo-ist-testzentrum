@@ -2,6 +2,7 @@
 
 A small visualization of the Corona test centers in different cities.
 
+![Screenshot of the website (showing Leipzig)](gfx/website-screenshot-leipzig.png)
 
 # Updating data
 
