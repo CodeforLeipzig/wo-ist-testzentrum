@@ -1,7 +1,7 @@
 {
   "metadata": {
     "data_source": {
-      "title": "Stadt Berlin, Stand: 21.12.2021",
+      "title": "Stadt Berlin, Stand: 31.12.2021",
       "url": "https://www.direkttesten.berlin"
     }
   },
@@ -117,6 +117,29 @@
         "hints": [
           "PCR-Nachtestung: keine Angabe",
           "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: nicht notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3928,
+          52.5123
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Mohrenstraße 30, 10117 Berlin",
+        "telephone": null,
+        "details_url": "https://www.stadtapotheke-berlin.de",
+        "opening_hours": "Fr 08:00-19:00; Mo 08:00-18:00; Tu 08:00-18:00; Sa 10:00-19:00; Th 08:00-18:00; We 08:00-18:00",
+        "title": "10117 Testzentrum Gendarmenmarkt",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: nicht notwendig"
         ]
@@ -841,6 +864,29 @@
     {
       "geometry": {
         "coordinates": [
+          13.3796,
+          52.51478
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Behrenstraße 72, 10117 Berlin",
+        "telephone": null,
+        "details_url": "https://covid-testservice.de/behrenstrasse",
+        "opening_hours": "Fr 07:00-19:00; Mo 07:00-19:00; Tu 07:00-19:00; Sa 07:00-19:00; Th 07:00-19:00; We 07:00-19:00",
+        "title": "Adlon Kempinski Teststation Behrenstraße",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.42295,
           52.49058
         ],
@@ -1045,6 +1091,29 @@
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: nicht notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.4028,
+          52.52899
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Linienstraße 71, 10119 Berlin",
+        "telephone": null,
+        "details_url": null,
+        "opening_hours": "Fr 07:00-21:00; Mo 07:00-21:00; Su 10:00-21:00; Tu 07:00-21:00; Sa 10:00-21:00; Th 07:00-21:00; We 07:00-21:00",
+        "title": "AM Corona Testzentrum Linienstraße",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
         ]
       },
       "type": "Feature"
@@ -1420,6 +1489,30 @@
     {
       "geometry": {
         "coordinates": [
+          13.41395,
+          52.55165
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Schönhauser Allee 108, 10439 Berlin",
+        "telephone": null,
+        "details_url": "https://www.aprtestzentrum.de",
+        "opening_hours": null,
+        "title": "APR Testzentrum",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: nicht notwendig"
+        ],
+        "opening_hours_unclassified": "Keine Angabe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.49409,
           52.5265
         ],
@@ -1460,6 +1553,29 @@
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.35906,
+          52.57426
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Kolpingplatz, 13409 Berlin",
+        "telephone": "+49176 80531200",
+        "details_url": null,
+        "opening_hours": "Fr 08:00-20:00; Mo 08:00-20:00; Su 08:00-20:00; Tu 08:00-20:00; Sa 08:00-20:00; Th 08:00-20:00; We 08:00-20:00",
+        "title": "ASU Schnelltest Kolpingplatz",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
         ]
       },
       "type": "Feature"
@@ -1792,6 +1908,29 @@
     {
       "geometry": {
         "coordinates": [
+          13.45629,
+          52.52904
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Landsberger Allee 117, 10407 Berlin",
+        "telephone": "+49176 72708064",
+        "details_url": null,
+        "opening_hours": "Fr 07:00-22:00; Mo 07:00-22:00; Su 07:00-22:00; Tu 07:00-22:00; Sa 07:00-22:00; Th 07:00-22:00; We 07:00-22:00",
+        "title": "Be Safe -Teststation Bürgertest Corona",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.42541,
           52.47956
         ],
@@ -1949,6 +2088,30 @@
           "Tests für Kinder: ja",
           "Terminbuchung: nicht notwendig"
         ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5155,
+          52.46266
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Wilhelminenhofstr. 17 / Hinterhof, 12459 Berlin",
+        "telephone": null,
+        "details_url": null,
+        "opening_hours": null,
+        "title": "BG Schneider",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ],
+        "opening_hours_unclassified": "Keine Angabe"
       },
       "type": "Feature"
     },
@@ -2566,7 +2729,7 @@
       "properties": {
         "location": "Ritterstraße 127, 10969 Berlin",
         "telephone": null,
-        "details_url": "https://testzentrum.cerebracoffee.com",
+        "details_url": "http://testzentrum.cerebracoffee.com",
         "opening_hours": null,
         "title": "Cerebra Coffee Teststation",
         "hints": [
@@ -2835,6 +2998,75 @@
     {
       "geometry": {
         "coordinates": [
+          13.28956,
+          52.5812
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Egellsstr. 12, 13507 Berlin",
+        "telephone": "+49 176 75271980",
+        "details_url": "https://www.border-point.de",
+        "opening_hours": "Fr 07:00-22:00; Mo 07:00-22:00; Su 07:00-22:00; Tu 07:00-22:00; Sa 07:00-22:00; Th 07:00-22:00; We 07:00-22:00",
+        "title": "Corona Border Point GmbH",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.35093,
+          52.57041
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Aroser Allee 153, 13407 Berlin",
+        "telephone": "+49 176 75271980",
+        "details_url": "https://www.border-point.de",
+        "opening_hours": "Fr 09:00-18:00; Mo 09:00-18:00; Su 09:00-18:00; Tu 09:00-18:00; Sa 09:00-18:00; Th 09:00-18:00; We 09:00-18:00",
+        "title": "Corona Border Point GmbH",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.29152,
+          52.58299
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Ernststr. 7, 13509 Berlin",
+        "telephone": "+49 176 75271980",
+        "details_url": "https://www.border-point.de",
+        "opening_hours": "Fr 08:00-22:00; Mo 08:00-22:00; Su 08:00-22:00; Tu 08:00-22:00; Sa 08:00-22:00; Th 08:00-22:00; We 08:00-22:00",
+        "title": "Corona Border Point GmbH",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.37431,
           52.44386
         ],
@@ -2973,6 +3205,29 @@
     {
       "geometry": {
         "coordinates": [
+          13.34321,
+          52.50252
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Wittenbergplatz 5, 10789 Berlin",
+        "telephone": "+491624042617",
+        "details_url": "https://professionaleventsallinone.com",
+        "opening_hours": "Fr 10:00-19:00; Mo 10:00-19:00; Tu 10:00-19:00; Sa 10:00-19:00; Th 10:00-19:00; We 10:00-19:00",
+        "title": "Corona Quicktest am Wittenbergplatz",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.32766,
           52.50427
         ],
@@ -3019,6 +3274,29 @@
     {
       "geometry": {
         "coordinates": [
+          13.43144,
+          52.5007
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Lausitzer Platz 12, 10997 Berlin",
+        "telephone": "+491624042617",
+        "details_url": "https://schnelltest-berlin-kreuzberg.de",
+        "opening_hours": "Fr 10:00-19:00; Mo 10:00-19:00; Tu 10:00-19:00; Sa 10:00-19:00; Th 10:00-19:00; We 10:00-19:00",
+        "title": "Corona Schnelltest Kreuzberg",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: ja",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.44579,
           52.47957
         ],
@@ -3058,6 +3336,29 @@
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.44187,
+          52.42496
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Johannisthaler Chaussee 415, 12351 Berlin",
+        "telephone": null,
+        "details_url": "https://www.coronaschnelltest-gropiusstadt.de",
+        "opening_hours": "Fr 08:00-19:00; Mo 08:00-19:00; Su 10:00-15:00; Tu 08:00-19:00; Sa 08:00-19:00; Th 08:00-19:00; We 08:00-19:00",
+        "title": "Corona Schnelltest To Go Gropiusstadt",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -3287,6 +3588,29 @@
         "details_url": "https://coronatest24.org/#",
         "opening_hours": "Fr 10:00-18:00; Mo 10:00-18:00; Tu 10:00-18:00; Sa 10:00-18:00; Th 10:00-18:00; We 10:00-18:00",
         "title": "Coronatest 24 bei Mömax",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.32232,
+          52.60665
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Waidmannsluster Damm 182-194, 13469 Berlin",
+        "telephone": null,
+        "details_url": "https://coronatest24.org/#",
+        "opening_hours": "Fr 08:00-18:00; Mo 08:00-18:00; Tu 08:00-18:00; Sa 08:00-18:00; Th 08:00-18:00; We 08:00-18:00",
+        "title": "Coronatest 24 Obi Reinickendorf",
         "hints": [
           "PCR-Nachtestung: keine Angabe",
           "Barrierefreiheit: ja",
@@ -4037,6 +4361,29 @@
     {
       "geometry": {
         "coordinates": [
+          13.4368,
+          52.46223
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Wederstraße 73, 12347 Berlin",
+        "telephone": "+49 178 5534557",
+        "details_url": "https://www.wederteststation.de",
+        "opening_hours": "Fr 07:00-18:00; Mo 07:00-18:00; Su 07:00-18:00; Tu 07:00-18:00; Sa 07:00-18:00; Th 07:00-18:00; We 07:00-18:00",
+        "title": "Corona Teststation SA",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.44504,
           52.49731
         ],
@@ -4212,6 +4559,75 @@
         "hints": [
           "PCR-Nachtestung: keine Angabe",
           "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.28431,
+          52.5879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Brunowstraße 14, 13507 Berlin",
+        "telephone": null,
+        "details_url": "https://www.teststelle-brunowstrasse.de",
+        "opening_hours": "Fr 09:00-18:00; Mo 09:00-18:00; Su 09:00-18:00; Tu 09:00-18:00; Sa 09:00-18:00; Th 09:00-18:00; We 09:00-18:00",
+        "title": "Corona Teststelle-Brunowstraße",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2473025,
+          52.614533
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Berliner Str. 15, 13467 Berlin",
+        "telephone": null,
+        "details_url": "https://Testzentrum-Hermsdorf.jimdosite.com",
+        "opening_hours": "Fr 10:00-18:00; Mo 10:00-18:00; Su 10:00-18:00; Tu 10:00-18:00; Sa 10:00-18:00; Th 10:00-18:00; We 10:00-18:00",
+        "title": "Corona-Teststelle Hermsdorf",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: nicht notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.43688,
+          52.46647
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Wederstraße 75, 12347 Berlin",
+        "telephone": null,
+        "details_url": null,
+        "opening_hours": "Fr 08:00-18:00; Mo 08:00-18:00; Su 10:00-16:00; Tu 08:00-18:00; Sa 10:00-16:00; Th 08:00-18:00; We 08:00-18:00",
+        "title": "Corona Teststelle Weder",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: keine Angabe",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: optional"
         ]
@@ -4487,6 +4903,29 @@
         "title": "Corona Testzentrum Clean",
         "hints": [
           "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.5117,
+          52.43374
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Buchsbaumweg 5, 12357 Berlin",
+        "telephone": null,
+        "details_url": "https://coronatestzentrumcuk.de",
+        "opening_hours": "Fr 06:00-19:00; Mo 06:00-19:00; Su 06:00-19:00; Tu 06:00-19:00; Sa 06:00-19:00; Th 06:00-19:00; We 06:00-19:00",
+        "title": "Corona Testzentrum Cuk",
+        "hints": [
+          "PCR-Nachtestung: ja",
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: optional"
@@ -5139,6 +5578,30 @@
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: notwendig"
         ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.50689,
+          52.42711
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Kappenstraße 4, 12357 Berlin",
+        "telephone": null,
+        "details_url": "https://www.labelleeventberlin.de/COVIDTAXI",
+        "opening_hours": null,
+        "title": "COVIDTAXI",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: nicht notwendig"
+        ],
+        "opening_hours_unclassified": "Keine Angabe"
       },
       "type": "Feature"
     },
@@ -6260,15 +6723,14 @@
         "location": "Schlangenbader Straße 11/12, 14197 Berlin",
         "telephone": null,
         "details_url": null,
-        "opening_hours": null,
+        "opening_hours": "Fr 09:00-13:00, 14:00-18:00; Mo 09:00-13:00, 14:00-18:00; Su 09:00-13:00, 14:00-18:00; Tu 09:00-13:00, 14:00-18:00; Sa 09:00-13:00, 14:00-18:00; Th 09:00-13:00, 14:00-18:00; We 09:00-13:00, 14:00-18:00",
         "title": "DRK Corona Teststelle Schlangenbader Straße",
         "hints": [
           "PCR-Nachtestung: keine Angabe",
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: optional"
-        ],
-        "opening_hours_unclassified": "Keine Angabe"
+        ]
       },
       "type": "Feature"
     },
@@ -6287,7 +6749,7 @@
         "opening_hours": "Fr 08:00-13:00, 14:00-17:00; Mo 08:00-13:00, 14:00-17:00; Su 08:00-13:00, 14:00-17:00; Tu 08:00-13:00, 14:00-17:00; Sa 08:00-13:00, 14:00-17:00; Th 08:00-13:00, 14:00-17:00; We 08:00-13:00, 14:00-17:00",
         "title": "DRK Schöneberg",
         "hints": [
-          "PCR-Nachtestung: ja",
+          "PCR-Nachtestung: keine Angabe",
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: optional"
@@ -6339,6 +6801,29 @@
           "Terminbuchung: optional"
         ],
         "opening_hours_unclassified": "Keine Angabe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.30585,
+          52.51922
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Brauhofstraße 16, 10587 Berlin",
+        "telephone": null,
+        "details_url": "https://www.drk-berlin-zentrum.de/angebote/corona-schnelltests/unsere-testzentren.html",
+        "opening_hours": "Fr 09:15-19:15; Mo 09:15-19:15; Tu 09:15-19:15; Sa 09:15-19:15; Th 09:15-19:15; We 09:15-19:15",
+        "title": "DRK Testzentrum Brauhofstraße",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
       },
       "type": "Feature"
     },
@@ -6696,6 +7181,29 @@
     {
       "geometry": {
         "coordinates": [
+          13.32329,
+          52.60797
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Waidmannsluster Damm 191, 13469 Berlin",
+        "telephone": null,
+        "details_url": "https://www.expressteststation.de",
+        "opening_hours": "Fr 06:00-18:00; Mo 06:00-18:00; Su 08:00-18:00; Tu 06:00-18:00; Sa 08:00-18:00; Th 06:00-18:00; We 06:00-18:00",
+        "title": "Express Teststation",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.3339026972636,
           52.4262532834565
         ],
@@ -6734,6 +7242,29 @@
         "hints": [
           "PCR-Nachtestung: keine Angabe",
           "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.2968,
+          52.54017
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Heckerdamm 240, 13627 Berlin",
+        "telephone": null,
+        "details_url": null,
+        "opening_hours": "Fr 08:00-20:00; Mo 08:00-20:00; Su 08:00-20:00; Tu 08:00-20:00; Sa 08:00-20:00; Th 08:00-20:00; We 08:00-20:00",
+        "title": "Fairlife Test Station",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: optional"
         ]
@@ -6828,6 +7359,29 @@
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: nicht notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.35331,
+          52.48453
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Hauptstraße 131, 10827 Berlin",
+        "telephone": null,
+        "details_url": "https://www.feurig-apotheke.de",
+        "opening_hours": "Fr 09:00-18:00; Mo 09:00-18:00; Tu 09:00-18:00; Sa 09:00-14:00; Th 09:00-18:00; We 09:00-18:00",
+        "title": "Feurig Apotheke",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
         ]
       },
       "type": "Feature"
@@ -8641,6 +9195,30 @@
     {
       "geometry": {
         "coordinates": [
+          13.35635,
+          52.53543
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Perleberger Straße 3, 10559 Berlin",
+        "telephone": null,
+        "details_url": "https://www.lotus.testzentrum.de",
+        "opening_hours": null,
+        "title": "Lotus Schnelltest Perlebergerstr",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ],
+        "opening_hours_unclassified": "Keine Angabe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.37088,
           52.56445
         ],
@@ -9758,6 +10336,29 @@
     {
       "geometry": {
         "coordinates": [
+          13.35738,
+          52.60603
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Senftenberger Ring 46, 13435 Berlin",
+        "telephone": "+49 172 6150098",
+        "details_url": null,
+        "opening_hours": "Fr 09:00-17:00; Mo 09:00-17:00; Su 09:00-17:00; Tu 09:00-17:00; Sa 09:00-17:00; Th 09:00-17:00; We 09:00-17:00",
+        "title": "MV-Corona Testzentrum",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.42523,
           52.49902
         ],
@@ -10061,6 +10662,98 @@
     {
       "geometry": {
         "coordinates": [
+          13.31842,
+          52.48796
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Brandenburgische Str. 77, 10713 Berlin",
+        "telephone": "+49151 71 331 350",
+        "details_url": "https://norona-berlin.covidservicepoint.de",
+        "opening_hours": "Fr 10:00-20:00; Mo 10:00-20:00; Tu 10:00-20:00; Sa 10:00-20:00; Th 10:00-20:00; We 10:00-20:00",
+        "title": "Norona-Brandenburgische",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3070481,
+          52.5109913
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Krumme Str. 27, 10627 Berlin",
+        "telephone": "+49151 71 331 350",
+        "details_url": "https://norona-berlin.covidservicepoint.de",
+        "opening_hours": "Fr 10:00-20:00; Mo 10:00-20:00; Tu 10:00-20:00; Sa 10:00-20:00; Th 10:00-20:00; We 10:00-20:00",
+        "title": "Norona-Krumme",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.30243,
+          52.50039
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Roscheratr. 7, 10629 Berlin",
+        "telephone": "+49151 71 331 350",
+        "details_url": "https://norona-berlin.covidservicepoint.de",
+        "opening_hours": "Fr 09:00-19:00; Mo 09:00-19:00; Tu 09:00-19:00; Sa 09:00-19:00; Th 09:00-19:00; We 09:00-19:00",
+        "title": "Norona-Lehniner",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.30668,
+          52.52521
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Sömmeringstr. 40, 10589 Berlin",
+        "telephone": "+49151 71 331 350",
+        "details_url": "https://norona-berlin.covidservicepoint.de",
+        "opening_hours": "Fr 10:00-20:00; Mo 10:00-20:00; Tu 10:00-20:00; Sa 10:00-20:00; Th 10:00-20:00; We 10:00-20:00",
+        "title": "Norona-Mierendorff",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.20602,
           52.5407
         ],
@@ -10123,6 +10816,29 @@
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: nicht notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.29522,
+          52.496619
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Westfälische Str. 56, 10117 Berlin",
+        "telephone": "+49151 71 331 350",
+        "details_url": "https://norona-berlin.covidservicepoint.de",
+        "opening_hours": "Fr 10:00-20:00; Mo 10:00-20:00; Tu 10:00-20:00; Sa 10:00-20:00; Th 10:00-20:00; We 10:00-20:00",
+        "title": "Norona-Westfälische",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
         ]
       },
       "type": "Feature"
@@ -10380,6 +11096,30 @@
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: optional"
         ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.43108,
+          52.59197
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Einsiedelring 1, 13127 Berlin",
+        "telephone": null,
+        "details_url": "https://www.coronaschnelltestbuchholz.de",
+        "opening_hours": null,
+        "title": "PoC Schnelltestzentrum Buchholz",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: nicht notwendig"
+        ],
+        "opening_hours_unclassified": "Keine Angabe"
       },
       "type": "Feature"
     },
@@ -10736,6 +11476,29 @@
     {
       "geometry": {
         "coordinates": [
+          13.36339,
+          52.56585
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Residenzstr. 106, 13407 Berlin",
+        "telephone": "+49176 72511193",
+        "details_url": null,
+        "opening_hours": "Fr 09:00-18:00; Mo 09:00-18:00; Su 15:00-21:00; Tu 09:00-18:00; Sa 09:00-18:00; Th 09:00-18:00; We 09:00-18:00",
+        "title": "Resi-Testzentrum",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.32915,
           52.46577
         ],
@@ -10862,15 +11625,14 @@
         "location": "Siemensstraße 41, 12247 Berlin",
         "telephone": null,
         "details_url": null,
-        "opening_hours": null,
+        "opening_hours": "Fr 09:00-16:00; Mo 09:00-17:00; Tu 09:00-17:00; Th 09:00-17:00; We 09:00-17:00",
         "title": "Roja Pharmazie",
         "hints": [
           "PCR-Nachtestung: keine Angabe",
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: optional"
-        ],
-        "opening_hours_unclassified": "Keine Angabe"
+        ]
       },
       "type": "Feature"
     },
@@ -11122,6 +11884,29 @@
         "details_url": "https://cov2-testzentrum.de",
         "opening_hours": "Fr 08:00-18:00; Su 09:00-16:00; Sa 09:00-16:00",
         "title": "SARS-CoV-2 Testzentrum Mahlsdorf",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.32526,
+          52.56512
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Scharnweberstr. 25, 13405 Berlin",
+        "telephone": null,
+        "details_url": null,
+        "opening_hours": "Fr 08:00-20:00; Mo 08:00-20:00; Su 08:00-20:00; Tu 08:00-20:00; Sa 08:00-20:00; Th 08:00-20:00; We 08:00-20:00",
+        "title": "Scharnweber25",
         "hints": [
           "PCR-Nachtestung: keine Angabe",
           "Barrierefreiheit: ja",
@@ -11435,6 +12220,29 @@
     {
       "geometry": {
         "coordinates": [
+          13.41025,
+          52.52097
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Panoramastraße 1a, 10178 Berlin",
+        "telephone": null,
+        "details_url": "https://www.schnelltestberlin.de",
+        "opening_hours": "Fr 00:00-23:59; Mo 00:00-23:59; Su 00:00-23:59; Tu 00:00-23:59; Sa 00:00-23:59; Th 00:00-23:59; We 00:00-23:59",
+        "title": "Schnelltestberlin.de | Fernsehturm",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.40839,
           52.54133
         ],
@@ -11458,8 +12266,8 @@
     {
       "geometry": {
         "coordinates": [
-          13.37265,
-          52.5072
+          13.37282,
+          52.50719
         ],
         "type": "Point"
       },
@@ -11467,15 +12275,14 @@
         "location": "Marlene-Dietrich-Platz 1, 10785 Berlin",
         "telephone": null,
         "details_url": "https://schnelltestberlin.de/potsdamerplatz",
-        "opening_hours": null,
+        "opening_hours": "Fr 07:00-03:00; Mo 07:00-03:00; Su 07:00-03:00; Tu 07:00-03:00; Sa 07:00-03:00; Th 07:00-03:00; We 07:00-03:00",
         "title": "Schnelltestberlin.de | Potsdamerplatz",
         "hints": [
           "PCR-Nachtestung: ja",
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: optional"
-        ],
-        "opening_hours_unclassified": "Keine Angabe"
+        ]
       },
       "type": "Feature"
     },
@@ -11518,6 +12325,75 @@
         "title": "Schnelltestberlin.de | Potsdamer Str.",
         "hints": [
           "PCR-Nachtestung: ja",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: nicht notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.35427,
+          52.59704
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Wilhelmsruher Damm 140, 13439 Berlin",
+        "telephone": null,
+        "details_url": "https://schnelltestberlin.de",
+        "opening_hours": "Fr 07:00-20:00; Mo 07:00-20:00; Su 07:00-20:00; Tu 07:00-20:00; Sa 07:00-20:00; Th 07:00-20:00; We 07:00-20:00",
+        "title": "Schnelltest Berlin Märkisches Viertel",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.29282,
+          52.49138
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Caspar-Theyß-Straße 29, 14193 Berlin",
+        "telephone": null,
+        "details_url": "https://schnelltestberlin.de/martin-luther-krankenhaus",
+        "opening_hours": "Fr 06:00-18:00; Mo 06:00-18:00; Su 06:00-18:00; Tu 06:00-18:00; Sa 06:00-18:00; Th 06:00-18:00; We 06:00-18:00",
+        "title": "Schnelltest Berlin Martin-Luther-Krankenhaus",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.20241,
+          52.54276
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Bismarckstraße 11, 13585 Berlin",
+        "telephone": null,
+        "details_url": null,
+        "opening_hours": "Fr 08:00-20:00; Mo 08:00-20:00; Su 08:00-20:00; Tu 08:00-20:00; Sa 08:00-20:00; Th 08:00-20:00; We 08:00-20:00",
+        "title": "Schnelltestcenter Spandau",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: nicht notwendig"
@@ -11793,15 +12669,14 @@
         "location": "Spreetalallee 1, 14050 Berlin",
         "telephone": null,
         "details_url": "https://www.testzentrum-berlin-charlottenburg.de",
-        "opening_hours": null,
+        "opening_hours": "Fr 08:00-20:00; Mo 08:00-20:00; Su 08:00-20:00; Tu 08:00-20:00; Sa 08:00-20:00; Th 08:00-20:00; We 08:00-20:00",
         "title": "Schnelltest Westend",
         "hints": [
-          "PCR-Nachtestung: keine Angabe",
+          "PCR-Nachtestung: ja",
           "Barrierefreiheit: keine Angabe",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: nicht notwendig"
-        ],
-        "opening_hours_unclassified": "Keine Angabe"
+        ]
       },
       "type": "Feature"
     },
@@ -12063,6 +12938,30 @@
     {
       "geometry": {
         "coordinates": [
+          13.41271,
+          52.54251
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Schönhauser Allee 49, 10437 Berlin",
+        "telephone": null,
+        "details_url": null,
+        "opening_hours": null,
+        "title": "Sommer21",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ],
+        "opening_hours_unclassified": "Keine Angabe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.52454,
           52.4788
         ],
@@ -12147,6 +13046,29 @@
           "PCR-Nachtestung: keine Angabe",
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
+          "Terminbuchung: nicht notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.26027,
+          52.43455
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Teltower Damm 5, 14169 Berlin",
+        "telephone": null,
+        "details_url": "https://www.stadtapotheke-berlin.de",
+        "opening_hours": "Fr 09:00-18:45; Mo 09:00-18:45; Tu 09:00-18:45; Sa 09:00-15:45; Th 09:00-18:45; We 09:00-18:45",
+        "title": "Stadt-Apotheke",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: ja",
           "Terminbuchung: nicht notwendig"
         ]
       },
@@ -12786,7 +13708,7 @@
         "location": "Neue Bahnhofstraße 7B, 10245 Berlin",
         "telephone": null,
         "details_url": null,
-        "opening_hours": "Fr 18:00-22:00; Mo 18:00-22:00; Su 18:00-22:00; Tu 18:00-22:00; Sa 18:00-22:00; Th 18:00-22:00; We 18:00-22:00",
+        "opening_hours": "Fr 20:00-00:00; Tu 18:00-22:00; Sa 20:00-00:00; Th 18:00-22:00; We 18:00-22:00",
         "title": "Test & Bier",
         "hints": [
           "PCR-Nachtestung: keine Angabe",
@@ -13171,8 +14093,8 @@
     {
       "geometry": {
         "coordinates": [
-          13.30774,
-          52.50497
+          13.30795,
+          52.50482
         ],
         "type": "Point"
       },
@@ -13381,6 +14303,29 @@
     {
       "geometry": {
         "coordinates": [
+          13.2807,
+          52.58937
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Alt Tegeler Str. 14, 13507 Berlin",
+        "telephone": "+49 163 2336695",
+        "details_url": null,
+        "opening_hours": "Fr 08:00-20:00; Mo 08:00-20:00; Su 08:00-20:00; Tu 08:00-20:00; Sa 08:00-20:00; Th 08:00-20:00; We 08:00-20:00",
+        "title": "Teststation Alttegel",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.43255,
           52.46747
         ],
@@ -13414,10 +14359,10 @@
         "location": "Hauptstraße 5, 10827 Berlin",
         "telephone": null,
         "details_url": "https://www.teststation-kleistpark.de",
-        "opening_hours": "Fr 08:00-18:00; Mo 08:00-18:00; Tu 08:00-18:00; Sa 10:00-16:00; Th 08:00-18:00; We 08:00-18:00",
+        "opening_hours": "Fr 08:00-18:00; Mo 08:00-18:00; Su 10:00-16:00; Tu 08:00-18:00; Sa 10:00-16:00; Th 08:00-18:00; We 08:00-18:00",
         "title": "Teststation am Kleistpark",
         "hints": [
-          "PCR-Nachtestung: keine Angabe",
+          "PCR-Nachtestung: ja",
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: optional"
@@ -13775,6 +14720,29 @@
     {
       "geometry": {
         "coordinates": [
+          13.34689,
+          52.57434
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Lindauer Allee 49, 13407 Berlin",
+        "telephone": "+49176 21977748",
+        "details_url": null,
+        "opening_hours": "Fr 08:00-19:00; Mo 08:00-19:00; Tu 08:00-19:00; Sa 08:00-19:00; Th 08:00-19:00; We 08:00-19:00",
+        "title": "Teststation Lindauer",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.39861,
           52.52604
         ],
@@ -13911,6 +14879,29 @@
           "Terminbuchung: optional"
         ],
         "opening_hours_unclassified": "Keine Angabe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.38379,
+          52.49446
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Großbeerenstraße 64, 10963 Berlin",
+        "telephone": null,
+        "details_url": "https://www.schiwagofilm.de/teststation",
+        "opening_hours": "Fr 09:30-18:30; Mo 09:30-18:30; Su 09:30-18:30; Tu 09:30-18:30; Sa 09:30-18:30; Th 09:30-18:30; We 09:30-18:30",
+        "title": "Teststation Schiwago Film",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: notwendig"
+        ]
       },
       "type": "Feature"
     },
@@ -14444,6 +15435,53 @@
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: nicht notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.31569,
+          52.54746
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Leopoldplatz 1, 13353 Berlin",
+        "telephone": null,
+        "details_url": null,
+        "opening_hours": null,
+        "title": "TestTreff",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: nicht notwendig"
+        ],
+        "opening_hours_unclassified": "Keine Angabe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.33429,
+          52.5961
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Oranienburger Str. 88, 13437 Berlin",
+        "telephone": "+49173 7493544",
+        "details_url": null,
+        "opening_hours": "Fr 08:00-18:00; Mo 08:00-18:00; Su 08:00-18:00; Tu 08:00-18:00; Sa 08:00-18:00; Th 08:00-18:00; We 08:00-18:00",
+        "title": "Testung Wittenau",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
         ]
       },
       "type": "Feature"
@@ -15028,6 +16066,29 @@
     {
       "geometry": {
         "coordinates": [
+          13.61224,
+          52.51174
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Hönower Straße 80, 12623 Berlin",
+        "telephone": null,
+        "details_url": "https://www.bmd-group.de",
+        "opening_hours": "Fr 07:00-18:00; Mo 07:00-18:00; Tu 07:00-18:00; Sa 07:00-18:00; Th 07:00-18:00; We 07:00-18:00",
+        "title": "Testzentrum am S-Bhf. Mahlsdorf (Rewe Markt)",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: nicht notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.46541,
           52.51828
         ],
@@ -15339,7 +16400,7 @@
         "opening_hours": "Fr 09:00-14:00; Mo 09:00-14:00; Tu 09:00-14:00; Th 09:00-14:00; We 09:00-14:00",
         "title": "Testzentrum Dr. Kunze",
         "hints": [
-          "PCR-Nachtestung: keine Angabe",
+          "PCR-Nachtestung: ja",
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: nicht notwendig"
@@ -15412,6 +16473,29 @@
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.45,
+          52.54879
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Langhansstraße 151, 13086 Berlin",
+        "telephone": null,
+        "details_url": "https://fellini-pizza.de",
+        "opening_hours": "Fr 09:00-20:00; Mo 09:00-20:00; Su 09:00-20:00; Tu 09:00-20:00; Sa 09:00-20:00; Th 09:00-20:00; We 09:00-20:00",
+        "title": "Testzentrum FP",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -15583,8 +16667,8 @@
     {
       "geometry": {
         "coordinates": [
-          13.42165,
-          52.4871
+          13.42211,
+          52.48658
         ],
         "type": "Point"
       },
@@ -15623,6 +16707,30 @@
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: optional"
         ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.31773,
+          52.52868
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Huttenstraße 25, 10553 Berlin",
+        "telephone": null,
+        "details_url": "https://www.testzentrum-hutten.de",
+        "opening_hours": null,
+        "title": "Testzentrum Hutten",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: nicht notwendig"
+        ],
+        "opening_hours_unclassified": "Keine Angabe"
       },
       "type": "Feature"
     },
@@ -15755,10 +16863,10 @@
         "location": "Schlesische Straße 37, 10997 Berlin",
         "telephone": "015254836562",
         "details_url": null,
-        "opening_hours": "Fr 09:00-15:00; Mo 09:00-15:00; Su 10:15-12:15; Tu 09:00-15:00; Sa 09:00-15:00; Th 09:00-15:00; We 09:00-15:00",
+        "opening_hours": "Fr 09:00-19:00; Mo 09:00-19:00; Su 09:00-18:00; Tu 09:00-19:00; Sa 09:00-19:00; Th 09:00-19:00; We 09:00-19:00",
         "title": "Testzentrum Kreuzberg an der Palmen Apotheke",
         "hints": [
-          "PCR-Nachtestung: ja",
+          "PCR-Nachtestung: keine Angabe",
           "Barrierefreiheit: keine Angabe",
           "Tests für Kinder: ja",
           "Terminbuchung: optional"
@@ -16117,6 +17225,52 @@
     {
       "geometry": {
         "coordinates": [
+          13.35328,
+          52.59719
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Wilhelmsruher Damm 142, 13439 Berlin",
+        "telephone": null,
+        "details_url": null,
+        "opening_hours": "Fr 09:00-20:00; Mo 09:00-20:00; Su 09:00-20:00; Tu 09:00-20:00; Sa 09:00-20:00; Th 09:00-20:00; We 09:00-20:00",
+        "title": "Testzentrum Primo MV",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: nicht notwendig"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.28283,
+          52.58995
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Alt Tegel 2, 13507 Berlin",
+        "telephone": "+49 176 82136163",
+        "details_url": null,
+        "opening_hours": "Fr 07:00-18:00; Mo 07:00-18:00; Su 10:00-16:00; Tu 07:00-18:00; Sa 07:00-18:00; Th 07:00-18:00; We 07:00-18:00",
+        "title": "Testzentrum Primo Tegel",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.38289,
           52.55408
         ],
@@ -16463,6 +17617,29 @@
     {
       "geometry": {
         "coordinates": [
+          13.43516,
+          52.48037
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Neckarstraße 2, 12053 Berlin",
+        "telephone": null,
+        "details_url": "https://testzentrum-th-de.jimdofree.com/kontakt",
+        "opening_hours": "Fr 09:00-19:00; Mo 09:00-19:00; Su 10:00-18:00; Tu 09:00-19:00; Sa 09:00-19:00; Th 09:00-19:00; We 09:00-19:00",
+        "title": "Testzentrum Thüringer Hof",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: keine Angabe",
+          "Tests für Kinder: ja",
+          "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
           13.47049,
           52.53274
         ],
@@ -16555,29 +17732,6 @@
     {
       "geometry": {
         "coordinates": [
-          13.3547943985004,
-          52.548501135274
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "Müllerstraße 143, 13353 Berlin",
-        "telephone": null,
-        "details_url": "https://21dx.de/corona-teststationen-pcr-antigen.html",
-        "opening_hours": "Fr 08:00-17:00; Mo 08:00-17:00; Su 09:00-18:00; Tu 08:00-17:00; Sa 09:00-18:00; Th 08:00-17:00; We 08:00-17:00",
-        "title": "Testzentrum Wedding",
-        "hints": [
-          "PCR-Nachtestung: ja",
-          "Barrierefreiheit: ja",
-          "Tests für Kinder: ja",
-          "Terminbuchung: nicht notwendig"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.37732,
           52.55658
         ],
@@ -16594,6 +17748,29 @@
           "Barrierefreiheit: ja",
           "Tests für Kinder: keine Angabe",
           "Terminbuchung: optional"
+        ]
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.3547943985004,
+          52.548501135274
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "Müllerstraße 143, 13353 Berlin",
+        "telephone": null,
+        "details_url": "https://21dx.de/corona-teststationen-pcr-antigen.html",
+        "opening_hours": "Fr 08:00-17:00; Mo 08:00-17:00; Su 09:00-18:00; Tu 08:00-17:00; Sa 09:00-18:00; Th 08:00-17:00; We 08:00-17:00",
+        "title": "Testzentrum Wedding",
+        "hints": [
+          "PCR-Nachtestung: ja",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: ja",
+          "Terminbuchung: nicht notwendig"
         ]
       },
       "type": "Feature"
@@ -17621,6 +18798,29 @@
           "Terminbuchung: optional"
         ],
         "opening_hours_unclassified": "Keine Angabe"
+      },
+      "type": "Feature"
+    },
+    {
+      "geometry": {
+        "coordinates": [
+          13.35845,
+          52.50078
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "location": "An der Apostelkirche 1, 10783 Berlin",
+        "telephone": null,
+        "details_url": "https://www.quartier-apotheke.de",
+        "opening_hours": "Fr 10:00-15:00; Mo 10:00-15:00; Tu 10:00-15:00; Sa 10:00-15:00; Th 10:00-15:00; We 10:00-15:00",
+        "title": "Zwölf-Apostel-Kirche",
+        "hints": [
+          "PCR-Nachtestung: keine Angabe",
+          "Barrierefreiheit: ja",
+          "Tests für Kinder: keine Angabe",
+          "Terminbuchung: nicht notwendig"
+        ]
       },
       "type": "Feature"
     }
