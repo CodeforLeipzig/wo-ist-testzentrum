@@ -4,7 +4,7 @@
 import fetch from "node-fetch";
 import dayjs from "dayjs";
 
-const URL = "https://www.direkttesten.berlin/api/test-centers/?page[size]=10000&filter[is_active]=true&filter[is_mobile]=false&filter[is_published]=true";
+const URL = "https://api.direkttesten.berlin/api/test-centers/?page[size]=10000&filter[is_active]=true&filter[is_mobile]=false&filter[is_published]=true";
 
 const NOW_DATE = dayjs().format("DD.MM.YYYY");
 
