@@ -9,7 +9,7 @@
     },
     "metadata": {
         "data_source": {
-            "title": "Stadt Leipzig, Stand: 28.01.2022",
+            "title": "Stadt Leipzig, Stand: 05.02.2022",
             "url": "https://www.leipzig.de/jugend-familie-und-soziales/gesundheit/neuartiges-coronavirus-2019-n-cov/testzentrum/"
         }
     },
@@ -182,6 +182,28 @@
         }, {
             "type": "Feature",
             "properties": {
+                "title": "VIVOCHECK Leipzig",
+                "location": "Barfußgäßchen 12, 04109 Leipzig",
+                "telephone": "0176/746672729",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "details_url": "http://www.vivocheck.de",
+                "hints": [
+                    "termin_ja: nein",
+                    "pcr_test: ja",
+                    "Lollitest für Kleinkinder",
+                    "termin_url: www.vivocheck.de"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.372243977245251,
+                    51.34105010449063
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
                 "title": "Scheffel-Apotheke",
                 "location": "Bästleinstraße 6, 04347 Leipzig",
                 "telephone": null,
@@ -243,6 +265,27 @@
                 "coordinates": [
                     12.394155449558324,
                     51.357642896182284
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Corona Teststation Bornaische Straße 13",
+                "location": "Bornaische Straße 13, 04277 Leipzig",
+                "telephone": null,
+                "opening_hours": "Mo-Fr 08:00-18:00",
+                "details_url": "mailto:coronatest-bornaische13@gmx.de",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "pcr_test: nein",
+                    "email: coronatest-bornaische13@gmx.de"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.376848752152998,
+                    51.308504218894754
                 ]
             }
         }, {
@@ -621,7 +664,7 @@
                     "Terminvereinbarung notwendig: ja",
                     "Testung nach vorheriger Terminvergabe",
                     "termin_art: Telefon",
-                    "pcr_test: nein"
+                    "pcr_test: ja"
                 ]
             },
             "geometry": {
@@ -650,6 +693,25 @@
                 "coordinates": [
                     12.40513785812942,
                     51.34567062509576
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "International Test",
+                "location": "Eisenbahnstraße 94, 04315 Leipzig",
+                "telephone": "0157/56619165",
+                "opening_hours": "Mo-Fr 08:00-20:00, Sa-Su 10:00-20:00",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "pcr_test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.40756128272122,
+                    51.34533589071012
                 ]
             }
         }, {
@@ -820,7 +882,7 @@
                 "title": "Testzentrum Gohlis GSS",
                 "location": "Georg-Schumann-Straße 16, 04155 Leipzig",
                 "telephone": "0177/6369312",
-                "opening_hours": "Mo-Fr 08:00-12:00, Mo-Fr 13:00-18:00, Sa-Su 10:00-16:00",
+                "opening_hours": "Mo-Th 08:00-12:00, Mo-Th 13:00-18:00, Fr 08:00-12:00, Fr 13:00-20:00, Sa 10:00-18:00, Su 10:00-16:00",
                 "details_url": "http://www.terminland.eu/testzentrumgohlis/",
                 "hints": [
                     "termin_ja: nein",
@@ -844,9 +906,12 @@
                 "location": "Georg-Schumann-Straße 218, 04159 Leipzig",
                 "telephone": "0341/5502582",
                 "opening_hours": "Mo-Fr 09:00-13:00, Mo-Fr 14:00-18:00, Sa 10:00-12:00",
+                "details_url": "https://stc-leipzig.de/covid-testzentrum/",
                 "hints": [
                     "termin_ja: nein",
-                    "pcr_test: nein"
+                    "pcr_test: nein",
+                    "termin_art: Internet",
+                    "termin_url: stc-leipzig.de/covid-testzentrum/"
                 ]
             },
             "geometry": {
@@ -885,10 +950,11 @@
                 "location": "Georg-Schumann-Straße 60, 04155 Leipzig",
                 "telephone": null,
                 "opening_hours": "Mo-Fr 07:00-18:00, Sa 10:00-20:00, Su 10:00-18:00",
-                "details_url": "http://www.testzentrum-leipzig-wahren.de",
+                "details_url": "http://www.testcenter-sachsen.de",
                 "hints": [
                     "termin_ja: nein",
-                    "pcr_test: nein"
+                    "pcr_test: nein",
+                    "termin_url: www.testcenter-sachsen.de"
                 ]
             },
             "geometry": {
@@ -979,6 +1045,26 @@
                 "coordinates": [
                     12.405417005960047,
                     51.35176900373421
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Teststation Konsum",
+                "location": "Grassistraße 13, 04107 Leipzig",
+                "telephone": "0341/68416978",
+                "opening_hours": "Mo-Fr 15:00-20:00, Sa 09:00-14:00, Su 16:00-18:00",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "termin_art: Internet",
+                    "pcr_test: ja"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.368318551860481,
+                    51.330454333328966
                 ]
             }
         }, {
@@ -1093,11 +1179,12 @@
                 "title": "Privatpraxis für Kinder- und Jugendmedizin Dr. med. habil. Sabine Hussack",
                 "location": "Hainstraße 9, 04109 Leipzig",
                 "telephone": "0341/65673330",
-                "opening_hours": "Mo-Fr 8:30-9:00, Mo-Fr 12:00-13:00",
+                "opening_hours": "Mo-Fr 08:30-9:00, Mo-Fr 12:00-13:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "pcr_test: ja",
-                    "PCR-Test nach positivem Antigen-Test möglich"
+                    "PCR-Test nach positivem Antigen-Test möglich",
+                    "geschlossen vom 21.02.-25.02.2022"
                 ]
             },
             "geometry": {
@@ -1260,7 +1347,7 @@
                 "location": "Johannisplatz 12, 04103 Leipzig",
                 "telephone": null,
                 "details_url": "https://apo-schnelltest.de/testzentrum-leipzig",
-                "opening_hours": "Mo-Fr 07:00-20:00, Sa 10:00-20:00, Su 14:00-20:00",
+                "opening_hours": "Mo-Fr 08:00-20:00, Sa 10:00-20:00, Su 14:00-20:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "pcr_test: nein",
@@ -2079,7 +2166,7 @@
                 "title": "Corona Testzentrum Gohlis Nord",
                 "location": "Max-Liebermann-Straße 83, 04157 Leipzig",
                 "telephone": "0341/22373882",
-                "opening_hours": "Mo-Fr 05:00-20:00, Sa-Su 10:00-18:00",
+                "opening_hours": "Mo-Fr 07:00-20:00, Sa-Su 10:00-18:00",
 				"details_url": "http://www.testzentrum.gohlis-nord.de/",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
@@ -2521,7 +2608,7 @@
                 "title": "Corona Testzentrum Paunsdorf",
                 "location": "Riesaer Straße 66, 04328 Leipzig",
                 "telephone": "0177/3847143",
-                "opening_hours": "Mo-Fr 06:00-13:30, Mo-Fr 14:30-18:30, Sa 10:00-18:00, Su 11:00-18:00",
+                "opening_hours": "Mo-Fr 06:00-12:00, Mo-Fr 12:30-18:00, Sa 11:00-19:00, Su 11:00-18:00",
                 "details_url": "https://corona-tzm-paunsdorf.covidservicepoint.de/",
                 "hints": [
                     "termin_ja: nein",
@@ -2904,8 +2991,9 @@
             "properties": {
                 "title": "Podologie am Stünz",
                 "location": "Theodor-Neubauer-Straße 59, 04318 Leipzig",
-                "telephone": null,
-                "opening_hours": "Mo-Fr 08:45-17:50, Sa-Su 11:00-15:00",
+                "telephone": "0341/31957416",
+                "opening_hours_unclassified": "Terminvereinbarung nötig unter 0341/31957416",
+                "opening_hours": null,
                 "hints": [
                     "termin_ja: ja",
                     "pcr_test: nein",
