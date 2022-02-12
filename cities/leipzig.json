@@ -9,7 +9,7 @@
     },
     "metadata": {
         "data_source": {
-            "title": "Stadt Leipzig, Stand: 05.02.2022",
+            "title": "Stadt Leipzig, Stand: 11.02.2022",
             "url": "https://www.leipzig.de/jugend-familie-und-soziales/gesundheit/neuartiges-coronavirus-2019-n-cov/testzentrum/"
         }
     },
@@ -22,9 +22,9 @@
                 "opening_hours": "Mo-Fr 08:00-19:00, Sa-Su 10:00-18:00",
                 "details_url": "https://app.no-q.info/schnelltest-drive-in-alte-messe/checkins",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "termin_url: app.no-q.info/schnelltest-drive-in-alte-messe/checkins",
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-Webseite: app.no-q.info/schnelltest-drive-in-alte-messe/checkins",
                     "www.corona-testen-leipzig.de"
                 ]
             },
@@ -43,8 +43,8 @@
                 "opening_hours": "Mo-Fr 08:00-11:00, Mo-Fr 14:00-16:00",
                 "details_url": "mailto:testzentrum@scdhfk.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -63,7 +63,7 @@
                 "opening_hours": "Mo-Fr 08:00-12:00, Mo-Fr 14:00-18:00, Sa 10:00-12:00, Su 10:00-16:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -82,9 +82,9 @@
                 "opening_hours": "Mo-Sa 09:00-17:30",
                 "details_url": "http://www.meincoronaschnelltest.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: ja",
-                    "termin_url: www.meincoronaschnelltest.de"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: ja",
+                    "Termin-Webseite: www.meincoronaschnelltest.de"
                 ]
             },
             "geometry": {
@@ -104,8 +104,8 @@
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "weitere Verfügbarkeiten entnehmen Sie der Buchungsseite",
-                    "termin_art: Telefon",
-                    "pcr_test: nein"
+                    "Termin über: Telefon",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -125,9 +125,9 @@
                 "details_url": "https://www.kopfzentrum-gruppe.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon+Internet",
-                    "termin_url: www.kopfzentrum-gruppe.de",
-                    "pcr_test: ja"
+                    "Termin über: Telefon+Internet",
+                    "Termin-Webseite: www.kopfzentrum-gruppe.de",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -146,9 +146,9 @@
                 "opening_hours": "Mo-Sa 08:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: wirtestencovid.de",
-                    "pcr_test: ja"
+                    "Termin über: Internet",
+                    "Termin-Webseite: wirtestencovid.de",
+                    "PCR-Test: ja"
                 ],
                 "details_url": "https://wirtestencovid.de"
             },
@@ -166,10 +166,12 @@
                 "location": "Barfußgäßchen 12, 04109 Leipzig",
                 "telephone": "0341/35585040",
                 "opening_hours": "Mo-Sa 08:00-12:00",
+                "details_url": "mailto:schachundmatt@tnc-group.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "Lollitest möglich"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Lollitest möglich",
+                    "Termin-E-Mail: schachundmatt@tnc-group.de"
                 ]
             },
             "geometry": {
@@ -188,10 +190,10 @@
                 "opening_hours": "Mo-Su 08:00-20:00",
                 "details_url": "http://www.vivocheck.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: ja",
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: ja",
                     "Lollitest für Kleinkinder",
-                    "termin_url: www.vivocheck.de"
+                    "Termin-Webseite: www.vivocheck.de"
                 ]
             },
             "geometry": {
@@ -211,9 +213,9 @@
                 "details_url": "https://www.scheffel-apotheke-leipzig.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.scheffel-apotheke-leipzig.de",
-                    "pcr_test: nein",
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.scheffel-apotheke-leipzig.de",
+                    "PCR-Test: nein",
                     "Lolli-/Spucktest möglich"
                 ]
             },
@@ -230,11 +232,11 @@
                 "title": "BestOfTestzentrum Bayrischer Platz",
                 "location": "Bayrischer Platz 1, 04103 Leipzig",
                 "telephone": null,
-                "opening_hours": "Mo-Fr 08:00-18:00, Sa 10:00-16:00, Su 12:00-18:00",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa-Su 10:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein",
-                    "feiertags 12:00-18:00"
+                    "PCR-Test: nein",
+                    "feiertags 10:00-18:00"
                 ]
             },
             "geometry": {
@@ -254,10 +256,10 @@
                 "details_url": "http://www.testzentrum-vierseithof-leipzig-b77.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein",
+                    "PCR-Test: nein",
                     "feiertags 12:00-18:00",
                     "Spucktest möglich",
-                    "termin_url: www.testzentrum-vierseithof-leipzig-b77.de"
+                    "Termin-Webseite: www.testzentrum-vierseithof-leipzig-b77.de"
                 ]
             },
             "geometry": {
@@ -277,8 +279,8 @@
                 "details_url": "mailto:coronatest-bornaische13@gmx.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein",
-                    "email: coronatest-bornaische13@gmx.de"
+                    "PCR-Test: nein",
+                    "Termin-E-Mail: coronatest-bornaische13@gmx.de"
                 ]
             },
             "geometry": {
@@ -299,9 +301,9 @@
                 "details_url": "https://www.apotheke-connewitz.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.apotheke-connewitz.de",
-                    "pcr_test: nein"
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.apotheke-connewitz.de",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -320,10 +322,10 @@
                 "opening_hours": "Mo 05:00-09:00, Mo 13:00-17:00, Tu-Fr 13:00-17:00",
                 "details_url": "http://www.corona-schnelltestzentrum-leipzig.com",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "email: info@mbg-leipzig.de",
-                    "termin_url: www.corona-schnelltestzentrum-leipzig.com"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-E-Mail: info@mbg-leipzig.de",
+                    "Termin-Webseite: www.corona-schnelltestzentrum-leipzig.com"
                 ]
             },
             "geometry": {
@@ -345,7 +347,7 @@
                     "vorübergehend geschlossen",
                     "Bitte Gesundheitskarte mitbringen",
                     "Zertifikat ist in Druckform ohne Aufpreis erhältlich und natürlich auch per QR Code auf Handy abrufbar",
-                    "pcr_test: nein"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -365,9 +367,9 @@
                 "details_url": "http://www.ergotherapie-ergolife.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon+E-Mail",
-                    "termin_url: www.ergotherapie-ergolife.de",
-                    "pcr_test: nein"
+                    "Termin über: Telefon+E-Mail",
+                    "Termin-Webseite: www.ergotherapie-ergolife.de",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -388,8 +390,8 @@
                 "details_url": "https://www.schnelltestgohlis.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_url: www.schnelltestgohlis.de",
-                    "pcr_test: ja"
+                    "Termin-Webseite: www.schnelltestgohlis.de",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -408,8 +410,8 @@
                     "opening_hours": "Mo-Su 08:00-20:00",
                     "hints": [
                         "Terminvereinbarung notwendig: nein",
-                        "termin_art: Telefon",
-                        "pcr_test: nein"
+                        "Termin über: Telefon",
+                        "PCR-Test: nein"
                     ]
                 },
                 "geometry": {
@@ -428,9 +430,9 @@
                 "opening_hours": "Mo-Fr 08:00-13:00, Mo-Fr 16:00-20:00, Su 16:00-19:00",
                 "details_url": "http://www.testzentrum-schleussig.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "termin_url: www.testzentrum-schleussig.de",
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.testzentrum-schleussig.de",
                     "Lollitest für Kleinkinder"
                 ]
             },
@@ -451,10 +453,10 @@
                 "details_url": "http://www.hof-apotheke-leipzig.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: http://www.hof-apotheke-leipzig.de",
-                    "email: hof-apotheke-leipzig@t-online.de",
-                    "pcr_test: ja"
+                    "Termin über: Internet",
+                    "Termin-Webseite: http://www.hof-apotheke-leipzig.de",
+                    "Termin-E-Mail: hof-apotheke-leipzig@t-online.de",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -474,8 +476,8 @@
                 "details_url": "https://www.hoefe-am-bruehl.de/news-detail/Mein-Corona-Schnelltest-in-den-H%C3%B6fen-am-Br%C3%BChl",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein",
-                    "termin_url: www.hoefe-am-bruehl.de/news-detail/Mein-Corona-Schnelltest-in-den-H%C3%B6fen-am-Br%C3%BChl"
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.hoefe-am-bruehl.de/news-detail/Mein-Corona-Schnelltest-in-den-H%C3%B6fen-am-Br%C3%BChl"
                 ]
             },
             "geometry": {
@@ -495,9 +497,9 @@
                 "details_url": "https://www.testzentrum-efg.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_url: www.testzentrum-efg.de",
+                    "Termin-Webseite: www.testzentrum-efg.de",
                     "feiertags: 09:00-18:00",
-                    "pcr_test: nein"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -515,9 +517,9 @@
                 "telephone": null,
                 "opening_hours": "Mo 08:00-11:00",
                 "hints": [
-                    "termin_ja: ja",
-                    "pcr_test: nein",
-                    "termin_art: E-Mail"
+                    "Terminvereinbarung notwendig: ja",
+                    "PCR-Test: nein",
+                    "Termin über: E-Mail"
                 ]
             },
             "geometry": {
@@ -536,7 +538,7 @@
                 "opening_hours": "Mo-Fr 10:00-11:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -550,13 +552,13 @@
             "type": "Feature",
             "properties": {
                 "title": "Von Kopf bis Fuß",
-                "location": "Coppistraße 95, 04157 Leipzig",
+                "location": "Coppistraße 95, 04159 Leipzig",
                 "telephone": "0341/5291687",
                 "opening_hours": "Mo-Fr 09:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "pcr_test: nein",
-                    "termin_art: Telefon",
+                    "PCR-Test: nein",
+                    "Termin über: Telefon",
                     "überwiegend Lolli- und Spucktests",
                     "Termine nach telefonischer Vereinbarung"
                 ]
@@ -571,6 +573,27 @@
         }, {
             "type": "Feature",
             "properties": {
+                "title": "Station Konsum",
+                "location": "Dantestraße 17, 04157 Leipzig",
+                "telephone": null,
+                "opening_hours": "Mo-Fr 15:00-20:00, Sa 09:00-14:00",
+                "details_url": "http://www.testcenter-sachsen.de",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.testcenter-sachsen.de"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.345473852597086,
+                    51.368126062832374
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
                 "title": "Apotheke am Sanct Georg",
                 "location": "Delitzscher Straße 137, 04129 Leipzig",
                 "telephone": null,
@@ -578,8 +601,8 @@
                 "opening_hours": "Mo-Fr 06:00-18:30, Sa 07:00-13:00, Su 07:00-13:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: ja",
-                    "termin_url: www.corona-testcenter-nord.de",
+                    "PCR-Test: ja",
+                    "Termin-Webseite: www.corona-testcenter-nord.de",
                     "Lollitest möglich"
                 ]
             },
@@ -600,8 +623,8 @@
                 "details_url": "https://www.mc-medi-apotheke-testzentrum.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_url: www.mc-medi-apotheke-testzentrum.de",
-                    "pcr_test: nein"
+                    "Termin-Webseite: www.mc-medi-apotheke-testzentrum.de",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -619,8 +642,8 @@
                 "telephone": "0163/6756170",
                 "opening_hours": "Mo-Fr 05:30-20:00, Sa-Su 08:00-16:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -641,9 +664,9 @@
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "Termine auch Sonntags entsprechend Buchungsseite",
-                    "termin_art: Internet",
-                    "termin_url: www.teste-dich.online",
-                    "pcr_test: nein"
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.teste-dich.online",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -663,8 +686,8 @@
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "Testung nach vorheriger Terminvergabe",
-                    "termin_art: Telefon",
-                    "pcr_test: ja"
+                    "Termin über: Telefon",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -683,9 +706,9 @@
                 "opening_hours": "Mo-Fr 09:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon",
+                    "Termin über: Telefon",
                     "Sonderöffnungszeiten: Samstag und Sonntag nach Vereinbarung",
-                    "pcr_test: ja"
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -704,7 +727,7 @@
                 "opening_hours": "Mo-Fr 08:00-20:00, Sa-Su 10:00-20:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -722,8 +745,8 @@
                 "telephone": "0157/81344736",
                 "opening_hours": "Mo-Sa 07:30-18:00, Su 07:30-16:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -742,7 +765,7 @@
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa 10:00-18:00, Su 12:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -761,8 +784,8 @@
                 "opening_hours": "Mo-Fr 08:00-17:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon",
-                    "pcr_test: nein"
+                    "Termin über: Telefon",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -782,9 +805,9 @@
                 "details_url": "https://www.kopfzentrum-gruppe.de/reservations/",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.kopfzentrum-gruppe.de/reservations/",
-                    "pcr_test: ja"
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.kopfzentrum-gruppe.de/reservations/",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -802,8 +825,8 @@
                 "telephone": "0163/2982277",
                 "opening_hours": "Mo-Fr 09:00-20:00, Sa 08:00-20:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -822,10 +845,10 @@
                 "opening_hours": "Mo-Su 09:00-18:00",
                 "details_url": "http://www.naturheilpraxis-buchta.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "pcr_test: nein",
-                    "termin_art: Telefon",
-                    "termin_url: www.naturheilpraxis-buchta.de"
+                    "Terminvereinbarung notwendig: ja",
+                    "PCR-Test: nein",
+                    "Termin über: Telefon",
+                    "Termin-Webseite: www.naturheilpraxis-buchta.de"
                 ]
             },
             "geometry": {
@@ -844,9 +867,9 @@
                 "opening_hours": null,
                 "opening_hours_unclassified": "Termine nach Vereinbarung",
                 "hints": [
-                    "termin_ja: ja",
-                    "termin_art: Telefon+E-Mail",
-                    "pcr_test: nein"
+                    "Terminvereinbarung notwendig: ja",
+                    "Termin über: Telefon+E-Mail",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -865,8 +888,8 @@
                 "opening_hours": "Mo-Fr 09:00-11:00, Mo-Fr 15:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: telephone",
-                    "pcr_test: nein"
+                    "Termin über: telephone",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -885,10 +908,10 @@
                 "opening_hours": "Mo-Th 08:00-12:00, Mo-Th 13:00-18:00, Fr 08:00-12:00, Fr 13:00-20:00, Sa 10:00-18:00, Su 10:00-16:00",
                 "details_url": "http://www.terminland.eu/testzentrumgohlis/",
                 "hints": [
-                    "termin_ja: nein",
-                    "termin_art: Telefon+Internet",
-                    "pcr_test: nein",
-                    "termin_url: www.terminland.eu/testzentrumgohlis/",
+                    "Terminvereinbarung notwendig: nein",
+                    "Termin über: Telefon+Internet",
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.terminland.eu/testzentrumgohlis/",
                     "Terminvereinbarung über Tel. 0177 6369312 oder online"
                 ]
             },
@@ -908,10 +931,10 @@
                 "opening_hours": "Mo-Fr 09:00-13:00, Mo-Fr 14:00-18:00, Sa 10:00-12:00",
                 "details_url": "https://stc-leipzig.de/covid-testzentrum/",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "termin_art: Internet",
-                    "termin_url: stc-leipzig.de/covid-testzentrum/"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin über: Internet",
+                    "Termin-Webseite: stc-leipzig.de/covid-testzentrum/"
                 ]
             },
             "geometry": {
@@ -930,9 +953,9 @@
                 "opening_hours": "Mo-Fr 06:00-20:00, Sa 08:00-16:00, Su 09:00-16:00",
                 "details_url": "http://www.testzentrum-leipzig-wahren.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "termin_url: www.testzentrum-leipzig-wahren.de",
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.testzentrum-leipzig-wahren.de",
                     "Lolli-/Spucktest möglich"
                 ]
             },
@@ -952,9 +975,9 @@
                 "opening_hours": "Mo-Fr 07:00-18:00, Sa 10:00-20:00, Su 10:00-18:00",
                 "details_url": "http://www.testcenter-sachsen.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "termin_url: www.testcenter-sachsen.de"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.testcenter-sachsen.de"
                 ]
             },
             "geometry": {
@@ -974,9 +997,9 @@
                 "details_url": "https://www.kopfzentrum-gruppe.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon+Internet",
-                    "termin_url: www.kopfzentrum-gruppe.de",
-                    "pcr_test: ja"
+                    "Termin über: Telefon+Internet",
+                    "Termin-Webseite: www.kopfzentrum-gruppe.de",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -994,8 +1017,8 @@
                 "telephone": null,
                 "opening_hours": "Mo-Th 07:00-18:00, Fr 07:00-20:00, Sa 10:00-20:00, Su 10:00-18:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -1015,9 +1038,9 @@
                 "details_url": "http://www.lux-apotheke-leipzig.de/",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_art: Telefon",
-                    "termin_url: www.lux-apotheke-leipzig.de",
-                    "pcr_test: ja"
+                    "Termin über: Telefon",
+                    "Termin-Webseite: www.lux-apotheke-leipzig.de",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -1032,11 +1055,11 @@
             "properties": {
                 "title": "Corona-Schnelltestzentrum der S.I.A. Dienstleistungen",
                 "location": "Gorkistraße Ecke Löbauer Straße, 04347 Leipzig",
-                "telephone": "0173/1981114",
+                "telephone": null,
                 "opening_hours": "Mo-Fr 09:00-19:00, Sa 10:00-18:00, Su 11:00-19:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: ja",
+                    "PCR-Test: ja",
                     "feiertags 11:00-19:00"
                 ]
             },
@@ -1053,11 +1076,11 @@
                 "title": "Teststation Konsum",
                 "location": "Grassistraße 13, 04107 Leipzig",
                 "telephone": "0341/68416978",
-                "opening_hours": "Mo-Fr 15:00-20:00, Sa 09:00-14:00, Su 16:00-18:00",
+                "opening_hours": "Mo-Fr 15:00-20:00, Sa 09:00-14:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_art: Internet",
-                    "pcr_test: ja"
+                    "Termin über: Internet",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -1077,9 +1100,9 @@
                 "details_url": "https://www.stadt-apotheke-leipzig.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.stadt-apotheke-leipzig.de",
-                    "pcr_test: ja"
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.stadt-apotheke-leipzig.de",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -1098,7 +1121,7 @@
                 "opening_hours": "Mo 11:00-15:00, Sa 09:00-14:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: telephone"
+                    "Termin über: telephone"
                 ]
             },
             "geometry": {
@@ -1118,7 +1141,7 @@
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "Terminvereinbarung telefonisch oder über Website",
-                    "pcr_test: nein",
+                    "PCR-Test: nein",
                     "Lollitest möglich"
                 ]
             },
@@ -1139,10 +1162,10 @@
                 "opening_hours": null,
                 "details_url": "http://www.hausarzt-gruenau.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "termin_art: Telefon+E-Mail+Internet",
-                    "termin_url: www.hausarzt-gruenau.de",
-                    "pcr_test: ja"
+                    "Terminvereinbarung notwendig: ja",
+                    "Termin über: Telefon+E-Mail+Internet",
+                    "Termin-Webseite: www.hausarzt-gruenau.de",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -1160,9 +1183,9 @@
                 "telephone": "0177/8915344",
                 "opening_hours": "Mo-Fr 08:00-15:00",
                 "hints": [
-                    "termin_ja: ja",
-                    "pcr_test: nein",
-                    "termin_art: Telefon",
+                    "Terminvereinbarung notwendig: ja",
+                    "PCR-Test: nein",
+                    "Termin über: Telefon",
                     "Weitere Termine, auch am Wochenende, nach Vereinbarung buchbar"
                 ]
             },
@@ -1182,7 +1205,7 @@
                 "opening_hours": "Mo-Fr 08:30-9:00, Mo-Fr 12:00-13:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: ja",
+                    "PCR-Test: ja",
                     "PCR-Test nach positivem Antigen-Test möglich",
                     "geschlossen vom 21.02.-25.02.2022"
                 ]
@@ -1204,9 +1227,9 @@
                 "opening_hours": "Mo-Sa 09:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.schnelltest-sachsenpark.de",
-                    "pcr_test: nein"
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.schnelltest-sachsenpark.de",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -1225,8 +1248,8 @@
                 "opening_hours": "Mo-Th 07:00-21:00, Fr 07:00-20:00, Sa 09:00-11:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: telephone",
-                    "pcr_test: nein"
+                    "Termin über: telephone",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -1246,9 +1269,9 @@
                 "details_url": "https://www.corona-schnelltest-leipzig.net",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon+Internet",
-                    "termin_url: www.corona-schnelltest-leipzig.net",
-                    "pcr_test: nein",
+                    "Termin über: Telefon+Internet",
+                    "Termin-Webseite: www.corona-schnelltest-leipzig.net",
+                    "PCR-Test: nein",
                     "Spucktest möglich"
                 ]
             },
@@ -1268,10 +1291,10 @@
                 "opening_hours": "Mo-Fr 14:00-20:00",
                 "details_url": "http://www.niob-enterprise.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "pcr_test: nein",
-                    "termin_art: E-Mail, Internet",
-                    "termin_url: www.niob-enterprise.de"
+                    "Terminvereinbarung notwendig: ja",
+                    "PCR-Test: nein",
+                    "Termin über: E-Mail, Internet",
+                    "Termin-Webseite: www.niob-enterprise.de"
                 ]
             },
             "geometry": {
@@ -1289,7 +1312,7 @@
                 "telephone": "0163/8568942",
                 "opening_hours": "Mo-Su 08:00-20:00",
                 "hints": [
-                    "pcr_test: nein",
+                    "PCR-Test: nein",
                     "Terminvereinbarung notwendig: nein"
                 ]
             },
@@ -1309,8 +1332,8 @@
                 "opening_hours": "Mo-Fr 07:30-20:00, Sa 08:00-13:00, Su 14:00-20:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon",
-                    "pcr_test: nein"
+                    "Termin über: Telefon",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -1326,11 +1349,11 @@
                 "title": "BestOfTestzentrum Huygensplatz",
                 "location": "Huygensplatz, 04159 Leipzig",
                 "telephone": "0157/35155017",
-                "opening_hours": "Mo-Fr 08:00-18:00, Sa 10:00-18:00, Su 10:00-18:00",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa-Su 10:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "feiertags 10:00-18:00",
-                    "pcr_test: nein"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -1350,8 +1373,8 @@
                 "opening_hours": "Mo-Fr 08:00-20:00, Sa 10:00-20:00, Su 14:00-20:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein",
-                    "termin_url: apo-schnelltest.de/testzentrum-leipzig"
+                    "PCR-Test: nein",
+                    "Termin-Webseite: apo-schnelltest.de/testzentrum-leipzig"
                 ]
             },
             "geometry": {
@@ -1371,9 +1394,9 @@
                 "details_url": "https://www.deintestzentrum.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.deintestzentrum.de",
-                    "pcr_test: ja",
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.deintestzentrum.de",
+                    "PCR-Test: ja",
                     "Lollitest möglich"
                 ]
             },
@@ -1394,8 +1417,8 @@
                 "details_url": "http://www.dx-test.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_url: www.dx-test.de",
-                    "pcr_test: nein"
+                    "Termin-Webseite: www.dx-test.de",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -1414,10 +1437,10 @@
                 "opening_hours": "Mo-Fr 08:00-12:00, Mo-Fr 13:00-19:00, Sa 09:00-12:00, Sa 13:00-16:00",
                 "details_url": "https://www.lipsiaapotheke.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "pcr_test: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.lipsiaapotheke.de"
+                    "Terminvereinbarung notwendig: ja",
+                    "PCR-Test: ja",
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.lipsiaapotheke.de"
                 ]
             },
             "geometry": {
@@ -1435,8 +1458,8 @@
                 "telephone": null,
                 "opening_hours": "Mo-Th 07:00-19:00, Fr 08:00-20:00, Sa 10:00-18:00, Su 12:00-18:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -1455,9 +1478,9 @@
                 "opening_hours": "Mo-Th 08:00-18:00, Fr 08:00-20:00, Sa 09:00-20:00, Su 09:00-15:00",
                 "details_url": "http://www.testzentrum.suedbrause-beifreunden.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "termin_url: www.testzentrum.suedbrause-beifreunden.de"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.testzentrum.suedbrause-beifreunden.de"
                 ]
             },
             "geometry": {
@@ -1477,9 +1500,9 @@
                 "details_url": "http://www.sonnen-apotheke-leipzig.de/coronaschnelltest-onlinetermin.html",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon",
-                    "termin_url: http://www.sonnen-apotheke-leipzig.de/coronaschnelltest-onlinetermin.html",
-                    "pcr_test: ja"
+                    "Termin über: Telefon",
+                    "Termin-Webseite: http://www.sonnen-apotheke-leipzig.de/coronaschnelltest-onlinetermin.html",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -1492,13 +1515,34 @@
         }, {
             "type": "Feature",
             "properties": {
+                "title": "Testzentrum Leipzig Süd",
+                "location": "Karl-Liebknecht-Straße 81, 04275 Leipzig",
+                "telephone": null,
+                "opening_hours": "Mo-Fr 07:00-18:00, Sa 10:00-18:00, Su 10:00-16:00",
+                "details_url": "http://www.testzentrum-leipzig-sued.de",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "Termin-Webseite: www.testzentrum-leipzig-sued.de",
+                    "PCR-Test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.373834245165098,
+                    51.32283390539536
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
                 "title": "Testzentrum Westplatz",
                 "location": "Käthe-Kollwitz-Straße 37, 04109 Leipzig",
                 "telephone": null,
                 "opening_hours": "Mo-Fr 07:00-19:00, Sa-Su 10:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -1518,9 +1562,9 @@
                 "details_url": "https://www.kopfzentrum-gruppe.de/reservations/",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url:www.kopfzentrum-gruppe.de/reservations/",
-                    "pcr_test: ja"
+                    "Termin über: Internet",
+                    "Termin-Webseite:www.kopfzentrum-gruppe.de/reservations/",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -1536,13 +1580,13 @@
                 "title": "Testzentrum Kieler Straße 34",
                 "location": "Kieler Straße 34, 04357 Leipzig",
                 "telephone": "0341/6995212",
-                "opening_hours": "Mo-Su 08:00-21:00",
+                "opening_hours": "Mo-Su 09:00-20:00",
 				"details_url": "http://www.deintest.info",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_art: telephone",
-                    "pcr_test: nein",
-					"termin_url: www.deintest.info"
+                    "Termin über: telephone",
+                    "PCR-Test: nein",
+					"Termin-Webseite: www.deintest.info"
                 ]
             },
             "geometry": {
@@ -1561,8 +1605,8 @@
                 "opening_hours": "Mo 13:00-18:00, Tu-Fr 10:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: telephone",
-                    "pcr_test: nein"
+                    "Termin über: telephone",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -1584,9 +1628,9 @@
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "Terminbuchung per Whatsapp 0177/5013819 oder via https://termine24.asego.de/?KalenderID=4f50e3d5-1731-4471-a884-2c14aaca0ab3",
-                    "termin_art: Telefon+Internet",
-                    "termin_url: www.augenoptik-hörgeräte.de",
-                    "pcr_test: ja",
+                    "Termin über: Telefon+Internet",
+                    "Termin-Webseite: www.augenoptik-hörgeräte.de",
+                    "PCR-Test: ja",
 					"Lolli-/Spucktest möglich"
                 ]
             },
@@ -1607,8 +1651,8 @@
                 "details_url": "https://www.covisa.de/covisacenter",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "pcr_test: nein",
+                    "Termin über: Internet",
+                    "PCR-Test: nein",
                     "Termine sind online buchbar.",
 					"Lolli-/Spucktest möglich"
                 ]
@@ -1630,9 +1674,9 @@
                 "details_url": "mailto:roesner@riele-gmbh.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon+Internet",
-                    "email: roesner@riele-gmbh.de",
-                    "pcr_test: ja",
+                    "Termin über: Telefon+Internet",
+                    "Termin-E-Mail: roesner@riele-gmbh.de",
+                    "PCR-Test: ja",
                     "Weitere Termine, auch samstags, sind nach vorheriger Absprache möglich",
 					"Spucktest auf Anfrage"
                 ]
@@ -1650,12 +1694,12 @@
                 "title": "ConnTest - Covid-19 Testzentrum Connewitz",
                 "location": "Koburger Straße 11, 04277 Leipzig",
                 "telephone": "0341/59167255",
-                "opening_hours": "Mo-Fr 08:00-18:00, Sa 09:00-16:00",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa-Su 09:00-16:00",
                 "details_url": "https://conntest.probatix.de/de/pick-slot",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: ja",
-                    "termin_url: conntest.probatix.de/de/pick-slot",
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: ja",
+                    "Termin-Webseite: conntest.probatix.de/de/pick-slot",
 					"Lollitest möglich"
                 ]
             },
@@ -1674,8 +1718,8 @@
                 "telephone": "0341/58062844",
                 "opening_hours": "Mo-Th 08:15-17:45, Fr 08:45-13:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -1694,9 +1738,9 @@
                 "opening_hours": "Mo-Fr 08:00-20:00, Sa-Su 10:00-19:00",
                 "details_url": "http://www.testcenter-sachsen.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: ja",
-                    "termin_url: www.testcenter-sachsen.de"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: ja",
+                    "Termin-Webseite: www.testcenter-sachsen.de"
                 ]
             },
             "geometry": {
@@ -1715,10 +1759,10 @@
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa 09:00-16:00",
                 "details_url": "http://www.corona-testen-leipzig.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "email: lagerhof@corona-testen-leipzig.de",
-                    "termin_url: www.corona-testen-leipzig.de",
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-E-Mail: lagerhof@corona-testen-leipzig.de",
+                    "Termin-Webseite: www.corona-testen-leipzig.de",
                     "https://app.no-q.info/testzentrum-lagerhof/checkins#/4548/2022-01-19"
                 ]
             },
@@ -1739,9 +1783,9 @@
                 "details_url": "https://www.kopfzentrum-gruppe.de/reservations/",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.kopfzentrum-gruppe.de/reservations/",
-                    "pcr_test: ja"
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.kopfzentrum-gruppe.de/reservations/",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -1760,9 +1804,9 @@
                 "opening_hours": "Mo-Fr 07:00-18:30, Sa 09:00-18:30, Su 12:30-18:30",
                 "details_url": "http://www.besafe-coronatest.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "termin_url: www.besafe-coronatest.de"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.besafe-coronatest.de"
                 ]
             },
             "geometry": {
@@ -1783,9 +1827,9 @@
                 "details_url": "https://www.schnelltestboehlitz.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.schnelltestboehlitz.de",
-                    "pcr_test: ja",
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.schnelltestboehlitz.de",
+                    "PCR-Test: ja",
 					"Lolli-Test möglich"
                 ]
             },
@@ -1806,7 +1850,7 @@
                 "opening_hours_unclassified": "Montag/Dienstag/Mittwoch/Freitag/Samstag nach Vereinbarung",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: telephone"
+                    "Termin über: telephone"
                 ]
             },
             "geometry": {
@@ -1825,10 +1869,10 @@
                 "opening_hours": "Mo 10:00-12:00, Mo 16:00-18:00, Tu 09:00-11:00, We 10:00-12:00, We 16:00-18:00, Th 09:00-11:00",
                 "details_url": "https://www.gesundheitssportverein.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.gesundheitssportverein.de",
-                    "pcr_test: nein",
+                    "Terminvereinbarung notwendig: ja",
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.gesundheitssportverein.de",
+                    "PCR-Test: nein",
                     "Mitglieder ohne Termin möglich"
                 ]
             },
@@ -1847,8 +1891,8 @@
                 "telephone": "0152/59438336",
                 "opening_hours": "Mo-Fr 07:00-19:00, Sa 08:00-11:00, Sa-Su 08:30-17:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -1868,9 +1912,9 @@
                 "hints": [
                     "Haus 4",
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: ja",
+                    "PCR-Test: ja",
                     "feiertags: 11:00-17:00",
-                    "termin_url: http://www.Corona-Testzentrum am UKL (uniklinikum-leipzig.de)"
+                    "Termin-Webseite: http://www.Corona-Testzentrum am UKL (uniklinikum-leipzig.de)"
                 ]
             },
             "geometry": {
@@ -1890,8 +1934,8 @@
                 "details_url": "http://www.besafe-coronatest.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein",
-                    "termin_url: www.besafe-coronatest.de"
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.besafe-coronatest.de"
                 ]
             },
             "geometry": {
@@ -1910,10 +1954,10 @@
                 "opening_hours": "Mo-Sa 10:00-18:00",
                 "details_url": "mailto:hallo@waxing-leipzig.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "termin_art: Telefon, E-Mail, Internet",
-                    "pcr_test: nein",
-                    "email: hallo@waxing-leipzig.de"
+                    "Terminvereinbarung notwendig: ja",
+                    "Termin über: Telefon, E-Mail, Internet",
+                    "PCR-Test: nein",
+                    "Termin-E-Mail: hallo@waxing-leipzig.de"
                 ]
             },
             "geometry": {
@@ -1931,8 +1975,8 @@
                 "telephone": "0341/42056404",
                 "opening_hours": "Mo-Fr 08:00-18:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
 					"Lollitest auf Anfrage"
                 ]
             },
@@ -1953,8 +1997,8 @@
                 "details_url": "https://www.deintestzentrum.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_url: www.deintestzentrum.de",
-                    "pcr_test: nein",
+                    "Termin-Webseite: www.deintestzentrum.de",
+                    "PCR-Test: nein",
 					"Lollitest möglich"
                 ]
             },
@@ -1974,11 +2018,11 @@
                 "opening_hours": "Mo-Su 08:00-18:00",
                 "details_url": "http://www.testzentrum-lindenau.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: ja",
-                    "termin_art: Telefon+E-Mail",
-                    "email: testzentrumlindenau@gmail.com",
-                    "termin_url: www.testzentrum-lindenau.de",
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: ja",
+                    "Termin über: Telefon+E-Mail",
+                    "Termin-E-Mail: testzentrumlindenau@gmail.com",
+                    "Termin-Webseite: www.testzentrum-lindenau.de",
                     "Lolli-/Spucktest möglich",
 					"PCR-Abnahmen Mo.-Fr. bis 16:00 Uhr, Sa.-So. bis 10:45 Uhr werden am gleichen Tag im Labor analysiert"
                 ]
@@ -1996,13 +2040,13 @@
                 "title": "Merkur Apotheke",
                 "location": "Lützner Straße 145, 04179 Leipzig",
                 "telephone": "0341/484970",
-                "opening_hours": "Mo-Fr 12:00-18:00",
+                "opening_hours": "Mo-Fr 08:00-18:00",
                 "details_url": "http://www.merkur-apotheke-leipzig.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "24.12.2021 + 31.12.2021 08:00-12:00",
-                    "termin_url: www.merkur-apotheke-leipzig.de"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.merkur-apotheke-leipzig.de",
+                    "Terminvereinbarung an Feiertagen nötig"
                 ]
             },
             "geometry": {
@@ -2021,8 +2065,8 @@
                 "opening_hours": "Mo-Su 08:00-19:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon",
-                    "pcr_test: nein"
+                    "Termin über: Telefon",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2042,9 +2086,9 @@
                 "details_url": "https://www.medici-apotheke.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.medici-apotheke.de",
-                    "pcr_test: nein"
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.medici-apotheke.de",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2063,10 +2107,10 @@
                 "opening_hours": "Mo 08:00-10:00, We-Fr 08:00-10:00, We-Fr 15:00-20:00, Sa-Su 15:00-20:00",
                 "details_url": "http://www.deintestzentrum.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "termin_art: Internet",
-                    "termin_url: www.deintestzentrum.de",
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.deintestzentrum.de",
                     "Termine ab 5 Personen mit Terminvereinbarung"
                 ]
             },
@@ -2086,9 +2130,9 @@
                 "opening_hours": "Mo-Th 07:00-19:00, Fr 07:00-13:00, Su 14:00-19:00",
                 "details_url": "http://www.besafe-coronatest.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "termin_url: www.besafe-coronatest.de"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.besafe-coronatest.de"
                 ]
             },
             "geometry": {
@@ -2108,9 +2152,9 @@
                 "details_url": "https://coronatestleipzig.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: coronatestleipzig.de",
-                    "pcr_test: nein"
+                    "Termin über: Internet",
+                    "Termin-Webseite: coronatestleipzig.de",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2128,8 +2172,8 @@
                 "telephone": "01522/3910104",
                 "opening_hours": "Mo-Su 07:00-20:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: ja"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -2150,7 +2194,7 @@
                     "Zufahrt über Franzosenallee",
                     "Feiertage 07:30-17:30 Uhr",
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2170,8 +2214,8 @@
 				"details_url": "http://www.testzentrum.gohlis-nord.de/",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: ja",
-					"termin_url: www.testzentrum.gohlis-nord.de/"
+                    "PCR-Test: ja",
+					"Termin-Webseite: www.testzentrum.gohlis-nord.de/"
                 ]
             },
             "geometry": {
@@ -2190,10 +2234,10 @@
                 "opening_hours": "Mo-Su 10:00-20:00",
                 "details_url": "http://www.buergertestcenter-leipzig.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.buergertestcenter-leipzig.de",
-                    "pcr_test: nein",
+                    "Terminvereinbarung notwendig: ja",
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.buergertestcenter-leipzig.de",
+                    "PCR-Test: nein",
 					"Spucktest möglich"
                 ]
             },
@@ -2213,7 +2257,7 @@
                 "opening_hours": "Mo-Fr 14:00-18:00, Sa 10:00-14:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon"
+                    "Termin über: Telefon"
                 ]
             },
             "geometry": {
@@ -2249,9 +2293,9 @@
                 "details_url": "www.corona.ia.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon",
-                    "termin_url: www.corona.ia.de",
-                    "pcr_test: nein",
+                    "Termin über: Telefon",
+                    "Termin-Webseite: www.corona.ia.de",
+                    "PCR-Test: nein",
                     "feiertags geschlossen"
                 ]
             },
@@ -2272,8 +2316,8 @@
                 "details_url": "http://www.corona-teststrasse.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_url: www.corona-teststrasse.de",
-                    "pcr_test: nein"
+                    "Termin-Webseite: www.corona-teststrasse.de",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2294,8 +2338,8 @@
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "PCR-Test nach positivem Antigen-Test möglich",
-                    "pcr_test: ja",
-                    "termin_url: www.sanktgeorg.de/klinikum-st-georg-krankenhaus-medizin-in-leipzig/corona/corona-testzentren.html"
+                    "PCR-Test: ja",
+                    "Termin-Webseite: www.sanktgeorg.de/klinikum-st-georg-krankenhaus-medizin-in-leipzig/corona/corona-testzentren.html"
                 ]
             },
             "geometry": {
@@ -2314,9 +2358,9 @@
                 "opening_hours": "Mo-Su 08:00-20:00",
                 "details_url": "http://leipzig-testen.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "termin_url: leipzig-testen.de"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-Webseite: leipzig-testen.de"
                 ]
             },
             "geometry": {
@@ -2336,9 +2380,9 @@
                 "details_url": "https://www.kopfzentrum-gruppe.de/reservations/",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.kopfzentrum-gruppe.de/reservations/",
-                    "pcr_test: ja"
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.kopfzentrum-gruppe.de/reservations/",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -2358,8 +2402,8 @@
                 "details_url": "http://www.leipzig-testen.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein",
-                    "termin_url: www.leipzig-testen.de"
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.leipzig-testen.de"
                 ]
             },
             "geometry": {
@@ -2379,8 +2423,8 @@
                 "details_url": "https://mcs.meincoronaschnelltest.de/paunsdorf-leipzig/start.php",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_url: https://mcs.meincoronaschnelltest.de/paunsdorf-leipzig/start.php",
-                    "pcr_test: ja",
+                    "Termin-Webseite: https://mcs.meincoronaschnelltest.de/paunsdorf-leipzig/start.php",
+                    "PCR-Test: ja",
                     "mit Termin für kostenlose Tests"
                 ]
             },
@@ -2402,10 +2446,10 @@
 				"details_url": "mailto:nwoltschleger@web.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon",
-                    "pcr_test: nein",
+                    "Termin über: Telefon",
+                    "PCR-Test: nein",
 					"Lollitest möglich",
-					"email: nwoltschleger@web.de"
+					"Termin-E-Mail: nwoltschleger@web.de"
                 ]
             },
             "geometry": {
@@ -2425,8 +2469,8 @@
                 "details_url": "http://www.petersbogen-apotheke.de/",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_url: www.petersbogen-apotheke.de",
-                    "pcr_test: ja"
+                    "Termin-Webseite: www.petersbogen-apotheke.de",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -2447,9 +2491,9 @@
                 "hints": [
                     "Terminvereinbarung telefonisch, über Website oder per Mail an petersbogen@co-care.gmbh",
                     "Terminvereinbarung notwendig: nein",
-                    "termin_art: Telefon+Internet",
-                    "termin_url: www.leipzig-petersbogen.veranstaltungsbutler.de/book#/bookcart?fcourses=mit_termin",
-                    "pcr_test: ja"
+                    "Termin über: Telefon+Internet",
+                    "Termin-Webseite: www.leipzig-petersbogen.veranstaltungsbutler.de/book#/bookcart?fcourses=mit_termin",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -2468,10 +2512,10 @@
                 "opening_hours": "Mo-Su 09:00-13:00",
                 "details_url": "https://www.buergertest-leipzig.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.buergertest-leipzig.de",
-                    "pcr_test: nein",
+                    "Terminvereinbarung notwendig: ja",
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.buergertest-leipzig.de",
+                    "PCR-Test: nein",
 					"Höhe Godwanaland"
                 ]
             },
@@ -2490,8 +2534,8 @@
                 "telephone": null,
                 "opening_hours": "Mo-Su 05:00-23:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2509,8 +2553,8 @@
                 "telephone": "0341/5215190",
                 "opening_hours": "Mo-Fr 05:00-22:00, Sa-Su 08:00-20:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
                     "Lollitest für Kinder"
                 ]
             },
@@ -2530,10 +2574,10 @@
                 "opening_hours": "Mo-Sa 07:00-19:00, Su 10:00-15:00",
                 "details_url": "http://www.covfinity.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "termin_url: www.covfinity.de",
-                    "email: covfinity.coronatest@yahoo.de"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.covfinity.de",
+                    "Termin-E-Mail: covfinity.coronatest@yahoo.de"
                 ]
             },
             "geometry": {
@@ -2551,8 +2595,8 @@
                 "telephone": "0163/6841935",
                 "opening_hours": "Mo-Su 10:00-18:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2570,8 +2614,8 @@
                 "telephone": "0341/2462578",
                 "opening_hours": "Mo-Th 08:15-17:45, Fr 08:45-13:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2589,9 +2633,9 @@
                 "telephone": "0341/1270257",
                 "opening_hours": "Mo-Fr 08:00-20:00, Sa 10:00-20:00, Su 10:00-16:00",
                 "hints": [
-                    "termin_art: Internet",
-                    "termin_url: www.coronafreepass.de/buchen",
-                    "pcr_test: nein"
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.coronafreepass.de/buchen",
+                    "PCR-Test: nein"
                 ],
                 "details_url": "http://www.coronafreepass.de/buchen"
             },
@@ -2611,10 +2655,10 @@
                 "opening_hours": "Mo-Fr 06:00-12:00, Mo-Fr 12:30-18:00, Sa 11:00-19:00, Su 11:00-18:00",
                 "details_url": "https://corona-tzm-paunsdorf.covidservicepoint.de/",
                 "hints": [
-                    "termin_ja: nein",
-                    "termin_url: corona-tzm-paunsdorf.covidservicepoint.de",
-                    "email: testzentrum.paunsdorf@gmx.de",
-                    "pcr_test: nein",
+                    "Terminvereinbarung notwendig: nein",
+                    "Termin-Webseite: corona-tzm-paunsdorf.covidservicepoint.de",
+                    "Termin-E-Mail: testzentrum.paunsdorf@gmx.de",
+                    "PCR-Test: nein",
                     "letzte Testung 18:00 Uhr"
                 ]
             },
@@ -2634,8 +2678,8 @@
                 "opening_hours": "Tu-Fr 10:00-17:00, Sa 09:00-11:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon",
-                    "pcr_test: nein",
+                    "Termin über: Telefon",
+                    "PCR-Test: nein",
 					"Lollitest für Kinder"
                 ]
             },
@@ -2655,8 +2699,8 @@
                 "opening_hours": "Mo 14:00-18:00, We 08:00-18:00, Fr 08:00-13:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon",
-                    "pcr_test: ja"
+                    "Termin über: Telefon",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -2675,8 +2719,8 @@
                 "opening_hours": "Mo-Su 08:00-19:00",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon",
-                    "pcr_test: nein"
+                    "Termin über: Telefon",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2695,7 +2739,7 @@
                 "opening_hours": "Mo-Fr 07:30-18:00, Sa 08:00-14:00, Su 14:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2716,8 +2760,8 @@
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "Mittwoch auf Anfrage",
-                    "termin_art: Internet",
-                    "email: corona-schnelltest@drhenke.de"
+                    "Termin über: Internet",
+                    "Termin-E-Mail: corona-schnelltest@drhenke.de"
                 ]
             },
             "geometry": {
@@ -2736,10 +2780,10 @@
                 "opening_hours": "Mo-Fr 08:00-15:30",
                 "details_url": "http://www.terminland.de/schlehenapotheke",
                 "hints": [
-                    "termin_ja: ja",
-                    "termin_art: Internet",
-                    "pcr_test: ja",
-                    "termin_url: www.terminland.de/schlehenapotheke",
+                    "Terminvereinbarung notwendig: ja",
+                    "Termin über: Internet",
+                    "PCR-Test: ja",
+                    "Termin-Webseite: www.terminland.de/schlehenapotheke",
                     "Ein bestätigender PCR-Test kann nach einem positiven Antigen-Schnelltest durchgeführt werden"
                 ]
             },
@@ -2762,9 +2806,9 @@
                     "Terminvereinbarung notwendig: ja",
                     "Nachmittags Tests ohne Termin möglich",
                     "Wir bieten auch PCR-Tests an.",
-                    "termin_art: Telefon+Internet",
-                    "termin_url: www.apo-holzhausen.de",
-                    "pcr_test: ja"
+                    "Termin über: Telefon+Internet",
+                    "Termin-Webseite: www.apo-holzhausen.de",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -2780,12 +2824,12 @@
                 "title": "Apotheke Holzhausen",
                 "location": "Stötteritzer Landstraße 81, 04317 Leipzig",
                 "telephone": "0341/6995212",
-                "opening_hours": "Mo-Su 07:00-21:00",
+                "opening_hours": "Mo-Fr 07:00-21:00, Sa-Su 08:30-21:00",
                 "details_url": "http://www.deintest.info",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_url: www.deintest.info",
-                    "pcr_test: nein"
+                    "Termin-Webseite: www.deintest.info",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2805,9 +2849,9 @@
                 "details_url": "https://www.kopfzentrum-gruppe.de/reservations/",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.kopfzentrum-gruppe.de/reservations/",
-                    "pcr_test: ja"
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.kopfzentrum-gruppe.de/reservations/",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -2827,8 +2871,8 @@
                 "details_url": "http://www.leipzig-coronatestzentrum.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_url: www.leipzig-coronatestzentrum.de",
-                    "pcr_test: nein"
+                    "Termin-Webseite: www.leipzig-coronatestzentrum.de",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2847,10 +2891,10 @@
                 "opening_hours": "Mo-Fr 09:00-19:00, Sa-Su 15:00-19:00",
                 "details_url": "https://www.helios-gesundheit.de/kliniken/leipzig-park-klinikum/",
                 "hints": [
-                    "termin_ja: ja",
-                    "pcr_test: nein",
-                    "termin_art: Internet",
-                    "termin_url: https://www.helios-gesundheit.de/kliniken/leipzig-park-klinikum/"
+                    "Terminvereinbarung notwendig: ja",
+                    "PCR-Test: nein",
+                    "Termin über: Internet",
+                    "Termin-Webseite: https://www.helios-gesundheit.de/kliniken/leipzig-park-klinikum/"
                 ]
             },
             "geometry": {
@@ -2869,9 +2913,9 @@
                 "opening_hours_unclassified": "Tests nach vorheriger telefonischer Anmeldung",
                 "opening_hours": null,
                 "hints": [
-                    "termin_ja: ja",
-                    "termin_art: Telefon",
-                    "pcr_test: nein"
+                    "Terminvereinbarung notwendig: ja",
+                    "Termin über: Telefon",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2890,9 +2934,9 @@
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa 09:00-18:00, Su 10:00-18:00",
                 "details_url": "http://www.leipzig-testen.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "termin_url: www.leipzig-testen.de"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.leipzig-testen.de"
                 ]
             },
             "geometry": {
@@ -2912,9 +2956,9 @@
                 "details_url": "mailto:info@russisch-brot-markt.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_art: Telefon+E-Mail",
-                    "email: info@russisch-brot-markt.de",
-                    "pcr_test: nein"
+                    "Termin über: Telefon+E-Mail",
+                    "Termin-E-Mail: info@russisch-brot-markt.de",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2934,8 +2978,8 @@
                 "details_url": "https://app.no-q.info/testzentrum-portitz/checkins",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_url: app.no-q.info/testzentrum-portitz/checkins",
-                    "pcr_test: nein"
+                    "Termin-Webseite: app.no-q.info/testzentrum-portitz/checkins",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2953,9 +2997,9 @@
                 "telephone": "0341/9218799",
                 "opening_hours": "Mo 08:00-12:00, We 08:00-12:00, Tu 12:00-16:00, Th 12:00-18:00, Fr 08:00-11:00",
                 "hints": [
-                    "termin_art: Telefon",
+                    "Termin über: Telefon",
                     "Terminvereinbarung notwendig: ja",
-                    "pcr_test: nein"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2974,9 +3018,9 @@
                 "opening_hours": "Mo-Fr 07:00-19:00, Sa-Su 08:30-15:00",
                 "details_url": "https://app.no-q.info/corona-lab-testzentrum/checkins#/2800/2022-01-21",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-                    "termin_url: app.no-q.info/corona-lab-testzentrum/checkins#/2800/2022-01-21"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-Webseite: app.no-q.info/corona-lab-testzentrum/checkins#/2800/2022-01-21"
                 ]
             },
             "geometry": {
@@ -2995,9 +3039,9 @@
                 "opening_hours_unclassified": "Terminvereinbarung nötig unter 0341/31957416",
                 "opening_hours": null,
                 "hints": [
-                    "termin_ja: ja",
-                    "pcr_test: nein",
-                    "termin_art: E-Mail, Telefon"
+                    "Terminvereinbarung notwendig: ja",
+                    "PCR-Test: nein",
+                    "Termin über: E-Mail, Telefon"
                 ]
             },
             "geometry": {
@@ -3017,7 +3061,7 @@
                 "hints": [
                     "auf dem Marktplatz",
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -3035,7 +3079,7 @@
                 "telephone": "0176/20051311",
                 "opening_hours": "Mo-Su 00:00-23:59",
                 "hints": [
-                    "pcr_test: nein",
+                    "PCR-Test: nein",
                     "auch feiertags"
                 ]
             },
@@ -3056,9 +3100,9 @@
                 "details_url": "mailto:info@lbw-leipzig.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon+E-Mail",
-                    "email: info@lbw-leipzig.de",
-                    "pcr_test: nein",
+                    "Termin über: Telefon+E-Mail",
+                    "Termin-E-Mail: info@lbw-leipzig.de",
+                    "PCR-Test: nein",
 					"Spucktest möglich"
                 ]
             },
@@ -3078,7 +3122,7 @@
                 "opening_hours": "Mo-Fr 07:00-19:00, Sa-Su 10:00-18:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein",
+                    "PCR-Test: nein",
 					"Lollitest möglich"
                 ]
             },
@@ -3101,8 +3145,8 @@
                     "Terminvereinbarung notwendig: nein",
                     "Mobile Testteams stehen auf Anfrage zur Verfügung",
                     "Bestätigender PCR-Test nach positivem Antigen-Test in der Teststelle",
-                    "termin_url: www.santy-cruz-leipzig.eatbu.com",
-                    "pcr_test: ja",
+                    "Termin-Webseite: www.santy-cruz-leipzig.eatbu.com",
+                    "PCR-Test: ja",
                     "Krankenkarte erforderlich",
                     "Testung nur symptomfrei"
                 ]
@@ -3123,7 +3167,7 @@
                 "opening_hours": "Mo-Sa 09:00-18:00, Su 12:00-17:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "pcr_test: nein"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -3143,9 +3187,9 @@
                 "opening_hours": "Mo-Th 08:00-18:00, Fr 08:00-20:00, Sa 10:00-20:00, Su 10:00-16:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_url: www.dascoronaschnelltestzentrum.de",
-                    "email: info@dascoronaschnelltestzentrum.de",
-                    "pcr_test: nein"
+                    "Termin-Webseite: www.dascoronaschnelltestzentrum.de",
+                    "Termin-E-Mail: info@dascoronaschnelltestzentrum.de",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -3165,9 +3209,9 @@
                 "details_url": "https://www.kopfzentrum-gruppe.de/reservations/",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Telefon+Internet",
-                    "termin_url: www.kopfzentrum-gruppe.de/reservations/",
-                    "pcr_test: ja"
+                    "Termin über: Telefon+Internet",
+                    "Termin-Webseite: www.kopfzentrum-gruppe.de/reservations/",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -3187,8 +3231,8 @@
                 "details_url": "https://www.corona-teststrasse.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_url: www.corona-teststrasse.de",
-                    "pcr_test: nein"
+                    "Termin-Webseite: www.corona-teststrasse.de",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -3208,9 +3252,9 @@
                 "details_url": "https://app.no-q.info/apo-hbf-leipzig/checkins/#/288/2022-01-19",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "termin_art: Internet",
-                    "termin_url: app.no-q.info/apo-hbf-leipzig/checkins/#/288/2022-01-19",
-                    "pcr_test: nein"
+                    "Termin über: Internet",
+                    "Termin-Webseite: app.no-q.info/apo-hbf-leipzig/checkins/#/288/2022-01-19",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -3230,8 +3274,8 @@
                 "details_url": "https://www.deintestzentrum.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_url: www.deintestzentrum.de",
-                    "pcr_test: ja"
+                    "Termin-Webseite: www.deintestzentrum.de",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -3249,8 +3293,8 @@
                 "telephone": "01522/391065",
                 "opening_hours": "Mo-Su 07:00-20:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: ja"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -3269,9 +3313,9 @@
                 "opening_hours": "Mo-Su 08:00-19:00",
 				"details_url": "https://corona-testen-leipzig.de/termin-buchen/",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
-					"termin_url: corona-testen-leipzig.de/termin-buchen/",
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+					"Termin-Webseite: corona-testen-leipzig.de/termin-buchen/",
                     "https://app.no-q.info/testzentrum-am-adler/checkins#/6546/2022-01-19"
                 ]
             },
@@ -3290,8 +3334,8 @@
                 "telephone": "0173/1981114",
                 "opening_hours": "Mo-Fr 08:00-19:00, Sa 10:00-18:00, Su 11:00-19:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: ja",
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: ja",
 					"feiertags: 11:00-19:00",
                     "mail: siadienst@web.de"
                 ]
@@ -3312,10 +3356,10 @@
                 "opening_hours": "Mo-Fr 08:00-20:00, Sa 09:00-21:00, Su 10:00-18:00",
                 "details_url": "http://www.testcenterleipzig.de",
                 "hints": [
-                    "termin_ja: ja",
-                    "pcr_test: ja",
-                    "termin_art: Internet",
-                    "termin_url: www.testcenterleipzig.de"
+                    "Terminvereinbarung notwendig: ja",
+                    "PCR-Test: ja",
+                    "Termin über: Internet",
+                    "Termin-Webseite: www.testcenterleipzig.de"
                 ]
             },
             "geometry": {
@@ -3335,9 +3379,9 @@
                 "details_url": "https://www.generation-of-hope.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "termin_art: Telefon+Internet",
-                    "termin_url: www.generation-of-hope.de",
-                    "pcr_test: nein"
+                    "Termin über: Telefon+Internet",
+                    "Termin-Webseite: www.generation-of-hope.de",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -3353,13 +3397,13 @@
                 "title": "Astoria Testzentrum",
                 "location": "Zweinaundorfer Straße 3, 04318 Leipzig",
                 "telephone": "0151/63069218",
-                "opening_hours": "Mo-Fr 07:00-21:00, Sa 08:00-20:00, Su 10:00-18:00",
+                "opening_hours": "Mo-Sa 08:00-20:00, Su 12:00-20:00",
                 "details_url": "http://www.astoria-testzentrum.de",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein",
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
                     "mail: astoriaug@gmx.de",
-                    "termin_url: www.astoria-testzentrum.de"
+                    "Termin-Webseite: www.astoria-testzentrum.de"
                 ]
             },
             "geometry": {
@@ -3377,8 +3421,8 @@
                 "telephone": "0176/31038166",
                 "opening_hours": "Mo-Sa 11:00-17:00",
                 "hints": [
-                    "termin_ja: nein",
-                    "pcr_test: nein"
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
