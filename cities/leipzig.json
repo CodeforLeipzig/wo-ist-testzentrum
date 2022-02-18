@@ -9,7 +9,7 @@
     },
     "metadata": {
         "data_source": {
-            "title": "Stadt Leipzig, Stand: 11.02.2022",
+            "title": "Stadt Leipzig, Stand: 18.02.2022",
             "url": "https://www.leipzig.de/jugend-familie-und-soziales/gesundheit/neuartiges-coronavirus-2019-n-cov/testzentrum/"
         }
     },
@@ -40,7 +40,7 @@
             "properties": {
                 "title": "SC DHfK Leipzig e. V.",
                 "location": "Am Sportforum 10, 04105 Leipzig",
-                "opening_hours": "Mo-Fr 08:00-11:00, Mo-Fr 14:00-16:00",
+                "opening_hours": "Mo-Fr 08:00-12:00",
                 "details_url": "mailto:testzentrum@scdhfk.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
@@ -366,10 +366,12 @@
                 "opening_hours": "Mo-Fr 09:00-15:00",
                 "details_url": "http://www.ergotherapie-ergolife.de",
                 "hints": [
-                    "Terminvereinbarung notwendig: ja",
+                    "Terminvereinbarung notwendig: nein",
                     "Termin über: Telefon+E-Mail",
                     "Termin-Webseite: www.ergotherapie-ergolife.de",
-                    "PCR-Test: nein"
+                    "Termin-E-Mail: info@ergotherapie-ergolife.de",
+                    "PCR-Test: nein",
+                    "Terminvereinbarung außerhalb der Öffnungszeiten per E-Mail oder Telefon möglich"
                 ]
             },
             "geometry": {
@@ -928,7 +930,7 @@
                 "title": "Staubsauger-Center Leipzig",
                 "location": "Georg-Schumann-Straße 218, 04159 Leipzig",
                 "telephone": "0341/5502582",
-                "opening_hours": "Mo-Fr 09:00-13:00, Mo-Fr 14:00-18:00, Sa 10:00-12:00",
+                "opening_hours": "Mo-Fr 09:00-18:00, Sa 10:00-12:00",
                 "details_url": "https://stc-leipzig.de/covid-testzentrum/",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
@@ -1031,6 +1033,28 @@
         }, {
             "type": "Feature",
             "properties": {
+                "title": "Testzentrum am Gesundheitszentrum Großzschocher",
+                "location": "Gerhard-Ellrodt-Straße 19, 04249 Leipzig",
+                "telephone": null,
+                "opening_hours": "Mo-Fr 07:00-20:00, Sa 10:00-20:00, Su 14:00-20:00",
+                "details_url": "https://apo-schnelltest.de/testzentrum-leipzig-2",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Lollitest möglich",
+                    "Termin-Webseite: apo-schnelltest.de/testzentrum-leipzig-2"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.31985021146159,
+                    51.2997241786599
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
                 "title": "Lux-Apotheke",
                 "location": "Gohliser Straße 24, 04155 Leipzig",
                 "telephone": "0341/9605030",
@@ -1066,8 +1090,8 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                    12.405417005960047,
-                    51.35176900373421
+                    12.415931998614544,
+                    51.35668499656966
                 ]
             }
         }, {
@@ -1302,6 +1326,26 @@
                 "coordinates": [
                     12.406049424562948,
                     51.34494347778628
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Corona Testzentrum Reudnitz",
+                "location": "Holsteinstraße Ecke Kurt-Günther-Str, 04317 Leipzig",
+                "telephone": "0176/83121451",
+                "opening_hours": "Mo-Fr 07:00-18:00, Sa 11:00-18:00",
+                "details_url": "http://www.niob-enterprise.de",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.409378998546373,
+                    51.328812000858356
                 ]
             }
         }, {
@@ -2101,29 +2145,6 @@
         }, {
             "type": "Feature",
             "properties": {
-                "title": "ETAGE Leipzig Neues Schauspiel",
-                "location": "Lützner Straße 29, 04107 Leipzig",
-                "telephone": "0151/66282411",
-                "opening_hours": "Mo 08:00-10:00, We-Fr 08:00-10:00, We-Fr 15:00-20:00, Sa-Su 15:00-20:00",
-                "details_url": "http://www.deintestzentrum.de",
-                "hints": [
-                    "Terminvereinbarung notwendig: nein",
-                    "PCR-Test: nein",
-                    "Termin über: Internet",
-                    "Termin-Webseite: www.deintestzentrum.de",
-                    "Termine ab 5 Personen mit Terminvereinbarung"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.33409150115144,
-                    51.33585185376705
-                ]
-            }
-        }, {
-            "type": "Feature",
-            "properties": {
                 "title": "BE.SAFE Leipzig Gohlis Arkaden",
                 "location": "Lützowstraße 9, 04155 Leipzig",
                 "telephone": "0371/27800130",
@@ -2888,7 +2909,7 @@
                 "title": "Bürgertestzentrum Park-Klinikum Leipzig",
                 "location": "Strümpellstraße 41, 04289 Leipzig",
                 "telephone": null,
-                "opening_hours": "Mo-Fr 09:00-19:00, Sa-Su 15:00-19:00",
+                "opening_hours": "Mo-Fr 09:00-19:00, Sa-Su 13:00-19:00",
                 "details_url": "https://www.helios-gesundheit.de/kliniken/leipzig-park-klinikum/",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
@@ -3116,6 +3137,27 @@
         }, {
             "type": "Feature",
             "properties": {
+                "title": "Station Konsum_Trinitatisplatz",
+                "location": "Trinitatisplatz, 04318 Leipzig",
+                "telephone": null,
+                "details_url": "http://www.testcenter-sachsen.de",
+                "opening_hours": "Mo-Fr 15:00-20:00, Sa 09:00-14:00",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "Termin-Webseite: www.testcenter-sachsen.de",
+                    "PCR-Test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.415419996777377,
+                    51.3371719976042
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
                 "title": "AKZYTE Corona Schnelltestzentrum",
                 "location": "Tröndlinring 9, 04105 Leipzig",
                 "telephone": "0176/23151018",
@@ -3197,6 +3239,28 @@
                 "coordinates": [
                     12.359026003279762,
                     51.342343999011995
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Testeinrichtung Waldstraße",
+                "location": "Waldstraße 44-46, 04105 Leipzig",
+                "telephone": null,
+                "details_url": "http://www.covfinity.de",
+                "opening_hours": "Mo-Sa 07:00-19:00, Su 10:00-15:00",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "Termin-Webseite: www.covfinity.de",
+                    "Termin-E-Mail: covfinity.coronatest@yahoo.de",
+                    "PCR-Test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.357742003273918,
+                    51.34529699878995
                 ]
             }
         }, {
