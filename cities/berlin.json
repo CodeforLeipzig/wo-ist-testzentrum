@@ -23007,29 +23007,6 @@
     {
       "geometry": {
         "coordinates": [
-          1,
-          1
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "In der Sonne 22, 1000 Berlin",
-        "telephone": null,
-        "details_url": null,
-        "opening_hours": "Fr 08:00-18:00; Mo 08:00-18:00; Su 08:00-18:00; Tu 08:00-18:00; Sa 08:00-18:00; Th 08:00-18:00; We 08:00-18:00",
-        "title": "BerlinTest_2",
-        "hints": [
-          "PCR-Nachtestung: keine Angabe",
-          "Barrierefreiheit: keine Angabe",
-          "Tests für Kinder: keine Angabe",
-          "Terminbuchung: optional"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
           13.4145,
           52.54002
         ],
@@ -23115,29 +23092,6 @@
           "Barrierefreiheit: keine Angabe",
           "Tests für Kinder: ja",
           "Terminbuchung: nicht notwendig"
-        ]
-      },
-      "type": "Feature"
-    },
-    {
-      "geometry": {
-        "coordinates": [
-          1,
-          -1
-        ],
-        "type": "Point"
-      },
-      "properties": {
-        "location": "In der Sonne 21, 1000 Berlin",
-        "telephone": null,
-        "details_url": null,
-        "opening_hours": "Fr 08:00-18:00; Mo 08:00-18:00; Su 08:00-18:00; Tu 08:00-18:00; Sa 08:00-18:00; Th 08:00-18:00; We 08:00-18:00",
-        "title": "BerlinTest_1",
-        "hints": [
-          "PCR-Nachtestung: keine Angabe",
-          "Barrierefreiheit: keine Angabe",
-          "Tests für Kinder: keine Angabe",
-          "Terminbuchung: optional"
         ]
       },
       "type": "Feature"

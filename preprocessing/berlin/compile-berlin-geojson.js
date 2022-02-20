@@ -149,7 +149,7 @@ const isValidEntry = (entry) => {
     // in the middle of the ocean, we filter them out using
     // this function.
     const [lat, lon] = entry.geometry.coordinates;
-    return lat !== 0 && lon !== 0;
+    return (lat !== 0 && lon !== 0) && (lat !== 1 && lon !== 1);
 };
 
 getData()
