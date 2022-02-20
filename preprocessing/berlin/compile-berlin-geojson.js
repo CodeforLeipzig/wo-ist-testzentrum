@@ -4,7 +4,7 @@
 import fetch from "node-fetch";
 import dayjs from "dayjs";
 
-const URL = "https://api.direkttesten.berlin/api/test-centers/?page[size]=10000&filter[is_active]=true&filter[is_mobile]=false&filter[is_published]=true";
+const URL = "https://apiv2.direkttesten.berlin/api/v1/testcenter/?page[size]=10000&filter[is_active]=true&filter[is_mobile]=false&filter[is_published]=true";
 
 const NOW_DATE = dayjs().format("DD.MM.YYYY");
 
@@ -96,38 +96,49 @@ const sanitizePhoneText = (text) => {
 };
 
 const convertToGeoJson = (node) => {
-    const attributes = node.attributes;
     var openingHours;
     try {
-        openingHours = convertToOpeningHours(attributes.openingHours);
+        openingHours = convertToOpeningHours(node.openingHours);
     } catch (e) {
         // Opening hours are dropped if they cannot be parsed.
-        console.error("'" + attributes.name + "' -> " + e);
+        console.error("'" + node.name + "' -> " + e);
     }
     const json = {
         "geometry": {
             "coordinates": [
-                parseFloat(attributes.longitude), parseFloat(attributes.latitude)
+                parseFloat(node.longitude), parseFloat(node.latitude)
             ],
             "type": "Point"
         },
         "properties": {
-            "location": `${attributes.street}, ${attributes.postalCode} ${attributes.city}`,
-            "telephone": sanitizePhoneText(attributes.phone) || null,
-            "details_url": normalizeUrl(attributes.website) || null,
+            "location": `${node.street}, ${node.postalCode} ${node.city}`,
+            "telephone": sanitizePhoneText(node.phone) || null,
+            "details_url": normalizeUrl(node.website) || null,
             "opening_hours": openingHours || null,
-            "title": attributes.name,
+            "title": node.name,
             "hints": [
-                `PCR-Nachtestung: ${convertToHumanReadable(booleanValuesMap, attributes.hasConfirmatoryPcr) || "keine Angabe"}`,
-                `Barrierefreiheit: ${convertToHumanReadable(booleanValuesMap, attributes.isAccessible) || "keine Angabe"}`,
-                `Tests für Kinder: ${convertToHumanReadable(booleanValuesMap, attributes.hasChildTesting) || "keine Angabe"}`,
-                `Terminbuchung: ${convertToHumanReadable(appointmentMap, attributes.requiresAppointment) || "keine Angabe"}`,
+                `PCR-Nachtestung: ${convertToHumanReadable(booleanValuesMap, node.hasConfirmatoryPcr) || "keine Angabe"}`,
+                `Barrierefreiheit: ${convertToHumanReadable(booleanValuesMap, node.isAccessible) || "keine Angabe"}`,
+                `Tests für Kinder: ${convertToHumanReadable(booleanValuesMap, node.hasChildTesting) || "keine Angabe"}`,
+                `Terminbuchung: ${convertToHumanReadable(appointmentMap, node.requiresAppointment) || "keine Angabe"}`,
             ],
         },
         "type": "Feature"
     };
+    // Certain data error persist. They are automatically clean up here.
     if (json.properties.opening_hours == null) {
         json.properties.opening_hours_unclassified = "Keine Angabe";
+    }
+    if ("GfBE-Testzentrum" === json.properties.title) {
+        json.geometry.coordinates[0] = 13.34775;
+    }
+    if ("Testcenter Residenzstr. 123" === json.properties.title) {
+        json.geometry.coordinates[0] = 13.3609725;
+        json.geometry.coordinates[1] = 52.5668399;
+    }
+    if ("ARG Testzentrum" === json.properties.title) {
+        json.geometry.coordinates[0] = 13.3667143;
+        json.geometry.coordinates[1] = 52.5500701;
     }
     return json;
 };
@@ -138,12 +149,12 @@ const isValidEntry = (entry) => {
     // in the middle of the ocean, we filter them out using
     // this function.
     const [lat, lon] = entry.geometry.coordinates;
-    return lat !== 0 && lon !== 0;
+    return (lat !== 0 && lon !== 0) && (lat !== 1 && lon !== 1);
 };
 
 getData()
-    .then(json => json.data.map(convertToGeoJson)
-                           .filter(isValidEntry)
+    .then(json => json.map(convertToGeoJson)
+                      .filter(isValidEntry)
     )
     .then(features => (
         {
