@@ -125,8 +125,20 @@ const convertToGeoJson = (node) => {
         },
         "type": "Feature"
     };
+    // Certain data error persist. They are automatically clean up here.
     if (json.properties.opening_hours == null) {
         json.properties.opening_hours_unclassified = "Keine Angabe";
+    }
+    if ("GfBE-Testzentrum" === json.properties.title) {
+        json.geometry.coordinates[0] = 13.34775;
+    }
+    if ("Testcenter Residenzstr. 123" === json.properties.title) {
+        json.geometry.coordinates[0] = 13.3609725;
+        json.geometry.coordinates[1] = 52.5668399;
+    }
+    if ("ARG Testzentrum" === json.properties.title) {
+        json.geometry.coordinates[0] = 13.3667143;
+        json.geometry.coordinates[1] = 52.5500701;
     }
     return json;
 };
