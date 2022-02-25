@@ -9,7 +9,7 @@
     },
     "metadata": {
         "data_source": {
-            "title": "Stadt Leipzig, Stand: 18.02.2022",
+            "title": "Stadt Leipzig, Stand: 25.02.2022",
             "url": "https://www.leipzig.de/jugend-familie-und-soziales/gesundheit/neuartiges-coronavirus-2019-n-cov/testzentrum/"
         }
     },
@@ -252,7 +252,7 @@
                 "title": "Testzentrum Vierseithof-Leipzig B77",
                 "location": "Berliner Straße 77, 04129 Leipzig",
                 "telephone": null,
-                "opening_hours": "Mo-Fr 07:00-11:00, Mo-Fr 15:00-19:00, Sa 14:00-17:00, Su 12:00-15:00",
+                "opening_hours": "Mo-Fr 07:00-10:30, Mo-Fr 15:00-18:00, Sa 14:00-17:00, Su 15:00-18:00",
                 "details_url": "http://www.testzentrum-vierseithof-leipzig-b77.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
@@ -429,7 +429,7 @@
                 "title": "Testzentrum Schleußig",
                 "location": "Brockhausstraße 49, 04229 Leipzig",
                 "telephone": "0151/61104989",
-                "opening_hours": "Mo-Fr 08:00-13:00, Mo-Fr 16:00-20:00, Su 16:00-19:00",
+                "opening_hours": "Mo-Fr 08:00-13:00, Mo-Fr 16:00-20:00, Sa-Su 10:00-18:00",
                 "details_url": "http://www.testzentrum-schleussig.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
@@ -509,6 +509,28 @@
                 "coordinates": [
                     12.379986391701388,
                     51.342300502058414
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Testzentrum Eisenbahnstraße",
+                "location": "Bussestraße 2, 04315 Leipzig",
+                "telephone": null,
+                "opening_hours": "Mo-Th 08:00-18:00, Fr-Sa 08:00-20:00, Su 08:00-16:00",
+                "details_url": "https://testor.app/booking/location/utgxLwVNEb4rKWRAf1pT",
+                "hints": [
+                    "Terminvereinbarung notwendig: ja",
+                    "Termin-Webseite: testor.app/booking/location/utgxLwVNEb4rKWRAf1pT",
+                    "PCR-Test: nein",
+                    "Homepage: www.eisenbahnstrasse-testzentrum.com"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.397700998605794,
+                    51.34637299858291
                 ]
             }
         }, {
@@ -697,6 +719,28 @@
                 "coordinates": [
                     12.401187191621487,
                     51.33947363096166
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Testzentrum im Kulturhof Gohlis",
+                "location": "Eisenacher Straße 72, 04155 Leipzig",
+                "telephone": "0341/55008500",
+                "opening_hours": "Mo-Fr 08:00-12:00, Mo-Fr 15:00-18:00",
+                "details_url": "http://www.kulturhof-gohlis.de/coronatest",
+                "hints": [
+                    "Terminvereinbarung notwendig: ja",
+                    "Termin-E-Mail: coronatest@kulturhof-gohlis.de",
+                    "Termin-Webseite: www.kulturhof-gohlis.de/coronatest",
+                    "PCR-Test: ja"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.35890630901345,
+                    51.36226900314161
                 ]
             }
         }, {
@@ -907,7 +951,7 @@
                 "title": "Testzentrum Gohlis GSS",
                 "location": "Georg-Schumann-Straße 16, 04155 Leipzig",
                 "telephone": "0177/6369312",
-                "opening_hours": "Mo-Th 08:00-12:00, Mo-Th 13:00-18:00, Fr 08:00-12:00, Fr 13:00-20:00, Sa 10:00-18:00, Su 10:00-16:00",
+                "opening_hours": "Mo-Th 08:00-18:00, Fr 08:00-20:00, Sa 10:00-18:00, Su 10:00-14:00",
                 "details_url": "http://www.terminland.eu/testzentrumgohlis/",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
@@ -975,11 +1019,9 @@
                 "location": "Georg-Schumann-Straße 60, 04155 Leipzig",
                 "telephone": null,
                 "opening_hours": "Mo-Fr 07:00-18:00, Sa 10:00-20:00, Su 10:00-18:00",
-                "details_url": "http://www.testcenter-sachsen.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "PCR-Test: nein",
-                    "Termin-Webseite: www.testcenter-sachsen.de"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -1036,7 +1078,7 @@
                 "title": "Testzentrum am Gesundheitszentrum Großzschocher",
                 "location": "Gerhard-Ellrodt-Straße 19, 04249 Leipzig",
                 "telephone": null,
-                "opening_hours": "Mo-Fr 07:00-20:00, Sa 10:00-20:00, Su 14:00-20:00",
+                "opening_hours": "Mo-Fr 07:00-19:00, Sa 10:00-19:00, Su 14:00-19:00",
                 "details_url": "https://apo-schnelltest.de/testzentrum-leipzig-2",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
@@ -1101,10 +1143,12 @@
                 "location": "Grassistraße 13, 04107 Leipzig",
                 "telephone": "0341/68416978",
                 "opening_hours": "Mo-Fr 15:00-20:00, Sa 09:00-14:00",
+                "details_url": "http://www.testcenter-sachsen.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "Termin über: Internet",
-                    "PCR-Test: nein"
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.testcenter-sachsen.de"
                 ]
             },
             "geometry": {
@@ -1580,6 +1624,26 @@
         }, {
             "type": "Feature",
             "properties": {
+                "title": "MEDIAN ambulantes Gesund-heitszentrum Leipzig GmbH",
+                "location": "Käthe-Kollwitz-Straße 6, 04109 Leipzig",
+                "telephone": null,
+                "opening_hours": "Mo-Fr 13:00-18:00, Sa 07:30-14:00",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Zugang nicht über Haupteingang, bitte auf Beschilderung achten"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.368082618916592,
+                    51.34159333675767
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
                 "title": "Testzentrum Westplatz",
                 "location": "Käthe-Kollwitz-Straße 37, 04109 Leipzig",
                 "telephone": null,
@@ -1783,7 +1847,7 @@
                 "details_url": "http://www.testcenter-sachsen.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "PCR-Test: ja",
+                    "PCR-Test: nein",
                     "Termin-Webseite: www.testcenter-sachsen.de"
                 ]
             },
@@ -2009,6 +2073,47 @@
                 "coordinates": [
                     12.373095897996436,
                     51.347059030135995
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "Testzentrum Lößniger Str.",
+                "location": "Lößniger Straße 2, 04275 Leipzig",
+                "telephone": "0177/3268456",
+                "opening_hours": "Mo-Fr 07:00-11:00, Mo-Fr 14:00-19:00, Sa 10:00-14:00, Su 14:00-19:00",
+                "details_url": "mailto:info@lirwys-gmbh.de",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-E-Mail: info@lirwys-gmbh.de"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.380649235648304,
+                    51.32592158054956
+                ]
+            }
+        }, {
+            "type": "Feature",
+            "properties": {
+                "title": "BestOfTestzentrum",
+                "location": "Ludwig-Erhard-Straße/Ranftsche Gasse 14, 04103 Leipzig",
+                "telephone": "0157/35155017",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa-Su 10:00-18:00",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "feiertags 10:00-18:00"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.396178000433185,
+                    51.342921000557546
                 ]
             }
         }, {
@@ -3395,7 +3500,7 @@
             "properties": {
                 "title": "Corona Schnelltestzentrum der S.I.A. Dienstleistungen Wintergartenstraße",
                 "location": "Wintergartenstraße Ecke Schüzenstraße, 04103 Leipzig",
-                "telephone": "0173/1981114",
+                "telephone": null,
                 "opening_hours": "Mo-Fr 08:00-19:00, Sa 10:00-18:00, Su 11:00-19:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
@@ -3417,7 +3522,7 @@
                 "title": "Testcenter Leipzig",
                 "location": "Zschochersche Straße 57, 04229 Leipzig",
                 "telephone": "0163/6864948",
-                "opening_hours": "Mo-Fr 08:00-20:00, Sa 09:00-21:00, Su 10:00-18:00",
+                "opening_hours": "Mo-Sa 08:00-20:00, Su 12:00-20:00",
                 "details_url": "http://www.testcenterleipzig.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
