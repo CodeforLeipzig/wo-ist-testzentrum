@@ -9,11 +9,12 @@
     },
     "metadata": {
         "data_source": {
-            "title": "Stadt Leipzig, Stand: 25.02.2022",
+            "title": "Stadt Leipzig, Stand: 05.03.2022",
             "url": "https://www.leipzig.de/jugend-familie-und-soziales/gesundheit/neuartiges-coronavirus-2019-n-cov/testzentrum/"
         }
     },
-    "features": [{
+    "features": [
+        {
             "type": "Feature",
             "properties": {
                 "title": "Schnelltest Drive In Alte Messe",
@@ -35,7 +36,8 @@
                     51.31920467414417
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "SC DHfK Leipzig e. V.",
@@ -54,16 +56,17 @@
                     51.35140017017556
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Hirsch Apotheke",
                 "location": "An der Kotsche 1A",
                 "telephone": "0341/9422222",
-                "opening_hours": "Mo-Fr 08:00-12:00, Mo-Fr 14:00-18:00, Sa 10:00-12:00, Su 10:00-16:00",
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa 10:00-12:00, Su 10:00-16:00",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "PCR-Test: nein"
+                    "PCR-Test: ja"
                 ]
             },
             "geometry": {
@@ -73,7 +76,8 @@
                     51.30835116765898
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "MEIN CORONA SCHNELLTEST - Sachsenpark",
@@ -94,7 +98,8 @@
                     51.401119141801516
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Park-Apotheke",
@@ -115,7 +120,30 @@
                     51.319442677018245
                 ]
             }
-        }, {
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Bürgertestcenter Leipzig  Zentrum Augustusplatz",
+                "location": "Augustusplatz 1, 04109 Leipzig",
+                "telephone": null,
+                "details_url": "http://www.buergertestcenter-leipzig.de",
+                "opening_hours": "Mo-Su 08:00-22:00",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "Termin-Webseite: www.buergertestcenter-leipzig.de",
+                    "PCR-Test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.382622163681253,
+                    51.33937915411067
+                ]
+            }
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Kopfzentrum Thomaskirchhof",
@@ -137,7 +165,8 @@
                     51.33815945957995
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "CovidZentrum im Gewandhaus",
@@ -159,19 +188,18 @@
                     51.33806614502307
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Chocolate",
                 "location": "Barfußgäßchen 12, 04109 Leipzig",
                 "telephone": "0341/35585040",
                 "opening_hours": "Mo-Sa 08:00-12:00",
-                "details_url": "mailto:schachundmatt@tnc-group.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "PCR-Test: nein",
-                    "Lollitest möglich",
-                    "Termin-E-Mail: schachundmatt@tnc-group.de"
+                    "Lollitest möglich"
                 ]
             },
             "geometry": {
@@ -181,7 +209,8 @@
                     51.34105010449063
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "VIVOCHECK Leipzig",
@@ -203,7 +232,8 @@
                     51.34105010449063
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Scheffel-Apotheke",
@@ -226,7 +256,8 @@
                     51.35471850034181
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "BestOfTestzentrum Bayrischer Platz",
@@ -246,7 +277,8 @@
                     51.330277997973454
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Vierseithof-Leipzig B77",
@@ -269,18 +301,17 @@
                     51.357642896182284
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Corona Teststation Bornaische Straße 13",
                 "location": "Bornaische Straße 13, 04277 Leipzig",
                 "telephone": null,
                 "opening_hours": "Mo-Fr 08:00-18:00",
-                "details_url": "mailto:coronatest-bornaische13@gmx.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "PCR-Test: nein",
-                    "Termin-E-Mail: coronatest-bornaische13@gmx.de"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -290,7 +321,8 @@
                     51.308504218894754
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Luisen-Apotheke",
@@ -313,7 +345,8 @@
                     51.30679192015831
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Mobile Teststelle",
@@ -324,7 +357,6 @@
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "PCR-Test: nein",
-                    "Termin-E-Mail: info@mbg-leipzig.de",
                     "Termin-Webseite: www.corona-schnelltestzentrum-leipzig.com"
                 ]
             },
@@ -335,7 +367,8 @@
                     51.368194211525
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "OBI Testcenter am Hauptbahnhof",
@@ -357,7 +390,8 @@
                     51.34818015511162
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Ergotherapie Ergolife",
@@ -369,7 +403,6 @@
                     "Terminvereinbarung notwendig: nein",
                     "Termin über: Telefon+E-Mail",
                     "Termin-Webseite: www.ergotherapie-ergolife.de",
-                    "Termin-E-Mail: info@ergotherapie-ergolife.de",
                     "PCR-Test: nein",
                     "Terminvereinbarung außerhalb der Öffnungszeiten per E-Mail oder Telefon möglich"
                 ]
@@ -381,7 +414,8 @@
                     51.33624481850807
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Beauty & Body Lounge",
@@ -403,39 +437,40 @@
                     51.371658720876916
                 ]
             }
-            }, {
-                "type": "Feature",
-                "properties": {
-                    "title": "Teststelle Spielhalle \"del Ray\" Stötteritz",
-                    "location": "Breslauer Straße 1, 04299 Leipzig",
-                    "telephone": "0341/4622673",
-                    "opening_hours": "Mo-Su 08:00-20:00",
-                    "hints": [
-                        "Terminvereinbarung notwendig: nein",
-                        "Termin über: Telefon",
-                        "PCR-Test: nein"
-                    ]
-                },
-                "geometry": {
-                    "type": "Point",
-                    "coordinates": [
-                        12.414737307021076,
-                        51.32386467057168
-                    ]
-                }
-        }, {
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Teststelle Spielhalle \"del Ray\" Stötteritz",
+                "location": "Breslauer Straße 1, 04299 Leipzig",
+                "telephone": "0341/4622673",
+                "opening_hours": "Mo-Su 08:00-20:00",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "Termin über: Telefon",
+                    "PCR-Test: nein"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.414737307021076,
+                    51.32386467057168
+                ]
+            }
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Schleußig",
                 "location": "Brockhausstraße 49, 04229 Leipzig",
                 "telephone": "0151/61104989",
-                "opening_hours": "Mo-Fr 08:00-13:00, Mo-Fr 16:00-20:00, Sa-Su 10:00-18:00",
+                "opening_hours": "Mo-Fr 08:00-20:00, Sa-Su 10:00-18:00",
                 "details_url": "http://www.testzentrum-schleussig.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "PCR-Test: nein",
-                    "Termin-Webseite: www.testzentrum-schleussig.de",
-                    "Lollitest für Kleinkinder"
+                    "Termin-Webseite: www.testzentrum-schleussig.de"
                 ]
             },
             "geometry": {
@@ -445,7 +480,8 @@
                     51.32124510591927
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Hof-Apotheke - Höfe am Brühl",
@@ -468,7 +504,8 @@
                     51.343280211352315
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Mein Corona Schnelltest \"Höfe am Brühl\"",
@@ -489,29 +526,8 @@
                     51.343280211352315
                 ]
             }
-        }, {
-            "type": "Feature",
-            "properties": {
-                "title": "Testzentrum EFG Brühl 67",
-                "location": "Brühl 67, 04109 Leipzig",
-                "telephone": "0341/97854237",
-                "opening_hours": "Mo-Fr 08:00-13:00, 14:00-19:00, Sa 09:00-19:00, Su 09:00-18:00",
-                "details_url": "https://www.testzentrum-efg.de",
-                "hints": [
-                    "Terminvereinbarung notwendig: nein",
-                    "Termin-Webseite: www.testzentrum-efg.de",
-                    "feiertags: 09:00-18:00",
-                    "PCR-Test: nein"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [
-                    12.379986391701388,
-                    51.342300502058414
-                ]
-            }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Eisenbahnstraße",
@@ -520,10 +536,10 @@
                 "opening_hours": "Mo-Th 08:00-18:00, Fr-Sa 08:00-20:00, Su 08:00-16:00",
                 "details_url": "https://testor.app/booking/location/utgxLwVNEb4rKWRAf1pT",
                 "hints": [
-                    "Terminvereinbarung notwendig: ja",
+                    "Terminvereinbarung notwendig: nein",
                     "Termin-Webseite: testor.app/booking/location/utgxLwVNEb4rKWRAf1pT",
                     "PCR-Test: nein",
-                    "Homepage: www.eisenbahnstrasse-testzentrum.com"
+                    "Homepage: www.eisenbahnstrasse-testzentrum.de"
                 ]
             },
             "geometry": {
@@ -533,7 +549,8 @@
                     51.34637299858291
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Mobile Teststelle Demmler",
@@ -553,7 +570,8 @@
                     51.30226197687269
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Humanitas-Apotheke Leipzig",
@@ -572,7 +590,8 @@
                     51.367054204311046
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Von Kopf bis Fuß",
@@ -594,7 +613,8 @@
                     51.36706193992096
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Station Konsum",
@@ -615,7 +635,25 @@
                     51.368126062832374
                 ]
             }
-        }, {
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Testzentrum Wiederitzsch",
+                "location": "Delitzscher Landstraße 54, 04158 Leipzig",
+                "telephone": null,
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa 09:00-16:00, Su 10:00-16:00",
+                "hints": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.374668507321756,
+                    51.3933720628737
+                ]
+            }
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Apotheke am Sanct Georg",
@@ -637,7 +675,8 @@
                     51.382921876840186
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "McMedi Apotheke Testzentrum in der Kletterhalle NOLIMIT",
@@ -658,7 +697,8 @@
                     51.35635999469075
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "AB Testzentrum",
@@ -677,7 +717,8 @@
                     51.35918262000581
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Bürgertestzentrum am Rabensteinplatz",
@@ -700,7 +741,8 @@
                     51.338386704760204
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Apotheke Reudnitz",
@@ -721,7 +763,8 @@
                     51.33947363096166
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum im Kulturhof Gohlis",
@@ -731,7 +774,6 @@
                 "details_url": "http://www.kulturhof-gohlis.de/coronatest",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
-                    "Termin-E-Mail: coronatest@kulturhof-gohlis.de",
                     "Termin-Webseite: www.kulturhof-gohlis.de/coronatest",
                     "PCR-Test: ja"
                 ]
@@ -743,7 +785,8 @@
                     51.36226900314161
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Praxis für Physiowelt",
@@ -764,7 +807,8 @@
                     51.34567062509576
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "International Test",
@@ -783,7 +827,8 @@
                     51.34533589071012
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Corona Testzentrum Aliu",
@@ -802,7 +847,8 @@
                     51.39254652257201
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Corona Testzentrum Khan",
@@ -821,7 +867,8 @@
                     51.368488996337334
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "TEAMBRENNER Personalkonzept GmbH",
@@ -841,7 +888,8 @@
                     51.33341043954659
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Kopfzentrum Leipzig",
@@ -863,7 +911,8 @@
                     51.31686753911813
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Covid-19",
@@ -882,7 +931,8 @@
                     51.300458379005
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Naturheilpraxis Ilka Buchta",
@@ -904,7 +954,8 @@
                     51.296706940158124
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "hbCosmetics qualifizierte Teststelle",
@@ -925,7 +976,8 @@
                     51.34540253677247
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Wilhelm-Tell-Apotheke",
@@ -945,7 +997,8 @@
                     51.36285229763982
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Gohlis GSS",
@@ -957,8 +1010,7 @@
                     "Terminvereinbarung notwendig: nein",
                     "Termin über: Telefon+Internet",
                     "PCR-Test: nein",
-                    "Termin-Webseite: www.terminland.eu/testzentrumgohlis/",
-                    "Terminvereinbarung über Tel. 0177 6369312 oder online"
+                    "Termin-Webseite: www.terminland.eu/testzentrumgohlis/"
                 ]
             },
             "geometry": {
@@ -968,7 +1020,8 @@
                     51.35887769908257
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Staubsauger-Center Leipzig",
@@ -990,7 +1043,8 @@
                     51.36879247564751
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Leipzig Wahren",
@@ -1012,7 +1066,8 @@
                     51.3733023737094
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Covid-19",
@@ -1031,7 +1086,8 @@
                     51.36195293465087
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Kopfzentrum Wahren",
@@ -1053,7 +1109,8 @@
                     51.37445014183254
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Das Corona Schnelltestzentrum Georg-Schumann-Str.",
@@ -1072,7 +1129,8 @@
                     51.363262521636145
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum am Gesundheitszentrum Großzschocher",
@@ -1094,7 +1152,8 @@
                     51.2997241786599
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Lux-Apotheke",
@@ -1116,7 +1175,8 @@
                     51.35633534884002
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Corona-Schnelltestzentrum der S.I.A. Dienstleistungen",
@@ -1136,7 +1196,8 @@
                     51.35668499656966
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Teststation Konsum",
@@ -1158,7 +1219,8 @@
                     51.330454333328966
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Stadt Apotheke Leipzig",
@@ -1180,7 +1242,8 @@
                     51.33978958217449
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Tattoo-Lounge",
@@ -1199,7 +1262,8 @@
                     51.34229017664993
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testcenter im Pentahotel",
@@ -1220,7 +1284,8 @@
                     51.340792419490455
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Familienmedizinisches Zentrum Radowsky",
@@ -1243,7 +1308,8 @@
                     51.32313719665254
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum CCL",
@@ -1264,7 +1330,8 @@
                     51.34568284942542
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Privatpraxis für Kinder- und Jugendmedizin Dr. med. habil. Sabine Hussack",
@@ -1285,7 +1352,8 @@
                     51.34177181324629
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Corona Schnelltestzentrum Sachsen Park",
@@ -1307,7 +1375,8 @@
                     51.40086899924133
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Gesundheitspraxis Cornelia Lindner",
@@ -1327,7 +1396,8 @@
                     51.35013012743235
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "FAMA-Aktiv GmbH/Physiotherapie",
@@ -1350,7 +1420,8 @@
                     51.32959494150736
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Corona Testzentrum Ditib",
@@ -1372,7 +1443,30 @@
                     51.34494347778628
                 ]
             }
-        }, {
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Bürgertestcenter Leipzig Schleußig",
+                "location": "Holbeinstraße 29, 04229 Leipzig",
+                "telephone": null,
+                "opening_hours": "Mo-Su 10:00-18:00",
+                "details_url": "http://www.buergertestcenter-leipzig.de",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.buergertestcenter-leipzig.de"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.34072421529248,
+                    51.32518139914937
+                ]
+            }
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Corona Testzentrum Reudnitz",
@@ -1392,7 +1486,8 @@
                     51.328812000858356
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Corona Testzentrum",
@@ -1411,7 +1506,8 @@
                     51.319654035234485
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Arnika-Apotheke",
@@ -1431,7 +1527,8 @@
                     51.319490844881926
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "BestOfTestzentrum Huygensplatz",
@@ -1451,7 +1548,8 @@
                     51.366241999077914
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Leipzig I",
@@ -1472,7 +1570,8 @@
                     51.33694191718583
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "DeinTestzentrum.de/Testzentrum Felsenkeller",
@@ -1495,7 +1594,8 @@
                     51.33253620252425
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "DX Testzentrum",
@@ -1516,7 +1616,8 @@
                     51.331493565641935
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Lipsia Apotheke im Westwerk",
@@ -1538,7 +1639,8 @@
                     51.330606831670046
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Corona Schnelltestzentrum Karli",
@@ -1557,7 +1659,8 @@
                     51.315128481370124
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum am Kreuz",
@@ -1578,7 +1681,25 @@
                     51.310922343561366
                 ]
             }
-        }, {
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Testzentrum Karl-Liebknecht-Straße",
+                "location": "Karl-Liebknecht-Straße 47, 04107 Leipzig",
+                "telephone": null,
+                "opening_hours": "Mo-Fr 08:00-18:00, Sa 09:00-16:00, Su 10:00-16:00",
+                "hints": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.373952179767189,
+                    51.32639942786127
+                ]
+            }
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Sonnen-Apotheke",
@@ -1600,7 +1721,8 @@
                     51.32511840655457
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Leipzig Süd",
@@ -1621,7 +1743,8 @@
                     51.32283390539536
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "MEDIAN ambulantes Gesund-heitszentrum Leipzig GmbH",
@@ -1641,7 +1764,8 @@
                     51.34159333675767
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Westplatz",
@@ -1656,11 +1780,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                12.363739804606071,
-                51.33875654848667
+                    12.363739804606071,
+                    51.33875654848667
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Kopfzentrum Leipzig",
@@ -1682,29 +1807,31 @@
                     51.3352586219372
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Kieler Straße 34",
                 "location": "Kieler Straße 34, 04357 Leipzig",
                 "telephone": "0341/6995212",
                 "opening_hours": "Mo-Su 09:00-20:00",
-				"details_url": "http://www.deintest.info",
+                "details_url": "http://www.deintest.info",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "Termin über: telephone",
                     "PCR-Test: nein",
-					"Termin-Webseite: www.deintest.info"
+                    "Termin-Webseite: www.deintest.info"
                 ]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                12.420409904172447,
-                51.376740488263245
+                    12.420409904172447,
+                    51.376740488263245
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Friseur-Salon Jeanette Siegert-Schönfisch",
@@ -1724,13 +1851,14 @@
                     51.37543215339601
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Schultheiß Augenoptik & Hörgeräte e. Kfr.",
                 "location": "Kieler Straße 53, 04357 Leipzig",
                 "telephone": "0341/6014373",
-				"opening_hours_unclassified": "Terminbuchung per Whatsapp 0177/5013819 oder www.termine24.asego.de/?KalenderID=4f50e3d5-1731-4471-a884-2c14aaca0ab3",
+                "opening_hours_unclassified": "Terminbuchung per Whatsapp 0177/5013819 oder www.termine24.asego.de/?KalenderID=4f50e3d5-1731-4471-a884-2c14aaca0ab3",
                 "opening_hours": null,
                 "details_url": "https://www.augenoptik-hörgeräte.de",
                 "hints": [
@@ -1739,7 +1867,7 @@
                     "Termin über: Telefon+Internet",
                     "Termin-Webseite: www.augenoptik-hörgeräte.de",
                     "PCR-Test: ja",
-					"Lolli-/Spucktest möglich"
+                    "Lolli-/Spucktest möglich"
                 ]
             },
             "geometry": {
@@ -1749,7 +1877,8 @@
                     51.375388066922426
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Zebra-Apotheke",
@@ -1762,7 +1891,7 @@
                     "Termin über: Internet",
                     "PCR-Test: nein",
                     "Termine sind online buchbar.",
-					"Lolli-/Spucktest möglich"
+                    "Lolli-/Spucktest möglich"
                 ]
             },
             "geometry": {
@@ -1772,21 +1901,20 @@
                     51.32360052510429
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Riele Personaldienstleistung GmbH",
                 "location": "Kirschbergstraße 26, 04159 Leipzig",
                 "telephone": "0341/5623269",
                 "opening_hours": "Mo-Fr 08:30-16:30",
-                "details_url": "mailto:roesner@riele-gmbh.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "Termin über: Telefon+Internet",
-                    "Termin-E-Mail: roesner@riele-gmbh.de",
                     "PCR-Test: ja",
                     "Weitere Termine, auch samstags, sind nach vorheriger Absprache möglich",
-					"Spucktest auf Anfrage"
+                    "Spucktest auf Anfrage"
                 ]
             },
             "geometry": {
@@ -1796,7 +1924,8 @@
                     51.36559238689519
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "ConnTest - Covid-19 Testzentrum Connewitz",
@@ -1808,7 +1937,7 @@
                     "Terminvereinbarung notwendig: nein",
                     "PCR-Test: ja",
                     "Termin-Webseite: conntest.probatix.de/de/pick-slot",
-					"Lollitest möglich"
+                    "Lollitest möglich"
                 ]
             },
             "geometry": {
@@ -1818,7 +1947,8 @@
                     51.30258178661254
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Biodynamische Praxen Südvorstadt",
@@ -1837,7 +1967,8 @@
                     51.320961179328144
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Teststation Distillery",
@@ -1858,20 +1989,19 @@
                     51.3210026762176
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Schnelltest Lagerhof",
                 "location": "Lagerhofstraße 2, 04103 Leipzig",
                 "telephone": "0151/29112649",
                 "opening_hours": "Mo-Fr 08:00-18:00, Sa 09:00-16:00",
-                "details_url": "http://www.corona-testen-leipzig.de",
+                "details_url": "https://app.no-q.info/testzentrum-lagerhof/checkins#/4548/2022-01-19",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "PCR-Test: nein",
-                    "Termin-E-Mail: lagerhof@corona-testen-leipzig.de",
-                    "Termin-Webseite: www.corona-testen-leipzig.de",
-                    "https://app.no-q.info/testzentrum-lagerhof/checkins#/4548/2022-01-19"
+                    "Termin-Webseite: https://app.no-q.info/testzentrum-lagerhof/checkins#/4548/2022-01-19"
                 ]
             },
             "geometry": {
@@ -1881,7 +2011,8 @@
                     51.34676456680727
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Kopfzentrum Leipzig",
@@ -1903,7 +2034,8 @@
                     51.36795469418793
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "be.safe Gohlis Park",
@@ -1924,7 +2056,8 @@
                     51.375814319939636
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "GesundheitsWerkstatt",
@@ -1938,7 +2071,7 @@
                     "Termin über: Internet",
                     "Termin-Webseite: www.schnelltestboehlitz.de",
                     "PCR-Test: ja",
-					"Lolli-Test möglich"
+                    "Lolli-Test möglich"
                 ]
             },
             "geometry": {
@@ -1948,7 +2081,8 @@
                     51.3598138709365
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Das Lädchen für Schönheit und Gesundheit",
@@ -1968,7 +2102,8 @@
                     51.359703691679826
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Gesundheitssportverein Leipzig",
@@ -1991,7 +2126,8 @@
                     51.34214529734726
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Coronaschnelltestzentrum Thekla",
@@ -2010,7 +2146,8 @@
                     51.37756035024223
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Corona-Testambulanz Universitätsklinikum Leipzig",
@@ -2032,7 +2169,8 @@
                     51.3313602881519
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "be.safe Lindenauer Markt",
@@ -2053,19 +2191,18 @@
                     51.33724376421373
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum We love Waxing",
                 "location": "Löhrstraße 21, 04105 Leipzig",
                 "telephone": "0341/97438891",
                 "opening_hours": "Mo-Sa 10:00-18:00",
-                "details_url": "mailto:hallo@waxing-leipzig.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "Termin über: Telefon, E-Mail, Internet",
-                    "PCR-Test: nein",
-                    "Termin-E-Mail: hallo@waxing-leipzig.de"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2075,18 +2212,17 @@
                     51.347059030135995
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Lößniger Str.",
                 "location": "Lößniger Straße 2, 04275 Leipzig",
                 "telephone": "0177/3268456",
                 "opening_hours": "Mo-Fr 07:00-11:00, Mo-Fr 14:00-19:00, Sa 10:00-14:00, Su 14:00-19:00",
-                "details_url": "mailto:info@lirwys-gmbh.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
-                    "PCR-Test: nein",
-                    "Termin-E-Mail: info@lirwys-gmbh.de"
+                    "PCR-Test: nein"
                 ]
             },
             "geometry": {
@@ -2096,7 +2232,8 @@
                     51.32592158054956
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "BestOfTestzentrum",
@@ -2116,7 +2253,8 @@
                     51.342921000557546
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Domos Apotheke",
@@ -2126,7 +2264,7 @@
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "PCR-Test: nein",
-					"Lollitest auf Anfrage"
+                    "Lollitest auf Anfrage"
                 ]
             },
             "geometry": {
@@ -2136,7 +2274,8 @@
                     51.32159153465364
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "DeinTestzentrum.de / Testzentrum Allee Center",
@@ -2148,7 +2287,7 @@
                     "Terminvereinbarung notwendig: nein",
                     "Termin-Webseite: www.deintestzentrum.de",
                     "PCR-Test: nein",
-					"Lollitest möglich"
+                    "Lollitest möglich"
                 ]
             },
             "geometry": {
@@ -2158,7 +2297,8 @@
                     51.32059530906059
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Lindenau",
@@ -2173,7 +2313,7 @@
                     "Termin-E-Mail: testzentrumlindenau@gmail.com",
                     "Termin-Webseite: www.testzentrum-lindenau.de",
                     "Lolli-/Spucktest möglich",
-					"PCR-Abnahmen Mo.-Fr. bis 16:00 Uhr, Sa.-So. bis 10:45 Uhr werden am gleichen Tag im Labor analysiert"
+                    "PCR-Abnahmen Mo.-Fr. bis 16:00 Uhr, Sa.-So. bis 10:45 Uhr werden am gleichen Tag im Labor analysiert"
                 ]
             },
             "geometry": {
@@ -2183,7 +2323,8 @@
                     51.33452538961369
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Merkur Apotheke",
@@ -2205,7 +2346,8 @@
                     51.33042783249298
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Therapiezentrum Spengler GmbH",
@@ -2225,7 +2367,8 @@
                     51.330284915123464
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Medici-Apotheke",
@@ -2247,7 +2390,8 @@
                     51.33176785719573
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "BE.SAFE Leipzig Gohlis Arkaden",
@@ -2268,7 +2412,8 @@
                     51.36170724472282
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Dr. med. Gerold Kotman",
@@ -2290,7 +2435,8 @@
                     51.33744475294379
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Königshauspassage Leipzig",
@@ -2309,7 +2455,8 @@
                     51.339831487864494
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "ASB-Teststation \"Am Sonnenpark\"",
@@ -2330,28 +2477,30 @@
                     51.299739977722304
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Corona Testzentrum Gohlis Nord",
                 "location": "Max-Liebermann-Straße 83, 04157 Leipzig",
                 "telephone": "0341/22373882",
                 "opening_hours": "Mo-Fr 07:00-20:00, Sa-Su 10:00-18:00",
-				"details_url": "http://www.testzentrum.gohlis-nord.de/",
+                "details_url": "http://www.testzentrum.gohlis-nord.de/",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "PCR-Test: ja",
-					"Termin-Webseite: www.testzentrum.gohlis-nord.de/"
+                    "Termin-Webseite: www.testzentrum.gohlis-nord.de/"
                 ]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                12.371485646737064,
-                51.37627846049304
+                    12.371485646737064,
+                    51.37627846049304
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Bürgertestcenter Leipzig Leutzsch",
@@ -2364,7 +2513,7 @@
                     "Termin über: Internet",
                     "Termin-Webseite: www.buergertestcenter-leipzig.de",
                     "PCR-Test: nein",
-					"Spucktest möglich"
+                    "Spucktest möglich"
                 ]
             },
             "geometry": {
@@ -2374,7 +2523,8 @@
                     51.34192541524178
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Apotheke im Löwencenter",
@@ -2393,7 +2543,8 @@
                     51.34761641703089
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Apotheke Mockauer Post",
@@ -2409,7 +2560,8 @@
                     51.37481507518274
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Apotheke Liebertwolkwitz",
@@ -2432,7 +2584,8 @@
                     51.28262101334376
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum am Poco",
@@ -2449,11 +2602,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                12.33297300414464,
-                51.326778004463506
+                    12.33297300414464,
+                    51.326778004463506
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Robert-Koch-Klinikum",
@@ -2475,7 +2629,8 @@
                     51.31780353612203
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Leipzig Mitte",
@@ -2496,7 +2651,8 @@
                     51.34163007883665
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Kopfzentrum Leipzig",
@@ -2518,7 +2674,8 @@
                     51.332059338379324
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Stötteritz",
@@ -2539,7 +2696,8 @@
                     51.32440000153558
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Mein Corona Schnelltest \"Paunsdorf Center\"",
@@ -2561,7 +2719,8 @@
                     51.348560642791035
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Nagelstudio Mayfair",
@@ -2569,13 +2728,13 @@
                 "telephone": "0176/84170602",
                 "opening_hours_unclassified": "Mo-Fr nach Vereinbarung",
                 "opening_hours": null,
-				"details_url": "mailto:nwoltschleger@web.de",
+                "details_url": "mailto:nwoltschleger@web.de",
                 "hints": [
                     "Terminvereinbarung notwendig: ja",
                     "Termin über: Telefon",
                     "PCR-Test: nein",
-					"Lollitest möglich",
-					"Termin-E-Mail: nwoltschleger@web.de"
+                    "Lollitest möglich",
+                    "Termin-E-Mail: nwoltschleger@web.de"
                 ]
             },
             "geometry": {
@@ -2585,7 +2744,8 @@
                     51.35828022261633
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Petersbogen-Apotheke",
@@ -2606,7 +2766,8 @@
                     51.33784664515958
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Kommunales Testzentrum Petersbogen",
@@ -2629,7 +2790,8 @@
                     51.33784664515958
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Schnelltest Zoo Leipzig",
@@ -2642,7 +2804,7 @@
                     "Termin über: Internet",
                     "Termin-Webseite: www.buergertest-leipzig.de",
                     "PCR-Test: nein",
-					"Höhe Godwanaland"
+                    "Höhe Godwanaland"
                 ]
             },
             "geometry": {
@@ -2652,7 +2814,8 @@
                     51.34833619003954
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Teststelle Porsche Tor 1",
@@ -2671,7 +2834,8 @@
                     51.40991977468113
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Poststraße",
@@ -2691,7 +2855,8 @@
                     51.4133980058508
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testeinrichtung Prager Straße",
@@ -2713,7 +2878,8 @@
                     51.32140776745123
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Dein Covid Schnelltestzentrum Leipzig",
@@ -2728,11 +2894,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                12.427340005243504,
-                51.3461560011491
+                    12.427340005243504,
+                    51.3461560011491
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Biodynamische Praxen Zentrum",
@@ -2751,7 +2918,8 @@
                     51.343751329595506
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "MVO-Coronatestzentrum Leipzig",
@@ -2772,7 +2940,8 @@
                     51.34278834694205
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Corona Testzentrum Paunsdorf",
@@ -2795,7 +2964,25 @@
                     51.34524930800544
                 ]
             }
-        }, {
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Corona Testzentrum Aliu",
+                "location": "Rosenowstraße 30, 04357 Leipzig",
+                "telephone": null,
+                "opening_hours": "Mo-Sa 08:00-18:00, Su 08:00-16:00",
+                "hints": []
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.401274222915164,
+                    51.376437388554855
+                ]
+            }
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Jung in Gohlis - Ihr Friseur",
@@ -2806,7 +2993,7 @@
                     "Terminvereinbarung notwendig: ja",
                     "Termin über: Telefon",
                     "PCR-Test: nein",
-					"Lollitest für Kinder"
+                    "Lollitest für Kinder"
                 ]
             },
             "geometry": {
@@ -2816,7 +3003,8 @@
                     51.37004411301409
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Kopfzentrum Leipzig",
@@ -2836,7 +3024,8 @@
                     51.31977426289857
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Therapiezentrum Spengler GmbH",
@@ -2856,7 +3045,8 @@
                     51.34658055885585
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Corona Testzentrum Eishaus Mockau",
@@ -2875,7 +3065,8 @@
                     51.36406013867866
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Corona Testzentrum Dr. Henke MTE",
@@ -2897,7 +3088,8 @@
                     51.347668529067114
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Schlehen-Apotheke",
@@ -2920,7 +3112,8 @@
                     51.36589796326528
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Apotheke Holzhausen",
@@ -2944,7 +3137,8 @@
                     51.307633433264705
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Apotheke Holzhausen",
@@ -2961,11 +3155,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                12.408991846420696,
-                51.325728658047375
+                    12.408991846420696,
+                    51.325728658047375
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Kopfzentrum Leipzig",
@@ -2987,7 +3182,8 @@
                     51.31628713362446
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Coronatestzentrum am HIT Markt",
@@ -3004,11 +3200,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                12.399635496339128,
-                51.31904265984366
+                    12.399635496339128,
+                    51.31904265984366
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Bürgertestzentrum Park-Klinikum Leipzig",
@@ -3030,7 +3227,8 @@
                     51.30788600791431
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Heilpraktikerin Katja Nitzsche",
@@ -3051,7 +3249,8 @@
                     51.305500072267186
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Grünau",
@@ -3072,7 +3271,8 @@
                     51.31405217054345
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "RB Russisch Brot Markt",
@@ -3094,7 +3294,8 @@
                     51.31813332335101
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Leipzig-Portitz",
@@ -3111,11 +3312,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                12.450962888416507,
-                51.383297498108696
+                    12.450962888416507,
+                    51.383297498108696
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Praxis für Physiotherapie Lindner/Perl",
@@ -3135,7 +3337,8 @@
                     51.379561273728555
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Corona Lab Testzentrum",
@@ -3156,7 +3359,30 @@
                     51.379561273728555
                 ]
             }
-        }, {
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Bürgertestcenter Eutritzsch",
+                "location": "Theresienstraße 16, 04129 Leipzig",
+                "telephone": null,
+                "opening_hours": "Mo-Su 10:00-18:00",
+                "details_url": "http://www.buergertestcenter-leipzig.de",
+                "hints": [
+                    "Terminvereinbarung notwendig: nein",
+                    "PCR-Test: nein",
+                    "Termin-Webseite: www.buergertestcenter-leipzig.de"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.382700755121173,
+                    51.35978827412675
+                ]
+            }
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Podologie am Stünz",
@@ -3177,7 +3403,8 @@
                     51.33620772599844
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Das CoronaSchnelltest-Zentrum",
@@ -3197,7 +3424,8 @@
                     51.345695516019056
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Wasserturm GmbH",
@@ -3216,7 +3444,8 @@
                     51.35769281799374
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "LBW Aus- und Fortbildungsgesellschaft mbH",
@@ -3229,7 +3458,7 @@
                     "Termin über: Telefon+E-Mail",
                     "Termin-E-Mail: info@lbw-leipzig.de",
                     "PCR-Test: nein",
-					"Spucktest möglich"
+                    "Spucktest möglich"
                 ]
             },
             "geometry": {
@@ -3239,7 +3468,8 @@
                     51.34752401118904
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Station Konsum_Trinitatisplatz",
@@ -3260,7 +3490,8 @@
                     51.3371719976042
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "AKZYTE Corona Schnelltestzentrum",
@@ -3270,17 +3501,18 @@
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "PCR-Test: nein",
-					"Lollitest möglich"
+                    "Lollitest möglich"
                 ]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                12.37226838628383,
-                51.34488550362791
+                    12.37226838628383,
+                    51.34488550362791
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Santa Cruz (Bar&Restaurant)",
@@ -3305,7 +3537,8 @@
                     51.33112841247363
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Schnelltestzentrum Permoser Eck",
@@ -3320,11 +3553,12 @@
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                12.422657029180089,
-                51.352210188278576
+                    12.422657029180089,
+                    51.352210188278576
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Das Corona Schnelltestzentrum",
@@ -3346,7 +3580,8 @@
                     51.342343999011995
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testeinrichtung Waldstraße",
@@ -3368,7 +3603,8 @@
                     51.34529699878995
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Kopfzentrum Leipzig",
@@ -3390,7 +3626,8 @@
                     51.3467741555123
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Teststation \"Bike-In\" am Wilhelm-Leuschner-Platz",
@@ -3411,7 +3648,8 @@
                     51.334835996351956
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Apotheke im Hauptbahnhof",
@@ -3433,18 +3671,20 @@
                     51.34440892876788
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "DeinTestzentrum.de / Testzentrum Hauptbahnhof Leipzig",
                 "location": "Willy-Brandt-Platz 5, 04109 Leipzig",
                 "telephone": null,
-                "opening_hours": "Mo-Th 08:00-18:00, Fr-Sa 08:00-20:00",
+                "opening_hours": "Mo-Fr 07:00-20:00, Sa 08:00-20:00, Su 09:00-20:00",
                 "details_url": "https://www.deintestzentrum.de",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "Termin-Webseite: www.deintestzentrum.de",
-                    "PCR-Test: ja"
+                    "PCR-Test: ja",
+                    "PCR-Tests am Samstag bis 16:00 Uhr, Sonntag keine PCR-Tests möglich"
                 ]
             },
             "geometry": {
@@ -3454,7 +3694,8 @@
                     51.34440892876788
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Fernbus-Terminal",
@@ -3473,29 +3714,30 @@
                     51.34398140217413
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum am Adler",
                 "location": "Windorfer Straße 6, 04229 Leipzig",
                 "telephone": "0152/04158147",
                 "opening_hours": "Mo-Su 08:00-19:00",
-				"details_url": "https://corona-testen-leipzig.de/termin-buchen/",
+                "details_url": "https://app.no-q.info/testzentrum-am-adler/checkins#/6546/2022-01-19",
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "PCR-Test: nein",
-					"Termin-Webseite: corona-testen-leipzig.de/termin-buchen/",
-                    "https://app.no-q.info/testzentrum-am-adler/checkins#/6546/2022-01-19"
+                    "Termin-Webseite: https://app.no-q.info/testzentrum-am-adler/checkins#/6546/2022-01-19"
                 ]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                12.330091998076554,
-                51.31998500027355
+                    12.330091998076554,
+                    51.31998500027355
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Corona Schnelltestzentrum der S.I.A. Dienstleistungen Wintergartenstraße",
@@ -3505,18 +3747,18 @@
                 "hints": [
                     "Terminvereinbarung notwendig: nein",
                     "PCR-Test: ja",
-					"feiertags: 11:00-19:00",
-                    "mail: siadienst@web.de"
+                    "feiertags: 11:00-19:00"
                 ]
             },
             "geometry": {
                 "type": "Point",
                 "coordinates": [
-                12.385962005666896,
-                51.343349996358505
+                    12.385962005666896,
+                    51.343349996358505
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Testcenter Leipzig",
@@ -3538,7 +3780,8 @@
                     51.32035207250301
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Generation of Hope e.V",
@@ -3560,7 +3803,8 @@
                     51.37322301058574
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Astoria Testzentrum",
@@ -3582,7 +3826,8 @@
                     51.335540635039216
                 ]
             }
-        }, {
+        },
+        {
             "type": "Feature",
             "properties": {
                 "title": "Teststation Moritzhof",
