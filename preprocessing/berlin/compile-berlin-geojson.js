@@ -140,6 +140,14 @@ const convertToGeoJson = (node) => {
         json.geometry.coordinates[0] = 13.3667143;
         json.geometry.coordinates[1] = 52.5500701;
     }
+    if ("Coronatest Frankfurter Tor" === json.properties.title) {
+        json.geometry.coordinates[0] = 13.4537479;
+        json.geometry.coordinates[1] = 52.5162617;
+    }
+    if ("Testzentrum im ALEXA" === json.properties.title) {
+        json.geometry.coordinates[0] = 13.4123749;
+        json.geometry.coordinates[1] = 52.519849;
+    }
     return json;
 };
 
