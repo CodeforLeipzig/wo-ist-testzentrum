@@ -13,7 +13,7 @@
           "url": "https://www.lemgo.de/"
         }
     },    
-    "features": [{
+    "features": [
           {
             "type": "Feature",
             "properties": {
@@ -29,7 +29,7 @@
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [52.02149799891668, 8.881217557675543]
+                "coordinates": [8.881217557675543, 52.02149799891668]
             }
         }                 
     ]
