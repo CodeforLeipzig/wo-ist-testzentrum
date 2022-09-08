@@ -9,21 +9,23 @@
     },
     "metadata": {
         "data_source": {
-          "title": "Stadt Lemgo (Daten per Mail zur Verfügung gestellt)",
-          "url": "https://www.lemgo.de/index.php?id=233"
+          "title": "Gemeinde Kalletal (Daten per Mail zur Verfügung gestellt)",
+          "url": "https://testzentrum-kalletal.de/"
         }
-    },
+    },    
     "features": [{
             "type": "Feature",
             "properties": {
                 "title": "Testzentrum Bürgertestungen",
                 "location": "Herforder Straße 11, 32689 Kalletal",
                 "telephone": "05264 64 44 16",
-                "opening_hours": "Mo-Tu 09:30-12:00, Mo-Tu 15:00-18:00, We 15:00-18:00, Th-Fr 09:30-12:00, Th-Fr 15:00-18:00, Sa 09:00-14:00",
-                "details_url": "https://testzentrum-kalletal.de",
-                "hints": [ 
-                    "Die Webseite des Testzentrums finden Sie unter: https://testzentrum-kalletal.de" 
-                ]
+                "opening_hours": "Mo 09:30-12:30, Fr 9:30-12:30",
+				"details_url": "https://testzentrum-kalletal.de/",
+                "hints": [
+					"Die Webseite des Testzentrums finden Sie unter: : https://testzentrum-kalletal.de",
+					"!! Wir machen vom 01.09.2022 bis 30.09.2022 Urlaub !!",
+					"Während dieser Zeit ist unser Testzentrum geschlossen."
+				]
             },
             "geometry": {
                 "type": "Point",
