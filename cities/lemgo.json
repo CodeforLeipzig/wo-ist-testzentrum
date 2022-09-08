@@ -10,162 +10,27 @@
     "metadata": {
         "data_source": {
           "title": "Stadt Lemgo (Daten per Mail zur Verfügung gestellt)",
-          "url": "https://www.lemgo.de/index.php?id=233"
+          "url": "https://www.lemgo.de/"
         }
-    },
+    },    
     "features": [{
+          {
             "type": "Feature",
             "properties": {
-                "title": "DRK-Testzentrum Lemgo",
-                "location": "Pagenhelle 17, 32657 Lemgo",
+                "title": "DRK KV Lippe e.V.",
+                "location": "Lagesche Str. 83, 32657 Lemgo",
                 "telephone": "",
-                "opening_hours": "Mo-We 08:00-18:00, Th-Fr 08:00-20:00, Sa-Su 09:00-15:00",
-                "details_url": "https://testzentren-lippe.de/",
+                "opening_hours": "Mo-Do 08:00-16:00, Fr 08:00-13:00",
+                "details_url": "https://testzentren-lippe.de/de/",
                 "hints": [
-                    "Bitte Terminbuchung unter https://testzentren-lippe.de/ bei Drive-In",
-                    "An Feiertagen können die Öffnungszeiten abweichen."
+                    "Wir dürfen in unseren Testzentren nur symptomfreie Personen testen!",
+					          "Personen mit Symptomen wie Fieber, Hals- und Kopfschmerzen, Schnupfen etc. wenden sich bitte an ihren Hausarzt oder außerhalb dessen Sprechzeiten an den ärztlichen Notdienst unter 116117! Testzentren-Hotline: 05231/45781-11 (Erreichbarkeit: Montag - Donnerstag 8:00 - 16:00 Uhr, Freitag 8:00 - 13:00 Uhr)"
                 ]
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [8.914350774943511, 52.02451108213105]
+                "coordinates": [52.02149799891668, 8.881217557675543]
             }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Leopold-Apotheke",
-                "location": "Leopoldstraße 2+4, 32657 Lemgo",
-                "telephone": "05261 94 46 0",
-                "opening_hours": "Mo-Fr 08:00-18:00, Sa 8:00-12:45",
-                "details_url": "https://app.no-q.info/vitalhaus-leopold-apotheke/checkins#/992/2021-04-01",
-                "hints": [
-                    "Neue Öffnungszeiten seit dem 09.08.2021",
-                    "Terminbuchung: https://app.no-q.info/vitalhaus-leopold-apotheke/checkins#/992/2021-04-01"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [8.901101872628397, 52.03019436099653]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "HNO-Praxis Henneken/Sassenberg",
-                "location": "Lagesche Straße 9-13, 32657 Lemgo",
-                "telephone": "05261 49 60",
-                "opening_hours": "Mo 07:00-11:00, Mo 14:30-18:00, Tu 07:00-11:00, We-Fr 07:00-11:00, We-Fr 14:30-18:00, Sa-Su 08:00-13:00",
-                "hints": [
-                    "Bitte telefonisch einen Termin vereinbaren."
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [8.893383953177741, 52.02269729626669]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Internistische Fachpraxis Pohl",
-                "location": "Klingenberg 18, 32657 Lemgo",
-                "telephone": "05261 97 00 54",
-                "opening_hours": "Mo-Fr 07:30-13:00, Mo-Tu 14:30-18:00, Th 14:30-18:00",
-                "hints": []
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [8.894176198179748, 52.02750167030814]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Medicum-Apotheke am Klinikum",
-                "location": "Rintelner Straße 83, 32657 Lemgo",
-                "telephone": "05261/21 70 70 0",
-                "opening_hours": "Mo-Fr 08:00-18:30, Sa 09:00-12:00",
-                "details_url": "https://app.no-q.info/medicum-apotheke-lemgo/checkins#/1119/2021-04-01",
-                "hints": [
-                    "Geänderte Öffnungszeiten seit dem 09.08.2021",
-                    "Terminbuchung: https://app.no-q.info/medicum-apotheke-lemgo/checkins#/1119/2021-04-01"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [8.902047223623894, 52.03815375159844]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "TV Lemgo von 1863 e.V.",
-                "location": "Pideritstraße 17a, 32657 Lemgo",
-                "telephone": "05261 / 2170820",
-                "opening_hours": "Mo-Fr 08:00-12:00, Mo-Fr 16:00-20:00, Sa 09:00-16:00, Su 09:00-13:00",
-                "hints": [
-					"Neue Öffnungszeiten seit dem 09.08.2021"
-				]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [8.90290531157668, 52.03189024271477]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "mobile Teststelle DRK, vor der Sparkasse",
-                "location": "Mittelstraße 73-79, 32657 Lemgo",
-                "telephone": "",
-                "opening_hours": "Mo-Th 08:00-16:00, Fr 10:00-18:00, Sa 09:00-15:00",
-                "details_url": "https://www.testzentren-lippe.de/",
-                "hints": [
-                    "Geänderte Öffnungszeiten seit dem 09.08.2021",
-                    "Bitte Terminbuchung unter www.testzentren-lippe.de",
-                    "An Feiertagen können die Öffnungszeiten abweichen.",
-					"Sonntags nicht geöffnet."
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [8.89959126892583, 52.02845258649937]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "TRIGUS UG, Mobiles Testzentrum am REWE-Parkplatz",
-                "location": "Steinweg 66, 32657 Lemgo",
-                "telephone": "",
-                "opening_hours": "Mo-Sa 09:00-19:00, Su 10:00-14:00",
-                "details_url": "https://www.trigus.de/",
-                "hints": [
-                    "Terminbuchung: www.trigus.de"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [8.888883252802726, 52.023363828760374]
-            }
-        },
-        {
-            "type": "Feature",
-            "properties": {
-                "title": "Lippe Reha GmbH & Co. KG",
-                "location": "Lagesche Str. 15g, 32657 Lemgo",
-                "telephone": "",
-                "opening_hours": "Mo-Fr 07:30-18:30, Sa-Su 08:00-13:00",
-                "details_url": "https://www.lippe-reha.de/",
-                "hints": [
-                    "Bitte mit Online-Terminbuchung unter www.lippe-reha.de"
-                ]
-            },
-            "geometry": {
-                "type": "Point",
-                "coordinates": [8.892452525552082, 52.022513341214434]
-            }
-        }
+        }                 
     ]
 }
