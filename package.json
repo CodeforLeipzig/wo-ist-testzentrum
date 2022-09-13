@@ -6,7 +6,7 @@
     "colors": "^1.4.0",
     "dayjs": "^1.11.5",
     "i18next-client": "^1.11.5",
-    "jasmine": "^4.3.0",
+    "jasmine": "^4.4.0",
     "jshint": "^2.13.5",
     "opening_hours": "^3.8.0"
   },
