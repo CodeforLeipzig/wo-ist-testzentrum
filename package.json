@@ -7,7 +7,7 @@
     "dayjs": "^1.11.6",
     "i18next-client": "^1.11.5",
     "jasmine": "^4.5.0",
-    "jshint": "^2.13.5",
+    "jshint": "^2.13.6",
     "opening_hours": "^3.8.0"
   },
   "repository": {
