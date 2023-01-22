@@ -9,27 +9,73 @@
     },
     "metadata": {
         "data_source": {
-          "title": "Gemeinde Kalletal (Daten per Mail zur Verfügung gestellt)",
+          "title": "Stadt Lemgo (Daten per Mail zur Verfügung gestellt)",
           "url": "https://testzentrum-kalletal.de/"
         }
-    },    
+    },
     "features": [{
             "type": "Feature",
             "properties": {
-                "title": "Testzentrum Bürgertestungen",
+                "title": "Testzentrum Bürgertestung",
                 "location": "Herforder Straße 11, 32689 Kalletal",
-                "telephone": "05264 64 44 16",
-                "opening_hours": "Mo 09:30-12:30, Fr 9:30-12:30",
-				"details_url": "https://testzentrum-kalletal.de/",
-                "hints": [
-					"Die Webseite des Testzentrums finden Sie unter: : https://testzentrum-kalletal.de",
-					"!! Wir machen vom 01.09.2022 bis 30.09.2022 Urlaub !!",
-					"Während dieser Zeit ist unser Testzentrum geschlossen."
-				]
+                "telephone": "05264 92 29",
+                "opening_hours": "Mo 10:30-11:30, Fr 10:30-11:30",
+                "details_url": "https://testzentrum-kalletal.de/.",
+                "hints": []
             },
             "geometry": {
                 "type": "Point",
-                "coordinates": [8.94654524319121, 52.107759217584494]
+                "coordinates": [8.946577556106046, 52.10784658919938]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Bentorfer Teststelle Lena Heinrichs",
+                "location": "Bentorfer Str. 65, 32689 Kalletal",
+                "telephone": "05264 28 25 7 25 oder 0152 53 76 83 99",
+                "opening_hours_unclassified": "Flexible Terminbereinbarung",
+                "opening_hours": null,
+                "details_url": "",
+                "hints": [
+                    "Flexible Terminbereinbarung"
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.91486947145015, 52.13604829943036]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Testzentrum Brosen Jasmin Kliewer",
+                "location": "Flurweg 2b, 32689 Kalletal",
+                "telephone": "0160 99 45 37 98",
+                "opening_hours_unclassified": "Flexible Terminbereinbarung",
+                "opening_hours": null,
+                "hints": [
+                    "Terminbuchung unter https://testzentrum-brosen.de/."
+                ]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.959304371448983, 52.09607884701467]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "title": "Corona-Teststelle Langenholzhausen - QUOplus GmbH",
+                "location": "Hauptstraße 22, 32689 Kalletal",
+                "telephone": "05264 655 8084",
+                "opening_hours_unclassified": "Flexible Terminbereinbarung",
+                "opening_hours": null,
+                "hints": ["E-Mail: test@quoplus.de"]
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [8.894176198179748, 52.02750167030814]
             }
         }
     ]
