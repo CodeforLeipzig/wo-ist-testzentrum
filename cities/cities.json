@@ -11,17 +11,9 @@
         "id": "halle",
         "label": "Halle (Saale)"
     },
-    "kalletal": {
-        "id": "kalletal",
-        "label": "Kalletal"
-    },
     "leipzig": {
         "id": "leipzig",
         "label": "Leipzig"
-    },
-    "lemgo": {
-        "id": "lemgo",
-        "label": "Lemgo"
     },
     "hessen": {
         "id": "hessen",
